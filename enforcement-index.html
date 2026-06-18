@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The filter PDPC removed — every enforcement case, by obligation</title>
+  <meta name="description" content="The whole public PDPC enforcement record, categorised by the obligation breached — the filter PDPC's own site does not offer. Across 384 actions over 2015–2026, the Access Obligation has zero breach findings.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#headline">Skip to content</a>
+
+  <header class="sitenav" id="top">
+    <nav class="sitenav__inner" aria-label="Section navigation">
+      <a class="sitenav__brand" href="index.html">← PDPA / PDPC Grievance</a>
+      <ul class="sitenav__links">
+        <li><a href="#headline">Overview</a></li>
+        <li><a href="#breakdown">By obligation</a></li>
+        <li><a href="#browse">Browse all</a></li>
+        <li><a href="#spotlight">Access spotlight</a></li>
+        <li><a href="#method">Method</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- ===== Overview / headline ===== -->
+    <section id="headline" class="section hook" aria-labelledby="headline-h">
+      <div class="container container--wide">
+        <p class="eyebrow">The filter PDPC removed</p>
+        <h1 id="headline-h">Every PDPC enforcement case, sorted by the obligation breached.</h1>
+        <p class="lede">
+          PDPC’s own enforcement-decisions page lets you filter only by Type, Year and Sort —
+          not by <em>which obligation</em> a case was about. So the pattern stays hidden. Here is
+          the same public record, rebuilt with the one filter that matters.
+        </p>
+
+        <div class="stat-band" aria-label="Headline figures">
+          <div class="stat">
+            <span class="stat__num" data-stat="total">384</span>
+            <span class="stat__lbl">enforcement actions analysed</span>
+          </div>
+          <div class="stat">
+            <span class="stat__num" data-stat="years">2015–2026</span>
+            <span class="stat__lbl">years covered</span>
+          </div>
+          <div class="stat stat--accent">
+            <span class="stat__num" data-stat="accessBreaches">0</span>
+            <span class="stat__lbl">breach findings for the Access Obligation</span>
+          </div>
+        </div>
+        <p class="meta" data-stat="caption">
+          Source: PDPC’s public enforcement-decisions register. Each row below links to PDPC’s own
+          page — no documents are re-hosted here.
+        </p>
+      </div>
+    </section>
+
+    <!-- ===== By obligation ===== -->
+    <section id="breakdown" class="section" aria-labelledby="breakdown-h">
+      <div class="container container--wide">
+        <p class="eyebrow">Adjudicated breach findings, by obligation</p>
+        <h2 id="breakdown-h">Where PDPC has found breaches — and where it never has</h2>
+        <p>
+          Counts below are <strong>breach findings in Commission’s Decisions</strong> (the
+          register’s adjudicated outcomes). One decision can cite more than one obligation.
+          Voluntary Undertakings are remediation accepted in lieu of a finding and are counted
+          separately in the table further down.
+        </p>
+        <div id="bars" class="bars" role="img" aria-label="Bar chart of breach findings per obligation">
+          <p class="meta">Enable JavaScript to load the live breakdown from the data file.</p>
+        </div>
+        <p class="meta" id="bars-note"></p>
+      </div>
+    </section>
+
+    <!-- ===== Browse all ===== -->
+    <section id="browse" class="section" aria-labelledby="browse-h">
+      <div class="container container--wide">
+        <p class="eyebrow">The whole register, filterable</p>
+        <h2 id="browse-h">Browse every case by obligation</h2>
+
+        <div class="filters" role="group" aria-label="Filter the enforcement register">
+          <label class="filter">
+            <span class="filter__lbl">Obligation</span>
+            <select id="f-obligation"><option value="">All obligations</option></select>
+          </label>
+          <label class="filter">
+            <span class="filter__lbl">Type</span>
+            <select id="f-type">
+              <option value="">All types</option>
+              <option value="Commission's Decision">Commission’s Decision</option>
+              <option value="Voluntary Undertaking">Voluntary Undertaking</option>
+            </select>
+          </label>
+          <label class="filter">
+            <span class="filter__lbl">Finding</span>
+            <select id="f-finding">
+              <option value="">All findings</option>
+              <option value="breach">Breach found</option>
+              <option value="no breach">No breach</option>
+              <option value="undertaking">Undertaking</option>
+              <option value="review">Review application</option>
+            </select>
+          </label>
+          <label class="filter">
+            <span class="filter__lbl">Year</span>
+            <select id="f-year"><option value="">All years</option></select>
+          </label>
+          <label class="filter filter--grow">
+            <span class="filter__lbl">Search title</span>
+            <input id="f-search" type="search" placeholder="e.g. MCST, condominium, hotel…" autocomplete="off">
+          </label>
+          <button type="button" class="btn" id="f-reset">Reset</button>
+        </div>
+
+        <p class="meta" id="result-count" aria-live="polite"></p>
+
+        <div class="ix-table-wrap">
+          <table class="ix-table" id="ix-table">
+            <thead>
+              <tr>
+                <th scope="col">Case</th>
+                <th scope="col">Type</th>
+                <th scope="col">Obligation(s)</th>
+                <th scope="col">Finding</th>
+                <th scope="col">Year</th>
+                <th scope="col">Source</th>
+              </tr>
+            </thead>
+            <tbody id="ix-body">
+              <tr><td colspan="6" class="ix-empty">Loading the register… (requires JavaScript)</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Access spotlight ===== -->
+    <section id="spotlight" class="section" aria-labelledby="spotlight-h">
+      <div class="container container--wide">
+        <p class="eyebrow">The point of all this</p>
+        <h2 id="spotlight-h">In the entire public record, the Access Obligation has never been breached</h2>
+        <p>
+          Filter the table above to the Access Obligation and you will find no breach finding —
+          not one, across <span data-stat="years">2015–2026</span>. Every case that touches the
+          Access Obligation ended in the organisation’s favour or never reached a finding:
+        </p>
+        <ul class="plain-list" id="access-list">
+          <li>The only adjudicated Access decision is a <strong>“No Breach”</strong> finding.</li>
+        </ul>
+        <aside class="callout">
+          <h3 class="callout__title">Why this matters for my case</h3>
+          <p>
+            When a regulator has never once held that an organisation breached your right to
+            <em>access your own data</em>, the right is effectively unenforced. That is the gap
+            documented on the main page — the refusal of my own CCTV footage, the deletion that
+            followed, and the regulator’s decision not to find fault.
+          </p>
+          <p class="source-link"><a href="index.html#transparency">See: “You cannot search PDPC’s decisions by breach type”</a></p>
+          <p class="source-link"><a href="index.html#failures">See: the eight documented failures</a></p>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ===== Method ===== -->
+    <section id="method" class="section" aria-labelledby="method-h">
+      <div class="container container--wide">
+        <p class="eyebrow">How this was built</p>
+        <h2 id="method-h">Method &amp; limitations</h2>
+        <p>
+          The register was compiled from PDPC’s public enforcement-decisions listing. For each
+          case, the obligation is taken from <strong>PDPC’s own decision title</strong>, which
+          names the obligation(s) at issue — the authoritative source. The full text of every
+          decision was also scanned for any reference to a breach of the Access Obligation
+          (section 21); that count is zero.
+        </p>
+        <ul class="plain-list">
+          <li><strong>Commission’s Decisions</strong> are categorised by the obligation named in the title.</li>
+          <li><strong>Voluntary Undertakings</strong> are remediation agreements in which PDPC makes
+            no breach finding, so they are shown as “Not adjudicated” unless the document itself
+            names an obligation; many arose from data-breach incidents.</li>
+          <li>A small number of older cases have no machine-readable date and show “—” for the year.</li>
+          <li>Nothing here is re-hosted: every row links to PDPC’s own page so you can verify it.</li>
+        </ul>
+        <p class="source-link"><a href="https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions" target="_blank" rel="noopener">PDPC enforcement-decisions register</a></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="sitefoot" id="contact">
+    <div class="container">
+      <p class="eyebrow">A note on this page</p>
+      <blockquote class="disclaimer">
+        “I am willing to be corrected, and I do not insist that I must be right.”
+      </blockquote>
+      <p>
+        This index is a documented analysis of the public record. If any case is mis-categorised,
+        tell me and I will correct it — the data is generated from a script and every row is
+        traceable to PDPC’s own page.
+      </p>
+      <p class="meta">
+        Scope: this is strictly the PDPC / PDPA grievance. Sources are linked throughout; the
+        underlying register is public.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/main.js" defer></script>
+  <script src="js/enforcement-index.js" defer></script>
+</body>
+</html>

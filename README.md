@@ -12,12 +12,38 @@ legal / data-protection community (secondary).
 Single-page site plus a set of recreated source pages:
 
 - `index.html` — the main page
+- `enforcement-index.html` — every case in PDPC's public enforcement register, filterable by obligation (the filter PDPC removed)
+- `data/rulings.json` — generated dataset backing the enforcement index (384 records)
+- `tools/build-rulings-data.py` — one-off script that regenerates `data/rulings.json` from the public catalogue
 - `css/style.css` — styles
 - `js/main.js` — collapsibles, smooth scroll, scrollspy
+- `js/enforcement-index.js` — loads `data/rulings.json`, renders bars and the filterable register
 - `evidence/` — the author's own documents, recreated as readable web pages
 
 Official documents (the PDPA, PDPC advisory guidelines, and the two PDPC decisions) are linked
-to their authoritative pages on the AGC and PDPC websites rather than reproduced here.
+to their authoritative pages on the AGC and PDPC websites rather than reproduced here. The
+enforcement index likewise links every row to PDPC's own detail page — no documents are re-hosted.
+
+## Rebuilding the enforcement dataset
+
+The enforcement index is backed by `data/rulings.json`, generated from the public PDPC catalogue.
+The source catalogue and downloaded PDFs live outside this repo (in
+`PDPC Rulings/Other Rulings/`). To regenerate the dataset:
+
+```
+python3 tools/build-rulings-data.py "/path/to/PDPC Rulings/Other Rulings"
+```
+
+The script writes `data/rulings.json` and prints a build report covering:
+
+- Counts of breach findings per obligation (Decisions + undertakings)
+- Every case tagged with the Access Obligation
+- The headline scan: any access-obligation breach assertion anywhere in the register
+  (expected: **0**)
+- Rows flagged for manual review (typically zero for the Decisions; Undertakings are
+  categorised as "Not adjudicated" because PDPC makes no breach finding on them)
+
+The report's "review" rows are the only ones a reader should manually confirm.
 
 ## Running locally
 
