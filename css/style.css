@@ -443,3 +443,107 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   .ix-table-wrap { overflow: visible; }
   .ix-src { display: none; }
 }
+
+/* ============================================================
+   "Seven Contradictions" section (index.html#contradictions)
+   ============================================================ */
+
+/* --- Section hero (reuses .eyebrow + .lede) --- */
+.cd-hero { margin: 0 0 var(--sp-5); }
+.cd-hero__statement {
+  font-family: var(--serif); font-weight: 700;
+  font-size: var(--fs-xl); line-height: 1.25; color: var(--accent);
+  max-width: 38ch; margin: 0 0 var(--sp-4);
+}
+@media (max-width: 720px) { .cd-hero__statement { font-size: var(--fs-lg); } }
+
+/* --- In-page TOC (one row per contradiction) --- */
+.cd-toc {
+  list-style: none; margin: 0 0 var(--sp-6); padding: 0;
+  display: grid; gap: var(--sp-1);
+  border-top: 1px solid var(--rule);
+  padding-top: var(--sp-4);
+}
+.cd-toc li { display: flex; gap: var(--sp-3); align-items: baseline; }
+.cd-toc__num { font-family: var(--sans); font-weight: 700; color: var(--accent); min-width: 1.6em; }
+.cd-toc a { font-family: var(--sans); font-size: var(--fs-sm); text-decoration: none; color: var(--ink-soft); }
+.cd-toc a:hover { color: var(--navy); text-decoration: underline; }
+
+/* --- Card container --- */
+.cd-list { display: grid; gap: var(--sp-5); margin: 0; padding: 0; list-style: none; }
+.cd-card {
+  background: var(--paper-raised);
+  border: 1px solid var(--rule-strong);
+  border-top: 3px solid var(--accent);
+}
+.cd-card__head {
+  padding: var(--sp-4) var(--sp-5);
+  border-bottom: 1px solid var(--rule);
+  display: grid; grid-template-columns: auto 1fr; align-items: baseline; gap: var(--sp-3);
+}
+.cd-card__num { font-family: var(--sans); font-weight: 700; color: var(--accent); font-size: var(--fs-md); }
+.cd-card__title { font-family: var(--serif); font-weight: 700; font-size: var(--fs-md); margin: 0; }
+
+/* --- 4-column grid (1 column below 720px) --- */
+.cd-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--sp-3);
+  padding: var(--sp-4) var(--sp-5);
+}
+@media (min-width: 960px) {
+  .cd-grid { grid-template-columns: repeat(4, 1fr); gap: var(--sp-4); }
+}
+.cd-col {
+  border: 1px solid var(--rule);
+  padding: var(--sp-4);
+  display: flex; flex-direction: column; gap: var(--sp-2);
+}
+.cd-col__lbl {
+  font-family: var(--sans); font-size: var(--fs-xs);
+  text-transform: uppercase; letter-spacing: 0.08em;
+  font-weight: 600; color: var(--ink-soft);
+  display: block;
+}
+.cd-col p { margin: 0; max-width: none; }
+.cd-col blockquote { margin: 0; padding: 0; font-family: var(--serif); color: var(--ink); font-size: var(--fs-base); }
+.cd-col--guideline { background: var(--panel-grey); }
+.cd-col--decision { background: var(--accent-soft); border-left: 3px solid var(--accent); }
+.cd-col--response { border-style: dashed; font-style: italic; }
+.cd-col--response .cd-col__missing {
+  display: block; color: var(--accent); font-weight: 700; font-style: normal;
+  font-family: var(--sans); font-size: var(--fs-xs); margin-top: var(--sp-2);
+  text-transform: uppercase; letter-spacing: 0.06em;
+}
+
+/* --- Card footer (source-reference line) --- */
+.cd-card__foot {
+  padding: var(--sp-3) var(--sp-5);
+  border-top: 1px solid var(--rule);
+  font-family: var(--sans); font-size: var(--fs-sm); color: var(--muted);
+}
+.cd-card__foot a { color: var(--navy); }
+
+/* --- Footnotes block (at end of section) --- */
+.cd-fn-list {
+  list-style: decimal; margin: var(--sp-5) 0 0; padding-left: var(--sp-5);
+  font-family: var(--sans); font-size: var(--fs-sm); color: var(--ink-soft);
+}
+.cd-fn-list li { margin-bottom: var(--sp-3); max-width: var(--measure); }
+.cd-fn-list sup a { color: var(--navy); text-decoration: none; }
+.cd-fn { color: var(--navy); text-decoration: none; }
+
+/* --- Section-level bridge (small link between sections) --- */
+.cd-bridge { font-family: var(--sans); font-size: var(--fs-sm); color: var(--ink-soft); margin-top: var(--sp-5); }
+
+/* --- Print --- */
+@media print {
+  .cd-toc, .cd-card__foot, .cd-card__num { color: #000; }
+  .cd-card, .cd-col { break-inside: avoid; border-color: #999; }
+  .cd-grid { display: block; padding: 0; }
+  .cd-col { margin-bottom: 6pt; }
+  .cd-col--guideline, .cd-col--decision, .cd-col--response {
+    background: #fff; border-color: #999; border-left-color: #999; font-style: normal;
+  }
+  .cd-fn::after { content: " (p. " attr(data-page) ")"; }
+}
