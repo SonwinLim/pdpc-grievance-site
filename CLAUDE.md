@@ -270,7 +270,7 @@ A sub-project of the case folder. A deployed public site presenting the Complain
 - **GitHub repo:** https://github.com/SonwinLim/pdpc-grievance-site
 - **Design spec:** `docs/superpowers/specs/2026-06-17-pdpc-grievance-site-design.md`
 - **All deliverables (specs, plans, extracts):** `docs/superpowers/plans/` and `docs/superpowers/specs/`
-- **Hosting:** GitHub Pages with custom domain **pdpaaccessrights.sg** (registered and live as of 2026-06-21).
+- **Hosting:** GitHub Pages with custom domain **pdpaaccessrights.sg** (live).
 
 ### Site structure (15 sections, current order as of 2026-06-21)
 
@@ -291,6 +291,20 @@ A sub-project of the case folder. A deployed public site presenting the Complain
 15. `#evidence` — source-documents index
 
 Plus an auxiliary page: `enforcement-index.html` — filter-by-obligation matrix over PDPC's 374 published enforcement actions.
+
+### Recent changes (2026-06-21 session)
+
+- **Entry gate overlay** added: full-screen Parliamentary assurance vs PDPC findings, every visit. Minister Teo's verbatim Written Answer 19596 side-by-side with PDPC's no-breach findings.
+- **`#reform` section rewritten:** 4 themed legislative asks (deletion loophole, identifiability, non-statutory grounds, independent oversight) + 2 question groups. Lead ask and question flagged.
+- **`#promise` section added:** Written Answer 19596 reproduced in full as an official-record centrepiece. Three-guarantee juxtaposition against this case. Canonical home for the verbatim Q&A.
+- **Voice:** explanatory narration converted to third person ("the Complainant") throughout. Hero/testimony and verbatim quotes remain first person. Street View section aligned.
+- **Pre-MP review pass:** timeline corrected (MP appeals May–Jun 2024; decisions issued privately; IMDA IAU Aug 2025 entry). §5.1(b) mis-citation removed. Security-guard statements attributed. Street View tightened.
+- **Masking "money shot" figure** in `#why`: PDPC's own Advisory Guidelines page 42 (para 4.59: blurred/pixelated images still identifiable) embedded with verbatim quote, refuting the invented clarity test.
+- **Shared-CEO references** updated: acknowledge CEO/Commissioner separation (Apr 2026); former Deputy Commissioner promoted to Commissioner.
+- **Case reference numbers** (GCW) and criminal references removed from site narration.
+- **Nav:** wraps to two rows on desktop, collapses to single scrollable row on mobile.
+- **Emails drafted** to MP Zhulkarnain and IMDA/PDPC leadership.
+- **Style:** 17 straight apostrophes in evidence subpages converted to curly. 0 straight quotes or em-dashes site-wide.
 
 ### Recent changes (2026-06-19 session)
 
@@ -315,10 +329,11 @@ Plus an auxiliary page: `enforcement-index.html` — filter-by-obligation matrix
 - **#why section** expanded under "enforcer became damager": clarity test systemic implications added
 - **New `#story` section** inserted between `#summary` and `#cases` (commits `0626bae`, `a7b4fb7`): 5-act top-down synthesis giving readers the single explanatory framework before detailed evidence. Lede opens with traumatic brain injury context — subarachnoid haemorrhage, all memory lost — foregrounding that the footage was needed to understand what happened to him personally, not only for legal proceedings. Five parts: (1) what the Complainant needed, (2) what both condos did and why they weren't acting recklessly, (3) what PDPC did — invented reasoning, clarity test, nine identical non-answers, withheld decisions, declared closed, (4) zero s.21 breach findings across 384 cases — clarity test explains it, (5) the only parsimonious explanation: de facto policy of non-enforcement implemented through the clarity test. Closes with parliamentary callout: "if the Access Obligation has produced zero breach findings across over a decade of PDPC enforcement, is the obligation being enforced at all?"
 
-### Pending (awaiting primary-source evidence)
+### Pending
 
-- **"Institutional direction" callout** — pattern of decisions (invented reasoning, uniform one-line responses, sign-off at Deputy Commissioner level, matter declared closed after President's Office escalation) suggests institutional rather than investigator-level direction. **Blocked on:** Ray to download all PDPC correspondence emails into a folder for review. Look for: (1) emails signed by/referencing Deputy Commissioner Wong Huiwen Denise; (2) timing inconsistencies suggesting IMDA notified PDPC of the complaint before it should have. Once primary-source quotes found, add callout to `#process` or `#narrative`.
-- **pdpafailed.sg domain** — selected name, not yet registered. Once live, migrate from GitHub Pages to Cloudflare Pages.
+- **Institutional direction callout** — BLOCKED on Ray downloading PDPC correspondence emails. See handoff for details.
+- **Stray duplicate PNGs** — `pdpc-masking-42.png` and `pdpc-masking-p41-41.png` in repo root (duplicates of `evidence/` copies). Untracked, not deployed. Delete to tidy.
+- **Send drafted emails** — WhatsApp to MP Zhulkarnain + email to IMDA/PDPC leadership, both drafted and ready.
 
 ### Site-specific design rules (apply in addition to the 12 above)
 
