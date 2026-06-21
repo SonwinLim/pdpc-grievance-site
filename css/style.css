@@ -295,8 +295,9 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 @media (max-width: 720px) {
   :root { --fs-2xl: 2.0rem; --fs-xl: 1.55rem; --sp-8: 3rem; --sp-7: 2.25rem; }
   .container { padding-inline: var(--sp-4); }
-  .sitenav__inner { gap: var(--sp-3); padding-inline: var(--sp-4); }
+  .sitenav__inner { gap: var(--sp-3); padding-inline: var(--sp-4); padding-block: var(--sp-1); }
   .sitenav__brand { font-size: var(--fs-xs); }
+  .sitenav__links { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; }
   .btn { display: block; text-align: center; }
   .btn + .btn { margin-left: 0; margin-top: var(--sp-3); }
 }
