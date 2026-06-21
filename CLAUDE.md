@@ -270,7 +270,7 @@ A sub-project of the case folder. A deployed public site presenting the Complain
 - **GitHub repo:** https://github.com/SonwinLim/pdpc-grievance-site
 - **Design spec:** `docs/superpowers/specs/2026-06-17-pdpc-grievance-site-design.md`
 - **All deliverables (specs, plans, extracts):** `docs/superpowers/plans/` and `docs/superpowers/specs/`
-- **Hosting:** GitHub Pages (current). Considering migration to Cloudflare Pages with a custom domain. **pdpafailed.sg** is the selected domain name (not yet registered as of 2026-06-20).
+- **Hosting:** GitHub Pages with custom domain **pdpaaccessrights.sg** (registered and live as of 2026-06-21).
 
 ### Site structure (14 sections, current order as of 2026-06-20)
 
@@ -332,7 +332,7 @@ Plus an auxiliary page: `enforcement-index.html` — filter-by-obligation matrix
 #### Style rules
 
 - **Curly quotes throughout** (no straight ASCII `"` or `'` in any visible text).
-- **Em-dashes only in headers** (eyebrows, H1–H3, card titles, sub-headings). Body prose uses commas, periods, parentheses — no `—`.
+- **No em-dashes anywhere.** Use commas, periods, parentheses, or colons instead. En-dashes for numeric ranges are OK.
 - **En-dashes for numeric ranges** are OK in body (e.g. "20–30 days"). This is the one body-prose dash exception.
 - **Tone:** documentary, factual, willing-to-be-corrected. No "cover-up" word in body prose (use "documented pattern" instead). No "gaslight" or adversarial framing unless explicitly approved by Ray.
 - **No fabricated quotes.** Every quote must come from a verifiable source. If in doubt, leave it out or paraphrase with a clear "[paraphrased]" marker.
@@ -381,7 +381,7 @@ const puppeteer = require('puppeteer');
 
 ### Failure numbering convention
 
-- **12 failures**, accordion layout (failures #1–8 original; #9–12 added 2026-06-19).
+- **14 failures**, accordion layout (failures #1–8 original; #9–12 added 2026-06-19; #13–14 added 2026-06-20).
 - Failure titles must NOT use em-dashes in body prose (header-only exception applies to titles that act as headers).
 - Failure bodies are paragraphs, no `<h4>` etc. — keep it flat.
 
