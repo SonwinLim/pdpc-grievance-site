@@ -546,3 +546,44 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   }
   .cd-fn::after { content: " (p. " attr(data-page) ")"; }
 }
+
+/* --- The promise (parliamentary assurance centrepiece) --- */
+.promise-doc {
+  background: var(--paper-raised); border: 1px solid var(--rule-strong);
+  border-left: 4px solid var(--navy); padding: var(--sp-5);
+  margin: var(--sp-6) 0;
+}
+.promise-doc__ref {
+  font-family: var(--sans); font-size: var(--fs-xs); text-transform: uppercase;
+  letter-spacing: 0.1em; font-weight: 600; color: var(--navy);
+  margin: 0 0 var(--sp-4); padding-bottom: var(--sp-3);
+  border-bottom: 1px solid var(--rule-strong);
+}
+.promise-doc__role {
+  font-family: var(--sans); font-size: var(--fs-sm); font-weight: 600;
+  color: var(--ink); margin: var(--sp-4) 0 var(--sp-2);
+}
+.promise-doc blockquote {
+  margin: 0; font-family: var(--serif); font-size: var(--fs-base);
+  color: var(--ink); line-height: 1.6;
+}
+.promise-subh { font-size: var(--fs-lg); margin: var(--sp-7) 0 var(--sp-4); }
+.promise-grid { display: grid; gap: var(--sp-3); margin-bottom: var(--sp-6); }
+@media (min-width: 720px) { .promise-grid { grid-template-columns: 1fr 1fr; } }
+.promise-grid__guarantee, .promise-grid__reality {
+  padding: var(--sp-4); background: var(--paper-raised); border: 1px solid var(--rule-strong);
+}
+.promise-grid__guarantee { border-left: 3px solid var(--muted); }
+.promise-grid__reality { border-left: 3px solid var(--accent); }
+.promise-grid p { margin: 0; }
+.promise-grid__guarantee p { font-family: var(--serif); color: var(--ink); }
+.promise-grid__lbl {
+  font-family: var(--sans); font-size: var(--fs-xs); text-transform: uppercase;
+  letter-spacing: 0.1em; font-weight: 600; color: var(--muted);
+  display: block; margin-bottom: var(--sp-2);
+}
+.promise-grid__reality .promise-grid__lbl { color: var(--accent); }
+.promise-q {
+  font-family: var(--serif); font-size: var(--fs-lg); color: var(--ink);
+  margin: var(--sp-5) 0; max-width: var(--measure);
+}
