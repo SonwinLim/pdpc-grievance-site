@@ -272,22 +272,23 @@ A sub-project of the case folder. A deployed public site presenting the Complain
 - **All deliverables (specs, plans, extracts):** `docs/superpowers/plans/` and `docs/superpowers/specs/`
 - **Hosting:** GitHub Pages with custom domain **pdpaaccessrights.sg** (registered and live as of 2026-06-21).
 
-### Site structure (14 sections, current order as of 2026-06-20)
+### Site structure (15 sections, current order as of 2026-06-21)
 
 1. `#hook` — the one-sentence "what happened"
 2. `#summary` — 3-minute executive summary; 3 CTA cards (MPs / public "Rights on paper" / lawyers)
 3. `#story` — **The explanatory narrative in full** (added 2026-06-20): 5-act synthesis that states the single explanation fitting all documented facts; opens with brain injury / memory loss context; closes with parliamentary question callout on zero Access Obligation breach findings
-4. `#cases` — MCST 3615 vs MCST 4599 side-by-side (credibility foundation)
-5. `#reform` — 4 legislative asks + 2 question groups (Questions about the PDPA / Questions about PDPC's conduct; Access Obligation zero-breach question leads group one)
-6. `#why` — "Why this matters to every Singaporean": real consequences; enforcer/damager inversion; Street View removal; public-as-check-and-balance
-7. `#process` — "A documented pattern": PDPC ceased correspondence; PSC misled; filter contrast (filter previously showed breach breakdown; new layout hides it)
-8. `#narrative` — "PDPC's Narrative vs. The Record" (**6 contrasts** + 3 structural callouts: "no data, no investigation", "The investigation itself is an acknowledgment", "Nine questions PDPC has declined to answer")
-9. `#contradictions` — 10 contradiction cards (card #2 strengthened with on-site identification evidence from both condos)
-10. `#transparency` — the filter-state observation
-11. `#failures` — **12 documented failures** (accordion; failures #9–12 added 2026-06-19)
-12. `#timeline` — 19-month vertical timeline
-13. `#verify` — embeds (YouTube video + NotebookLM)
-14. `#evidence` — source-documents index
+4. `#promise` — **The parliamentary assurance centrepiece** (added 2026-06-21): reproduces Singapore Parliament Written Answer 19596 in full (Q by Mr Zhulkarnain Abdul Rahim, A by Minister Josephine Teo) framed as an official-record document, then juxtaposes the Minister's three guarantees against what happened in this case. The canonical home for the verbatim Q&A (Failure #3 and #process now link here)
+5. `#cases` — MCST 3615 vs MCST 4599 side-by-side (credibility foundation)
+6. `#reform` — 4 legislative asks + 2 question groups (Questions about the PDPA / Questions about PDPC's conduct; Access Obligation zero-breach question leads group one)
+7. `#why` — "Why this matters to every Singaporean": real consequences; enforcer/damager inversion; Street View removal; public-as-check-and-balance
+8. `#process` — "A documented pattern": PDPC ceased correspondence; PSC misled; filter contrast (filter previously showed breach breakdown; new layout hides it)
+9. `#narrative` — "PDPC's Narrative vs. The Record" (**6 contrasts** + 3 structural callouts: "no data, no investigation", "The investigation itself is an acknowledgment", "Nine questions PDPC has declined to answer")
+10. `#contradictions` — 10 contradiction cards (card #2 strengthened with on-site identification evidence from both condos)
+11. `#transparency` — the filter-state observation
+12. `#failures` — **12 documented failures** (accordion; failures #9–12 added 2026-06-19)
+13. `#timeline` — 19-month vertical timeline
+14. `#verify` — embeds (YouTube video + NotebookLM)
+15. `#evidence` — source-documents index
 
 Plus an auxiliary page: `enforcement-index.html` — filter-by-obligation matrix over PDPC's 374 published enforcement actions.
 
