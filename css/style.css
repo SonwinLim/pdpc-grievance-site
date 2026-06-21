@@ -150,9 +150,9 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 .sitenav__inner {
   max-width: var(--wide);
   margin-inline: auto;
-  height: var(--nav-h);
+  min-height: var(--nav-h);
   display: flex; align-items: center; gap: var(--sp-5);
-  padding-inline: var(--sp-5);
+  padding-inline: var(--sp-5); padding-block: var(--sp-2);
 }
 .sitenav__brand {
   font-family: var(--sans); font-weight: 700; font-size: var(--fs-sm);
@@ -160,9 +160,8 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 }
 .sitenav__links {
   list-style: none; margin: 0; padding: 0;
-  display: flex; gap: var(--sp-4);
-  overflow-x: auto;            /* horizontal scroll on narrow screens */
-  -webkit-overflow-scrolling: touch;
+  display: flex; flex-wrap: wrap;            /* wrap to multiple rows so all links stay visible */
+  gap: var(--sp-2) var(--sp-4);
 }
 .sitenav__links a {
   font-family: var(--sans); font-size: var(--fs-sm); color: var(--ink-soft);
