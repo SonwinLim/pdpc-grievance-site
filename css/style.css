@@ -587,3 +587,20 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   font-family: var(--serif); font-size: var(--fs-lg); color: var(--ink);
   margin: var(--sp-5) 0; max-width: var(--measure);
 }
+
+/* --- Money-shot figure (PDPC masking guideline) --- */
+.moneyshot {
+  margin: var(--sp-6) 0; padding: 0;
+  border: 1px solid var(--rule-strong); background: var(--paper-raised);
+}
+.moneyshot img { border-bottom: 1px solid var(--rule-strong); }
+.moneyshot figcaption { padding: var(--sp-5); }
+.moneyshot__lead {
+  font-family: var(--serif); font-size: var(--fs-lg); color: var(--ink);
+  margin: 0 0 var(--sp-4);
+}
+.moneyshot blockquote {
+  margin: 0 0 var(--sp-4); font-family: var(--serif); color: var(--ink);
+  border-left: 3px solid var(--accent); padding-left: var(--sp-4);
+}
+.moneyshot .meta { margin: 0; }
