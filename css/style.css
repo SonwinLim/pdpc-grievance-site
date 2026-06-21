@@ -317,7 +317,7 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 @media print {
   :root { --paper: #fff; --paper-raised: #fff; --ink: #000; --accent: #000; --navy: #000; }
   body { font-size: 11pt; line-height: 1.45; color: #000; background: #fff; }
-  .sitenav, .skip-link, #toggle-all, .video-frame, .btn { display: none !important; }
+  .sitenav, .skip-link, #toggle-all, .video-frame, .btn, .gate { display: none !important; }
   .section { border-top: 1px solid #999; padding-block: 12pt; break-inside: avoid-page; }
   h1, h2, h3 { break-after: avoid; }
   .cta-grid, .verify-grid { display: block; }
@@ -605,3 +605,104 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   border-left: 3px solid var(--accent); padding-left: var(--sp-4);
 }
 .moneyshot .meta { margin: 0; }
+
+/* --- Entry gate (full-screen overlay, every visit) --- */
+.gate {
+  position: fixed; inset: 0; z-index: 1000;
+  background: rgba(0,0,0,.82);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  padding: var(--sp-5);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.gate__card {
+  display: grid;
+  max-width: 56rem; width: 100%;
+  margin: auto;
+  background: var(--paper);
+  box-shadow: 0 0 0 1px rgba(255,255,255,.06);
+}
+@media (min-width: 640px) {
+  .gate__card { grid-template-columns: 1fr 1fr; }
+}
+.gate__panel {
+  padding: var(--sp-6) var(--sp-5);
+  display: flex; flex-direction: column;
+}
+.gate__panel--parliament {
+  background: var(--navy-deep); color: #e7dfd0;
+}
+.gate__panel--pdpc {
+  background: var(--paper-raised); color: var(--ink);
+}
+.gate__photo {
+  width: 140px; height: auto;
+  border: 2px solid rgba(255,255,255,.18);
+  margin-bottom: var(--sp-5); align-self: flex-start;
+}
+.gate__body { flex: 1; }
+.gate__label {
+  font-family: var(--sans); font-size: var(--fs-xs);
+  letter-spacing: 0.14em; text-transform: uppercase;
+  font-weight: 600; margin: 0 0 var(--sp-5);
+  color: rgba(255,255,255,.55);
+}
+.gate__label--accent { color: var(--accent); }
+.gate__panel--parliament blockquote {
+  margin: 0; font-family: var(--serif); font-size: var(--fs-base);
+  line-height: var(--lh-body); color: #e7dfd0;
+}
+.gate__panel--parliament blockquote strong {
+  color: #fff; font-weight: 700;
+}
+.gate__attr {
+  font-family: var(--sans); font-size: var(--fs-sm);
+  color: rgba(255,255,255,.55);
+  margin: var(--sp-5) 0 0; line-height: 1.5;
+}
+.gate__ref {
+  font-size: var(--fs-xs); color: rgba(255,255,255,.35);
+}
+.gate__findings {
+  flex: 1;
+}
+.gate__findings p {
+  font-family: var(--sans); font-size: var(--fs-md); font-weight: 600;
+  margin: 0 0 var(--sp-5); line-height: 1.4;
+}
+.gate__findings ul {
+  margin: 0 0 var(--sp-5); padding-left: var(--sp-5);
+  font-family: var(--sans); font-size: var(--fs-sm);
+  color: var(--ink-soft); list-style: none;
+}
+.gate__findings li { margin-bottom: var(--sp-3); }
+.gate__findings li::before {
+  content: '\2717'; color: var(--accent); font-weight: 700;
+  margin-right: var(--sp-2); margin-left: calc(var(--sp-5) * -1);
+  float: left;
+}
+.gate__findings strong { color: var(--accent); }
+.gate__punch {
+  font-family: var(--serif); font-size: var(--fs-base);
+  color: var(--ink-soft); line-height: var(--lh-body);
+  margin: 0; padding-top: var(--sp-5);
+  border-top: 1px solid var(--rule);
+}
+.gate__punch strong { color: var(--ink); }
+.gate__dismiss {
+  display: block; margin: var(--sp-5) auto 0;
+  font-family: var(--sans); font-size: var(--fs-sm); font-weight: 600;
+  color: #fff; background: transparent;
+  border: 1px solid rgba(255,255,255,.35); border-radius: 2px;
+  padding: var(--sp-3) var(--sp-6); cursor: pointer;
+}
+.gate__dismiss:hover, .gate__dismiss:focus {
+  background: #fff; color: var(--ink);
+}
+@media (max-width: 639px) {
+  .gate { padding: var(--sp-3); }
+  .gate__panel { padding: var(--sp-5) var(--sp-4); }
+  .gate__photo { width: 100px; margin-bottom: var(--sp-4); }
+  .gate__panel--parliament blockquote { font-size: .95rem; }
+  .gate__findings p { font-size: var(--fs-base); }
+}

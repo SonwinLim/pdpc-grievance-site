@@ -8,6 +8,33 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <div id="gate" class="gate">
+    <div class="gate__card">
+      <div class="gate__panel gate__panel--parliament">
+        <img class="gate__photo" src="evidence/minister-teo-parliament.png" alt="Minister Josephine Teo speaking in Parliament" width="200" height="133">
+        <div class="gate__body">
+          <p class="gate__label">What Parliament was told</p>
+          <blockquote>
+            Under the Personal Data Protection Act (PDPA), organisations are required to implement policies and practices to handle access requests. These typically include having appropriate measures to <strong>preserve the requested personal data while the request is being processed</strong>. There are also additional safeguards to ensure that lawful and valid requests are fulfilled, including <strong>data retention requirements in case there is a review of denied requests</strong>, and <strong>criminal penalties for intentional concealment or destruction of records</strong> to avoid access requests.
+          </blockquote>
+          <p class="gate__attr">Mrs Josephine Teo, Minister for Digital Development and Information<br><span class="gate__ref">Written Answer 19596, Singapore Parliament</span></p>
+        </div>
+      </div>
+      <div class="gate__panel gate__panel--pdpc">
+        <p class="gate__label gate__label--accent">What PDPC found</p>
+        <div class="gate__findings">
+          <p>MCST 3615 &amp; MCST 4599: <strong>no breach</strong> of the Access Obligation (s.21)</p>
+          <ul>
+            <li>Access request made <strong>before</strong> the deletion cycle</li>
+            <li>Footage was <strong>deleted</strong> during the process</li>
+            <li>Across 374 published enforcement actions: <strong>zero</strong> s.21 breach findings</li>
+          </ul>
+        </div>
+        <p class="gate__punch">The Minister described what the law guarantees. The rulings describe what happened. <strong>Both cannot be true.</strong></p>
+      </div>
+    </div>
+    <button class="gate__dismiss" onclick="document.getElementById('gate').remove()" autofocus>Continue to the site</button>
+  </div>
   <a class="skip-link" href="#hook">Skip to content</a>
 
   <header class="sitenav" id="top">
