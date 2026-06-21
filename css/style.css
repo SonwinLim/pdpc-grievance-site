@@ -47,8 +47,8 @@
   --sp-8: 4.5rem;
 
   /* Layout */
-  --measure: 48rem;     /* reading column (~768px at 16px base) */
-  --wide:    74rem;     /* tables/cards (~1184px) */
+  --measure: 64rem;     /* reading column (~1024px at 16px base) */
+  --wide:    90rem;     /* tables/cards (~1440px) */
   --nav-h:   3.25rem;
 }
 
