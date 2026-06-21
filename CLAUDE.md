@@ -278,7 +278,7 @@ A sub-project of the case folder. A deployed public site presenting the Complain
 2. `#summary` — 3-minute executive summary; 3 CTA cards (MPs / public "Rights on paper" / lawyers)
 3. `#story` — **The explanatory narrative in full** (added 2026-06-20): 5-act synthesis that states the single explanation fitting all documented facts; opens with brain injury / memory loss context; closes with parliamentary question callout on zero Access Obligation breach findings
 4. `#cases` — MCST 3615 vs MCST 4599 side-by-side (credibility foundation)
-5. `#reform` — 3 legislative asks + 4 parliamentary questions (incl. Access Obligation zero-breach question)
+5. `#reform` — 4 legislative asks + 2 question groups (Questions about the PDPA / Questions about PDPC's conduct; Access Obligation zero-breach question leads group one)
 6. `#why` — "Why this matters to every Singaporean": real consequences; enforcer/damager inversion; Street View removal; public-as-check-and-balance
 7. `#process` — "A documented pattern": PDPC ceased correspondence; PSC misled; filter contrast (filter previously showed breach breakdown; new layout hides it)
 8. `#narrative` — "PDPC's Narrative vs. The Record" (**6 contrasts** + 3 structural callouts: "no data, no investigation", "The investigation itself is an acknowledgment", "Nine questions PDPC has declined to answer")
