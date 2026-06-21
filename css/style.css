@@ -681,6 +681,17 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   margin-right: var(--sp-2); margin-left: calc(var(--sp-5) * -1);
   float: left;
 }
+.gate__tick {
+  font-family: var(--serif); font-size: var(--fs-base);
+  color: var(--ink-soft); line-height: var(--lh-body);
+  margin: 0 0 var(--sp-4); padding: var(--sp-3) var(--sp-4);
+  background: #e9f0e2; border-left: 3px solid var(--ok);
+}
+.gate__tick::before {
+  content: '\2713  ';
+  color: var(--ok); font-weight: 700; font-size: 1.1rem;
+}
+.gate__tick strong { color: var(--ok); }
 .gate__findings strong { color: var(--accent); }
 .gate__punch {
   font-family: var(--serif); font-size: var(--fs-base);
