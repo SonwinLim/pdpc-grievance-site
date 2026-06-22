@@ -661,8 +661,8 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   margin-bottom: var(--sp-5);
 }
 .gate__question {
-  font-family: var(--serif); font-size: var(--fs-xs);
-  color: rgba(255,255,255,.7); line-height: 1.5;
+  font-family: var(--serif); font-size: var(--fs-sm);
+  color: rgba(255,255,255,.75); line-height: 1.5;
   margin: 0; flex: 1;
   padding-left: 0; border-left: none;
 }
