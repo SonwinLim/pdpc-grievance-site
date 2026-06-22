@@ -728,11 +728,11 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 .gate__ok strong { color: var(--ok); }
 .gate__punch {
   font-family: var(--serif); font-size: var(--fs-base);
-  color: var(--ink-soft); line-height: var(--lh-body);
+  color: rgba(255,255,255,.7); line-height: var(--lh-body);
   margin: 0; padding-top: var(--sp-5);
-  border-top: 1px solid var(--rule);
+  border-top: 1px solid rgba(255,255,255,.15);
 }
-.gate__punch strong { color: var(--ink); }
+.gate__punch strong { color: #fff; }
 .gate__dismiss {
   display: block; margin: var(--sp-5) auto 0;
   font-family: var(--sans); font-size: var(--fs-sm); font-weight: 600;
