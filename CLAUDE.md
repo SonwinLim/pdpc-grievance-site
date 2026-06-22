@@ -266,8 +266,9 @@ A sub-project of the case folder. A deployed public site presenting the Complain
 ### Key paths
 
 - **Site repo:** `pdpc-grievance-site/` (GitHub repo, deployed via GitHub Pages)
-- **Live URL:** https://sonwinlim.github.io/pdpc-grievance-site/
+- **Live URL:** https://pdpaaccessrights.sg/
 - **GitHub repo:** https://github.com/SonwinLim/pdpc-grievance-site
+- **Analytics:** GoatCounter at https://sonwin.goatcounter.com/ (privacy-respecting, no cookies)
 - **Design spec:** `docs/superpowers/specs/2026-06-17-pdpc-grievance-site-design.md`
 - **All deliverables (specs, plans, extracts):** `docs/superpowers/plans/` and `docs/superpowers/specs/`
 - **Hosting:** GitHub Pages with custom domain **pdpaaccessrights.sg** (live).
@@ -305,6 +306,10 @@ Plus an auxiliary page: `enforcement-index.html` — filter-by-obligation matrix
 - **Nav:** wraps to two rows on desktop, collapses to single scrollable row on mobile.
 - **Emails drafted** to MP Zhulkarnain and IMDA/PDPC leadership.
 - **Style:** 17 straight apostrophes in evidence subpages converted to curly. 0 straight quotes or em-dashes site-wide.
+- **GoatCounter analytics** added (privacy-respecting, no cookies).
+- **Video summary** (Minimax, YouTube) embedded in #verify as third column.
+- **Gate improvements:** MP question beside Minister photo, full citation with sitting date (9 Sep 2025), linked Hansard, sub-list for PDPC non-engagement, punch line moved to left panel.
+- **Responsive redesign:** three-tier breakpoints (phone <560px, tablet 560–820px, desktop 820–1200px, large desktop 1200px+). Nav scroll only on phones.
 
 ### Recent changes (2026-06-19 session)
 
@@ -412,6 +417,6 @@ const puppeteer = require('puppeteer');
 
 ### Session continuity
 
-This file is the entry point for a fresh session. Read it first, then `git log --oneline -10` in `pdpc-grievance-site/` for the live state of the site, then `ls docs/superpowers/plans/` and `ls docs/superpowers/specs/` for the most recent deliverables.
+This file is the entry point for a fresh session. Read it first, then `git log --oneline -10` in `pdpc-grievance-site/` for the live state of the site. Check the handoff for full context.
 
-**Full handoff document:** `docs/superpowers/plans/2026-06-20-full-handoff.md` — comprehensive session-state capture including both workstreams (PDPC site + civil affidavit), all pending tasks, key contacts, primary sources, and entry-point checklist for a fresh session.
+**Full handoff document:** `../docs/superpowers/plans/2026-06-20-full-handoff.md` (updated 22 Jun 2026). — comprehensive session-state capture including both workstreams (PDPC site + civil affidavit), all pending tasks, key contacts, primary sources, and entry-point checklist for a fresh session.
