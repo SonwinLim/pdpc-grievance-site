@@ -655,10 +655,27 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 .gate__panel--pdpc {
   background: var(--paper-raised); color: var(--ink);
 }
+.gate__top {
+  display: flex; align-items: flex-start; gap: var(--sp-4);
+  margin-bottom: var(--sp-5);
+}
+.gate__question {
+  font-family: var(--serif); font-size: var(--fs-sm);
+  color: rgba(255,255,255,.8); line-height: var(--lh-body);
+  margin: 0; flex: 1;
+  padding-left: var(--sp-4); border-left: 2px solid rgba(255,255,255,.18);
+}
+.gate__question::before {
+  content: "The question";
+  display: block;
+  font-family: var(--sans); font-size: var(--fs-xs);
+  letter-spacing: 0.14em; text-transform: uppercase;
+  font-weight: 600; color: rgba(255,255,255,.45);
+  margin-bottom: var(--sp-2);
+}
 .gate__photo {
-  width: 140px; height: auto;
+  width: 120px; height: auto; flex-shrink: 0;
   border: 2px solid rgba(255,255,255,.18);
-  margin-bottom: var(--sp-5); align-self: flex-start;
 }
 .gate__body { flex: 1; }
 .gate__label {
@@ -724,7 +741,9 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 @media (max-width: 639px) {
   .gate { padding: var(--sp-3); }
   .gate__panel { padding: var(--sp-5) var(--sp-4); }
-  .gate__photo { width: 100px; margin-bottom: var(--sp-4); }
+  .gate__top { flex-direction: column; gap: var(--sp-3); }
+  .gate__question { padding-left: 0; border-left: none; font-size: .85rem; }
+  .gate__photo { width: 100px; }
   .gate__panel--parliament blockquote { font-size: .95rem; }
   .gate__findings p { font-size: var(--fs-base); }
 }
