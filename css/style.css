@@ -661,8 +661,8 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   margin-bottom: var(--sp-5);
 }
 .gate__question {
-  font-family: var(--serif); font-size: var(--fs-sm);
-  color: rgba(255,255,255,.75); line-height: 1.5;
+  font-family: var(--serif); font-size: var(--fs-base);
+  color: rgba(255,255,255,.8); line-height: 1.5;
   margin: 0; flex: 1;
   padding-left: 0; border-left: none;
 }
@@ -743,7 +743,7 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   .gate { padding: var(--sp-3); }
   .gate__panel { padding: var(--sp-5) var(--sp-4); }
   .gate__top { flex-direction: column; gap: var(--sp-3); }
-  .gate__question { font-size: .75rem; }
+  .gate__question { font-size: .85rem; }
   .gate__photo { width: 100px; }
   .gate__panel--parliament blockquote { font-size: .95rem; }
   .gate__findings p { font-size: var(--fs-base); }
