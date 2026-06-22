@@ -67,6 +67,7 @@
     --wide:    78rem;
     --fs-base: 1.2rem;
   }
+  .gate__card { max-width: 72rem; }
 }
 
 /* --- Reset --- */
@@ -637,7 +638,7 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 }
 .gate__card {
   display: grid;
-  max-width: 56rem; width: 100%;
+  max-width: 64rem; width: 100%;
   margin: auto;
   background: var(--paper);
   box-shadow: 0 0 0 1px rgba(255,255,255,.06);
@@ -660,10 +661,10 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   margin-bottom: var(--sp-5);
 }
 .gate__question {
-  font-family: var(--serif); font-size: var(--fs-sm);
-  color: rgba(255,255,255,.8); line-height: var(--lh-body);
+  font-family: var(--serif); font-size: var(--fs-xs);
+  color: rgba(255,255,255,.7); line-height: 1.5;
   margin: 0; flex: 1;
-  padding-left: var(--sp-4); border-left: 2px solid rgba(255,255,255,.18);
+  padding-left: 0; border-left: none;
 }
 .gate__question::before {
   content: "The question";
@@ -742,7 +743,7 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   .gate { padding: var(--sp-3); }
   .gate__panel { padding: var(--sp-5) var(--sp-4); }
   .gate__top { flex-direction: column; gap: var(--sp-3); }
-  .gate__question { padding-left: 0; border-left: none; font-size: .85rem; }
+  .gate__question { font-size: .75rem; }
   .gate__photo { width: 100px; }
   .gate__panel--parliament blockquote { font-size: .95rem; }
   .gate__findings p { font-size: var(--fs-base); }
