@@ -283,7 +283,7 @@ A sub-project of the case folder. A deployed public site presenting the Complain
 6. `#reform` — 4 legislative asks + 2 question groups (Questions about the PDPA / Questions about PDPC's conduct; Access Obligation zero-breach question leads group one)
 7. `#why` — "Why this matters to every Singaporean": real consequences; enforcer/damager inversion; Street View removal; public-as-check-and-balance
 8. `#process` — "A documented pattern": PDPC ceased correspondence; PSC misled; filter contrast (filter previously showed breach breakdown; new layout hides it)
-9. `#narrative` — "PDPC's Narrative vs. The Record" (**6 contrasts** + 3 structural callouts: "no data, no investigation", "The investigation itself is an acknowledgment", "Nine questions PDPC has declined to answer")
+9. `#narrative` — "PDPC's Narrative vs. The Record" (**6 contrasts** + 4 structural callouts: "no data, no investigation", "The investigation itself is an acknowledgment", "Across PDPC's published enforcement history, the only two CCTV-access-refusal complaints are the Complainant's" (added 2026-07-02), "Nine questions PDPC has declined to answer")
 10. `#contradictions` — 10 contradiction cards (card #2 strengthened with on-site identification evidence from both condos)
 11. `#transparency` — the filter-state observation
 12. `#failures` — **12 documented failures** (accordion; failures #9–12 added 2026-06-19)
@@ -292,6 +292,10 @@ A sub-project of the case folder. A deployed public site presenting the Complain
 15. `#evidence` — source-documents index
 
 Plus an auxiliary page: `enforcement-index.html` — filter-by-obligation matrix over PDPC's 374 published enforcement actions.
+
+### Recent changes (2026-07-02 session)
+
+- **New `#narrative` structural callout** added (4th): "Across PDPC's published enforcement history, the only two CCTV-access-refusal complaints are the Complainant's." Across 384 published PDPC decisions since 2016, only MCST 4599 (reframed as Accountability) and MCST 3615 (clarity-test denial) involved a complainant demanding access to their own CCTV data and being refused. Both are the Complainant's, both 13 April 2024 Cairnhill Road accident. The MCST 4436 (River Isles, 2018) case distinguished: that complaint was about access improperly granted to another proprietor, not a denial case. Establishes the "active denial" framing: zero breach findings + multiple non-statutory theories (clarity test, BMSMA subordination, data-loss reframe) over 8 years. Footer: 2 PDPC case URLs + PDPA s.21 statute link.
 
 ### Recent changes (2026-06-21 session)
 
