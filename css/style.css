@@ -67,7 +67,7 @@
     --wide:    78rem;
     --fs-base: 1.2rem;
   }
-  .gate__card { max-width: 72rem; }
+  .gate__card { max-width: 90rem; }
 }
 
 /* --- Reset --- */
@@ -638,13 +638,13 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 }
 .gate__card {
   display: grid;
-  max-width: 64rem; width: 100%;
+  max-width: 80rem; width: 100%;
   margin: auto;
   background: var(--paper);
   box-shadow: 0 0 0 1px rgba(255,255,255,.06);
 }
 @media (min-width: 640px) {
-  .gate__card { grid-template-columns: 1fr 1fr; }
+  .gate__card { grid-template-columns: 7fr 13fr; }
 }
 .gate__panel {
   padding: var(--sp-6) var(--sp-5);
@@ -690,6 +690,8 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   margin: 0; font-family: var(--serif); font-size: var(--fs-base);
   line-height: var(--lh-body); color: #e7dfd0;
 }
+.gate__panel--parliament blockquote p { margin: 0 0 var(--sp-3); }
+.gate__panel--parliament blockquote p:last-child { margin-bottom: 0; }
 .gate__panel--parliament blockquote strong {
   color: #fff; font-weight: 700;
 }
@@ -701,6 +703,19 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 .gate__ref {
   font-size: var(--fs-xs); color: rgba(255,255,255,.35);
 }
+.gate__note {
+  font-family: var(--serif); font-size: var(--fs-sm);
+  color: rgba(255,255,255,.8); line-height: var(--lh-body);
+  margin: 0;
+}
+.gate__note strong { color: #fff; font-weight: 700; }
+.gate__sublabel {
+  font-family: var(--sans); font-size: var(--fs-xs); font-weight: 600;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  margin: var(--sp-4) 0 var(--sp-3);
+}
+.gate__panel--parliament .gate__sublabel { color: rgba(255,255,255,.45); }
+.gate__panel--pdpc .gate__sublabel { color: var(--muted); }
 .gate__findings {
   flex: 1;
 }
@@ -719,6 +734,17 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
   margin-right: var(--sp-2); margin-left: calc(var(--sp-5) * -1);
   float: left;
 }
+.gate__rebuttal-item { margin-bottom: var(--sp-5); }
+.gate__findings p.gate__rebuttal-h {
+  font-family: var(--sans); font-size: var(--fs-sm); font-weight: 700;
+  color: var(--accent); margin: 0 0 var(--sp-2);
+}
+.gate__rebuttal-item p {
+  font-family: var(--sans); font-size: var(--fs-sm); font-weight: 400;
+  color: var(--ink-soft); line-height: 1.5;
+  margin: 0 0 var(--sp-3);
+}
+.gate__rebuttal-item p:last-child { margin-bottom: 0; }
 .gate__findings strong { color: var(--accent); }
 .gate__findings ul ul { margin: var(--sp-2) 0 0; padding-left: var(--sp-4); }
 .gate__findings ul ul li { font-size: var(--fs-xs); margin-bottom: var(--sp-2); color: var(--ink-soft); }
