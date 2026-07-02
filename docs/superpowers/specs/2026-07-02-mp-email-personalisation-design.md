@@ -21,7 +21,7 @@ What is missing: a personalisation layer. A single base draft sent 108 times wit
 - a WP MP will spot a copy-pasted form letter instantly and dismiss it
 - the email is the single shot — under-investing here wastes the entire list
 
-This spec designs a tiered personalisation system. It will produce 108 emails across 3 tiers, with bespoke prose for the 22 highest-leverage recipients.
+This spec designs a tiered personalisation system. It will produce 108 emails across 3 tiers, with bespoke prose for the 25 highest-leverage recipients.
 
 ---
 
@@ -45,9 +45,9 @@ This spec designs a tiered personalisation system. It will produce 108 emails ac
 
 ---
 
-## Tier definitions (22 + ~30 + ~56 = 108)
+## Tier definitions (25 + ~28 + ~55 = 108)
 
-### Tier 1 — Fully bespoke (~300 words each) — 22 emails
+### Tier 1 — Fully bespoke (~300 words each) — 25 emails
 
 **A. PAP Ministers with direct portfolio / procedural responsibility (10)**
 | Minister | Bespoke hook |
@@ -75,21 +75,40 @@ The WP bloc is engaged on PDPA / civil liberties issues. They are natural legisl
 
 The implementation phase will pull the exact list of 12 from the CSV. Each gets a unique opening + closing. No copy-paste between WP MPs.
 
-### Tier 2 — Role-templated (~250 words each) — ~30 emails
+**C. Personal-relationship recipients (3) — disclosure framing required**
+The Complainant has personal relationships with three of the recipients. The emails to them must disclose the relationship, declare the case stands on its own merits, and avoid any optics of leveraging personal ties. Without disclosure, a reader who discovers the connection would discount the case as favouritism; with disclosure, the case appears principled and the disclosure itself becomes evidence of integrity.
 
-Cabinet Ministers + Senior Ministers of State outside Tier 1, with role-specific opening line + closing question:
+| Recipient | Relationship | Disclosure tone |
+|---|---|---|
+| Mr Kenneth Goh (NMP) | The Complainant's SMU professor during his MBA | Academic / collegial — references the rigor both teacher and student value in evidence |
+| Mr Dinesh Vasu Dash (Minister of State, MDDI & MOH) | The Complainant's group director at MOH during Covid | Professional / first-hand observer — references the direct knowledge of his work and integrity |
+| Mr Cai Yinzhou (MP, Bishan-Toa Payoh GRC) | Friend since youth | Personal / direct — acknowledges friendship but states the case is not personal |
 
-- **MDDI SMS/MOS tier** (Jasmin Lau, Rahayu Mahzam, Tan Kiat How) — PDPC-oversight variant of opening; closing asks MDDI to clarify PDPC's enforcement posture
+**Disclosure content rules (mandatory, applies to all three):**
+
+1. **Acknowledge the relationship in one sentence.** No euphemism. "You were my SMU professor." / "You were my group director at MOH." / "We've known each other since youth."
+2. **State explicitly that the case stands on its own merits.** E.g. "I am writing not as a favour, but because the documentary record supports the case and you can verify each claim against the primary sources you know how to read."
+3. **Affirm no special treatment is asked.** E.g. "I want nothing from this email that the public record does not warrant." / "If the case did not hold on the documents, I would not be writing."
+
+The disclosure is placed in the opening paragraph, before the substantive case summary. Each of the three emails has a unique opening + closing; no template shared between them.
+
+The implementation phase drafts each of these with a different warmth gradient (academic → professional → personal), reflecting the relationship.
+
+### Tier 2 — Role-templated (~250 words each) — ~28 emails
+
+Cabinet Ministers + Senior Ministers of State + relevant NMPs outside Tier 1, with role-specific opening line + closing question:
+
+- **MDDI SMS/MOS tier** (Jasmin Lau, Rahayu Mahzam, Tan Kiat How — note: Dinesh Vasu Dash moved to Tier 1C) — PDPC-oversight variant of opening; closing asks MDDI to clarify PDPC's enforcement posture
 - **Coordinating Minister rank** (Ong Ye Kung — Coordinating Minister, Social Policies & Health) — public-policy framing on CCTV and access rights
 - **Senior Minister of State** (~5 other SMS) — general oversight rank; references 19-month escalation history
 - **Minister of State** (~10 MOS) — parliamentary procedure angle
 - **Deputy Speaker** — procedural variant
 - **Other Mayors** — civic-leadership variant
-- **NMPs with relevant expertise** (e.g., Mariam Jaafar is WP-NMP-adjacent; some NMPs are legal/business experts) — topic-templated variant
+- **NMPs with relevant expertise** (Kuah Boon Theng — Senior Counsel; note: Kenneth Goh moved to Tier 1C) — legal-expertise variant
 
-### Tier 3 — Base draft + name (~250 words each) — ~56 emails
+### Tier 3 — Base draft + name (~250 words each) — ~55 emails
 
-All other Elected MPs (PAP backbenchers, remaining NMPs without expertise match, remaining NCMPs not in WP). Subject line is the same; opening is "Dear [Name]"; the middle is the trimmed base draft; closing is a generic question. No sport analogy. No Ministry-specific hook.
+All other Elected MPs (PAP backbenchers, remaining NMPs without expertise match, remaining NCMPs not in WP). Subject line is the same; opening is "Dear [Name]"; the middle is the trimmed base draft; closing is a generic question. No sport analogy. No Ministry-specific hook. Cai Yinzhou moved to Tier 1C; his seat in Tier 3 is filled by the next backbencher.
 
 ---
 
@@ -172,7 +191,7 @@ Lists all 108 recipients grouped by tier, with a one-line note of the personalis
 Example excerpt:
 
 ```markdown
-## Tier 1 — bespoke (22)
+## Tier 1 — bespoke (25)
 
 ### A. PAP Ministers
 - **Mrs Josephine Teo** (`josephine-teo`, MDDI) — references Written Answer 19596; asks if her office still stands by it
@@ -184,6 +203,11 @@ Example excerpt:
 - **Mr Pritam Singh** (`pritam-singh`, WP chief) — collaborative framing; references prior WP PQ on PDPA
 - **Ms Sylvia Lim** (`sylvia-lim`, WP chair) — acknowledges her civil-liberties record
 ... [10 rows]
+
+### C. Personal-relationship (3)
+- **Mr Kenneth Goh** (`kenneth-goh`, NMP) — SMU professor during MBA; relationship disclosure + case-stands-on-merits
+- **Mr Dinesh Vasu Dash** (`dinesh-vasu-dash`, MOS) — MOH group director during Covid; relationship disclosure + case-stands-on-merits
+- **Mr Cai Yinzhou** (`cai-yinzhou`, PAP backbencher) — friend since youth; relationship disclosure + case-stands-on-merits
 ```
 
 ---
@@ -193,9 +217,9 @@ Example excerpt:
 1. **Author**: spec is approved.
 2. **Plan**: writing-plans skill produces the implementation plan.
 3. **Trim pass** (Phase 2A): reduce the base draft from ~400 words to ~250 words while preserving all primary-source quotes. Output: `docs/superpowers/plans/2026-07-02-mp-followup-email-base-trimmed.md`.
-4. **Draft Tier 1** (Phase 2B): 22 bespoke emails, one at a time, drafting against the matrix above. Drafter must source each cited quote from `evidence/` or the PDPA text.
-5. **Draft Tier 2** (Phase 2C): ~30 role-templated emails from 3 templates × sub-groups.
-6. **Tier 3** (Phase 2D): 56 base-draft emails — only "Dear [Name]" substituted.
+4. **Draft Tier 1** (Phase 2B): 25 bespoke emails, one at a time, drafting against the matrix above. Drafter must source each cited quote from `evidence/` or the PDPA text.
+5. **Draft Tier 2** (Phase 2C): ~28 role-templated emails from 3 templates × sub-groups.
+6. **Tier 3** (Phase 2D): 55 base-draft emails — only "Dear [Name]" substituted.
 7. **Quality gate** (Phase 2E): for each tier, a verifier checks: no em-dashes, curly quotes only, every quote is in `evidence/` or PDPA text, signature consistent, length target hit.
 8. **User review** (checkpoint): user reviews Tier 1 first, signs off, then Tier 2 sample of 3, then approves the lot.
 9. **Outputs**: write the 108 .md files + CSV + INDEX.
