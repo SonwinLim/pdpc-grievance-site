@@ -17,7 +17,9 @@ The Maradona Hand-of-God goal is the clearest analogy I know. The referee was as
 
 The empirical pattern is stark. Section 21 of the Personal Data Protection Act gives individuals a right to access their data. Section 24 imposes a protection obligation. PDPC has obtained fines and compliance undertakings under s.24, from organisations including, notably, Marina Bay Sands. It has obtained nothing under s.21 in 374 published cases. The figure is not contested; it is simply absent from the published record. The enforcement-index at https://pdpaaccessrights.sg/enforcement-index.html documents every case.
 
-Mr Lim, I have rebuilt the filter independently at https://pdpaaccessrights.sg/enforcement-index.html so that the data remains accessible. Every Singaporean deserves to know that the Access Obligation, a right written into law, has never produced a published enforcement outcome in the history of the PDPA. I raise this not as advocacy but as arithmetic.
+Mr Lim, I have rebuilt the filter independently at https://pdpaaccessrights.sg/enforcement-index.html so that the data remains accessible. Every Singaporean deserves to know that the Access Obligation, a right written into law, has never produced a published enforcement outcome in the history of the PDPA.
+
+I submit this as an empirical matter, and I welcome scrutiny of the data.
 
 Would you consider raising this empirical pattern in a parliamentary question to MDDI?
 

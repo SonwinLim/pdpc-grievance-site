@@ -19,6 +19,8 @@ The numbers are straightforward. Section 21 of the Personal Data Protection Act 
 
 Mr Lim, I have rebuilt the filter independently at https://pdpaaccessrights.sg/enforcement-index.html so that this data remains publicly accessible. Every Singaporean deserves to know that the Access Obligation, a right written into law, has never produced a published enforcement outcome in the history of the PDPA.
 
+I make this representation in good faith, and I am grateful for your time.
+
 Would you consider raising this in your areas of parliamentary focus?
 
 Yours sincerely,
