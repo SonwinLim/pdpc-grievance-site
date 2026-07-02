@@ -90,7 +90,19 @@ The Complainant has personal relationships with three of the recipients. The ema
 2. **State explicitly that the case stands on its own merits.** E.g. "I am writing not as a favour, but because the documentary record supports the case and you can verify each claim against the primary sources you know how to read."
 3. **Affirm no special treatment is asked.** E.g. "I want nothing from this email that the public record does not warrant." / "If the case did not hold on the documents, I would not be writing."
 
-The disclosure is placed in the opening paragraph, before the substantive case summary. Each of the three emails has a unique opening + closing; no template shared between them.
+The disclosure is placed at the **end of the email**, after the sign-off, as a final note of transparency. The case is presented on its merits first; the disclosure then names the relationship, affirms the case stands independently, and states that no special treatment is sought. Rationale: putting disclosure at the close lets the recipient absorb the substance before knowing about the relationship, so they judge the case on its own. Putting it at the open would let the relationship colour the read.
+
+Structure of each Tier 1C email:
+1. Subject line
+2. Greeting ("Dear Kenneth," / "Dear Dinesh," / "Dear Yinzhou,")
+3. Opening paragraph (case-focused, no relationship mention)
+4. Body paragraphs (substantive content from base draft, trimmed)
+5. Closing question (what they can do)
+6. Sign-off ("Yours sincerely,")
+7. **Disclosure paragraph (relationship + case-stands-on-its-own affirmation)**
+8. Signature with context line ("SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, MOH, Covid period.")
+
+Each of the three emails has a unique disclosure paragraph reflecting the relationship (academic / professional / personal). No template is shared between them.
 
 The implementation phase drafts each of these with a different warmth gradient (academic → professional → personal), reflecting the relationship.
 
