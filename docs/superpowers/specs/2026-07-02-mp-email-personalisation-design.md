@@ -132,7 +132,7 @@ All other Elected MPs (PAP backbenchers, remaining NMPs without expertise match,
 | Middle paragraphs | Trimmed base draft, with quotes selected to land harder for that recipient | Same trimmed base draft | Same trimmed base draft |
 | Closing paragraph | Bespoke question — what they specifically can do | Pre-written role-templated closing (3 variants: PDPC-oversight / procedural / rank-based) | Generic closing question |
 | Sport analogy (Maradona / Hand of God) | Keep — adds impact for senior readers | Keep | DROP — slows read for backbenchers who haven't met sender; risk of tone mismatch |
-| Length target | ~300 words | ~250 words | ~250 words |
+| Length target | 400-500 words | 280-330 words | 240-280 words |
 
 The base draft at `docs/superpowers/plans/2026-07-02-mp-followup-email-draft.md` is currently ~400 words and must be **trimmed to ~250 words** for the Tier 3 mass version while preserving every primary-source quote (Maradona analogy removed; Annex A reference kept; written answer 19596 link kept). Trim pass is a Phase 2A deliverable.
 
