@@ -748,7 +748,6 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 .gate__findings strong { color: var(--accent); }
 .gate__findings ul ul { margin: var(--sp-2) 0 0; padding-left: var(--sp-4); }
 .gate__findings ul ul li { font-size: var(--fs-xs); margin-bottom: var(--sp-2); color: var(--ink-soft); }
-.gate__findings ul ul li strong { color: var(--ink); }
 .gate__findings ul ul li::before { content: '\2014'; color: var(--muted); float: left; margin-left: -1.2rem; }
 .gate__ok::before { content: '\2713' !important; color: var(--ok) !important; }
 .gate__ok strong { color: var(--ok); }
