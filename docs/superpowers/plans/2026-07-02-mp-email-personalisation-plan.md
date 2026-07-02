@@ -21,6 +21,13 @@ From the spec at `docs/superpowers/specs/2026-07-02-mp-email-personalisation-des
 7. **Signature (every email)**: `Yours sincerely,` + `Lim Zirui (Ray Lim)` + one context line: `SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.`
 8. **Length targets** (soft, not hard ceilings): Tier 1 **typically 400-550 words** (bespoke opening 60-90w + base body ~240w + Maradona ~90w + bespoke closing 30-50w; longer is acceptable when personalisation depth requires it per the user's "spare no tokens" direction); Tier 2 **280-330 words** (role-templated opening 40-60w + trimmed body ~240w + Maradona ~90w + role closing 30-50w); Tier 3 **240-280 words** (no opening or closing changes; no Maradona).
 9. **Trim base draft** from ~400 to ~250 words. Drop Maradona/Hand-of-God analogy in Tier 3 only (keep for Tier 1 and Tier 2). Preserve every primary-source quote.
+9a. **Three-point central message (binding for all 108 emails)**: every email must hit these three points clearly and directly:
+   1. **PDPC hid the filter on their website** instead of addressing the underlying issues. PDPC redesigned their enforcement-decisions page so that it is no longer possible to filter published cases by the type of obligation breached. The previous filter exposed the zero-Access-Obligation-breach pattern; the new layout hides it.
+   2. **The Maradona / Hand-of-God analogy** (Tier 1 and Tier 2; dropped in Tier 3 only). Referee PDPC was asked to review the play; denied every request to look at the evidence; let the goal stand. Today's game has VAR — still the referee looked away. The enforcer sits in judgement of itself. Nothing happens.
+   3. **The zero-Access-Obligation-investigation statistic**. Across PDPC's entire published enforcement record, PDPC has never once found a breach of the Access Obligation (s.21 PDPA). The site at https://pdpaaccessrights.sg/enforcement-index.html documents this. Parallel: PDPC aggressively enforces the Protection Obligation (s.24) against data leaks (e.g. Marina Bay Sands); it has never enforced the Access Obligation.
+
+   **Writing discipline**: state each point directly in 1–2 sentences. Do not bury the points in personal-history prose. The personal narrative ("I still do not know what happened to me on the night of the accident") is allowed as brief context but should not displace the three points — place it as a one-sentence opening, not as a lead-in.
+
 10. **Tier 1C disclosure (3 emails only)** — three required elements, placed AFTER sign-off as a final paragraph:
     - (a) Acknowledge relationship in one sentence.
     - (b) State explicitly that the case stands on its own merits.
