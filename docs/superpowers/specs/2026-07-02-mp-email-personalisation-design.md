@@ -155,6 +155,22 @@ Every Tier 1/2 email pulls only from this list of primary sources. **No quote is
 
 ---
 
+## Three-point central message (binding for all 108 emails)
+
+Every email — Tier 1, Tier 2, and Tier 3 — must hit these three points clearly and directly. The personalisation (bespoke opening/closing, role framing) wraps around these three points; it does not displace them.
+
+1. **PDPC hid the filter on their website** instead of addressing the underlying issues. Specifically: PDPC redesigned their enforcement-decisions page so that it is no longer possible to filter published cases by the type of obligation breached. The previous filter exposed the zero-Access-Obligation-breach pattern; the new layout hides it.
+
+2. **The Maradona / Hand-of-God analogy.** Referee PDPC was asked to review the play. It denied every request to look at the evidence and let the goal stand. Today's game has VAR, cameras, replay, more evidence than Maradona's referee ever had — and still the referee looked away. The enforcer sits in judgement of itself. Nothing happens. (Carried in Tier 1 and Tier 2; dropped in Tier 3 only.)
+
+3. **The zero-Access-Obligation-investigation statistic.** Across the entirety of PDPC's published enforcement record, PDPC has never once found a breach of the Access Obligation (s.21 PDPA). This is the central empirical claim the site at https://pdpaaccessrights.sg/enforcement-index.html documents. Note the parallel: PDPC aggressively enforces the Protection Obligation (s.24) against data leaks (e.g. Marina Bay Sands); it has never enforced the Access Obligation.
+
+**Writing discipline for the three points** (binding):
+- State each point directly, not in long narrative paragraphs.
+- One or two sentences per point is the goal; three short sentences is fine if needed.
+- Do not bury the points in personal-history prose.
+- The personal narrative ("I still do not know what happened to me on the night of the accident") is allowed as brief context but should not displace the three points — place it as a one-sentence opening, not as a lead-in.
+
 ## Tone & style (binding for all 3 tiers)
 
 These come from `CLAUDE.md` site-voice rules + the existing correspondence samples:
