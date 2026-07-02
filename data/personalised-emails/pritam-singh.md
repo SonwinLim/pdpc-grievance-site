@@ -1,0 +1,26 @@
+---
+tier: 1
+name: Pritam Singh
+slug: pritam-singh
+email: pritam.singh@wp.sg
+designation: Member of Parliament
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+Dear Mr Pritam Singh,
+
+Thank you for serving as the senior opposition voice in Parliament. The Workers' Party bloc has consistently engaged on PDPA reform, and your scrutiny of these matters carries particular weight in the public record.
+
+In March 2025, PDPC redesigned its enforcement-decisions website. A filter that previously allowed anyone to segment published cases by obligation type was removed. The effect was immediate and measurable: the pattern of zero Access Obligation breach findings, plainly visible in the data before the redesign, became invisible by design. A user visiting the site today cannot confirm what the record showed as recently as February 2025.
+
+The closest analogy is the Maradona Hand-of-God match. The referee was asked to review the play. He declined, declined again, and let the goal stand. Decades later, VAR exists, and still the referee chose not to look. When the enforcer sits in judgement of itself, and no institutional mechanism forces accountability, nothing changes.
+
+Section 21 of the Personal Data Protection Act gives individuals the right to access their data. PDPC has never, across its entire published enforcement record, found a breach of that obligation. In contrast, it aggressively pursues Protection Obligation cases under s.24, obtaining fines and undertakings from organisations that fail to secure data. The asymmetry is not accidental. The enforcement-index at https://pdpaaccessrights.sg/enforcement-index.html documents every published case; the zero in the Access Obligation column is the only consistent finding across 374 decisions.
+
+I still do not know what happened to me on the night of the accident, because the footage was denied and then destroyed. This is not a personal grievance; it is a structural failure that affects any Singaporean who seeks to verify what an organisation holds about them.
+
+Would the Workers' Party consider filing a substantive motion to address the documented gap in Access Obligation enforcement?
+
+Yours sincerely,
+Lim Zirui (Ray Lim)
+SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.
