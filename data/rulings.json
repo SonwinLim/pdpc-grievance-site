@@ -239,6 +239,19 @@
       "accessMentioned": false
     },
     {
+      "title": "Breach of the Accountability Obligation by MCST 4599",
+      "type": "Commission's Decision",
+      "obligations": [
+        "Accountability"
+      ],
+      "finding": "breach",
+      "year": 2025,
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-accountability-obligation-by-mcst-4599",
+      "confidence": "title",
+      "dataBreachIncident": false,
+      "accessMentioned": false
+    },
+    {
       "title": "Undertaking by Jet Aviation Asia Pacific Pte Ltd",
       "type": "Voluntary Undertaking",
       "obligations": [
@@ -1345,7 +1358,7 @@
       "year": 2023,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/voluntary-undertaking-by-sunray-woodcraft-construction-pte-ltd",
       "confidence": "body",
-      "dataBreachIncident": true,
+      "dataBreachIncident": false,
       "accessMentioned": false
     },
     {
@@ -1427,6 +1440,19 @@
       "year": 2023,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/voluntary-undertaking-by-success-human-resource-centre-pte-ltd",
       "confidence": "body",
+      "dataBreachIncident": false,
+      "accessMentioned": false
+    },
+    {
+      "title": "Breach of the Protection Obligation by Fortytwo",
+      "type": "Commission's Decision",
+      "obligations": [
+        "Protection"
+      ],
+      "finding": "breach",
+      "year": 2023,
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-fortytwo",
+      "confidence": "title",
       "dataBreachIncident": false,
       "accessMentioned": false
     },
@@ -1943,6 +1969,19 @@
       "accessMentioned": false
     },
     {
+      "title": "Breach of the Protection Obligation by Vhive",
+      "type": "Commission's Decision",
+      "obligations": [
+        "Protection"
+      ],
+      "finding": "breach",
+      "year": 2021,
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-vhive",
+      "confidence": "title",
+      "dataBreachIncident": false,
+      "accessMentioned": false
+    },
+    {
       "title": "Breach of the Protection, Accountability and Retention Limitation Obligations by Stylez",
       "type": "Commission's Decision",
       "obligations": [
@@ -1994,6 +2033,19 @@
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-hmi-institute-of-health-sciences",
       "confidence": "title",
       "dataBreachIncident": false,
+      "accessMentioned": false
+    },
+    {
+      "title": "Breach of the Protection Obligation by Tanah Merah Country Club",
+      "type": "Commission's Decision",
+      "obligations": [
+        "Protection"
+      ],
+      "finding": "breach",
+      "year": 2021,
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-by-tanah-merah-country-club",
+      "confidence": "title",
+      "dataBreachIncident": true,
       "accessMentioned": false
     },
     {
@@ -2101,6 +2153,20 @@
       "accessMentioned": false
     },
     {
+      "title": "Breach of the Consent and Notification Obligations by three insurance financial advisers",
+      "type": "Commission's Decision",
+      "obligations": [
+        "Consent",
+        "Notification"
+      ],
+      "finding": "breach",
+      "year": 2021,
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-consent-and-notification-obligations-by-three-insurance-financial-advisers",
+      "confidence": "title",
+      "dataBreachIncident": false,
+      "accessMentioned": false
+    },
+    {
       "title": "No Breach of the Protection Obligation by Singapore Telecommunications (Singtel)",
       "type": "Commission's Decision",
       "obligations": [
@@ -2156,12 +2222,12 @@
       "title": "Undertaking by SingHealth Polyclinics",
       "type": "Voluntary Undertaking",
       "obligations": [
-        "Protection"
+        "Not adjudicated"
       ],
       "finding": "undertaking",
       "year": 2021,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/voluntary-undertaking-by-singhealth-polyclinics",
-      "confidence": "body",
+      "confidence": "review",
       "dataBreachIncident": false,
       "accessMentioned": false
     },
@@ -2205,16 +2271,16 @@
       "accessMentioned": false
     },
     {
-      "title": "Breach of the Protection Obligation by Fortytwo",
+      "title": "Breach of the Protection Obligation by Audio House",
       "type": "Commission's Decision",
       "obligations": [
         "Protection"
       ],
       "finding": "breach",
       "year": 2021,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-fortytwo",
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-audio-house",
       "confidence": "title",
-      "dataBreachIncident": false,
+      "dataBreachIncident": true,
       "accessMentioned": false
     },
     {
@@ -2271,6 +2337,19 @@
       "accessMentioned": false
     },
     {
+      "title": "Breach of the Protection Obligation by Tanah Merah Country Club",
+      "type": "Commission's Decision",
+      "obligations": [
+        "Protection"
+      ],
+      "finding": "breach",
+      "year": 2021,
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-tanah-merah-country-club",
+      "confidence": "title",
+      "dataBreachIncident": true,
+      "accessMentioned": false
+    },
+    {
       "title": "Breach of the Protection and Transfer Limitation Obligations by J & R Bossini Fashion",
       "type": "Commission's Decision",
       "obligations": [
@@ -2293,6 +2372,19 @@
       "finding": "breach",
       "year": 2021,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-geniusu",
+      "confidence": "title",
+      "dataBreachIncident": false,
+      "accessMentioned": false
+    },
+    {
+      "title": "Breach of the Protection Obligation by Trinity Christian Centre",
+      "type": "Commission's Decision",
+      "obligations": [
+        "Protection"
+      ],
+      "finding": "breach",
+      "year": 2021,
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-trinity-christian-centre",
       "confidence": "title",
       "dataBreachIncident": false,
       "accessMentioned": false
@@ -2654,19 +2746,6 @@
       "accessMentioned": false
     },
     {
-      "title": "Breach of the Protection Obligation by Audio House",
-      "type": "Commission's Decision",
-      "obligations": [
-        "Protection"
-      ],
-      "finding": "breach",
-      "year": 2020,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-audio-house",
-      "confidence": "title",
-      "dataBreachIncident": true,
-      "accessMentioned": false
-    },
-    {
       "title": "Breach of the Protection Obligation by The Future of Cooking",
       "type": "Commission's Decision",
       "obligations": [
@@ -2839,19 +2918,6 @@
       "accessMentioned": false
     },
     {
-      "title": "Breach of the Protection Obligation by Trinity Christian Centre",
-      "type": "Commission's Decision",
-      "obligations": [
-        "Protection"
-      ],
-      "finding": "breach",
-      "year": 2020,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-trinity-christian-centre",
-      "confidence": "title",
-      "dataBreachIncident": false,
-      "accessMentioned": false
-    },
-    {
       "title": "Breach of the Protection Obligation by Royal Caribbean Cruises (Asia)",
       "type": "Commission's Decision",
       "obligations": [
@@ -2915,6 +2981,19 @@
       "finding": "breach",
       "year": 2020,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-consent-and-accountability-obligations-by-majestic-debt-recovery",
+      "confidence": "title",
+      "dataBreachIncident": false,
+      "accessMentioned": false
+    },
+    {
+      "title": "Breach of the Protection Obligation by Tripartite Alliance",
+      "type": "Commission's Decision",
+      "obligations": [
+        "Protection"
+      ],
+      "finding": "breach",
+      "year": 2020,
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-tripartite-alliance",
       "confidence": "title",
       "dataBreachIncident": false,
       "accessMentioned": false
@@ -3184,19 +3263,6 @@
       "accessMentioned": false
     },
     {
-      "title": "Breach of the Protection Obligation by Vhive",
-      "type": "Commission's Decision",
-      "obligations": [
-        "Protection"
-      ],
-      "finding": "breach",
-      "year": 2019,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-vhive",
-      "confidence": "title",
-      "dataBreachIncident": false,
-      "accessMentioned": false
-    },
-    {
       "title": "Breach of the Protection Obligation by Horizon Fast Ferry",
       "type": "Commission's Decision",
       "obligations": [
@@ -3337,6 +3403,19 @@
       "finding": "breach",
       "year": 2019,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-protection-obligation-by-infocorp",
+      "confidence": "title",
+      "dataBreachIncident": false,
+      "accessMentioned": false
+    },
+    {
+      "title": "Breach of the Protection Obligation by SSA Group International",
+      "type": "Commission's Decision",
+      "obligations": [
+        "Protection"
+      ],
+      "finding": "breach",
+      "year": 2019,
+      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-ssa-group-international",
       "confidence": "title",
       "dataBreachIncident": false,
       "accessMentioned": false
@@ -3899,19 +3978,6 @@
       "accessMentioned": false
     },
     {
-      "title": "Breach of the Accountability Obligation by MCST 4599",
-      "type": "Commission's Decision",
-      "obligations": [
-        "Accountability"
-      ],
-      "finding": "breach",
-      "year": 2018,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-accountability-obligation-by-mcst-4599",
-      "confidence": "title",
-      "dataBreachIncident": false,
-      "accessMentioned": false
-    },
-    {
       "title": "Breach of Protection Obligation by Chambers",
       "type": "Commission's Decision",
       "obligations": [
@@ -4030,20 +4096,6 @@
       "accessMentioned": false
     },
     {
-      "title": "Breach of the Consent and Notification Obligations by three insurance financial advisers",
-      "type": "Commission's Decision",
-      "obligations": [
-        "Consent",
-        "Notification"
-      ],
-      "finding": "breach",
-      "year": 2018,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-consent-and-notification-obligations-by-three-insurance-financial-advisers",
-      "confidence": "title",
-      "dataBreachIncident": false,
-      "accessMentioned": false
-    },
-    {
       "title": "Breach of Notification and Consent Obligations by Aventis",
       "type": "Commission's Decision",
       "obligations": [
@@ -4053,19 +4105,6 @@
       "finding": "breach",
       "year": 2018,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-notification-and-consent-obligations-by-aventis",
-      "confidence": "title",
-      "dataBreachIncident": false,
-      "accessMentioned": false
-    },
-    {
-      "title": "Breach of the Protection Obligation by SSA Group International",
-      "type": "Commission's Decision",
-      "obligations": [
-        "Protection"
-      ],
-      "finding": "breach",
-      "year": 2018,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-ssa-group-international",
       "confidence": "title",
       "dataBreachIncident": false,
       "accessMentioned": false
@@ -4436,7 +4475,7 @@
       "year": 2017,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-protection-obligation-by-a-former-financial-consultant",
       "confidence": "title",
-      "dataBreachIncident": true,
+      "dataBreachIncident": false,
       "accessMentioned": false
     },
     {
@@ -4448,19 +4487,6 @@
       "finding": "breach",
       "year": 2017,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-protection-obligation-by-the-national-university-of-singapore",
-      "confidence": "title",
-      "dataBreachIncident": true,
-      "accessMentioned": false
-    },
-    {
-      "title": "Breach of the Protection Obligation by Tanah Merah Country Club",
-      "type": "Commission's Decision",
-      "obligations": [
-        "Protection"
-      ],
-      "finding": "breach",
-      "year": 2017,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-by-tanah-merah-country-club",
       "confidence": "title",
       "dataBreachIncident": true,
       "accessMentioned": false
@@ -4528,19 +4554,6 @@
       "finding": "breach",
       "year": 2017,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-protection-obligation-by-furnituremart",
-      "confidence": "title",
-      "dataBreachIncident": true,
-      "accessMentioned": false
-    },
-    {
-      "title": "Breach of the Protection Obligation by Tanah Merah Country Club",
-      "type": "Commission's Decision",
-      "obligations": [
-        "Protection"
-      ],
-      "finding": "breach",
-      "year": 2017,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-tanah-merah-country-club",
       "confidence": "title",
       "dataBreachIncident": true,
       "accessMentioned": false
@@ -4883,19 +4896,6 @@
       "finding": "breach",
       "year": 2016,
       "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-purpose-limitation-obligation-by-aia-singapore",
-      "confidence": "title",
-      "dataBreachIncident": false,
-      "accessMentioned": false
-    },
-    {
-      "title": "Breach of the Protection Obligation by Tripartite Alliance",
-      "type": "Commission's Decision",
-      "obligations": [
-        "Protection"
-      ],
-      "finding": "breach",
-      "year": 2016,
-      "detailUrl": "https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-protection-obligation-by-tripartite-alliance",
       "confidence": "title",
       "dataBreachIncident": false,
       "accessMentioned": false

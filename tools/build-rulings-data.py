@@ -126,7 +126,16 @@ OBLIGATION_PHRASE_RE = re.compile(
 )
 
 PUBLISHED_RE = re.compile(r"Published on\s+\d{1,2}\s+[A-Za-z]+\s+(20\d{2})")
-CITATION_YEAR_RE = re.compile(r"\[(20\d{2})\]\s*SGPDPC", re.I)
+# Neutral citation year: brackets around the year are optional and PDF text
+# extraction sometimes inserts stray whitespace inside "SGPDPC" or before the
+# closing bracket (observed: "2025 SGPDPC 3", "[2025] SGP DPC 6",
+# "[2020 ] SGPDPC 6", "[2023 SGPDPCS 3]"). Do not constrain what follows
+# "SGPDPC" (case number formatting varies too, e.g. "SGPDPC [3]"). Only
+# search the first CITATION_WINDOW characters (see extract_year) so this
+# always matches the document's own citation, not a precedent case cited
+# later in the reasoning.
+CITATION_YEAR_RE = re.compile(r"\[?\s*(20\d{2})\s*\]?\s*SGP\s*DPCS?", re.I)
+CITATION_WINDOW = 600
 DATE_RE = re.compile(
     r"\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|"
     r"October|November|December)\s+(20\d{2})\b"
@@ -168,7 +177,7 @@ def extract_year(text, finding):
         m = UNDERTAKING_DATE_RE.search(text)
         if m:
             return int(m.group(2))
-    m = CITATION_YEAR_RE.search(text)
+    m = CITATION_YEAR_RE.search(text[:CITATION_WINDOW])
     if m:
         return int(m.group(1))
     # Fallback: latest plausible date year in the document.
@@ -184,7 +193,7 @@ def main():
     pdf_dir = src / "PDFs"
     out_path = Path(__file__).resolve().parent.parent / "data" / "rulings.json"
 
-    rows = list(csv.DictReader(open(csv_path, newline="")))
+    rows = list(csv.DictReader(open(csv_path, newline="", encoding="utf-8")))
     print(f"Loaded {len(rows)} catalogue rows from {csv_path.name}")
 
     records, review, access_breach_hits, missing_pdf, missing_year = [], [], [], [], []
@@ -255,7 +264,7 @@ def main():
         "count": len(records),
         "records": records,
     }
-    out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+    out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
 
     # ---- Build report -------------------------------------------------------
     print(f"\nWrote {out_path} ({len(records)} records)")
