@@ -100,7 +100,7 @@ Structure of each Tier 1C email:
 5. Closing question (what they can do)
 6. Sign-off ("Yours sincerely,")
 7. **Disclosure paragraph (relationship + case-stands-on-its-own affirmation)**
-8. Signature with context line ("SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, MOH, Covid period.")
+8. Signature: `Yours sincerely,` + `Lim Zirui (Ray Lim)`. (Removed: SMU MBA context line, per user instruction 3 July 2026.)
 
 Each of the three emails has a unique disclosure paragraph reflecting the relationship (academic / professional / personal). No template is shared between them.
 
