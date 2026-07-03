@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Kuah Boon Theng
+slug: kuah-boon-theng
+email: boontheng@legalclinic.com.sg
+designation: Nominated Member of Parliament
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Ms Kuah Boon Theng,

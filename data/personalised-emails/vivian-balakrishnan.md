@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Vivian Balakrishnan
+slug: vivian-balakrishnan
+email: cashew.mps@pap.org.sg
+designation: Minister for Foreign Affairs
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Dr Vivian Balakrishnan,

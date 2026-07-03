@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Low Yen Ling
+slug: low-yen-ling
+email: LOW_Yen_Ling@mti.gov.sg
+designation: Senior Minister of State, Ministry of Culture, Community and Youth & Ministry of Trade and Industry
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Ms Low Yen Ling,

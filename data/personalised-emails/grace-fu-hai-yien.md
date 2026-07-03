@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Grace Fu Hai Yien
+slug: grace-fu-hai-yien
+email: yhmps@yahoo.com.sg
+designation: Minister for Sustainability and the Environment
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Ms Grace Fu Hai Yien,

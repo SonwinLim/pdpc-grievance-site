@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Eric Chua
+slug: eric-chua-swee-leong
+email: Queenstown.MPS@pap.org.sg
+designation: Senior Parliamentary Secretary, Ministry of Law & Ministry of Social and Family Development
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Eric Chua,

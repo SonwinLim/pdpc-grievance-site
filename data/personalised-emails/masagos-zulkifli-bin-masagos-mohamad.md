@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Masagos Zulkifli Bin Masagos Mohamad
+slug: masagos-zulkifli-bin-masagos-mohamad
+email: masagos.zulkifli@pap.org.sg
+designation: Minister for Social and Family Development
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Masagos Zulkifli Bin Masagos Mohamad,

@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Jasmin Lau
+slug: jasmin-lau
+email: Jasmin.Lau@pap.org.sg
+designation: Minister of State, Ministry of Digital Development and Information & Ministry of Education
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Ms Jasmin Lau,

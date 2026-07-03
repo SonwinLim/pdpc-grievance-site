@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Xie Yao Quan
+slug: xie-yao-quan
+email: Jurong.Central.mps@pap.org.sg
+designation: Deputy Speaker
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Xie Yao Quan,

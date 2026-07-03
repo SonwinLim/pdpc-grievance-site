@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Tan See Leng
+slug: tan-see-leng
+email: mp@cck.sg
+designation: Minister for Manpower
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Dr Tan See Leng,

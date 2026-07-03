@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Shawn Huang Wei Zhong
+slug: shawn-huang-wei-zhong
+email: Tamanjurongsg@gmail.com
+designation: Senior Parliamentary Secretary, Ministry of Finance & Ministry of Manpower
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Shawn Huang Wei Zhong,

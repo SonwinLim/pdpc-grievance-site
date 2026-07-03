@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Denise Phua Lay Peng
+slug: denise-phua-lay-peng
+email: kampong.glam.mps@pap.org.sg
+designation: Mayor, Central Singapore District
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Ms Denise Phua Lay Peng,

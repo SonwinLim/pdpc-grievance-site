@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Gan Siow Huang
+slug: gan-siow-huang
+email: mps.marymount@gmail.com
+designation: Minister of State, Ministry of Foreign Affairs & Ministry of Trade and Industry
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Ms Gan Siow Huang,

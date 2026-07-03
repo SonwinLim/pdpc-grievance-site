@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Christopher de Souza
+slug: christopher-de-souza
+email: mps@ulupandan.sg
+designation: Deputy Speaker
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Christopher de Souza,

@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Alex Yam Ziming
+slug: alex-yam-ziming
+email: yew.tee.mps@pap.org.sg
+designation: Mayor, North West District
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Alex Yam Ziming,

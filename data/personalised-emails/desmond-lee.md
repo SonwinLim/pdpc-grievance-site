@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Desmond Lee
+slug: desmond-lee
+email: Boon.Lay@pap.org.sg
+designation: Minister for Education
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Desmond Lee,

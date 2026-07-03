@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Chee Hong Tat
+slug: chee-hong-tat
+email: chee_hong_tat@mnd.gov.sg
+designation: Minister for National Development
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Chee Hong Tat,

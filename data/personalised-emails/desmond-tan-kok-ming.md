@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Desmond Tan
+slug: desmond-tan-kok-ming
+email: Pasir.Ris.Ctrl.mps@pap.org.sg
+designation: Senior Minister of State, Prime Minister's Office
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Desmond Tan,

@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Goh Pei Ming
+slug: goh-pei-ming
+email: Marine.Parade@pap.org.sg
+designation: Minister of State, Ministry of Home Affairs & Ministry of Social and Family Development
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Goh Pei Ming,

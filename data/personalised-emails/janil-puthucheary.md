@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Janil Puthucheary
+slug: janil-puthucheary
+email: janil.puthucheary@pap.org.sg
+designation: Senior Minister of State, Ministry of Education & Ministry of Sustainability and the Environment
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Dr Janil Puthucheary,

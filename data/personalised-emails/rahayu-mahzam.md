@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Rahayu Mahzam
+slug: rahayu-mahzam
+email: Rahayu.Mahzam@pap.org.sg
+designation: Minister of State, Ministry of Digital Development and Information & Ministry of Health
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Ms Rahayu Mahzam,

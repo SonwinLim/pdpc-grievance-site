@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Desmond Choo
+slug: desmond-choo
+email: DesmondChoopc@gmail.com
+designation: Minister of State, Ministry of Defence
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Desmond Choo,

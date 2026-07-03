@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Muhammad Faishal Ibrahim
+slug: muhammad-faishal-ibrahim
+email: Muhammad_faishal_ibrahim@mha.gov.sg
+designation: Acting Minister-in-charge of Muslim Affairs and Senior Minister of State, Ministry of Home Affairs
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Assoc Prof Dr Muhammad Faishal Ibrahim,

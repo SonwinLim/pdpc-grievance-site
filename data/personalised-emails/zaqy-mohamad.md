@@ -1,3 +1,13 @@
+---
+tier: 2
+name: Zaqy Mohamad
+slug: zaqy-mohamad
+email: mp@marsiling.sg
+designation: Senior Minister of State, Ministry of Defence & Ministry of Sustainability and the Environment
+subject: Follow-up on the PDPC grievance, an update and a request for your attention
+---
+
+
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
 Dear Mr Zaqy Mohamad,
