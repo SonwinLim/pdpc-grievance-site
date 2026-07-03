@@ -18,8 +18,16 @@ From the spec at `docs/superpowers/specs/2026-07-02-mp-email-personalisation-des
 4. **No adversarial framing**. Never use "cover-up", "gaslight". Use "documented pattern", "regulatory interpretation gap", "departure from statute".
 5. **No fabricated quotes**. Every quote must come from one of: PDPC's published correspondence (`evidence/*.html`), PDPC's published rulings, the PDPA at https://sso.agc.gov.sg/Act/PDPA2012, or Singapore Parliament records.
 6. **No criminal/civil case references**. No "GCW.PI", "GCW.CRIM", "motorcycle", "taxi", "Quak Chee Wah", "Ray Lim" in body text. Use "Lim Zirui" in signature, "the Complainant" only when referring to the documented subject in third-person.
-7. **Signature (every email)**: `Yours sincerely,` + `Lim Zirui (Ray Lim)` + one context line: `SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.`
-8. **Length targets** (soft, not hard ceilings): Tier 1 **typically 400-550 words** (bespoke opening 60-90w + base body ~240w + Maradona ~90w + bespoke closing 30-50w; longer is acceptable when personalisation depth requires it per the user's "spare no tokens" direction); Tier 2 **280-330 words** (role-templated opening 40-60w + trimmed body ~240w + Maradona ~90w + role closing 30-50w); Tier 3 **240-280 words** (no opening or closing changes; no Maradona).
+7. **Signature (every email)**: `Yours sincerely,` + `Lim Zirui (Ray Lim)`. (Removed: SMU MBA / Commendation Medal context line, per user instruction 3 July 2026.)
+8. **Length targets**: **No hard word-count limit.** Per user instruction 3 July 2026: "forget about the word count limit." Emails may be as long as personalisation requires.
+9. **"Sites to verify" block (mandatory, before `Yours sincerely,`)** — every email must include:
+```
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+```
+The third URL is the official PDPC enforcement-decisions page filtered to Commission's Decisions — the canonical verification source.
 9. **Trim base draft** from ~400 to ~250 words. Drop Maradona/Hand-of-God analogy in Tier 3 only (keep for Tier 1 and Tier 2). Preserve every primary-source quote.
 9a. **Three-point central message (binding for all 108 emails)**: every email must hit these three points clearly and directly:
    1. **PDPC hid the filter on their website** instead of addressing the underlying issues. PDPC redesigned their enforcement-decisions page so that it is no longer possible to filter published cases by the type of obligation breached. The previous filter exposed the zero-Access-Obligation-breach pattern; the new layout hides it.
