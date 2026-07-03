@@ -1,7 +1,21 @@
 # Personalised MP Emails — Review Index
 
 Generated: 2026-07-03
-Total: 108 emails across 3 tiers.
+Total: 108 emails across 3 tiers. **First-wave campaign uses only 5 — see "Consolidated send set" below.**
+
+## Consolidated send set (5 emails — first wave)
+
+| # | Recipient | Tier | Role |
+|---|---|---|---|
+| 1 | Josephine Teo | 1A | Minister for Digital Development and Information (direct oversight of PDPC) |
+| 2 | Tan Kiat How | 2 | SMS, MDDI & MOH |
+| 3 | Jasmin Lau | 2 | MOS, MDDI & MOE |
+| 4 | Rahayu Mahzam | 2 | MOS, MDDI & MOH |
+| 5 | GPC for Digital Development and Information | 1A-style | 7 members; send as BCC |
+
+The other 103 emails (`data/personalised-emails/*.md`) remain available as a reserve for a second wave.
+
+Send-list CSV: `data/consolidated-send.csv`.
 
 ## Tier 1 — bespoke (25)
 
