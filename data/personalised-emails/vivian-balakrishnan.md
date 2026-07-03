@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Dr Vivian Balakrishnan,
+Dear Minister Vivian Balakrishnan,
 
 As Minister for Foreign Affairs, your portfolio shapes how Singapore is perceived internationally, including in areas such as digital governance and data protection standards. The documented PDPC pattern at pdpaaccessrights.sg has implications for Singapore’s international standing on regulatory integrity and rule of law, particularly given the parliamentary assurances given on the PDPA’s Access Obligation and the gap between those assurances and PDPC’s enforcement record. I am writing to share three findings and to ask what you can do within your remit.
 

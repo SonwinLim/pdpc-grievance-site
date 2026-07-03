@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Dr Tan See Leng,
+Dear Minister Tan See Leng,
 
 As Minister for Manpower, your portfolio directly governs the employment relationship between Singaporeans and their employers, including workplace safety, working conditions, and the personal data that passes between workers and institutions. The documented PDPC pattern at pdpaaccessrights.sg is directly relevant to the employment context, where access to records about oneself can be critical for workers seeking to understand incidents that affected their employment or wellbeing. I am writing to share three findings and to ask what you can do within your remit.
 

@@ -7,7 +7,7 @@ designation: Coordinating Minister for Public Services & Minister for Defence
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Mr Chan Chun Sing,
+Dear Coordinating Minister Chan Chun Sing,
 
 A Public Service process failure warrants your attention as Coordinating Minister for Public Services. When I brought my complaint against the Personal Data Protection Commission to the Public Service Commission, the Infocomm Media Development Authority informed them that the issues had been addressed. That representation was made at a time when no substantive reply had been provided to me. The Public Service Commission relied on IMDA’s statement and declined to act further. No remaining executive oversight channel exists outside Parliament as a result. Does IMDA’s representation to the Public Service Commission warrant review?
 

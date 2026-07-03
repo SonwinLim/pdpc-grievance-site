@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Ms Sim Ann,
+Dear Senior Minister of State Sim Ann,
 
 As Senior Minister of State at MFA and MHA, your portfolio intersects with the same public sector institutions that the documented PDPC pattern implicates. I am writing to share three findings and to ask what you can do within your remit to help address this.
 

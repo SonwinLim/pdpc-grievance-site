@@ -7,7 +7,7 @@ designation: Prime Minister & Minister for Finance
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Mr Lawrence Wong,
+Dear Prime Minister Lawrence Wong,
 
 I am writing about nineteen months of escalation through every available channel, ending without a substantive reply. Two appeals were submitted on my behalf by my Member of Parliament. Neither received a response that addressed the substance. When I approached the Public Service Commission, the Infocomm Media Development Authority informed them that the issues had been addressed. That representation was made at a time when no substantive reply had been provided to me. The Public Service Commission relied on IMDA’s statement and declined to act further. This leaves no remaining executive oversight channel outside Parliament. I am asking whether this warrants direct Prime-Ministerial review.
 

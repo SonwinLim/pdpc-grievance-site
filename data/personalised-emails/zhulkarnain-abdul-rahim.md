@@ -7,7 +7,7 @@ designation: Minister of State, Ministry of Foreign Affairs & Ministry of Social
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Mr Zhulkarnain Abdul Rahim,
+Dear Minister of State Zhulkarnain Abdul Rahim,
 
 I thank you for the parliamentary question that resulted in Written Answer 19596, delivered on 9 September 2025. In that answer, Minister Josephine Teo stated that organisations must preserve data while access requests are being processed, with criminal penalties for intentional concealment. Those are clear assurances. Since that answer, PDPC has not acknowledged any breach in my case. It continued to maintain that the footage was not personal data, a position applied inconsistently across its published decisions. I am writing to ask whether you would consider a follow-up written question.
 

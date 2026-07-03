@@ -7,7 +7,7 @@ designation: Coordinating Minister for National Security & Minister for Home Aff
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Mr K Shanmugam,
+Dear Coordinating Minister K Shanmugam,
 
 A CCTV access loophole has direct consequences for public safety. Under the Personal Data Protection Act, organisations can deploy cameras widely and then deny access to footage by arguing it does not constitute personal data. That interpretation contradicts the statute’s plain text. It also means cameras deployed for public safety purposes can become instruments for denying accountability when footage is actually needed. The question is whether the Act is being read consistently with its purpose and with the public safety objectives it is meant to serve.
 

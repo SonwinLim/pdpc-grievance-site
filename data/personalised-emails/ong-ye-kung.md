@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Mr Ong Ye Kung,
+Dear Coordinating Minister Ong Ye Kung,
 
 As Coordinating Minister for Social Policies and Health, your portfolio touches on areas directly affected by the documented PDPC pattern. The three findings below are framed for senior ministerial consideration.
 

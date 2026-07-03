@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Ms Grace Fu Hai Yien,
+Dear Minister Grace Fu Hai Yien,
 
 As Minister for Sustainability and the Environment, your portfolio oversees environmental monitoring agencies, the National Environment Agency, and public utilities that collect and hold personal data about Singaporeans in their daily interactions with the built and natural environment. The documented PDPC pattern at pdpaaccessrights.sg raises systemic questions about whether the statutory right of access is genuinely available across all sectors, including those under your purview. I am writing to share three findings and to ask what you can do within your remit.
 

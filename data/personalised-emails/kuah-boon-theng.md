@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Ms Kuah Boon Theng,
+Dear Nominated Member of Parliament Kuah Boon Theng,
 
 As a Nominated Member of Parliament with a legal practice, your portfolio intersects with the same public sector institutions that the documented PDPC pattern implicates. I am writing to share three findings and to ask what you can do within your remit to help address this.
 

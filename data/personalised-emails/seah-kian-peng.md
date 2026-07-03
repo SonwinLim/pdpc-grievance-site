@@ -7,7 +7,7 @@ designation: Speaker of Parliament
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Mr Seah Kian Peng,
+Dear Speaker Seah Kian Peng,
 
 A documented regulatory interpretation gap affecting the statutory Access Obligation raises a procedural question. Across over a decade of published enforcement decisions, the Personal Data Protection Commission has never once found a breach of the Access Obligation, while finding 204 breaches of the Protection Obligation in the same period. It has pursued Protection Obligation cases aggressively, including data breach decisions against major organisations. This discrepancy is not explained by the text of the statute. I am asking, as a procedural matter, whether a Member of Parliament could raise this documented gap under the substantive motion procedure. I am not asking you to rule on the substance. I am asking whether parliamentary procedure can accommodate this issue.
 

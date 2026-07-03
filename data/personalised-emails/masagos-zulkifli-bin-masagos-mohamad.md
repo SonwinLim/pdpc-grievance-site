@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Mr Masagos Zulkifli Bin Masagos Mohamad,
+Dear Minister Masagos Zulkifli,
 
 As Minister for Social and Family Development, your portfolio oversees some of the most vulnerable members of society, including children and families in contact with social service agencies, and individuals receiving government support. When the statutory right of access under the PDPA is not effectively enforced, it is these communities who are least equipped to challenge refusals and most harmed when evidence they are entitled to access is denied or destroyed. I am writing to share three findings and to ask what you can do within your remit.
 

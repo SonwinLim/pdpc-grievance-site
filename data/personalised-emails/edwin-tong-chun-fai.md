@@ -7,7 +7,7 @@ designation: Minister for Law & Second Minister for Home Affairs
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Mr Edwin Tong Chun Fai,
+Dear Minister Edwin Tong,
 
 The Personal Data Protection Commission gave a reason for dismissing my access request complaint that warrants the Law Ministry’s attention. PDPC wrote that its Advisory Guidelines are not determinative and that the PDPA takes precedence. Yet in the same decisions, it used those same Guidelines as the sole basis for finding that my footage was not personal data, citing the pixelated quality of the images. It is unclear how Guidelines can simultaneously be not determinative for PDPC and yet be used as the sole basis for a finding against a complainant. This contradiction is documented at pdpaaccessrights.sg. Has the Law Ministry reviewed PDPC’s interpretation of sections 2(1)(b) and 21?
 

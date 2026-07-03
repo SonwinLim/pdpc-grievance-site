@@ -7,7 +7,7 @@ designation: Minister for Digital Development and Information
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Madam Josephine Teo,
+Dear Minister Josephine Teo,
 
 Your Written Answer 19596, delivered in Parliament on 9 September 2025, stated that organisations must preserve data while access requests are being processed, and that criminal penalties apply for intentional concealment. Those are clear and strong assurances. In my case, the CCTV footage that would have shown what happened to me was denied and then destroyed while my request was still alive. I am asking whether your office still stands by those assurances, given what is now documented.
 

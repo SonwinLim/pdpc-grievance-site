@@ -7,7 +7,7 @@ designation: Minister, Prime Minister’s Office, Leader of the House, Second Mi
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Madam Indranee Rajah,
+Dear Minister Indranee Rajah,
 
 A regulatory interpretation gap affecting the statutory Access Obligation warrants your procedural attention. Across over a decade of published enforcement decisions, the Personal Data Protection Commission has never once found a breach of the Access Obligation, while finding 204 breaches of the Protection Obligation in the same period. It has pursued Protection Obligation cases aggressively, including data breach decisions against major organisations. This discrepancy is not explained by the text of the statute. As Leader of the House, I am asking whether parliamentary procedure offers a legitimate avenue to raise a systemic regulatory concern of this kind.
 

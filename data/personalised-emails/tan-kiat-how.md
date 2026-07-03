@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Mr Tan Kiat How,
+Dear Senior Minister of State Tan Kiat How,
 
 As Senior Minister of State at MDDI, you are directly in the line of accountability for the regulator whose pattern is documented at pdpaaccessrights.sg. I am writing to flag three findings below and to ask whether your office will review PDPC's enforcement posture toward the Access Obligation.
 

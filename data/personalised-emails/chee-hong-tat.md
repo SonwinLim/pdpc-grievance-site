@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Mr Chee Hong Tat,
+Dear Minister Chee Hong Tat,
 
 As Minister for National Development, your portfolio oversees the Building and Construction Authority and the Urban Redevelopment Authority, both of which interact with residents and the public through systems that collect and process personal data. The documented PDPC pattern documented at pdpaaccessrights.sg is directly relevant to the housing and development sector, where Town Councils and management corporations hold significant amounts of data about residents in their care. I am writing to share three findings and to ask what you can do within your remit.
 

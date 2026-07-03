@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Mr Desmond Lee,
+Dear Minister Desmond Lee,
 
 As Minister for Education, your portfolio includes universities, polytechnics, Institutes of Technical Education, and schools, all of which hold sensitive personal data about students and their families. The documented PDPC pattern at pdpaaccessrights.sg has direct implications for the educational sector, where institutions are frequently both data controllers and, in the case of hostels and facilities, data environments where incidents may occur and evidence needs to be preserved. I am writing to share three findings and to ask what you can do within your remit.
 

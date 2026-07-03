@@ -7,7 +7,7 @@ designation: Senior Minister
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Mr Lee Hsien Loong,
+Dear Senior Minister Lee Hsien Loong,
 
 The Personal Data Protection Act was enacted in 2012 under your Government. Its plain text grants a right of access to personal data, which CCTV footage pre-eminently is. The Personal Data Protection Commission’s published decisions have narrowed the definition of personal data in ways the statute does not support. This gap between what the Act says and what the regulator has done is now documented at pdpaaccessrights.sg. The question I am raising is whether the statute still means what it said when enacted.
 

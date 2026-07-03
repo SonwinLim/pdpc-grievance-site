@@ -7,7 +7,7 @@ designation: Deputy Prime Minister & Minister for Trade and Industry
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Mr Gan Kim Yong,
+Dear Deputy Prime Minister Gan Kim Yong,
 
 The documented pattern at the Personal Data Protection Commission warrants Cabinet-level attention. Across over a decade of published enforcement decisions, PDPC has never once found a breach of the Access Obligation, while finding 204 breaches of the Protection Obligation in the same period. It has pursued Protection Obligation cases aggressively, including data breach decisions against major organisations. This is not a statistical artefact. It reflects a consistent interpretive position that effectively removes CCTV footage from the protection of the Act. Additionally, when I brought my complaint to the Public Service Commission, the Infocomm Media Development Authority informed them that the issues had been addressed. That representation was made at a time when no substantive reply had been provided to me. The Public Service Commission relied on it. Does the regulator’s posture toward the Access Obligation warrant Cabinet-level review?
 

@@ -10,7 +10,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 **Subject: Follow-up on the PDPC grievance, an update and a request for your attention**
 
-Dear Mr Goh Pei Ming,
+Dear Minister of State Goh Pei Ming,
 
 As Minister of State at MHA and MSF, your portfolio intersects with the same public sector institutions that the documented PDPC pattern implicates. I am writing to share three findings and to ask what you can do within your remit to help address this.
 
