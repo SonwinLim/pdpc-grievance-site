@@ -21,9 +21,13 @@ I studied under your teaching on legal reasoning and regulatory interpretation. 
 
 As an NMP with a legal background, I would ask whether this regulatory interpretation gap, which is visible in the public record, warrants formal scrutiny through your NMP platform, based on the evidence.
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.
 
 ---
 

@@ -17,6 +17,10 @@ To borrow an analogy from football: this is the Hand of God moment. I asked the 
 
 The footage that would have shown me what happened was denied and then destroyed. I rebuilt the removed filter at pdpaaccessrights.sg. As Coordinating Minister for Public Services, does IMDA’s representation to the Public Service Commission warrant review?
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.

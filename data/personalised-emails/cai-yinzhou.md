@@ -21,9 +21,13 @@ You know my character and my track record. I served with integrity during Covid,
 
 As a backbencher, what procedural options are available to you to raise a documented systemic pattern in Parliament, even when the Government side may not prioritise it?
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.
 
 ---
 

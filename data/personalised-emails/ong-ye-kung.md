@@ -22,6 +22,10 @@ The numbers bear this out. While PDPC has aggressively enforced the Protection O
 
 Would you consider commissioning a formal review of PDPC's enforcement posture toward the Access Obligation, given your mandate over the health and social policy institutions affected by this pattern?
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.

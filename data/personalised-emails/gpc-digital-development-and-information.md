@@ -30,6 +30,10 @@ I still do not know what happened to me on the night of the accident, because th
 
 Within the GPC's remit, would the Committee consider raising this documented gap in any upcoming MDDI-related hearing, scrutiny motion, or written-question cycle?
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.

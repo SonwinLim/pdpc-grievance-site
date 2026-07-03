@@ -21,9 +21,13 @@ I saw your commitment to evidence-based policy and public accountability during 
 
 As someone who worked under your leadership, I would ask whether your office will review the documented pattern of how PDPC has handled access-rights cases, based solely on the public record and the evidence.
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.
 
 ---
 

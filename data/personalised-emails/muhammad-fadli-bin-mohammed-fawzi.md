@@ -21,6 +21,10 @@ Mr Lim, I have rebuilt the filter independently at https://pdpaaccessrights.sg/e
 
 Would your constituency office find it useful to have this documented gap on record, should a resident raise it with your team?
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.

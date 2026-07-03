@@ -17,6 +17,10 @@ To borrow an analogy from football: this is the Hand of God moment. I asked the 
 
 Across over a decade of published enforcement decisions, PDPC has never once found a breach of the Access Obligation. By contrast, it has pursued Protection Obligation cases aggressively, including high-profile data breach decisions against major organisations. The footage that would have shown me what happened was denied and then destroyed. Would you consider a follow-up written question asking how many Access Obligation complaints have been filed with PDPC since 2012, and why zero breach findings have been recorded for that obligation?
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.

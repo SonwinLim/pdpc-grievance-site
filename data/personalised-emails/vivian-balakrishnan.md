@@ -22,6 +22,10 @@ The numbers bear this out. Across PDPC's entire published enforcement record, do
 
 Would you consider whether the Ministry of Foreign Affairs can raise through appropriate channels the question of whether Singapore’s domestic enforcement record on the Access Obligation is consistent with the standards of regulatory integrity that Singapore projects internationally?
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.

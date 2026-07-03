@@ -22,6 +22,10 @@ The numbers bear this out. While PDPC has aggressively enforced the Protection O
 
 Would your office consider issuing a public statement on what this documented pattern means for the statutory right of access that every Singaporean holds under the Act?
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.
