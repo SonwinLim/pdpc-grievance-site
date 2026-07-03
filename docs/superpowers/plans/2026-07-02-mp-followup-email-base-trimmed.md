@@ -6,9 +6,9 @@ I am writing to update you on the situation I raised with you last year regardin
 
 I still do not know what happened to me on the night of the accident, because the footage that would have shown me was denied, and then destroyed.
 
-Recently I discovered that PDPC redesigned its enforcement-decisions website so that it is no longer possible to filter published cases by the type of obligation breached (PDPC's own page: https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance?page=1&sort=latest). I had previously pointed out that PDPC has never once found a breach of the Access Obligation across its entire published enforcement record. That has not changed.
+Recently I discovered that PDPC redesigned its enforcement-decisions website so that it is no longer possible to filter published cases by the type of obligation breached. I had previously pointed out that PDPC has never once found a breach of the Access Obligation across its entire published enforcement record. That has not changed.
 
-In response, I rebuilt the missing filter myself: https://pdpaaccessrights.sg/enforcement-index.html. I have also published a full account of what went wrong in my case, so that PDPC cannot simply let the matter be forgotten: https://pdpaaccessrights.sg/index.html.
+In response, I rebuilt the missing filter myself. I have also published a full account of what went wrong in my case, so that PDPC cannot simply let the matter be forgotten.
 
 Beyond my own case, PDPC has never investigated a single CCTV access-denial complaint in the entire history of its published decisions. Having seen how my own case was ultimately resolved, it is not hard to infer why that number stays at zero.
 
@@ -16,7 +16,10 @@ The PDPA's definition of personal data has more than one limb, in the same way a
 
 I would like to ask you directly: is it right that rights under the law can be denied this way, by the very body appointed to protect them?
 
+Three sites to verify:
+- https://pdpaaccessrights.sg
+- https://pdpaaccessrights.sg/enforcement-index.html
+- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
-
-SMU MBA (Mar 2024, 4.0 GPA); Commendation Medal, Ministry of Health, Covid period.
