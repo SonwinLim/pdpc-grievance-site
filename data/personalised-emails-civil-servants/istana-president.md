@@ -1,9 +1,9 @@
 ---
 tier: cs
-name: Commissioner, PDPC
-slug: pdpc-commissioner
-email: info@pdpc.gov.sg
-designation: Commissioner, Personal Data Protection Commission
+name: Tharman SHANMUGARATNAM
+slug: istana-president
+email: tharman_s@istana.gov.sg
+designation: President of the Republic of Singapore
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
@@ -20,9 +20,9 @@ h2 { font-size: 1.15em; margin-top: 1.6em; margin-bottom: 0.6em; }
 li { margin-bottom: 0.6em; }
 ol { margin-bottom: 1em; }
 </style>
-<h2 style="font-weight: normal; margin-bottom: 1.2em;">Dear <strong>Commissioner, Personal Data Protection Commission Commissioner, PDPC</strong>,</h2>
+<h2 style="font-weight: normal; margin-bottom: 1.2em;">Dear <strong>President of the Republic of Singapore Tharman SHANMUGARATNAM</strong>,</h2>
 
-<p>I am writing to you in your capacity as Commissioner of the Personal Data Protection Commission. Your office is the subject of the documented pattern at pdpaaccessrights.sg. I write not to relitigate my individual case, which is closed, but to flag three systemic findings that I believe warrant the Commission's own internal review.</p>
+<p>As President, you hold the constitutional office that stands above the executive. I am writing to you because the documented pattern at pdpaaccessrights.sg raises questions about whether a statutory right given to every Singaporean under the PDPA has been rendered ineffective in practice. Every executive channel has been tried. Your office is the last institution that can look at this without being the subject of it.</p>
 
 <h2>What caused me to revisit this issue</h2>
 <p>This is not the first time I have reached out. I have raised this matter previously with Ministers, my Member of Parliament, PDPC, IMDA, and the Public Service Commission. After repeated escalation without a substantive answer, I had largely accepted that further private correspondence would not move the matter forward.</p>
@@ -61,7 +61,7 @@ ol { margin-bottom: 1em; }
 
 <h2>What I am asking</h2>
 
-<p>I am asking whether the Commission will conduct its own review of the documented pattern, and whether it will address the question of why zero Access Obligation breach findings have been recorded across the entirety of its published enforcement history.</p>
+<p>I am asking that your office be aware of the documented pattern. I do not ask for intervention. I ask that the record be preserved, so that if constitutional questions arise regarding the enforcement of statutory rights under the PDPA, the facts are not lost.</p>
 
 <h2>Sites for verification</h2>
 <ol>
@@ -88,6 +88,8 @@ ol { margin-bottom: 1em; }
 <p>Yours sincerely,<br>Ray Lim</p>
 
 
+
+<p>CC: zed_teo@istana.gov.sg, rachael_leong@istana.gov.sg</p>
 
 <p>My complaints were the only ones where PDPC were compelled to investigate, after considerable effort including reading the laws and guidelines myself and filing appeals, and still no Access Obligation breaches were found. Imagine how many Singaporeans and residents in Singapore were told by PDPC, in effect, that their rights under the PDPA could not be exercised. After all the pain I have been through, it is my mission to make sure that other Singaporeans and residents will not suffer what I went through.</p>
 
