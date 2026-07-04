@@ -13,7 +13,9 @@ The documented pattern at the Personal Data Protection Commission warrants Cabin
 
 PDPC responded to my complaint by redesigning its enforcement-website to remove the obligation-type filter that had made the disparity visible. I rebuilt the filter and published everything at [pdpaaccessrights.sg](https://pdpaaccessrights.sg).
 
-To borrow an analogy from football: this is the Hand of God moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today’s game has VAR, cameras, and replay. Even with all that evidence available, the referee still looked away. Worse, in football that referee can be reviewed and held to account. Here, the enforcer sits in judgement of itself. Nothing happens.
+To borrow an analogy from football: this is the Hand of God moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today's game has VAR, cameras, and replay. Even with all that evidence available, the referee still looked away. Worse, in football that referee can be reviewed and held to account. Here, the enforcer sits in judgement of itself. Nothing happens.
+
+But here is the further point. A referee has discretion on which marginal fouls to call â a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
 
 The footage that would have shown me what happened was denied and then destroyed. I rebuilt the removed filter at [pdpaaccessrights.sg](https://pdpaaccessrights.sg). The consequences of that denial have shaped every day since. Does a matter affecting a statutory right granted to all Singaporeans warrant Cabinet-level review?
 

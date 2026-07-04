@@ -13,7 +13,9 @@ The Personal Data Protection Commission gave a reason for dismissing my access r
 
 Across over a decade of published enforcement decisions, PDPC has never once found a breach of the Access Obligation, while finding 204 breaches of the Protection Obligation in the same period. It has pursued Protection Obligation cases aggressively, including data breach decisions against major organisations. This is not explained by the text of the Act. I raised this with PDPC. It responded by redesigning its enforcement-website to remove the obligation-type filter. I rebuilt the filter and published everything at [pdpaaccessrights.sg](https://pdpaaccessrights.sg).
 
-To borrow an analogy from football: this is the Hand of God moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today’s game has VAR, cameras, and replay. Even with all that evidence available, the referee still looked away. Worse, in football that referee can be reviewed and held to account. Here, the enforcer sits in judgement of itself. Nothing happens.
+To borrow an analogy from football: this is the Hand of God moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today's game has VAR, cameras, and replay. Even with all that evidence available, the referee still looked away. Worse, in football that referee can be reviewed and held to account. Here, the enforcer sits in judgement of itself. Nothing happens.
+
+But here is the further point. A referee has discretion on which marginal fouls to call â a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
 
 The footage that would have shown me what happened was denied and then destroyed. I rebuilt the removed filter at [pdpaaccessrights.sg](https://pdpaaccessrights.sg). Has the Law Ministry reviewed PDPC’s interpretation of sections 2(1)(b) and 21?
 
