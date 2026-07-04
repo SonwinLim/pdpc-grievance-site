@@ -171,26 +171,46 @@ Opens with 2 seconds of hand-drawn style — a hand holding a phone, angled up a
 ---
 
 **What happened:**
-[TODO — see Task 5]
+PDPC applied different reasoning to each case, and in both cases, it was not the reasoning the condominium had given. For MCST 3615, PDPC found “no personal data” — but the MCST had never claimed this. The MCST’s stated ground was “police-only access.” The regulator substituted its own justification. For MCST 4599, PDPC found “footage overwritten before formal refusal” — but this ignored the verbal refusal on 17 April 2024 and the false “no footage” claim made when challenged, both of which preceded the 30 April overwrite. In neither case did PDPC test the condominium’s actual stated refusal ground against s.21(3) or the Fifth Schedule — the only provisions that authorise a lawful refusal of an access request. PDPC invented reasoning for the respondents rather than testing what they actually said against the statute.
 
 **Narration:**
-[TODO — see Task 5]
+Let me show you what PDPC did, side by side.
+
+First condominium — Suites@Cairnhill. The DPO said: “Only by police order.” PDPC said: “The footage contains no personal data.” The condominium never said that. PDPC invented that reason for them.
+
+Second condominium — The Scotts Tower. They verbally refused on April 17th. When challenged, they claimed no footage existed. That was false — PDPC’s own later finding confirmed the footage was there until April 30th. But PDPC’s conclusion: “footage overwritten before formal refusal.” They ignored the verbal refusal. They ignored the false statement. They invented a timeline that conveniently made the deletion before any refusal.
+
+In both cases, PDPC substituted its own reasoning for what the condominiums actually said. And in neither case did they test the actual stated grounds against the law. Section 21, subsection 3, together with the Fifth Schedule — these are the only provisions that authorise an organisation to lawfully refuse an access request.
+
+“Privacy” is not listed. “Police-only” is not listed. PDPC never even checked.
 
 **Image prompt:**
-[TODO — see Task 5]
+Clean/systemic split-screen editorial layout. Two columns, labelled “MCST 3615” and “MCST 4599.” Each column has two rows: top row shows the condominium’s stated refusal ground in black text (left: “Police-only access”; right: “Privacy / No footage”). Bottom row shows PDPC’s substituted reasoning in grey, with a strike-through line connecting the two (left: “No personal data”; right: “Footage overwritten before formal refusal”). Between the two columns, the Fifth Schedule of the PDPA is rendered as a partial document — a checklist with all items unchecked. Black, white, Singapore statutory red (#C41230) for the unchecked boxes. Flat-vector, no illustration — pure typographic layout. The viewer should understand at a glance: the stated grounds were never tested against the statute.
 
 ---
 ## Scene 8 — Nine Questions, One Response [7:00–8:00] · 60s · clean/systemic
 ---
 
 **What happened:**
-[TODO — see Task 5]
+The Complainant sent PDPC nine legal questions spanning six sections of the PDPA. Every question received an identical one-line response: “The Guidelines are not determinative; the PDPA takes precedence.” PDPC did not name which guideline, which clause of the PDPA, or how the two conflict. The decisions themselves were withheld from the Complainant until he escalated to the Prime Minister’s Office, multiple government ministers, and the President’s Office. Only then were the decisions released. PDPC then declared the matter closed.
 
 **Narration:**
-[TODO — see Task 5]
+I wrote to PDPC with nine questions. Specific, legal questions across six sections of the PDPA. About the clarity test — which section of the Act authorises it? About the Fifth Schedule — why were the stated refusal grounds never tested against it? About the deletion — why was no preservation notice issued?
+
+The response to every question was the same. One line. Copied and pasted — nine times.
+
+“The Guidelines are not determinative. The PDPA takes precedence.”
+
+They did not name which guideline they were dismissing. They did not name which clause of the PDPA overrides it. They did not explain how the two conflict.
+
+Nine legal questions. Six sections of the PDPA. One identical non-answer. Nine times.
+
+And here is the part I still find difficult to believe. The decisions themselves — PDPC’s actual written findings — were withheld from me. I had filed the complaint. I was the complainant. And I was not given the decisions. They were released only after I escalated to the Prime Minister’s Office, to government ministers, to the President’s Office. Only then did PDPC release them.
+
+Then they declared the matter closed.
 
 **Image prompt:**
-[TODO — see Task 5]
+Clean/systemic editorial layout. A single sheet of paper, photocopied nine times, each sheet with the same line highlighted in Singapore statutory red (#C41230): “The Guidelines are not determinative; the PDPA takes precedence.” The nine sheets are fanned out on a surface like a dealt hand of cards. A red stamp reads “CLOSED” — the stamp is slightly misaligned, the ink slightly uneven. In the corner of the composition, partially visible, a stack of unopened letters with faint postmarks: “PMO,” “President’s Office,” “Ministry.” Flat-vector illustration, black and white with one accent colour. No human figures. The documents themselves are the subject. Bureaucratic, indifferent, final.
 
 ---
 ## Scene 9 — IMDA — The Oversight That Didn't Oversee [8:00–8:45] · 45s · clean/systemic
