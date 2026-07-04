@@ -15,7 +15,7 @@ I still do not know what happened to me on the night of the accident, because th
 
 Recently I discovered that PDPC redesigned its enforcement-decisions website so that it is no longer possible to filter published cases by the type of obligation breached (PDPC's own page: https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance?page=1&sort=latest). I had previously pointed out that PDPC has never once found a breach of the Access Obligation across its entire published enforcement record. That has not changed.
 
-In response, I rebuilt the missing filter myself: https://pdpaaccessrights.sg/enforcement-index.html. I have also published a full account of what went wrong in my case, so that PDPC cannot simply let the matter be forgotten: https://pdpaaccessrights.sg/index.html.
+In response, I rebuilt the missing filter myself: [https://pdpaaccessrights.sg/enforcement-index.html.](https://pdpaaccessrights.sg/enforcement-index.html.) I have also published a full account of what went wrong in my case, so that PDPC cannot simply let the matter be forgotten: [https://pdpaaccessrights.sg/index.html.](https://pdpaaccessrights.sg/index.html.)
 
 Beyond my own case, PDPC has never investigated a single CCTV access-denial complaint in the entire history of its published decisions. Having seen how my own case was ultimately resolved, it is not hard to infer why that number stays at zero.
 
@@ -24,14 +24,15 @@ The PDPA's definition of personal data has more than one limb, in the same way a
 I would like to ask you directly: is it right that rights under the law can be denied this way, by the very body appointed to protect them?
 
 Three sites to verify:
-- https://pdpaaccessrights.sg
-- https://pdpaaccessrights.sg/enforcement-index.html
-- https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
+- [pdpaaccessrights.sg](https://pdpaaccessrights.sg) — full account of the documented pattern, the rebuilt enforcement filter, and the primary record
+- [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) — the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
+- [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) — the official PDPC published-decisions page, filterable by obligation type
 
 Attachments:
 - BreachBreakdown.jpg (PDPC breach-by-obligation chart: 204 Protection vs 0 Access Obligation)
 - entry-gate-overlay.jpg (pdpaaccessrights.sg entry layover)
 - pdpa-masking-42.png (PDPC Advisory Guidelines page 42, para 4.59: blurred/pixelated masking may not be foolproof)
+- hansard.jpg (Parliament Written Answer 19596, 22 September 2025: assurance on preservation + criminal penalties)
 
 Yours sincerely,
 Lim Zirui (Ray Lim)
