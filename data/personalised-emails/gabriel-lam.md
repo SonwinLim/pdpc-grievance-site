@@ -21,7 +21,7 @@ li { margin-bottom: 0.6em; }
 ol { margin-bottom: 1em; }
 </style>
 
-<h2 style="font-weight: normal; margin-bottom: 1.2em;">Dear <strong>Gabriel Lam</strong>,</h2>
+<h2 style="font-weight: normal; margin-bottom: 1.2em;">Dear <strong>Mr Gabriel Lam</strong>,</h2>
 
 <p>I rebuilt the missing enforcement filter at <a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a>. The issue is larger than my own case.</p>
 
