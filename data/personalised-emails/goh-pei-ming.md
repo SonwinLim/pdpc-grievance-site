@@ -44,5 +44,8 @@ Attachments:
 4. hansard.jpg
    a. Parliament Written Answer 19596, 22 September 2025: assurance on preservation + criminal penalties
 
+
+CC: Agnes_Lee@mha.gov.sg
+
 Yours sincerely,
 Lim Zirui (Ray Lim)
