@@ -31,26 +31,42 @@ This file is the input to `/yt-intake` for voice-over generation and MiniMax fra
 ---
 
 **What happened:**
-[TODO — see Task 2]
+On 9 September 2025, Minister Josephine Teo told Parliament that the PDPA requires organisations to preserve personal data while access requests are processed, with criminal penalties for intentional destruction. In the Complainant's case — the only two CCTV-access-refusal complaints across 384 published PDPC enforcement actions — the footage was deleted. PDPC found no preservation breach and no Access Obligation breach. Both cannot be true. One of them must be wrong.
 
 **Narration:**
-[TODO — see Task 2]
+In September 2025, a member of parliament asked the minister responsible: when someone requests their own CCTV footage under the Personal Data Protection Act, is the organisation required to preserve that footage while the request is being processed?
+
+The minister's answer was clear. Yes. Organisations must have appropriate measures to preserve the requested data. There are criminal penalties for intentional destruction to avoid access requests.
+
+Those are the words of Minister Josephine Teo. On 9 September 2025. In the Parliament of Singapore.
+
+Here is what happened when I made that request.
 
 **Image prompt:**
-[TODO — see Task 2]
+Clean/systemic editorial infographic. Split-screen composition. Left panel: a formal parliamentary record page, the words "preserve the requested personal data" highlighted in Singapore statutory red (#C41230). Right panel: a PDPC decision document, the words "no breach" stamped in institutional grey. Between them, a question mark rendered in black. The background is white. No illustrations — pure typographic layout. The viewer should feel the collision of two official documents that cannot both be true.
 
 ---
 ## Scene 2 — The Accident [0:30–1:30] · 60s · hand-drawn
 ---
 
 **What happened:**
-[TODO — see Task 2]
+On 13 April 2024, at approximately 5:06 AM, the Complainant was injured when a taxi cut into his lane on Cairnhill Road, Singapore. The impact caused a subarachnoid haemorrhage — bleeding around the brain. The Complainant lost all memory of the accident and the period surrounding it. The taxi driver was subsequently charged under the Road Traffic Act for careless driving. The two condominiums flanking the road — The Scotts Tower and Suites@Cairnhill — both had CCTV cameras covering the road. Security staff at both condos identified the relevant footage within minutes of the accident.
 
 **Narration:**
-[TODO — see Task 2]
+13 April 2024. 5:06 in the morning. I was riding my motorcycle on Cairnhill Road when a taxi cut into my lane.
+
+I woke up in hospital. The diagnosis was a subarachnoid haemorrhage. Bleeding around the brain.
+
+I had no memory of what happened to me. Not the impact. Not the minutes before. Not the ambulance. Nothing.
+
+What I did know — from the police report — was that two condominiums flanked the road where the accident happened. Both had CCTV cameras pointing at the street. Security staff at both buildings had already found the footage within minutes. The taxi cutting into my lane was on video. It existed. It was findable.
+
+That footage was the only record of an event I have no memory of. I needed it for two reasons. One: to understand what happened to me. Two: to support an insurance claim against the driver.
+
+Both seemed straightforward. Both were not.
 
 **Image prompt:**
-[TODO — see Task 2]
+Hand-drawn ink-and-wash illustration. A hospital bed seen from slightly above and to the side. A figure lies still, head bandaged, eyes closed. The room is dim — muted hospital blue and charcoal grey. Through a window in the background, blurred car headlights streak across a dark road. One warm accent: a small digital clock on the bedside table reads 05:06 in soft ochre. The figure is small in the frame — the bed occupies the centre, but the figure feels diminished in it. The overall mood is not dramatic, but quiet. A question mark hovers faintly, almost imperceptibly, in the window glass.
 
 ---
 ## Scene 3 — The Denials [1:30–3:15] · 105s · hand-drawn
