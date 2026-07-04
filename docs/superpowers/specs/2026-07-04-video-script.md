@@ -121,26 +121,50 @@ Hand-drawn ink-and-wash illustration. A calendar on a wall, April 2024, with the
 ---
 
 **What happened:**
-[TODO — see Task 4]
+The Complainant filed a formal complaint with PDPC detailing both refusals — the verbal denial from Scotts Tower (no company name, no DPO, no escalation), and the written "police-only" refusal from Suites@Cairnhill. Months passed. PDPC did not open a substantive investigation. It did not issue a preservation notice. The footage was deleted before PDPC took any action.
 
 **Narration:**
-[TODO — see Task 4]
+So I did what the law says to do. I filed a formal complaint with the Personal Data Protection Commission. I detailed both refusals — the verbal denial with no company name and no DPO contact from Scotts Tower, and the written "police-only" refusal from Suites@Cairnhill.
+
+And then.
+
+Nothing.
+
+Months passed.
+
+No investigation opened. No update. No preservation notice sent. The footage had been deleted in April. Nobody at PDPC had acted to preserve it. Months of silence. And then, eventually, a response — but not the one the law seemed to promise.
 
 **Image prompt:**
-[TODO — see Task 4]
+Hand-drawn ink-and-wash illustration. A desk piled with papers — the complaint filing, printed emails, advisory guidelines. A figure sits at the desk, one hand resting on the papers, the other hand open and empty, palm up. The window behind shows a calendar with months flipped forward — May, June, July — and a phone on the desk that shows no notifications. The lighting is flat, grey, late-afternoon. The figure is not angry — the posture is one of waiting. The papers are the most detailed element in the frame. The clock on the wall has hands that don't seem to be moving. Muted palette: charcoal, ochre, hospital blue.
 
 ---
 ## Scene 6 — The Clarity Test [4:45–5:45] · 60s · mixed (hand-drawn → systemic)
 ---
 
 **What happened:**
-[TODO — see Task 4]
+For MCST 3615 (Suites@Cairnhill), PDPC determined that the CCTV footage did not contain "personal data." To reach this finding, PDPC reviewed footage the Complainant himself had captured — a handphone video of the CCTV screen taken at the management office. The original footage had been deleted, so PDPC's determination was based entirely on this secondary recording. The standard PDPC applied — that a face or licence plate must be visible for footage to qualify as personal data — appears nowhere in the PDPA. The statute defines personal data by identifiability ("data about an individual who can be identified from that data"), not by image clarity. This is Maradona Beat 1: a goal scored with something not in the rules.
 
 **Narration:**
-[TODO — see Task 4]
+Eventually, PDPC issued its findings. Two cases. Two sets of reasoning.
+
+For Suites@Cairnhill, they said the CCTV footage did not contain "personal data."
+
+Here is how they made that determination. They used my own evidence — a handphone video I had taken of the CCTV screen at the management office, to document what the footage showed. The original footage was long gone by then. Deleted. Overwritten.
+
+So PDPC looked at a phone recording of a CCTV screen — a copy of a copy — and said: not clear enough. Not personal data.
+
+They invented a standard that appears nowhere in the PDPA. Face or licence plate must be visible. The statute says nothing about image quality. It defines personal data as data about an individual who can be identified from that data or from that data and other information.
+
+Identifiability. Not clarity.
+
+This is the moment to understand. PDPC took my own evidence. Used it against me. And the test they applied — the clarity test — does not exist in the legislation. It was invented. By the regulator. To dismiss my case.
+
+In football, there is a famous goal scored by Diego Maradona — his hand made contact with the ball. The referee missed it. The goal stood. Afterwards, Maradona called it "the hand of God."
+
+PDPC's clarity test is the regulatory equivalent. They scored a goal with something never in the rules. The footage was gone, so nobody could check what was really on it. They declared victory. And moved on.
 
 **Image prompt:**
-[TODO — see Task 4]
+Opens with 2 seconds of hand-drawn style — a hand holding a phone, angled up at a CCTV monitor. The monitor shows a grainy night scene. The phone screen glows. Then cross-fades to clean/systemic editorial illustration: a football field seen from above. One figure — the goalkeeper — has arms raised, claiming a handball. The referee's flag stays down — the linesman is a silhouette, motionless. In the distance, the ball is already in the net. The goalposts are subtly labelled "s.21 PDPA" — not cartoonish, but editorial. The ball carries the text "clarity test." The composition is spare — black, white, the goal net rendered in thin grey lines, the ball in Singapore statutory red (#C41230). The feeling is not anger, but a quiet, disbelieving stillness — the moment after a goal that shouldn't have counted, when the players are looking at each other and the crowd hasn't yet reacted.
 
 ---
 ## Scene 7 — Two Cases, Two Invented Reasonings [5:45–7:00] · 75s · clean/systemic
