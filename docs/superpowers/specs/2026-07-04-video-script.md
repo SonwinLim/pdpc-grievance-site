@@ -238,26 +238,54 @@ Clean/systemic editorial illustration. Two identical building silhouettes, side 
 ---
 
 **What happened:**
-[TODO — see Task 7]
+Compiled in June 2026 from PDPC's public enforcement register: across 384 published enforcement actions, the Access Obligation (s.21 of the PDPA) has produced zero breach findings. Not one. Across that entire register, only two cases involve a complainant demanding access to their own CCTV data and being refused — and both are the Complainant's. The dominant pattern of enforcement is data protection (s.24) and consent (s.13) — obligations that run against organisations mishandling data they hold. The right of a citizen to retrieve their own data from an organisation is the least enforced provision in the entire register. The clarity test, applied consistently, explains this: if face or licence plate must be visible for CCTV to qualify as personal data, most real-world CCTV footage falls outside access protection. This is Maradona Beat 2: after the goal, Maradona was asked about it. He said — "It was a little bit the hand of God, and a little bit the head of Maradona." Not quite admitting. Not quite denying. PDPC's one-line reply sent nine times — same energy. They cannot say what really happened, so they say the same thing nine times and close the file.
 
 **Narration:**
-[TODO — see Task 7]
+By this point, I stopped asking whether my case was handled wrongly. I started asking a different question. How many cases like mine has PDPC ever found a breach on?
+
+I went through PDPC's entire published enforcement register. Every decision. Every finding. Three hundred and eighty-four cases, compiled as of June 2026.
+
+The Access Obligation — section 21 of the PDPA, the right of a citizen to access their own personal data — has produced zero breach findings. Zero. Across three hundred and eighty-four published enforcement actions. Not one.
+
+The dominant pattern of PDPC enforcement is data protection and consent — organisations mishandling data they hold. The right of a citizen to retrieve their own data from an organisation? That is the least enforced provision in the entire register.
+
+Across those three hundred and eighty-four cases, only two involve a complainant demanding access to their own CCTV data and being refused. Both are mine. Both from the same accident on Cairnhill Road. Both dismissed without a finding that the Access Obligation was breached.
+
+The clarity test explains this. If face or licence plate must be visible for CCTV footage to qualify as personal data — and that standard exists nowhere in the statute — then any organisation can deny an access request by asserting the footage is too unclear. And the Complainant has no tools to challenge that assertion.
+
+After the 1986 World Cup quarter-final, Maradona was asked about his goal. He said: "It was a little bit the hand of God, and a little bit the head of Maradona."
+
+Not quite admitting. Not quite denying.
+
+PDPC's one-line reply — "The Guidelines are not determinative; the PDPA takes precedence" — sent nine times to nine different legal questions. Same energy. They cannot say what really happened. So they say the same thing nine times, and declare the file closed.
 
 **Image prompt:**
-[TODO — see Task 7]
+Clean/systemic editorial composition. Centre frame: a giant number — "0" — rendered in bold black typography, filling most of the frame. Below it, in smaller text: "Access Obligation breach findings across 384 published PDPC enforcement actions." To the side, a thin document stack icon labelled "384 cases." At the bottom, two tiny document icons, isolated, labelled "Complainant's 2 cases" — the only CCTV-access-refusal complaints in the entire register. The composition is deliberately stark — black text on white, with the "0" in Singapore statutory red (#C41230). No illustrations. No metaphors. The number is the argument. Below the 0, in fine print: "Source: PDPC public enforcement register, compiled June 2026." This is an infographic, not a poster.
 
 ---
 ## Scene 11 — The Only Explanation [9:45–10:15] · 30s · clean/systemic
 ---
 
 **What happened:**
-[TODO — see Task 7]
+The documented pattern is not what ordinary regulatory failure looks like. Ordinary failure is uneven — mistakes in different directions, inconsistent outcomes, different responses to different challenges. What is documented here is coherent: every decision at every level, in the same direction. PDPC substituted invented reasoning for the MCSTs' actual stated grounds. IMDA replicated the same pattern of non-engagement. Nine legal questions received one identical non-answer. Zero breach findings across 384 cases. This is inconsistent with ordinary regulatory error. It is consistent with a de facto policy of non-enforcement of the Access Obligation for CCTV footage. The clarity test is the legal mechanism. The zero-breach history is the outcome. The non-engagement is what follows when a regulator cannot defend its position on the merits.
 
 **Narration:**
-[TODO — see Task 7]
+Here is what I have learned, going through every document, every decision, every response.
+
+Ordinary regulatory failure is uneven. It makes mistakes in different directions. It produces inconsistent outcomes. It responds differently to different challenges.
+
+What is documented here — across two PDPC cases, an IMDA review, nine legal questions, and three hundred and eighty-four enforcement actions — is not uneven.
+
+Every decision. At every level. In the same direction.
+
+PDPC invented reasoning for the condominiums instead of testing what they actually said. IMDA stamped "no wrongdoing" without opening the envelope. Nine legal questions got one identical line. Zero breach findings across three hundred and eighty-four cases.
+
+This is the shape of a policy. Not necessarily an explicit one. Nobody needs to have written it down. But the evidence is consistent with a de facto policy of non-enforcement of the Access Obligation for CCTV footage — and inconsistent with ordinary regulatory error.
+
+The clarity test is the legal mechanism. The zero-breach history is the outcome. The non-engagement is what follows when a regulator cannot defend its position on the merits.
 
 **Image prompt:**
-[TODO — see Task 7]
+Clean/systemic editorial layout. A single horizontal line representing time, broken into four segments labelled: "MCST refusals" → "PDPC invented reasoning" → "IMDA no wrongdoing" → "384 cases, zero breaches." A red arrow arcs above the line, sweeping from left to right, labelled: "Every decision, at every level, in the same direction." Below the line, in smaller text: "Inconsistent with ordinary regulatory error. Consistent with de facto non-enforcement." Black, white, Singapore statutory red (#C41230) for the arrow. Flat-vector, no illustration. This is a conclusion diagram — it should read like the final slide of a legal submission.
 
 ---
 ## Scene 12 — pdpaaccessrights.sg [10:15–10:35] · 20s · mixed
