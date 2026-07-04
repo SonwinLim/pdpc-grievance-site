@@ -217,13 +217,21 @@ Clean/systemic editorial layout. A single sheet of paper, photocopied nine times
 ---
 
 **What happened:**
-[TODO — see Task 6]
+The Info-communications Media Development Authority (IMDA) is the parent body that oversees PDPC. The Complainant escalated the grievance to IMDA’s Internal Audit Unit (IAU). The IAU found “no wrongdoing” without addressing the material facts: the invented clarity test, the untested refusal grounds, the identical non-responses to nine legal questions, the withheld decisions. The oversight body replicated the pattern of the body it oversees — delay, non-engagement, dismissal without engagement with the evidence.
 
 **Narration:**
-[TODO — see Task 6]
+So I went to the oversight body. IMDA — the Info-communications Media Development Authority. PDPC’s parent organisation. If the regulator won’t engage with the merits, surely the body that oversees the regulator will.
+
+IMDA’s Internal Audit Unit reviewed my complaint. I sent them everything. The clarity test — where is it in the statute? The Fifth Schedule — why weren’t the condominiums’ actual refusal grounds tested against it? The nine identical non-responses. The withheld decisions.
+
+Their finding: “No wrongdoing.”
+
+They did not address the clarity test. They did not address the Fifth Schedule. They did not address the nine identical responses. They did not address the withheld decisions.
+
+The oversight body had replicated the pattern of the body it was supposed to oversee. Delay. Non-engagement. Dismissal without engagement with the evidence.
 
 **Image prompt:**
-[TODO — see Task 6]
+Clean/systemic editorial illustration. Two identical building silhouettes, side by side, one labelled “PDPC” and the other “IMDA IAU.” Between them, a document travels from the first building to the second — it has a red “NO BREACH” stamp on it. At the second building, a hand simply adds a second stamp: “NO WRONGDOING.” The document has not been read — it is still sealed, the fold lines visible. The two stamps partially overlap. Flat-vector, black and white with Singapore statutory red (#C41230) accents. The buildings are generic institutional shapes — not specific to Singapore. The point is the mirroring: the oversight body stamped what it was given, without opening the envelope.
 
 ---
 ## Scene 10 — The 384 Cases (Maradona Beat 2) [8:45–9:45] · 60s · clean/systemic
