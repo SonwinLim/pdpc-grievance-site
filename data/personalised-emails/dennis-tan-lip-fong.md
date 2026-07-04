@@ -7,41 +7,56 @@ designation: Member of Parliament
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Mr Dennis Tan Lip Fong, your professional background as an advocate and solicitor, and your consistent engagement with civil-rights questions in this House, give you a rare toolkit for the issue I want to put before you. I write precisely because statutory interpretation is your professional vocabulary, and what I am describing is, at its core, a question of law.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; max-width: 640px; margin: 0 auto; padding: 20px; color: #222; line-height: 1.7;">
 
-In March 2025. PDPC removed a filter from its enforcement-decisions website. That filter had previously allowed segmentation by obligation type. After the redesign, no such segmentation exists. The zero Access Obligation breach findings, a statistic plainly derivable from the published record before the change, became effectively undiscoverable for a regular member of the public. The data was not deleted. It was made inconvenient.
+<p>Dear <strong>Mr Dennis Tan Lip Fong</strong>,</p>
 
-The Maradona Hand-of-God goal remains the most honest framing I can offer. To borrow an analogy from football: this is the Hand of God moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today's game has VAR, cameras, and replay. Even with all that evidence available, the referee still looked away. Worse, in football that referee can be reviewed and held to account. Here, the enforcer sits in judgement of itself. Nothing happens.
+<p>your professional background as an advocate and solicitor, and your consistent engagement with civil-rights questions in this House, give you a rare toolkit for the issue I want to put before you. I write precisely because statutory interpretation is your professional vocabulary, and what I am describing is, at its core, a question of law.
 
-But here is the further point. A referee has discretion on which marginal fouls to call, a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
+In March 2025. PDPC removed a filter from its enforcement-decisions website. That filter had previously allowed segmentation by obligation type. After the redesign, no such segmentation exists. The zero Access Obligation breach findings, a statistic plainly derivable from the published record before the change, became effectively undiscoverable for a regular member of the public. The data was not deleted. It was made inconvenient.</p>
 
-And here is the part that makes the analogy complete. The referee told me that the rulebook itself was wrong, that its own Advisory Guidelines were not determinative and that the PDPA takes precedence, while refusing to say which guideline, which clause, or which conflict was meant. At the same time, the same referee was using that same rulebook for every other match, enforcing the Protection Obligation against data leaks at major organisations, including Marina Bay Sands. You cannot tell one player the rules do not apply while continuing to referee the rest of the tournament under them.
+<h2>The Maradona analogy</h2>
+<p>To borrow an analogy from football, this is the &ldquo;Hand of God&rdquo; moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today&rsquo;s game has VAR, cameras, and replay. Even with all that evidence available, the <strong>referee still looked away.</strong> Worse, in football, that referee can be reviewed and held to account. <strong>Here, the enforcer sits in judgment of itself, and nothing happens.</strong></p>
+<p>A referee has discretion over marginal fouls in a fast game. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. <strong>That is a failure of duty.</strong> PDPC effectively told me that the rulebook itself was wrong, that its own Advisory Guidelines were not determinative and that the PDPA takes precedence, while refusing to identify which guideline, which clause, or which conflict was meant. At the same time, PDPC continues to enforce the Protection Obligation against data leaks at major organisations. It cannot tell one player the rules do not apply while continuing to referee the rest of the tournament under them.</p>
 
-Section 21 of the Personal Data Protection Act provides individuals the right to access their personal data. PDPC has stated, in correspondence with me, that its guidelines are not determinative and that the PDPA takes precedence; yet it has found zero breaches of s.21 across 374 published enforcement actions. Section 24, by contrast, has generated active enforcement, including fines at major institutions. The inconsistency between the stated position and the enforcement record is. I submit, a matter that deserves scrutiny from someone with your background.
+<h2>Why this matters</h2>
+<p>My original complaint arose because CCTV footage that would have shown what happened to me was denied, then destroyed.</p>
+<p>The footage is gone. I am not asking for it to be restored. That is impossible.</p>
+<p>The larger issue is whether the PDPA&rsquo;s Access Obligation is being enforced in practice at all, especially where CCTV footage is denied, delayed, or deleted before access can be meaningfully reviewed.</p>
+<p>Across more than a decade of published enforcement decisions, PDPC has found <strong>204 breaches of the Protection Obligation</strong>, but <strong>0 breaches of the Access Obligation</strong> across the published record I reviewed.</p>
+<p>This is not a minor statistical point. It suggests that one side of the PDPA is enforced actively, while the individual&rsquo;s right of access has effectively never resulted in a published breach finding.</p>
+<p>I accept that any enforcement body, whether police, civil defence, or a statutory regulator, must <strong>exercise judgment</strong> in deciding the level and priority of active enforcement based on the circumstances of the day. But discretion over enforcement priority is not the same as <strong>permission to disregard the law.</strong> An enforcement body may decide how best to allocate resources, but it cannot <strong>ignore a statutory right, deny meaningful review,</strong> and leave the <strong>affected individual without justice</strong> while protecting the very conduct the law was meant to prevent.</p>
 
-Mr Lim. I have rebuilt the filter independently at https://pdpaaccessrights.sg/enforcement-index.html so that this data remains publicly accessible. Every Singaporean deserves to know that the Access Obligation, a right written into law, has never produced a published enforcement outcome in the history of the PDPA.
+<h2>Where the full facts are documented</h2>
+<p>I have set out the full account, supporting documents, enforcement matrix, and timeline at:</p>
+<p><a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a></p>
+<p>In particular, the rebuilt enforcement matrix is here:</p>
+<p><a href="https://pdpaaccessrights.sg/enforcement-index.html">https://pdpaaccessrights.sg/enforcement-index.html</a></p>
+<p>The purpose of the website is not to personalise the issue. It is to preserve the record and allow others to verify whether the Access Obligation is being enforced in practice.</p>
 
-Would you consider scrutinising PDPC's "guidelines not determinative" position from a statutory-interpretation angle?
+<h2>Sites for verification</h2>
+<ol>
+<li><p><a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a></p><p>Full account of the documented pattern, rebuilt enforcement filter, and primary record.</p></li>
+<li><p><a href="https://pdpaaccessrights.sg/enforcement-index.html">Rebuilt enforcement matrix</a></p><p>Shows <strong>0 Access Obligation breach findings</strong> across <strong>374 published decisions</strong> reviewed.</p></li>
+<li><p><a href="https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest">Official PDPC enforcement decisions page</a></p><p>The official PDPC page, now filterable by enforcement type and year, but no longer by obligation type.</p></li>
+<li><p><a href="https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596">Parliament Written Answer 19596</a></p><p>Minister Josephine Teo&rsquo;s Parliamentary assurance of 22 September 2025 on data preservation and criminal penalties for intentional concealment.</p></li>
+</ol>
 
-Four sites to verify:
-1. https://pdpaaccessrights.sg
-   a. full account of the documented pattern, the rebuilt enforcement filter, and the primary record
-2. https://pdpaaccessrights.sg/enforcement-index.html
-   a. the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
-3. https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
-   a. the official PDPC page, filterable by enforcement vs undertaking and years (the obligation-type filter was removed)
-4. https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596
-   a. Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
+<h2>Attachments</h2>
+<ol>
+<li><p><strong>BreachBreakdown.jpg</strong></p><p>PDPC breach by obligation chart, showing <strong>204 Protection Obligation breaches</strong> versus <strong>0 Access Obligation breaches</strong>.</p></li>
+<li><p><strong>entry-gate-overlay.jpg</strong></p><p>Entry overlay from pdpaaccessrights.sg.</p></li>
+<li><p><strong>pdpa-masking-42.png</strong></p><p>PDPC Advisory Guidelines, page 42, paragraph 4.59, stating that blurred or pixelated masking may not be foolproof.</p></li>
+<li><p><strong>hansard.jpg</strong></p><p>Parliament Written Answer 19596, 22 September 2025, on preservation and criminal penalties.</p></li>
+</ol>
 
-Attachments:
-1. BreachBreakdown.jpg
-   a. PDPC breach-by-obligation chart: 204 Protection vs 0 Access Obligation
-2. entry-gate-overlay.jpg
-   a. pdpaaccessrights.sg entry layover
-3. pdpa-masking-42.png
-   a. PDPC Advisory Guidelines page 42, para 4.59: blurred/pixelated masking may not be foolproof
-4. hansard.jpg
-   a. Parliament Written Answer 19596, 22 September 2025: assurance on preservation + criminal penalties
+<p>Yours sincerely,<br>Ray Lim</p>
 
-Yours sincerely,
-Lim Zirui (Ray Lim)
+</body>
+</html>

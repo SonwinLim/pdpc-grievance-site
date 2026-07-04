@@ -7,39 +7,50 @@ designation: Member of Parliament
 subject: Follow-up on my PDPC complaint, an update and a request for your attention
 ---
 
-Dear Koh Poh Koon, I am writing to update you on the situation I raised with you last year regarding my complaint against PDPC.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; max-width: 640px; margin: 0 auto; padding: 20px; color: #222; line-height: 1.7;">
 
-I still do not know what happened to me on the night of the accident, because the footage that would have shown me was denied, and then destroyed.
+<p>Dear <strong>Koh Poh Koon</strong>,</p>
 
-Recently I discovered that PDPC redesigned its enforcement-decisions website so that it is no longer possible to filter published cases by the type of obligation breached (PDPC's own page: https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance?page=1&sort=latest). I had previously pointed out that PDPC has never once found a breach of the Access Obligation across its entire published enforcement record. That has not changed.
+<p>I rebuilt the missing enforcement filter at <a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a>. The issue is larger than my own case.</p>
 
-In response. I rebuilt the missing filter myself: https://pdpaaccessrights.sg/enforcement-index.html. I have also published a full account of what went wrong in my case, so that PDPC cannot simply let the matter be forgotten: https://pdpaaccessrights.sg/index.html.
+<h2>Why this matters</h2>
+<p>My original complaint arose because CCTV footage that would have shown what happened to me was denied, then destroyed.</p>
+<p>The footage is gone. I am not asking for it to be restored. That is impossible.</p>
+<p>The larger issue is whether the PDPA&rsquo;s Access Obligation is being enforced in practice at all, especially where CCTV footage is denied, delayed, or deleted before access can be meaningfully reviewed.</p>
+<p>Across more than a decade of published enforcement decisions, PDPC has found <strong>204 breaches of the Protection Obligation</strong>, but <strong>0 breaches of the Access Obligation</strong> across the published record I reviewed.</p>
+<p>This is not a minor statistical point. It suggests that one side of the PDPA is enforced actively, while the individual&rsquo;s right of access has effectively never resulted in a published breach finding.</p>
+<p>I accept that any enforcement body, whether police, civil defence, or a statutory regulator, must <strong>exercise judgment</strong> in deciding the level and priority of active enforcement based on the circumstances of the day. But discretion over enforcement priority is not the same as <strong>permission to disregard the law.</strong> An enforcement body may decide how best to allocate resources, but it cannot <strong>ignore a statutory right, deny meaningful review,</strong> and leave the <strong>affected individual without justice</strong> while protecting the very conduct the law was meant to prevent.</p>
 
-Beyond my own case. PDPC has never investigated a single CCTV access-denial complaint in the entire history of its published decisions. Having seen how my own case was ultimately resolved, it is not hard to infer why that number stays at zero.
+<h2>Where the full facts are documented</h2>
+<p>I have set out the full account, supporting documents, enforcement matrix, and timeline at:</p>
+<p><a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a></p>
+<p>In particular, the rebuilt enforcement matrix is here:</p>
+<p><a href="https://pdpaaccessrights.sg/enforcement-index.html">https://pdpaaccessrights.sg/enforcement-index.html</a></p>
+<p>The purpose of the website is not to personalise the issue. It is to preserve the record and allow others to verify whether the Access Obligation is being enforced in practice.</p>
 
-The PDPA's definition of personal data has more than one limb, in the same way a bare membership number is treated as personal data once it can be combined with other information an organisation holds. PDPC's own Advisory Guidelines (page 42, para 4.59) go further and state that even blurred or pixelated masking may not be foolproof, because individuals in such images can still be identifiable. I was identified from that very same footage, on-site, within minutes. PDPC then used that same footage to conclude it was not personal data at all.
+<h2>Sites for verification</h2>
+<ol>
+<li><p><a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a></p><p>Full account of the documented pattern, rebuilt enforcement filter, and primary record.</p></li>
+<li><p><a href="https://pdpaaccessrights.sg/enforcement-index.html">Rebuilt enforcement matrix</a></p><p>Shows <strong>0 Access Obligation breach findings</strong> across <strong>374 published decisions</strong> reviewed.</p></li>
+<li><p><a href="https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest">Official PDPC enforcement decisions page</a></p><p>The official PDPC page, now filterable by enforcement type and year, but no longer by obligation type.</p></li>
+<li><p><a href="https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596">Parliament Written Answer 19596</a></p><p>Minister Josephine Teo&rsquo;s Parliamentary assurance of 22 September 2025 on data preservation and criminal penalties for intentional concealment.</p></li>
+</ol>
 
-I would like to ask you directly: is it right that rights under the law can be denied this way, by the very body appointed to protect them?
+<h2>Attachments</h2>
+<ol>
+<li><p><strong>BreachBreakdown.jpg</strong></p><p>PDPC breach by obligation chart, showing <strong>204 Protection Obligation breaches</strong> versus <strong>0 Access Obligation breaches</strong>.</p></li>
+<li><p><strong>entry-gate-overlay.jpg</strong></p><p>Entry overlay from pdpaaccessrights.sg.</p></li>
+<li><p><strong>pdpa-masking-42.png</strong></p><p>PDPC Advisory Guidelines, page 42, paragraph 4.59, stating that blurred or pixelated masking may not be foolproof.</p></li>
+<li><p><strong>hansard.jpg</strong></p><p>Parliament Written Answer 19596, 22 September 2025, on preservation and criminal penalties.</p></li>
+</ol>
 
-Four sites to verify:
-1. https://pdpaaccessrights.sg
-   a. full account of the documented pattern, the rebuilt enforcement filter, and the primary record
-2. https://pdpaaccessrights.sg/enforcement-index.html
-   a. the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
-3. https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
-   a. the official PDPC page, filterable by enforcement vs undertaking and years (the obligation-type filter was removed)
-4. https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596
-   a. Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
+<p>Yours sincerely,<br>Ray Lim</p>
 
-Attachments:
-1. BreachBreakdown.jpg
-   a. PDPC breach-by-obligation chart: 204 Protection vs 0 Access Obligation
-2. entry-gate-overlay.jpg
-   a. pdpaaccessrights.sg entry layover
-3. pdpa-masking-42.png
-   a. PDPC Advisory Guidelines page 42, para 4.59: blurred/pixelated masking may not be foolproof
-4. hansard.jpg
-   a. Parliament Written Answer 19596, 22 September 2025: assurance on preservation + criminal penalties
-
-Yours sincerely,
-Lim Zirui (Ray Lim)
+</body>
+</html>
