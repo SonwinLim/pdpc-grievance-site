@@ -17,10 +17,11 @@ To borrow an analogy from football: this is the Hand of God moment. I asked the 
 
 Across over a decade of published enforcement decisions, PDPC has never once found a breach of the Access Obligation. By contrast, it has pursued Protection Obligation cases aggressively, including high-profile data breach decisions against major organisations. The footage that would have shown me what happened was denied and then destroyed. Would you consider a follow-up written question asking how many Access Obligation complaints have been filed with PDPC since 2012, and why zero breach findings have been recorded for that obligation?
 
-Three sites to verify:
+Four sites to verify:
 - [pdpaaccessrights.sg](https://pdpaaccessrights.sg) — full account of the documented pattern, the rebuilt enforcement filter, and the primary record
 - [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) — the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
 - [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) — the official PDPC published-decisions page, filterable by obligation type
+- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596) — Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
 
 Attachments:
 - BreachBreakdown.jpg (PDPC breach-by-obligation chart: 204 Protection vs 0 Access Obligation)

@@ -17,10 +17,11 @@ To borrow an analogy from football: this is the Hand of God moment. I asked the 
 
 The footage that would have shown me what happened was denied and then destroyed. I rebuilt the removed filter at [pdpaaccessrights.sg](https://pdpaaccessrights.sg). The consequences of that denial have shaped every day since. Does a matter affecting a statutory right granted to all Singaporeans warrant Cabinet-level review?
 
-Three sites to verify:
+Four sites to verify:
 - [pdpaaccessrights.sg](https://pdpaaccessrights.sg) — full account of the documented pattern, the rebuilt enforcement filter, and the primary record
 - [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) — the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
 - [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) — the official PDPC published-decisions page, filterable by obligation type
+- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596) — Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
 
 Attachments:
 - BreachBreakdown.jpg (PDPC breach-by-obligation chart: 204 Protection vs 0 Access Obligation)
