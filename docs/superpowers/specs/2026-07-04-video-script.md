@@ -73,26 +73,48 @@ Hand-drawn ink-and-wash illustration. A hospital bed seen from slightly above an
 ---
 
 **What happened:**
-[TODO — see Task 3]
+The Scotts Tower (MCST 4599) refused access on 17 April 2024, citing “privacy” as a blanket reason. When challenged, they claimed no footage existed — refuted by PDPC’s own subsequent finding that footage existed until 30 April. The managing agent refused to provide the company name, the DPO contact, or any escalation path. The Complainant had to independently identify the managing agent and track down the DPO himself. Suites@Cairnhill (MCST 3615) refused on 21 May 2024 — its DPO, Mohamed Nasir Mustaffa of Property Facility Services Pte Ltd, stated in writing: “Only by police direct/order the MCST to disclose the footage that MCST is obliged to do so.” When the Complainant cited the correct PDPA Advisory Guidelines in reply, the DPO responded: “It seems to me you are having difficulty understanding our position” and refused further communication. Neither condominium cited a lawful refusal ground from s.21(3) or the Fifth Schedule of the PDPA.
 
 **Narration:**
-[TODO — see Task 3]
+Four days after the accident, I walked into the management office of The Scotts Tower. I explained what happened. I asked for the CCTV footage of the road.
+
+They said no. Privacy reasons.
+
+I asked who the data protection officer was. They wouldn’t tell me. I asked what company managed the building. They wouldn’t tell me that either. I asked who I could escalate to. No answer.
+
+I left the building knowing less than when I walked in. I had to figure out the company name on my own. I had to hunt down the DPO myself. Every door I tried, someone had already locked it.
+
+The other condominium — Suites@Cairnhill — put their refusal in writing. Their DPO emailed me on 21 May 2024: “Only by police direct or order the MCST to disclose the footage that MCST is obliged to do so.”
+
+That is not what the law says. The PDPA gives every individual the right to request their own personal data. Police involvement is not required. I wrote back, citing the correct advisory guidelines.
+
+The DPO’s reply: “It seems to me you are having difficulty understanding our position.” And he refused to communicate with me further.
+
+Neither condominium cited a single ground from the law. The PDPA lists the only legal reasons a request can be refused — section 21, subsection 3, and the Fifth Schedule. Privacy as a blanket reason is not on that list. Police-only access is not on that list.
+
+Nobody checked.
 
 **Image prompt:**
-[TODO — see Task 3]
+Hand-drawn ink-and-wash illustration, two-panel composition. Left panel: a figure stands at a tall reception counter in a lobby. The receptionist behind the counter is a silhouette with arms crossed. A security camera on the ceiling glows with a small red dot — the only warm accent in the frame. The figure’s posture is slightly forward, one hand resting on the counter edge, trying to explain. Right panel: the same figure sits at a small desk, reading from a phone. On the wall, an email or letter with the text “Only by police direct/order” and a reply “difficulty understanding” is pinned — partially visible, the words are small. The figure’s shoulders are hunched. The lighting is cool fluorescent in both frames. Muted charcoal, blue, and teal palette. No faces — postures tell the story.
 
 ---
 ## Scene 4 — The Deletion Window [3:15–4:00] · 45s · hand-drawn
 ---
 
 **What happened:**
-[TODO — see Task 3]
+At the time of the access requests, the Complainant had no way to know how long the footage would be retained. The security guards at The Scotts Tower initially said footage was kept for “many months.” A new managing agent later said “20 to 30 days.” PDPC later determined that the footage was overwritten on 30 April 2024 — 17 days after the accident, and months before any substantive investigation opened. PDPC accepted this 17-day figure without independent verification. The Complainant was operating blind: the footage existed, and nobody would tell him how long he had.
 
 **Narration:**
-[TODO — see Task 3]
+While I was fighting to find out who managed the building, the clock was running.
+
+Nobody told me how long the footage would be kept. The security guards said many months. A new management team later claimed 20 to 30 days. PDPC eventually said 17 days — and accepted that figure without verifying it.
+
+At the time, I knew none of this. All I knew: the footage existed, two condominiums had identified it within minutes of the accident, and nobody would tell me how long I had to get it.
+
+Seventeen days. That was the window. I was still trying to find out the company name on day four.
 
 **Image prompt:**
-[TODO — see Task 3]
+Hand-drawn ink-and-wash illustration. A calendar on a wall, April 2024, with the 13th circled faintly in red. A clock on the same wall, hands blurred in motion. Below, a CCTV camera is visible but out of focus — it is recording, but the footage is draining away, represented by a faint, dissipating trail of frames dissolving like smoke. The figure is small, seated at a desk in the foreground, hands resting on a closed laptop, staring at the calendar. The overall composition is quiet, tense — not dramatic. Charcoal grey with touches of fading red and muted teal. The viewer should feel the asymmetry: the system knows the clock is running; the figure does not.
 
 ---
 ## Scene 5 — Filing With PDPC [4:00–4:45] · 45s · hand-drawn
