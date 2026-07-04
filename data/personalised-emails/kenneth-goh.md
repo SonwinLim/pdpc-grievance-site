@@ -9,7 +9,7 @@ subject: Kenneth — follow-up on the PDPC grievance
 
 Dear Kenneth,
 
-I hope this note finds you well. You were my SMU professor during my MBA, and I am writing to you in your capacity as a Senior Counsel and Nominated Member of Parliament with a direct interest in regulatory interpretation and accountability.
+I hope this note finds you well. You were my SMU professor during my MBA, and I am writing to you in your capacity as an Associate Professor at SMU and Nominated Member of Parliament with a direct interest in regulatory interpretation and accountability.
 
 PDPC recently redesigned its enforcement-decisions website so that it is no longer possible to filter published cases by obligation type. Previously, the filter showed a striking breakdown: across PDPC's entire published enforcement record, it had never once found a breach of the Access Obligation under section 21 of the PDPA. That pattern is now hidden from public view. I rebuilt the missing filter myself, and it remains live at [https://pdpaaccessrights.sg/enforcement-index.html.](https://pdpaaccessrights.sg/enforcement-index.html.) You can verify the pattern yourself by reviewing the obligation-type column.
 
@@ -19,7 +19,7 @@ To be specific about what zero looks like: PDPC aggressively enforces the Protec
 
 I studied under your teaching on legal reasoning and regulatory interpretation. I approach this matter with the same discipline: the documentary record is publicly available, and I stand ready to be corrected if any conclusion is wrong.
 
-As an NMP with a legal background, I would ask whether this regulatory interpretation gap, which is visible in the public record, warrants formal scrutiny through your NMP platform, based on the evidence.
+As an NMP with a regulatory and academic background, I would ask whether this regulatory interpretation gap, which is visible in the public record, warrants formal scrutiny through your NMP platform, based on the evidence.
 
 Four sites to verify:
 - [pdpaaccessrights.sg](https://pdpaaccessrights.sg) — full account of the documented pattern, the rebuilt enforcement filter, and the primary record

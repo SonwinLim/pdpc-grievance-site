@@ -9,7 +9,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 Dear Mr Dennis Tan Lip Fong,
 
-Your legal training as Senior Counsel and your consistent engagement with civil-rights questions in this House give you a rare toolkit for the issue I want to put before you. I write precisely because statutory interpretation is your professional vocabulary, and what I am describing is, at its core, a question of law.
+Your professional background as an advocate and solicitor, and your consistent engagement with civil-rights questions in this House, give you a rare toolkit for the issue I want to put before you. I write precisely because statutory interpretation is your professional vocabulary, and what I am describing is, at its core, a question of law.
 
 In March 2025, PDPC removed a filter from its enforcement-decisions website. That filter had previously allowed segmentation by obligation type. After the redesign, no such segmentation exists. The zero Access Obligation breach findings, a statistic plainly derivable from the published record before the change, became effectively undiscoverable for a regular member of the public. The data was not deleted. It was made inconvenient.
 

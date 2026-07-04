@@ -9,7 +9,7 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 
 Dear Mr Kenneth Tiong Boon Kiat,
 
-As one of the newer Members of Parliament representing Aljunied GRC with the Workers' Party, and with your background in law, you are well placed to engage with issues that sit at the intersection of legal rights and their practical enforcement. I write to raise one such issue that I believe deserves parliamentary attention.
+As one of the newer Members of Parliament representing Aljunied GRC with the Workers' Party, and with your professional background spanning finance and technology, you are well placed to engage with issues that sit at the intersection of data rights, the public sector, and their practical enforcement. I write to raise one such issue that I believe deserves parliamentary attention.
 
 In March 2025, PDPC removed a filter from its published enforcement-decisions page. That filter had previously allowed public segmentation of cases by obligation type. After the redesign, no such segmentation exists, and the zero Access Obligation breach finding, which was empirically visible in the data before the change, became inaccessible to a regular member of the public. The information was made inconvenient, not removed.
 
