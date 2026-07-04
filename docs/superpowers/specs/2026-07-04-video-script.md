@@ -31,19 +31,19 @@ This file is the input to `/yt-intake` for voice-over generation and MiniMax fra
 ---
 
 **What happened:**
-On 9 September 2025, Minister Josephine Teo told Parliament that the PDPA requires organisations to preserve personal data while access requests are processed, with criminal penalties for intentional destruction. In the Complainant's case — the only two CCTV-access-refusal complaints across 384 published PDPC enforcement actions — the footage was deleted. PDPC found no preservation breach and no Access Obligation breach. Both cannot be true. One of them must be wrong.
+On 9 September 2025, Minister Josephine Teo told Parliament that the PDPA requires organisations to preserve personal data while access requests are processed, with criminal penalties for intentional destruction. In the Complainant’s case — the only two CCTV-access-refusal complaints across 384 published PDPC enforcement actions — the footage was deleted. PDPC found no preservation breach and no Access Obligation breach. Both cannot be true. One of them must be wrong.
 
 **Narration:**
 In September 2025, a member of parliament asked the minister responsible: when someone requests their own CCTV footage under the Personal Data Protection Act, is the organisation required to preserve that footage while the request is being processed?
 
-The minister's answer was clear. Yes. Organisations must have appropriate measures to preserve the requested data. There are criminal penalties for intentional destruction to avoid access requests.
+The minister’s answer was clear. Yes. Organisations must have appropriate measures to preserve the requested data. There are criminal penalties for intentional destruction to avoid access requests.
 
 Those are the words of Minister Josephine Teo. On 9 September 2025. In the Parliament of Singapore.
 
 Here is what happened when I made that request.
 
 **Image prompt:**
-Clean/systemic editorial infographic. Split-screen composition. Left panel: a formal parliamentary record page, the words "preserve the requested personal data" highlighted in Singapore statutory red (#C41230). Right panel: a PDPC decision document, the words "no breach" stamped in institutional grey. Between them, a question mark rendered in black. The background is white. No illustrations — pure typographic layout. The viewer should feel the collision of two official documents that cannot both be true.
+Clean/systemic editorial infographic. Split-screen composition. Left panel: a formal parliamentary record page, the words “preserve the requested personal data” highlighted in Singapore statutory red (#C41230). Right panel: a PDPC decision document, the words “no breach” stamped in institutional grey. Between them, a question mark rendered in black. The background is white. No illustrations — pure typographic layout. The viewer should feel the collision of two official documents that cannot both be true.
 
 ---
 ## Scene 2 — The Accident [0:30–1:30] · 60s · hand-drawn
@@ -121,10 +121,10 @@ Hand-drawn ink-and-wash illustration. A calendar on a wall, April 2024, with the
 ---
 
 **What happened:**
-The Complainant filed a formal complaint with PDPC detailing both refusals — the verbal denial from Scotts Tower (no company name, no DPO, no escalation), and the written "police-only" refusal from Suites@Cairnhill. Months passed. PDPC did not open a substantive investigation. It did not issue a preservation notice. The footage was deleted before PDPC took any action.
+The Complainant filed a formal complaint with PDPC detailing both refusals — the verbal denial from Scotts Tower (no company name, no DPO, no escalation), and the written “police-only” refusal from Suites@Cairnhill. Months passed. PDPC did not open a substantive investigation. It did not issue a preservation notice. The footage was deleted before PDPC took any action.
 
 **Narration:**
-So I did what the law says to do. I filed a formal complaint with the Personal Data Protection Commission. I detailed both refusals — the verbal denial with no company name and no DPO contact from Scotts Tower, and the written "police-only" refusal from Suites@Cairnhill.
+So I did what the law says to do. I filed a formal complaint with the Personal Data Protection Commission. I detailed both refusals — the verbal denial with no company name and no DPO contact from Scotts Tower, and the written “police-only” refusal from Suites@Cairnhill.
 
 And then.
 
@@ -135,19 +135,19 @@ Months passed.
 No investigation opened. No update. No preservation notice sent. The footage had been deleted in April. Nobody at PDPC had acted to preserve it. Months of silence. And then, eventually, a response — but not the one the law seemed to promise.
 
 **Image prompt:**
-Hand-drawn ink-and-wash illustration. A desk piled with papers — the complaint filing, printed emails, advisory guidelines. A figure sits at the desk, one hand resting on the papers, the other hand open and empty, palm up. The window behind shows a calendar with months flipped forward — May, June, July — and a phone on the desk that shows no notifications. The lighting is flat, grey, late-afternoon. The figure is not angry — the posture is one of waiting. The papers are the most detailed element in the frame. The clock on the wall has hands that don't seem to be moving. Muted palette: charcoal, ochre, hospital blue.
+Hand-drawn ink-and-wash illustration. A desk piled with papers — the complaint filing, printed emails, advisory guidelines. A figure sits at the desk, one hand resting on the papers, the other hand open and empty, palm up. The window behind shows a calendar with months flipped forward — May, June, July — and a phone on the desk that shows no notifications. The lighting is flat, grey, late-afternoon. The figure is not angry — the posture is one of waiting. The papers are the most detailed element in the frame. The clock on the wall has hands that don’t seem to be moving. Muted palette: charcoal, ochre, hospital blue.
 
 ---
 ## Scene 6 — The Clarity Test [4:45–5:45] · 60s · mixed (hand-drawn → systemic)
 ---
 
 **What happened:**
-For MCST 3615 (Suites@Cairnhill), PDPC determined that the CCTV footage did not contain "personal data." To reach this finding, PDPC reviewed footage the Complainant himself had captured — a handphone video of the CCTV screen taken at the management office. The original footage had been deleted, so PDPC's determination was based entirely on this secondary recording. The standard PDPC applied — that a face or licence plate must be visible for footage to qualify as personal data — appears nowhere in the PDPA. The statute defines personal data by identifiability ("data about an individual who can be identified from that data"), not by image clarity. This is Maradona Beat 1: a goal scored with something not in the rules.
+For MCST 3615 (Suites@Cairnhill), PDPC determined that the CCTV footage did not contain “personal data.” To reach this finding, PDPC reviewed footage the Complainant himself had captured — a handphone video of the CCTV screen taken at the management office. The original footage had been deleted, so PDPC’s determination was based entirely on this secondary recording. The standard PDPC applied — that a face or licence plate must be visible for footage to qualify as personal data — appears nowhere in the PDPA. The statute defines personal data by identifiability (“data about an individual who can be identified from that data”), not by image clarity. This is Maradona Beat 1: a goal scored with something not in the rules.
 
 **Narration:**
 Eventually, PDPC issued its findings. Two cases. Two sets of reasoning.
 
-For Suites@Cairnhill, they said the CCTV footage did not contain "personal data."
+For Suites@Cairnhill, they said the CCTV footage did not contain “personal data.”
 
 Here is how they made that determination. They used my own evidence — a handphone video I had taken of the CCTV screen at the management office, to document what the footage showed. The original footage was long gone by then. Deleted. Overwritten.
 
@@ -159,12 +159,12 @@ Identifiability. Not clarity.
 
 This is the moment to understand. PDPC took my own evidence. Used it against me. And the test they applied — the clarity test — does not exist in the legislation. It was invented. By the regulator. To dismiss my case.
 
-In football, there is a famous goal scored by Diego Maradona — his hand made contact with the ball. The referee missed it. The goal stood. Afterwards, Maradona called it "the hand of God."
+In football, there is a famous goal scored by Diego Maradona — his hand made contact with the ball. The referee missed it. The goal stood. Afterwards, Maradona called it “the hand of God.”
 
-PDPC's clarity test is the regulatory equivalent. They scored a goal with something never in the rules. The footage was gone, so nobody could check what was really on it. They declared victory. And moved on.
+PDPC’s clarity test is the regulatory equivalent. They scored a goal with something never in the rules. The footage was gone, so nobody could check what was really on it. They declared victory. And moved on.
 
 **Image prompt:**
-Opens with 2 seconds of hand-drawn style — a hand holding a phone, angled up at a CCTV monitor. The monitor shows a grainy night scene. The phone screen glows. Then cross-fades to clean/systemic editorial illustration: a football field seen from above. One figure — the goalkeeper — has arms raised, claiming a handball. The referee's flag stays down — the linesman is a silhouette, motionless. In the distance, the ball is already in the net. The goalposts are subtly labelled "s.21 PDPA" — not cartoonish, but editorial. The ball carries the text "clarity test." The composition is spare — black, white, the goal net rendered in thin grey lines, the ball in Singapore statutory red (#C41230). The feeling is not anger, but a quiet, disbelieving stillness — the moment after a goal that shouldn't have counted, when the players are looking at each other and the crowd hasn't yet reacted.
+Opens with 2 seconds of hand-drawn style — a hand holding a phone, angled up at a CCTV monitor. The monitor shows a grainy night scene. The phone screen glows. Then cross-fades to clean/systemic editorial illustration: a football field seen from above. One figure — the goalkeeper — has arms raised, claiming a handball. The referee’s flag stays down — the linesman is a silhouette, motionless. In the distance, the ball is already in the net. The goalposts are subtly labelled “s.21 PDPA” — not cartoonish, but editorial. The ball carries the text “clarity test.” The composition is spare — black, white, the goal net rendered in thin grey lines, the ball in Singapore statutory red (#C41230). The feeling is not anger, but a quiet, disbelieving stillness — the moment after a goal that shouldn’t have counted, when the players are looking at each other and the crowd hasn’t yet reacted.
 
 ---
 ## Scene 7 — Two Cases, Two Invented Reasonings [5:45–7:00] · 75s · clean/systemic
@@ -213,7 +213,7 @@ Then they declared the matter closed.
 Clean/systemic editorial layout. A single sheet of paper, photocopied nine times, each sheet with the same line highlighted in Singapore statutory red (#C41230): “The Guidelines are not determinative; the PDPA takes precedence.” The nine sheets are fanned out on a surface like a dealt hand of cards. A red stamp reads “CLOSED” — the stamp is slightly misaligned, the ink slightly uneven. In the corner of the composition, partially visible, a stack of unopened letters with faint postmarks: “PMO,” “President’s Office,” “Ministry.” Flat-vector illustration, black and white with one accent colour. No human figures. The documents themselves are the subject. Bureaucratic, indifferent, final.
 
 ---
-## Scene 9 — IMDA — The Oversight That Didn't Oversee [8:00–8:45] · 45s · clean/systemic
+## Scene 9 — IMDA — The Oversight That Didn’t Oversee [8:00–8:45] · 45s · clean/systemic
 ---
 
 **What happened:**
@@ -238,12 +238,12 @@ Clean/systemic editorial illustration. Two identical building silhouettes, side 
 ---
 
 **What happened:**
-Compiled in June 2026 from PDPC's public enforcement register: across 384 published enforcement actions, the Access Obligation (s.21 of the PDPA) has produced zero breach findings. Not one. Across that entire register, only two cases involve a complainant demanding access to their own CCTV data and being refused — and both are the Complainant's. The dominant pattern of enforcement is data protection (s.24) and consent (s.13) — obligations that run against organisations mishandling data they hold. The right of a citizen to retrieve their own data from an organisation is the least enforced provision in the entire register. The clarity test, applied consistently, explains this: if face or licence plate must be visible for CCTV to qualify as personal data, most real-world CCTV footage falls outside access protection. This is Maradona Beat 2: after the goal, Maradona was asked about it. He said — "It was a little bit the hand of God, and a little bit the head of Maradona." Not quite admitting. Not quite denying. PDPC's one-line reply sent nine times — same energy. They cannot say what really happened, so they say the same thing nine times and close the file.
+Compiled in June 2026 from PDPC’s public enforcement register: across 384 published enforcement actions, the Access Obligation (s.21 of the PDPA) has produced zero breach findings. Not one. Across that entire register, only two cases involve a complainant demanding access to their own CCTV data and being refused — and both are the Complainant’s. The dominant pattern of enforcement is data protection (s.24) and consent (s.13) — obligations that run against organisations mishandling data they hold. The right of a citizen to retrieve their own data from an organisation is the least enforced provision in the entire register. The clarity test, applied consistently, explains this: if face or licence plate must be visible for CCTV to qualify as personal data, most real-world CCTV footage falls outside access protection. This is Maradona Beat 2: after the goal, Maradona was asked about it. He said — “It was a little bit the hand of God, and a little bit the head of Maradona.” Not quite admitting. Not quite denying. PDPC’s one-line reply sent nine times — same energy. They cannot say what really happened, so they say the same thing nine times and close the file.
 
 **Narration:**
 By this point, I stopped asking whether my case was handled wrongly. I started asking a different question. How many cases like mine has PDPC ever found a breach on?
 
-I went through PDPC's entire published enforcement register. Every decision. Every finding. Three hundred and eighty-four cases, compiled as of June 2026.
+I went through PDPC’s entire published enforcement register. Every decision. Every finding. Three hundred and eighty-four cases, compiled as of June 2026.
 
 The Access Obligation — section 21 of the PDPA, the right of a citizen to access their own personal data — has produced zero breach findings. Zero. Across three hundred and eighty-four published enforcement actions. Not one.
 
@@ -253,14 +253,14 @@ Across those three hundred and eighty-four cases, only two involve a complainant
 
 The clarity test explains this. If face or licence plate must be visible for CCTV footage to qualify as personal data — and that standard exists nowhere in the statute — then any organisation can deny an access request by asserting the footage is too unclear. And the Complainant has no tools to challenge that assertion.
 
-After the 1986 World Cup quarter-final, Maradona was asked about his goal. He said: "It was a little bit the hand of God, and a little bit the head of Maradona."
+After the 1986 World Cup quarter-final, Maradona was asked about his goal. He said: “It was a little bit the hand of God, and a little bit the head of Maradona.”
 
 Not quite admitting. Not quite denying.
 
-PDPC's one-line reply — "The Guidelines are not determinative; the PDPA takes precedence" — sent nine times to nine different legal questions. Same energy. They cannot say what really happened. So they say the same thing nine times, and declare the file closed.
+PDPC’s one-line reply — “The Guidelines are not determinative; the PDPA takes precedence” — sent nine times to nine different legal questions. Same energy. They cannot say what really happened. So they say the same thing nine times, and declare the file closed.
 
 **Image prompt:**
-Clean/systemic editorial composition. Centre frame: a giant number — "0" — rendered in bold black typography, filling most of the frame. Below it, in smaller text: "Access Obligation breach findings across 384 published PDPC enforcement actions." To the side, a thin document stack icon labelled "384 cases." At the bottom, two tiny document icons, isolated, labelled "Complainant's 2 cases" — the only CCTV-access-refusal complaints in the entire register. The composition is deliberately stark — black text on white, with the "0" in Singapore statutory red (#C41230). No illustrations. No metaphors. The number is the argument. Below the 0, in fine print: "Source: PDPC public enforcement register, compiled June 2026." This is an infographic, not a poster.
+Clean/systemic editorial composition. Centre frame: a giant number — “0” — rendered in bold black typography, filling most of the frame. Below it, in smaller text: “Access Obligation breach findings across 384 published PDPC enforcement actions.” To the side, a thin document stack icon labelled “384 cases.” At the bottom, two tiny document icons, isolated, labelled “Complainant’s 2 cases” — the only CCTV-access-refusal complaints in the entire register. The composition is deliberately stark — black text on white, with the “0” in Singapore statutory red (#C41230). No illustrations. No metaphors. The number is the argument. Below the 0, in fine print: “Source: PDPC public enforcement register, compiled June 2026.” This is an infographic, not a poster.
 
 ---
 ## Scene 11 — The Only Explanation [9:45–10:15] · 30s · clean/systemic
@@ -278,42 +278,42 @@ What is documented here — across two PDPC cases, an IMDA review, nine legal qu
 
 Every decision. At every level. In the same direction.
 
-PDPC invented reasoning for the condominiums instead of testing what they actually said. IMDA stamped "no wrongdoing" without opening the envelope. Nine legal questions got one identical line. Zero breach findings across three hundred and eighty-four cases.
+PDPC invented reasoning for the condominiums instead of testing what they actually said. IMDA stamped “no wrongdoing” without opening the envelope. Nine legal questions got one identical line. Zero breach findings across three hundred and eighty-four cases.
 
 This is the shape of a policy. Not necessarily an explicit one. Nobody needs to have written it down. But the evidence is consistent with a de facto policy of non-enforcement of the Access Obligation for CCTV footage — and inconsistent with ordinary regulatory error.
 
 The clarity test is the legal mechanism. The zero-breach history is the outcome. The non-engagement is what follows when a regulator cannot defend its position on the merits.
 
 **Image prompt:**
-Clean/systemic editorial layout. A single horizontal line representing time, broken into four segments labelled: "MCST refusals" → "PDPC invented reasoning" → "IMDA no wrongdoing" → "384 cases, zero breaches." A red arrow arcs above the line, sweeping from left to right, labelled: "Every decision, at every level, in the same direction." Below the line, in smaller text: "Inconsistent with ordinary regulatory error. Consistent with de facto non-enforcement." Black, white, Singapore statutory red (#C41230) for the arrow. Flat-vector, no illustration. This is a conclusion diagram — it should read like the final slide of a legal submission.
+Clean/systemic editorial layout. A single horizontal line representing time, broken into four segments labelled: “MCST refusals” → “PDPC invented reasoning” → “IMDA no wrongdoing” → “384 cases, zero breaches.” A red arrow arcs above the line, sweeping from left to right, labelled: “Every decision, at every level, in the same direction.” Below the line, in smaller text: “Inconsistent with ordinary regulatory error. Consistent with de facto non-enforcement.” Black, white, Singapore statutory red (#C41230) for the arrow. Flat-vector, no illustration. This is a conclusion diagram — it should read like the final slide of a legal submission.
 
 ---
 ## Scene 12 — pdpaaccessrights.sg [10:15–10:35] · 20s · mixed
 ---
 
 **What happened:**
-The Complainant built pdpaaccessrights.sg — a public site presenting every document, every decision, every response. The site includes: the full story in five acts; the parliamentary Written Answer 19596 juxtaposed against what happened; the two case cards side by side; PDPC's narrative versus the record; the 10 contradiction cards; the 12 documented failures; the 19-month timeline; the full enforcement register analysis; and all source documents. All evidence is public. Nothing on the site is not sourced from a PDPC decision, the PDPA statute, parliamentary record, or correspondence in the Complainant's possession.
+The Complainant built pdpaaccessrights.sg — a public site presenting every document, every decision, every response. The site includes: the full story in five acts; the parliamentary Written Answer 19596 juxtaposed against what happened; the two case cards side by side; PDPC’s narrative versus the record; the 10 contradiction cards; the 12 documented failures; the 19-month timeline; the full enforcement register analysis; and all source documents. All evidence is public. Nothing on the site is not sourced from a PDPC decision, the PDPA statute, parliamentary record, or correspondence in the Complainant’s possession.
 
 **Narration:**
 I built a site.
 
 pdpaaccessrights.sg.
 
-Every document is there. Both PDPC decisions — the one that found "no personal data" using my own handphone video, and the one that reframed a deleted-footage case as an accountability breach. The parliamentary answer from Minister Teo promising preservation and penalties — next to what happened in my case. The nine questions and the nine identical replies. The enforcement register analysis — three hundred and eighty-four cases, zero access obligation breach findings. The timeline. The contradictions. The documented failures.
+Every document is there. Both PDPC decisions — the one that found “no personal data” using my own handphone video, and the one that reframed a deleted-footage case as an accountability breach. The parliamentary answer from Minister Teo promising preservation and penalties — next to what happened in my case. The nine questions and the nine identical replies. The enforcement register analysis — three hundred and eighty-four cases, zero access obligation breach findings. The timeline. The contradictions. The documented failures.
 
 Everything on that site comes from a PDPC decision, the PDPA statute, a parliamentary record, or correspondence in my possession. Nothing is asserted that is not sourced. Every claim has a footnote. Every source is primary.
 
 The evidence is public. You can check it yourself.
 
 **Image prompt:**
-Mixed style. A laptop screen showing pdpaaccessrights.sg — the site's #story section visible, with the 5-act structure headings. The screen glows softly. The hands in front of the keyboard are rendered in hand-drawn style — ink lines, suggestive, unfinished. The screen content is clean/systemic — sharp, legible, the site's actual visual design. The contrast between the human figure (hand-drawn, warm charcoal and ochre) and the machine output (clean, sharp, institutional black and white) is intentional. The site's URL is visible in the browser bar: pdpaaccessrights.sg. On the wall behind, faintly, pinned papers and notes — the work that went into building it. The overall mood is quiet resolution — not triumph, but completion. The evidence is public now.
+Mixed style. A laptop screen showing pdpaaccessrights.sg — the site’s #story section visible, with the 5-act structure headings. The screen glows softly. The hands in front of the keyboard are rendered in hand-drawn style — ink lines, suggestive, unfinished. The screen content is clean/systemic — sharp, legible, the site’s actual visual design. The contrast between the human figure (hand-drawn, warm charcoal and ochre) and the machine output (clean, sharp, institutional black and white) is intentional. The site’s URL is visible in the browser bar: pdpaaccessrights.sg. On the wall behind, faintly, pinned papers and notes — the work that went into building it. The overall mood is quiet resolution — not triumph, but completion. The evidence is public now.
 
 ---
 ## Scene 13 — Call to Action [10:35–10:45] · 10s · clean/systemic
 ---
 
 **What happened:**
-The site closes its #story section with a parliamentary callout: if the Access Obligation has produced zero breach findings across over a decade of PDPC enforcement, is the obligation being enforced at all? And if not, what is the mechanism by which it is being rendered unenforceable, and by whom? The site's #reform section presents these questions, along with four legislative asks, for Parliament to examine. The video ends on this question — not as a demand, but as an invitation to check the evidence.
+The site closes its #story section with a parliamentary callout: if the Access Obligation has produced zero breach findings across over a decade of PDPC enforcement, is the obligation being enforced at all? And if not, what is the mechanism by which it is being rendered unenforceable, and by whom? The site’s #reform section presents these questions, along with four legislative asks, for Parliament to examine. The video ends on this question — not as a demand, but as an invitation to check the evidence.
 
 **Narration:**
 I am not a lawyer. I am not an MP. I am a citizen who asked for footage of an accident that erased his memory, and found that the right the law promised me did not exist in practice.
@@ -329,4 +329,4 @@ All the evidence is at pdpaaccessrights.sg.
 Check it yourself.
 
 **Image prompt:**
-Clean/systemic. A single line of text, centred on a black background, in white: "If the Access Obligation has produced zero breach findings across over a decade of PDPC enforcement, is the obligation being enforced at all?" Below it, in a smaller size, in Singapore statutory red (#C41230): "pdpaaccessrights.sg." Below that, smallest: "All evidence is public. Check it yourself." No illustrations. No imagery. The viewer sits with the question. Fade to black over the final 3 seconds.
+Clean/systemic. A single line of text, centred on a black background, in white: “If the Access Obligation has produced zero breach findings across over a decade of PDPC enforcement, is the obligation being enforced at all?” Below it, in a smaller size, in Singapore statutory red (#C41230): “pdpaaccessrights.sg.” Below that, smallest: “All evidence is public. Check it yourself.” No illustrations. No imagery. The viewer sits with the question. Fade to black over the final 3 seconds.
