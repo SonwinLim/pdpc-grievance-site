@@ -13,7 +13,7 @@ subject: Dinesh, follow-up on the PDPC grievance
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; max-width: 640px; margin: 0 auto; padding: 20px; color: #222; line-height: 1.7;">
+<body style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; max-width: 640px; margin: 0 auto; padding: 20px; color: #222; line-height: 1.5;">
 <style>
 p { margin-bottom: 0.9em; }
 h2 { font-size: 1.15em; margin-top: 1.6em; margin-bottom: 0.6em; }
