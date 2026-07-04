@@ -58,7 +58,7 @@ ol { margin-bottom: 1em; }
 <ol>
 <li><p><strong>BreachBreakdown.jpg</strong></p><p>PDPC breach by obligation chart, showing <strong>204 Protection Obligation breaches</strong> versus <strong>0 Access Obligation breaches</strong>.</p></li>
 <li><p><strong>entry-gate-overlay.jpg</strong></p><p>Entry overlay from pdpaaccessrights.sg.</p></li>
-<li><p><strong>pdpa-masking-42.png</strong></p><p>PDPC Advisory Guidelines, page 42, paragraph 4.59, stating that blurred or pixelated masking may not be foolproof.</p></li>
+<li><p><strong>pdpa-masking-42.png</strong></p><p>PDPC Advisory Guidelines, page 42, paragraph 4.59, stating that blurred or pixelated masking may not be foolproof and individuals can still be identifiable, echoing the PDPA definition of personal data where the key is identifiability. In my case, I was identified on-site from that very same footage, and PDPC then used that footage to declare it was not personal data at all.</p></li>
 <li><p><strong>hansard.jpg</strong></p><p>Parliament Written Answer 19596, 22 September 2025, on preservation and criminal penalties.</p></li>
 </ol>
 
