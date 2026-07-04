@@ -68,6 +68,8 @@ In March 2025. PDPC redesigned its enforcement-decisions website. A filter that 
 <li><p><strong>hansard.jpg</strong></p><p>Parliament Written Answer 19596, 22 September 2025, on preservation and criminal penalties.</p></li>
 </ol>
 
+<p>My complaints were the only ones where PDPC were compelled to investigate, after considerable effort including reading the laws and guidelines myself and filing appeals, and still no Access Obligation breaches were found. Imagine how many Singaporeans and residents in Singapore were told by PDPC, in effect, that their rights under the PDPA could not be exercised. After all the pain I have been through, it is my mission to make sure that other Singaporeans and residents will not suffer what I went through.</p>
+
 <p>Yours sincerely,<br>Ray Lim</p>
 
 </body>

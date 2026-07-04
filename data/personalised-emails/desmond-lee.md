@@ -68,6 +68,8 @@ ol { margin-bottom: 1em; }
 
 <p>CC: mary_sng@moe.gov.sg</p>
 
+<p>My complaints were the only ones where PDPC were compelled to investigate, after considerable effort including reading the laws and guidelines myself and filing appeals, and still no Access Obligation breaches were found. Imagine how many Singaporeans and residents in Singapore were told by PDPC, in effect, that their rights under the PDPA could not be exercised. After all the pain I have been through, it is my mission to make sure that other Singaporeans and residents will not suffer what I went through.</p>
+
 <p>Yours sincerely,<br>Ray Lim</p>
 
 </body>
