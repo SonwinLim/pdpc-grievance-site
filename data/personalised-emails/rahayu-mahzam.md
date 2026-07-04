@@ -30,7 +30,7 @@ Four sites to verify:
 2. https://pdpaaccessrights.sg/enforcement-index.html
    a. the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
 3. https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest
-   a. the official PDPC published-decisions page, filterable by obligation type
+   a. the official PDPC page, filterable by enforcement vs undertaking and years (the obligation-type filter was removed)
 4. https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596
    a. Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
 
@@ -43,6 +43,9 @@ Attachments:
    a. PDPC Advisory Guidelines page 42, para 4.59: blurred/pixelated masking may not be foolproof
 4. hansard.jpg
    a. Parliament Written Answer 19596, 22 September 2025: assurance on preservation + criminal penalties
+
+
+CC: noraini_mohd_taib@moh.gov.sg
 
 Yours sincerely,
 Lim Zirui (Ray Lim)
