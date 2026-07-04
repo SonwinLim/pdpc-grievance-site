@@ -25,6 +25,8 @@ ol { margin-bottom: 1em; }
 
 <p>I rebuilt the missing enforcement filter at <a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a>. The issue is larger than my own case.</p>
 
+<p>I should note that I am a resident of Chua Chu Kang GRC, not your constituency. I write to you because this matter goes beyond any single constituency. It concerns whether a statutory right given to every Singaporean under the PDPA is being enforced in practice. As a backbencher, your own residents may one day ask you about it, and you should know what the record shows.</p>
+
 <h2>What caused me to revisit this issue</h2>
 <p>This is not the first time I have reached out. I have raised this matter previously with Ministers, my Member of Parliament, PDPC, IMDA, and the Public Service Commission. After repeated escalation without a substantive answer, I had largely accepted that further private correspondence would not move the matter forward.</p>
 <p>What caused me to revisit the issue is <strong>PDPC&rsquo;s enforcement website.</strong> Previously, members of the public could filter PDPC enforcement decisions by obligation type. After I raised the issue that no Access Obligation breach appears to have ever been found across PDPC&rsquo;s published enforcement history, that obligation-type filter was removed. The page can still be filtered by enforcement type and year, but no longer by the obligation breached.</p>
