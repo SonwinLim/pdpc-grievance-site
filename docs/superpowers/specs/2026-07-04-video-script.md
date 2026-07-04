@@ -292,23 +292,41 @@ Clean/systemic editorial layout. A single horizontal line representing time, bro
 ---
 
 **What happened:**
-[TODO — see Task 8]
+The Complainant built pdpaaccessrights.sg — a public site presenting every document, every decision, every response. The site includes: the full story in five acts; the parliamentary Written Answer 19596 juxtaposed against what happened; the two case cards side by side; PDPC's narrative versus the record; the 10 contradiction cards; the 12 documented failures; the 19-month timeline; the full enforcement register analysis; and all source documents. All evidence is public. Nothing on the site is not sourced from a PDPC decision, the PDPA statute, parliamentary record, or correspondence in the Complainant's possession.
 
 **Narration:**
-[TODO — see Task 8]
+I built a site.
+
+pdpaaccessrights.sg.
+
+Every document is there. Both PDPC decisions — the one that found "no personal data" using my own handphone video, and the one that reframed a deleted-footage case as an accountability breach. The parliamentary answer from Minister Teo promising preservation and penalties — next to what happened in my case. The nine questions and the nine identical replies. The enforcement register analysis — three hundred and eighty-four cases, zero access obligation breach findings. The timeline. The contradictions. The documented failures.
+
+Everything on that site comes from a PDPC decision, the PDPA statute, a parliamentary record, or correspondence in my possession. Nothing is asserted that is not sourced. Every claim has a footnote. Every source is primary.
+
+The evidence is public. You can check it yourself.
 
 **Image prompt:**
-[TODO — see Task 8]
+Mixed style. A laptop screen showing pdpaaccessrights.sg — the site's #story section visible, with the 5-act structure headings. The screen glows softly. The hands in front of the keyboard are rendered in hand-drawn style — ink lines, suggestive, unfinished. The screen content is clean/systemic — sharp, legible, the site's actual visual design. The contrast between the human figure (hand-drawn, warm charcoal and ochre) and the machine output (clean, sharp, institutional black and white) is intentional. The site's URL is visible in the browser bar: pdpaaccessrights.sg. On the wall behind, faintly, pinned papers and notes — the work that went into building it. The overall mood is quiet resolution — not triumph, but completion. The evidence is public now.
 
 ---
 ## Scene 13 — Call to Action [10:35–10:45] · 10s · clean/systemic
 ---
 
 **What happened:**
-[TODO — see Task 8]
+The site closes its #story section with a parliamentary callout: if the Access Obligation has produced zero breach findings across over a decade of PDPC enforcement, is the obligation being enforced at all? And if not, what is the mechanism by which it is being rendered unenforceable, and by whom? The site's #reform section presents these questions, along with four legislative asks, for Parliament to examine. The video ends on this question — not as a demand, but as an invitation to check the evidence.
 
 **Narration:**
-[TODO — see Task 8]
+I am not a lawyer. I am not an MP. I am a citizen who asked for footage of an accident that erased his memory, and found that the right the law promised me did not exist in practice.
+
+The Access Obligation has produced zero breach findings across over a decade of PDPC enforcement. Zero. Across three hundred and eighty-four published cases.
+
+If a statutory right has never been enforced — not once — is it being enforced at all?
+
+And if not — by what mechanism, and by whom, is it being rendered unenforceable?
+
+All the evidence is at pdpaaccessrights.sg.
+
+Check it yourself.
 
 **Image prompt:**
-[TODO — see Task 8]
+Clean/systemic. A single line of text, centred on a black background, in white: "If the Access Obligation has produced zero breach findings across over a decade of PDPC enforcement, is the obligation being enforced at all?" Below it, in a smaller size, in Singapore statutory red (#C41230): "pdpaaccessrights.sg." Below that, smallest: "All evidence is public. Check it yourself." No illustrations. No imagery. The viewer sits with the question. Fade to black over the final 3 seconds.
