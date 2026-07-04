@@ -31,6 +31,8 @@ ol { margin-bottom: 1em; }
 <p><strong>Instead of addressing the pattern, the change made the pattern harder for the public to see.</strong></p>
 <p>That is why I created <a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a>. The website documents the timeline, the primary record, the enforcement pattern, and a rebuilt obligation-type filter.</p>
 
+<p>I sent the full site to the PDPC and IMDA leadership on 21 June 2026 in advance, as I have with all my previous correspondence. No reply was given. As always.</p>
+
 <h2>Why this matters</h2>
 <p>My original complaint arose because CCTV footage that would have shown what happened to me was denied, then destroyed.</p>
 <p>The footage is gone. I am not asking for it to be restored. That is impossible.</p>
