@@ -14,8 +14,14 @@ subject: Follow-up on my PDPC complaint, an update and a request for your attent
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; max-width: 640px; margin: 0 auto; padding: 20px; color: #222; line-height: 1.7;">
+<style>
+p { margin-bottom: 0.9em; }
+h2 { font-size: 1.15em; margin-top: 1.6em; margin-bottom: 0.6em; }
+li { margin-bottom: 0.6em; }
+ol { margin-bottom: 1em; }
+</style>
 
-<p>Dear <strong>Cassandra Lee</strong>,</p>
+<h2 style="font-weight: normal; margin-bottom: 1.2em;">Dear <strong>Cassandra Lee</strong>,</h2>
 
 <p>I rebuilt the missing enforcement filter at <a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a>. The issue is larger than my own case.</p>
 

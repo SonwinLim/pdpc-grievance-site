@@ -14,12 +14,18 @@ subject: Follow-up on the PDPC grievance, an update and a request for your atten
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; max-width: 640px; margin: 0 auto; padding: 20px; color: #222; line-height: 1.7;">
+<style>
+p { margin-bottom: 0.9em; }
+h2 { font-size: 1.15em; margin-top: 1.6em; margin-bottom: 0.6em; }
+li { margin-bottom: 0.6em; }
+ol { margin-bottom: 1em; }
+</style>
 
-<p>Dear <strong>Minister of State Zhulkarnain Abdul Rahim</strong>,</p>
+<h2 style="font-weight: normal; margin-bottom: 1.2em;">Dear <strong>Minister of State Zhulkarnain Abdul Rahim</strong>,</h2>
 
-<p>you have been my constituency MP for Chua Chu Kang. My first email to you on this matter was on 27 May 2024. The PDPC's own records, in their replies to me that copied you in, refer to that email. Since then I have written to you many more times, all on the same subject. The record of those emails is verifiable.</p>
+<p>You have been my constituency MP for Chua Chu Kang. My first email to you on this matter was on 27 May 2024. The PDPC's own records, in their replies to me that copied you in, refer to that email. Since then I have written to you many more times, all on the same subject. The record of those emails is verifiable.</p>
 
-<h2>The Maradona analogy</h2>
+<h2>The Maradona &ldquo;Hand of God&rdquo; analogy</h2>
 <p>To borrow an analogy from football, this is the &ldquo;Hand of God&rdquo; moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today&rsquo;s game has VAR, cameras, and replay. Even with all that evidence available, the <strong>referee still looked away.</strong> Worse, in football, that referee can be reviewed and held to account. <strong>Here, the enforcer sits in judgment of itself, and nothing happens.</strong></p>
 <p>A referee has discretion over marginal fouls in a fast game. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. <strong>That is a failure of duty.</strong> PDPC effectively told me that the rulebook itself was wrong, that its own Advisory Guidelines were not determinative and that the PDPA takes precedence, while refusing to identify which guideline, which clause, or which conflict was meant. At the same time, PDPC continues to enforce the Protection Obligation against data leaks at major organisations. It cannot tell one player the rules do not apply while continuing to referee the rest of the tournament under them.</p>
 
