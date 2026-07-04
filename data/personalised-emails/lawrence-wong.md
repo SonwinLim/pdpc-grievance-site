@@ -7,23 +7,21 @@ designation: Prime Minister & Minister for Finance
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Prime Minister Lawrence Wong,
-
-I am writing about nineteen months of escalation through every available channel, ending without a substantive reply. Two appeals were submitted on my behalf by my Member of Parliament. Neither received a response that addressed the substance. When I approached the Public Service Commission, the Infocomm Media Development Authority informed them that the issues had been addressed. That representation was made at a time when no substantive reply had been provided to me. The Public Service Commission relied on IMDA’s statement and declined to act further. This leaves no remaining executive oversight channel outside Parliament. I am asking whether this warrants direct Prime-Ministerial review.
+Dear Prime Minister Lawrence Wong, I am writing about nineteen months of escalation through every available channel, ending without a substantive reply. Two appeals were submitted on my behalf by my Member of Parliament. Neither received a response that addressed the substance. When I approached the Public Service Commission, the Infocomm Media Development Authority informed them that the issues had been addressed. That representation was made at a time when no substantive reply had been provided to me. The Public Service Commission relied on IMDA’s statement and declined to act further. This leaves no remaining executive oversight channel outside Parliament. I am asking whether this warrants direct Prime-Ministerial review.
 
 Across over a decade of published enforcement decisions, the Personal Data Protection Commission has never once found a breach of the Access Obligation, while finding 204 breaches of the Protection Obligation in the same period. It has pursued Protection Obligation cases aggressively, including data breach decisions against major organisations. I raised this with PDPC. It responded by redesigning its enforcement-website to remove the obligation-type filter. I rebuilt the filter and published everything at [pdpaaccessrights.sg](https://pdpaaccessrights.sg).
 
 To borrow an analogy from football: this is the Hand of God moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today's game has VAR, cameras, and replay. Even with all that evidence available, the referee still looked away. Worse, in football that referee can be reviewed and held to account. Here, the enforcer sits in judgement of itself. Nothing happens.
 
-But here is the further point. A referee has discretion on which marginal fouls to call â a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
+But here is the further point. A referee has discretion on which marginal fouls to call , a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
 
 The footage that would have shown me what happened was denied and then destroyed. I rebuilt the removed filter at [pdpaaccessrights.sg](https://pdpaaccessrights.sg). The consequences of that denial have shaped every day since. Given this pattern through every available channel, does the matter warrant direct Prime-Ministerial review?
 
 Four sites to verify:
-- [pdpaaccessrights.sg](https://pdpaaccessrights.sg) — full account of the documented pattern, the rebuilt enforcement filter, and the primary record
-- [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) — the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
-- [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) — the official PDPC published-decisions page, filterable by obligation type
-- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596) — Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
+- [pdpaaccessrights.sg](https://pdpaaccessrights.sg) – full account of the documented pattern, the rebuilt enforcement filter, and the primary record
+- [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) – the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
+- [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) – the official PDPC published-decisions page, filterable by obligation type
+- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596). Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
 
 Attachments:
 - BreachBreakdown.jpg (PDPC breach-by-obligation chart: 204 Protection vs 0 Access Obligation)

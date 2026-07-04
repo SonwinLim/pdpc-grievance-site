@@ -7,27 +7,25 @@ designation: Member of Parliament
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Ms Sylvia Lim,
+Dear Ms Sylvia Lim, your long record on civil liberties and administrative law is well recognised, and your voice in these matters carries weight that few others in this House can claim. I write with that record in mind, and in the hope that it may be extended to cover a structural deficiency that has gone largely unexamined.
 
-Your long record on civil liberties and administrative law is well recognised, and your voice in these matters carries weight that few others in this House can claim. I write with that record in mind, and in the hope that it may be extended to cover a structural deficiency that has gone largely unexamined.
-
-In March 2025, PDPC removed a filter from its published enforcement-decisions page. That filter had enabled anyone to view cases segmented by obligation type. Its removal did not delete the data; it merely made the data harder to access. The zero-Access-Obligation-breach pattern, visible to any researcher who cared to look before the redesign, became effectively hidden after it. This is a documented change to a public-facing government tool, made without any public announcement, explanation, or justification.
+In March 2025. PDPC removed a filter from its published enforcement-decisions page. That filter had enabled anyone to view cases segmented by obligation type. Its removal did not delete the data; it merely made the data harder to access. The zero-Access-Obligation-breach pattern, visible to any researcher who cared to look before the redesign, became effectively hidden after it. This is a documented change to a public-facing government tool, made without any public announcement, explanation, or justification.
 
 The Maradona Hand-of-God goal offers a framing. To borrow an analogy from football: this is the Hand of God moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today's game has VAR, cameras, and replay. Even with all that evidence available, the referee still looked away. Worse, in football that referee can be reviewed and held to account. Here, the enforcer sits in judgement of itself. Nothing happens.
 
-But here is the further point. A referee has discretion on which marginal fouls to call â a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
+But here is the further point. A referee has discretion on which marginal fouls to call , a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
 
 The legal framework is clear. Section 21 of the Personal Data Protection Act grants every individual a right to access their personal data. Section 24 imposes a Protection Obligation on organisations. PDPC enforces s.24 actively, obtaining fines and compliance undertakings across dozens of cases, including from major institutions. It has never found a breach of s.21 in any published decision, a finding that has remained consistent across every cycle of enforcement data. The enforcement-index at [https://pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) shows this zero across 374 cases.
 
-I stand ready to be corrected on any factual claim I make, I invite engagement on the substance, and I thank you for your time.
+I stand ready to be corrected on any factual claim I make. I invite engagement on the substance, and I thank you for your time.
 
 Would you consider raising this in Committee of Supply?
 
 Four sites to verify:
-- [pdpaaccessrights.sg](https://pdpaaccessrights.sg) — full account of the documented pattern, the rebuilt enforcement filter, and the primary record
-- [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) — the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
-- [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) — the official PDPC published-decisions page, filterable by obligation type
-- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596) — Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
+- [pdpaaccessrights.sg](https://pdpaaccessrights.sg) – full account of the documented pattern, the rebuilt enforcement filter, and the primary record
+- [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) – the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
+- [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) – the official PDPC published-decisions page, filterable by obligation type
+- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596). Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
 
 Attachments:
 - BreachBreakdown.jpg (PDPC breach-by-obligation chart: 204 Protection vs 0 Access Obligation)

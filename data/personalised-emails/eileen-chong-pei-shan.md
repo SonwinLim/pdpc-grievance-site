@@ -7,27 +7,25 @@ designation: Non-Constituency Member of Parliament
 subject: Follow-up on the PDPC grievance, an update and a request for your attention
 ---
 
-Dear Ms Eileen Chong Pei Shan,
+Dear Ms Eileen Chong Pei Shan, your role as a Non-Constituency Member of Parliament gives you a particular platform to raise issues that might otherwise receive less parliamentary attention. I want to offer you one that I believe fits that description precisely, and that affects Singaporeans beyond my own case.
 
-Your role as a Non-Constituency Member of Parliament gives you a particular platform to raise issues that might otherwise receive less parliamentary attention. I want to offer you one that I believe fits that description precisely, and that affects Singaporeans beyond my own case.
-
-In March 2025, PDPC removed a filter from its published enforcement-decisions page. That filter had allowed members of the public to segment published cases by obligation type. After the redesign, it is no longer possible to do that without specialist knowledge of the site. The zero Access Obligation breach finding, which had been empirically visible in the data, became inaccessible to most people. This was not announced; it simply changed.
+In March 2025. PDPC removed a filter from its published enforcement-decisions page. That filter had allowed members of the public to segment published cases by obligation type. After the redesign, it is no longer possible to do that without specialist knowledge of the site. The zero Access Obligation breach finding, which had been empirically visible in the data, became inaccessible to most people. This was not announced; it simply changed.
 
 The Maradona Hand-of-God goal is the clearest analogy I know. To borrow an analogy from football: this is the Hand of God moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today's game has VAR, cameras, and replay. Even with all that evidence available, the referee still looked away. Worse, in football that referee can be reviewed and held to account. Here, the enforcer sits in judgement of itself. Nothing happens.
 
-But here is the further point. A referee has discretion on which marginal fouls to call â a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
+But here is the further point. A referee has discretion on which marginal fouls to call , a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
 
 Section 21 of the Personal Data Protection Act establishes the right of individuals to access their data. Section 24 establishes the protection obligation. PDPC enforces s.24 actively, obtaining fines from major institutions. It has never published a breach finding under s.21 in 374 cases. The enforcement-index at [https://pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) documents every case; the zero in the Access Obligation column is the most consistent finding in the entire record.
 
-Mr Lim, I have rebuilt the filter independently at [https://pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) so that this data remains publicly accessible. Every Singaporean deserves to know that the Access Obligation, a right written into law, has never produced a published enforcement outcome in the history of the PDPA.
+Mr Lim. I have rebuilt the filter independently at [https://pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) so that this data remains publicly accessible. Every Singaporean deserves to know that the Access Obligation, a right written into law, has never produced a published enforcement outcome in the history of the PDPA.
 
 Would you consider this a topic suitable for NCMP-style advocacy?
 
 Four sites to verify:
-- [pdpaaccessrights.sg](https://pdpaaccessrights.sg) — full account of the documented pattern, the rebuilt enforcement filter, and the primary record
-- [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) — the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
-- [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) — the official PDPC published-decisions page, filterable by obligation type
-- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596) — Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
+- [pdpaaccessrights.sg](https://pdpaaccessrights.sg) – full account of the documented pattern, the rebuilt enforcement filter, and the primary record
+- [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) – the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
+- [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) – the official PDPC published-decisions page, filterable by obligation type
+- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596). Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
 
 Attachments:
 - BreachBreakdown.jpg (PDPC breach-by-obligation chart: 204 Protection vs 0 Access Obligation)

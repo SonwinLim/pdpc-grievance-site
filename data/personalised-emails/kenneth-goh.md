@@ -4,30 +4,28 @@ name: Mr Kenneth Goh
 slug: kenneth-goh
 email: kennethgoh@smu.edu.sg
 designation: Nominated Member of Parliament
-subject: Kenneth — follow-up on the PDPC grievance
+subject: Kenneth, follow-up on the PDPC grievance
 ---
 
-Dear Kenneth,
-
-I hope this note finds you well. You were my SMU professor during my MBA, and I am writing to you in your capacity as an Associate Professor at SMU and Nominated Member of Parliament with a direct interest in regulatory interpretation and accountability.
+Dear Kenneth, I hope this note finds you well. You were my SMU professor during my MBA, and I am writing to you in your capacity as an Associate Professor at SMU and Nominated Member of Parliament with a direct interest in regulatory interpretation and accountability.
 
 PDPC recently redesigned its enforcement-decisions website so that it is no longer possible to filter published cases by obligation type. Previously, the filter showed a striking breakdown: across PDPC's entire published enforcement record, it had never once found a breach of the Access Obligation under section 21 of the PDPA. That pattern is now hidden from public view. I rebuilt the missing filter myself, and it remains live at [https://pdpaaccessrights.sg/enforcement-index.html.](https://pdpaaccessrights.sg/enforcement-index.html.) You can verify the pattern yourself by reviewing the obligation-type column.
 
 To borrow an analogy from football: this is the Hand of God moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today's game has VAR, cameras, and replay. Even with all that evidence available, the referee still looked away. Worse, in football that referee can be reviewed and held to account. Here, the enforcer sits in judgement of itself. Nothing happens.
 
-But here is the further point. A referee has discretion on which marginal fouls to call â a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
+But here is the further point. A referee has discretion on which marginal fouls to call , a fast game, professional judgement. But when a clear foul is committed and the offending player scores, the referee cannot simply wave play on and invent a reason. That is not discretion. That is dereliction of duty. PDPC has done that with every CCTV access-denial complaint across its entire published enforcement record.
 
 To be specific about what zero looks like: PDPC aggressively enforces the Protection Obligation (section 24) against data leaks, producing dozens of published decisions including against Marina Bay Sands. The Access Obligation (section 21) has produced none. Not one published decision, across over a decade of enforcement action. This gap is not a statistical artefact; it is a consistent enforcement posture that warrants explanation. The site at [https://pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) documents the full matrix, and I believe the pattern reflects a de facto policy of non-enforcement implemented through invented evidentiary standards.
 
 I studied under your teaching on legal reasoning and regulatory interpretation. I approach this matter with the same discipline: the documentary record is publicly available, and I stand ready to be corrected if any conclusion is wrong.
 
-As an NMP with a regulatory and academic background, I would ask whether this regulatory interpretation gap, which is visible in the public record, warrants formal scrutiny through your NMP platform, based on the evidence.
+As an NMP with a regulatory and academic background. I would ask whether this regulatory interpretation gap, which is visible in the public record, warrants formal scrutiny through your NMP platform, based on the evidence.
 
 Four sites to verify:
-- [pdpaaccessrights.sg](https://pdpaaccessrights.sg) — full account of the documented pattern, the rebuilt enforcement filter, and the primary record
-- [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) — the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
-- [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) — the official PDPC published-decisions page, filterable by obligation type
-- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596) — Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
+- [pdpaaccessrights.sg](https://pdpaaccessrights.sg) – full account of the documented pattern, the rebuilt enforcement filter, and the primary record
+- [pdpaaccessrights.sg/enforcement-index.html](https://pdpaaccessrights.sg/enforcement-index.html) – the rebuilt enforcement matrix showing 0 Access Obligation breach findings across 374 published decisions
+- [pdpc.gov.sg/enforcement-decisions](https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions?type=Commission%27s+Decisions&page=1&sort=latest) – the official PDPC published-decisions page, filterable by obligation type
+- [Hansard: Written Answer 19596](https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=written-answer-19596). Minister Josephine Teo's Parliamentary assurance of 22 September 2025 on data preservation + criminal penalties for intentional concealment
 
 Attachments:
 - BreachBreakdown.jpg (PDPC breach-by-obligation chart: 204 Protection vs 0 Access Obligation)
