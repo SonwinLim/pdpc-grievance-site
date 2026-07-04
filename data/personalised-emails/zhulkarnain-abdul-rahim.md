@@ -23,7 +23,15 @@ ol { margin-bottom: 1em; }
 
 <h2 style="font-weight: normal; margin-bottom: 1.2em;">Dear <strong>Minister of State Zhulkarnain Abdul Rahim</strong>,</h2>
 
-<p>You have been my constituency MP for Chua Chu Kang. My first email to you on this matter was on 27 May 2024. The PDPC's own records, in their replies to me that copied you in, refer to that email. Since then I have written to you many more times, all on the same subject. The record of those emails is verifiable.</p>
+<p>You have been my constituency MP for Chua Chu Kang. My first email to you on this matter was on 27 May 2024. The PDPC&rsquo;s own records, in their replies to me that copied you in, refer to that email. Since then I have written to you many more times, all on the same subject. The record of those emails is verifiable.</p>
+
+<p><strong>The picture is this.</strong> It is clear as day that access requests were made. It is clear as day that there was no DPO provided, or the Managing Agent denied giving me the DPO. It is clear that the MA DPO also denied me my access request without valid reasons. It is clear that video was captured and deleted. And yet, PDPC found no breach. The two PDPC case references are DP-2405-C2318 (Knight Frank, The Scotts Tower) and DP-2405-C2445 (Property Facility Services, Suites@Cairnhill).</p>
+
+<p>PDPC responded by redesigning its enforcement-website to remove the obligation-type filter. The new layout hid the zero-Access-Obligation-breach pattern entirely. I rebuilt the filter and published everything at <a href="https://pdpaaccessrights.sg">pdpaaccessrights.sg</a> so that the pattern is publicly visible.</p>
+
+<p>I also want to acknowledge something you already know. I thank you for the parliamentary question that resulted in Written Answer 19596. In that answer, Minister Josephine Teo stated that organisations must preserve data while access requests are being processed, with criminal penalties for intentional concealment. Those are clear assurances. Since that answer, PDPC has not acknowledged any breach in my case.</p>
+
+<p>Now that you are a Minister, you can no longer ask written questions on my behalf. That is the way Parliament works. I am sure your colleagues can do so, and I am hoping that someone will find the time. Unless there are more important matters that take precedent, I hope you can find an opportunity to think about why PDPC can act in this way without any recourse.</p>
 
 <h2>The Maradona &ldquo;Hand of God&rdquo; analogy</h2>
 <p>To borrow an analogy from football, this is the &ldquo;Hand of God&rdquo; moment. I asked the referee, PDPC, to review the play. It refused to examine the evidence and let the goal stand. Today&rsquo;s game has VAR, cameras, and replay. Even with all that evidence available, the <strong>referee still looked away.</strong> Worse, in football, that referee can be reviewed and held to account. <strong>Here, the enforcer sits in judgment of itself, and nothing happens.</strong></p>
@@ -43,6 +51,9 @@ ol { margin-bottom: 1em; }
 <p>In particular, the rebuilt enforcement matrix is here:</p>
 <p><a href="https://pdpaaccessrights.sg/enforcement-index.html">https://pdpaaccessrights.sg/enforcement-index.html</a></p>
 <p>The purpose of the website is not to personalise the issue. It is to preserve the record and allow others to verify whether the Access Obligation is being enforced in practice.</p>
+
+<h2>What I am asking</h2>
+<p>Would you consider a follow-up written question asking how many Access Obligation complaints have been filed with PDPC since 2012, and why zero breach findings have been recorded for that obligation? Your colleague MPs can table the question; you alone know the full history of this case and what it has already gone through.</p>
 
 <h2>Sites for verification</h2>
 <ol>
