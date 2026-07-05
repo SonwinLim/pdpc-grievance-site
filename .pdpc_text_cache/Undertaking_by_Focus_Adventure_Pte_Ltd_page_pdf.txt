@@ -1,0 +1,125 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Focus Adventure
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Focus Adventure Pte Ltd
+Published on 23 May 2024
+
+Share:   
+
+Background
+On 10 January 2022, Personal Data Protection Commission (the "Commission") reached out to Focus Adventure Pte. Ltd. (the "Organisation") after receiving information that databases, containing personal data of individuals associated with the Organisation, were made available for sale on the dark web (the "Incident"). Subsequently, the Organisation lodged a data breach notification on 12 January 2022.
+Investigation revealed that the Organisation had suffered a ransomware attack on its company servers on 19 December 2021. The Organisation restored its servers from backups. It was believed that the files in the server were exfiltrated by the threat actor(s) during this period.
+As a result of the Incident, the personal data of approximately 923 individuals, including their names, NRIC numbers, date of birth, phone numbers, email addresses and bank account details (for former and current employees) were encrypted and exfiltrated by the threat actor(s).
+The Organisation was found to be lacklustre in its cybersecurity and data protection practices, including the usage of end of life ("EOL") software for its servers and for failing to carry out any periodic security reviews of its unpatched servers. In addition, there was no proper documentation for password policies, patch management policies or change management policies.
+RToeomffeer dyoiualaAbcetttieornexsperience, this site uses cookies. Read more about cookies 
+in our Privacy Statement. After the incident, the Organisation implemented the following:
+
+(a) Changed the password to its servers and firewall; and
+FOR
+I(bn) Idnsitvaliledduenadlpsoint security solutions for all users.
+
+
+
+Voluntary Undertaking
+
+AHbavoiuntg considered the circumstances of the case and the lack of knowledge by the
+
+Organisation in cybersecurity and data protection practices, the Commission
+
+JaOucrclgyea2pn0ties2ad2t, aiforvonomslutnhtearOy rugnadneisratatikoinngto(tehneg"aUgnedaenrteaxktienrgn"a),l wsehrivcihcewparsoevxideecruttoedimopnr1o9ve
+
+its cybersecurity set-up and its data protection practices and policies.
+
+Individuals As part of the
+
+Undertaking,
+
+after
+
+the
+
+initial
+
+set-up,
+
+the
+
+external
+
+service
+
+provider
+
+will
+
+conduct two further reviews. The first review will be conducted 6 months after the
+
+iMnietdiailas&etE-uvepnhtsas been completed and the second review will be conducted one year
+after the first review. The reviews are to ensure, amongst others, that the latest
+
+software updates have been installed on the Organisation's devices and systems.
+
+The Organisation has since updated the Commission that it has fully implemented its remediation plan. The Commission has reviewed the matter and is satisfied that the Organisation has complied with the terms of the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement
+To offer you a better experience, this site uses cookies. Read more about cookies TineromusraPnrdivCaocnydSittioantesment.
+
+Reach 
+
+FOR
+Individuals � 2026 Personal Data Protection Commission
+Last updated 23 May 2024
+
+Built with
+
+Powered by
+
+About
+
+Organisations
+� 2026 Government of Singapore
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

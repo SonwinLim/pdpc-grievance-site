@@ -1,0 +1,133 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Orchid Hotel Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Orchid Hotel Pte Ltd
+Published on 23 Oct 2024
+
+Share:   
+
+Background
+Orchid Hotel Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 13 March 2024 of a ransomware attack on its servers (the "Incident"). The personal data, which included the name, NRIC, date of birth, email address, and telephone number, scanned copy of passport and credit card information (last 4 digits) of 680,000 individuals was encrypted
+Investigations revealed that the threat actor ("TA") gained access through the Remote Desktop Protocol and successfully compromised the local and domain administrator accounts. At the time of the Incident, sensitive data, i.e. NRIC, passport and credit card information, was encrypted at rest. The Organisation's firewall logs did not detect any abnormalities, anomalous outbound traffic or evidence to suggest that data had been exfiltrated.
+Upon discovering the Incident, the Organisation took prompt remedial actions. This included engaging a third-party vendor to conduct comprehensive security assessment and data handling practices and also implementing stronger password standards and multi-factor authentication ("MFA") for all accounts.
+Voluntary Undertaking
+Having considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its Tcoomofpfeliraynocue awbitehtttehreePxepresroiennacl eD,atthaisPsrioteteucsteiosncAooctki2e0s1.2R(etahde m"PoDrPeAa"b).oTuhtecookies  UinnoduerrtParkivinacgywSatasteexmeceuntte. d on 21 August 2024.
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+FOR
+Individuals (a) Change all IP addresses and passwords for affected servers;
+
+
+
+(b) Perform a full reformat and rebuild of impacted systems to ensure a clean and
+
+csAerbecoduuertenteinalvsircohnamngeendt..
+
+All network assets would A VAPT is scheduled;
+
+be
+
+assessed,
+
+and
+
+all
+
+remote
+
+access
+
+i(Odcr)egCnaotninfiysdaautnciodtnarsnemotohveer
+
+round of anti-virus potential malware.
+
+sScyamnsanatcerocsEsnadllpsoeirnvtePrsroatnedcteionndpwoililnctosntotinue
+
+to be deployed on all assets with operating systems;
+
+(Indd) Uivpidguraaldse to a cloud-based version with improved data security, scalability, and 
+
+reliability. Ensure that the fundamental cloud security controls are in place and if
+
+nMeecdeisas&arEy,vreenintsforce them with additional measures;
+
+
+
+(e) Enforce a stricter password policy requiring strong and unique passwords for all accounts;
+
+(f) Ensure that MFA is consistently implemented for all privileged accounts, enhancing their protection again potential attack vectors;
+
+(g) Engage a qualified security vendor to conduct a vulnerability and hardening assessment;
+
+(h) Ensure that all issues identified during the security assessments are promptly addressed and resolved;
+
+(i) Send key staff for in-depth PDPA training on advance threat identification and data handling best practices;
+
+(j) Conduct regular training sessions for all staff to raise awareness of data security best practices;
+
+(k) Establish regular communication channels to inform all staff about the latest security threats, vulnerabilities, and best practices;
+
+(l) Review its existing service contract with Primosys Asia and include relevant data protection clauses that clearly set out the obligations and responsibilities of both parties to comply with the PDPA;
+
+(m) Develop a "Playbook for Malware Infection" that outlines the importance of maintaining and regularly updating patching practices; and
+
+(n) Review and improved backup strategies and disaster recovery capabilities. Ensure a dependable and tested process for data and critical systems recovery.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking. To offer you a better experience, this site uses cookies. Read more about cookies
+in our Privacy Statement.
+
+SFOhRare:   
+Individuals
+PAbeorustonal Data Protection Commission
+OAbrgoauntisations Organisations Individuals Individuals Media & Events Media & Events
+Contact
+
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 23 Oct 2024
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

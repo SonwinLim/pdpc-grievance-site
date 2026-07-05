@@ -1,0 +1,121 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by BIIPMI Pte Ltd and
+XPrienz Pte
+
+Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by BIIPMI Pte Ltd and XPrienz Pte Ltd
+Published on 04 Jul 2024
+
+Share:   
+
+Background
+On 14 May 2023, PDPC was notified by XPrienz Pte Ltd ("XPL" or the "Organisation") of a ransomware attack on its Network Attached Storage ("NAS"), resulting in the loss of their trainees' personal data (the "Incident"). The NAS is physically owned by XPL and managed by the staff members of BIIPMI Pte Ltd ("BIIPMI" or the "Organisation"), a related company owned by the directors of XPL. The Organisation processes personal data of the trainees on behalf of XPL and is XPL's data intermediary ("DI").
+As a result of the Incident, the personal data of approximately 2,954 individuals, including their names, phone numbers, email addresses, date of birth, NRIC number, employer name and educational qualifications were affected.
+BIIPMI
+Investigation revealed that the compromised account which was used by the threat actor to access the NAS was shared between 9 users from BIIPMI.
+The Organisation did not have sufficiently robust processes to protect the personal data stored on the NAS. The NAS was publicly accessible on the Internet without any security measures. To offer you a better experience, this site uses cookies. Read more about cookies  IcinnhoaandugrdPeitirmoivnaa,cntyhageSteOamtregemannteinpsato.tliiocinesd.iTdhneoptahsasvweoarndyfopratshsewcoordm, pparotcmhismedanaacgceomunetnhtaodr not
+
+been changed for the last 4 years since the NAS was deployed.
+FOR
+IXnPLdividuals
+
+
+
+Investigation further revealed that XPL failed to stipulate clear job specifications and
+
+hAdaabdtoaufaptirleodtetcotieoxnerrceiqseuirreeamsoennatsblien
+
+its contract with its data oversight over BIIPMI.
+
+intermediary,
+
+BIIPMI,
+
+and
+
+ROregmaneisdatiiaonl sActions
+
+
+
+After the incident, the Organisations did the following:
+
+(Ina)dIimvidpuleamlsented MFA across all systems;
+
+
+
+(Mbe) dEisata&bElisvhenedtsunique login credentials and access rights for each user;
+
+
+
+(c) Provided cybersecurity and PDPA awareness training for employees;
+
+(d) Conducted periodic security reviews that encompass both online vulnerability scanning tools and manual reviews;
+
+(e) Implemented separate data storage systems to restrict access between systems; and
+
+(f) XPL entered into a new vendor contract with BIIPMI that provided clear job descriptions and the responsibilities expected of BIIPMI.
+
+Voluntary Undertaking
+
+Having considered the circumstances of the case and the lack of knowledge displayed by BIIPMI and XPL in cybersecurity and data protection practices, the Commission accepted a voluntary undertaking (the "Undertaking"), which was executed on 12 October 2023 and 18 October 2023 respectively, from the Organisations to engage an external service provider to improve its cybersecurity setup and its data protection practices and policies.
+
+As part of the Undertaking, after the initial set-up, the external service provider will conduct two further reviews. The first review will be conducted 6 months after the initial set-up has been completed and the second review will be conducted one year after the first review. The reviews are to ensure, amongst others, that the latest software updates have been installed on the Organisations' devices and systems.
+
+The Commission will verify the Organisations' compliance with the Undertaking. If the Organisations fail to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisations' compliance with the Undertaking.
+
+Share:    To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+FOR
+PInedrsoivniadl uDaatlasProtection Commission
+About About Organisations Organisations Individuals
+IMneddiviiad&uaElsvents
+MCoendtiaac&t Events
+
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 03 Jul 2024
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

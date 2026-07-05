@@ -1,0 +1,296 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+[2019] SGPDPC 12 Case No DP-1609-B0229
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+
+1. Starhub Mobile Pte Ltd
+2. M1 Limited
+3. Singtel Mobile Singapore Pte. Ltd.
+
+... Organisations
+
+DECISION
+
+Data protection � Consent obligation � Withdrawal of consent
+
+Starhub Mobile Pte Ltd, M1 Limited and Singtel Mobile Singapore Pte. Ltd.
+[2019] SGPDPC 12
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1609-B0229
+6 June 2019.
+Background
+1 The present matter arose from a complaint made by an individual mobile subscriber ("Complainant"), in relation to the current industry practice of mobile network operators charging for the provision of Caller Number NonDisplay ("CNND") services. The CNND service is offered on a per-line basis affecting all out-going calls made using a particular telephone number. When activated by a subscriber, the CNND service essentially prevents the subscriber's telephone number from being displayed on call recipients' devices.
+2 The Organisations are the three mobile network operators in Singapore. They offer a range of telecommunication services to subscribers, in particular, mobile telephony services. They also offer CNND as an optional value-added service to their subscribers. All the Organisations share a common practice of charging subscribers for the provision of CNND services, although the precise charges differ from Organisation to Organisation.
+3 The key question which has to be determined in this case is whether section 16 of the Personal Data Protection Act 2012 ("PDPA") prohibits organisations from imposing charges for the provision of CNND services. The
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+findings and grounds of decision based on the Commission's investigation are set out below.
+
+Material Facts
+4 The Complainant is an individual subscriber of StarHub Mobile Pte Ltd ("StarHub")'s mobile services. He had written to StarHub to request the withdrawal of his consent to the disclosure of his telephone number to parties receiving his calls.
+
+5 In response, the Complainant was informed by StarHub that, if he wished to prevent his telephone number from being displayed to call recipients, he would need to activate StarHub's CNND value-added service. He was also informed that a one-time activation charge and monthly recurring charges were applicable.
+
+6 The Complainant was not agreeable to pay the charges for activating the CNND value-added service. He expressed the view that, as he was exercising his right under the PDPA to withdraw consent to the disclosure of his personal data, he should not be required to pay any charges for the CNND value-added service in order to prevent his telephone number from being displayed to call recipients.
+
+7 Against this backdrop, the Complainant raised this matter to the Commission. As the practice of charging for CNND services is common to all the Organisations, the Commission commenced an investigation into the practices pertaining to the CNND services of all three Organisations.
+
+Conveyance/withholding of calling party's telephone number from recipient
+
+2
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+8 In the course of its investigation, the Commission obtained a range of information from the Organisations pertaining to the manner in which a calling party's telephone number is conveyed to a call recipient during a telephone call, as well as details pertaining to the implementation of the CNND value-added service. Investigations disclosed the following:
+
+(a) All mobile and fixed line operators in Singapore are interconnected using international telephony signaling protocols, e.g., signaling system no. 7 and session initiation protocol. Under the arrangements for interconnection adopted by the Organisations, a caller's telephone number will be passed on by the caller's network operator to the receiving network operator as part of the conveyance of a telephone call.
+(b) The transmission of the calling party's telephone number by the calling party's operator to the recipient's operator takes place regardless of whether the calling party has activated CNND services. The calling party's network does not remove the calling party's telephone number from being transmitted. The difference in handling the caller's number lies in indicators as to whether the phone number should be displayed or hidden from the recipient.
+(c) If the call recipient has activated caller ID (also known as caller line identity or "CLI") services, the recipient operator's network will forward the calling party's telephone number to the recipient's device. Otherwise, the calling party's telephone number will not be forwarded to the recipient's device, and the recipient's device would not display the incoming caller's telephone number. Currently, the vast majority of Singapore mobile subscribers have enabled CLI services. (d) The flow of the caller's telephone number from the caller to the caller ID display at the call recipient's device when the call recipient has activated the CLI services for his telephone line takes place in the following manner:
+
+3
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+(i) When the caller dials the call recipient's telephone number using his phone, the call will be routed from the caller's originating local exchange to the recipient's local exchange, which could be in the same or different telecommunication company's network, based on the preplanned call routing arrangement. The originating local exchange will be able to determine which telephone communications company the call recipient has subscribed to and will try to establish a call with the designated recipient's local exchange through the adopted signalling protocols.
+(ii) If the call recipient's telephone is connected to the call recipient's telephone network, after the call is routed successfully, an acknowledgement awaits the call recipient to pick up the call, which is typically translated to the ringing of the telephone. At this stage, the caller's telephone number is reflected on the call recipient's telephone as caller ID display. The call is considered established after the call recipient picks up/accepts the call.
+(iii) Where the caller has activated CNND for his telephone line or where the call recipient has not activated CLI for his telephone line, the caller's ID will not be shared with the call recipient.
+(e) The CNND services offered by the Organisations allow callers' telephone numbers to be hidden from call recipients even if these call recipients have subscribed to caller ID services. The Organisations' CNND services are based on recommendations promulgated by the Telecommunication Standardisation Sector of the International Telecommunication Union ("ITU-T"). In addition to per-line CNND, it is also possible to offer CNND on a per-call basis although the Organisations have not made CNND available on a per-call basis. Each of the Organisations imposes its own set of charges on its subscribers for the CNND service. Typically, the charges consist of a combination of a one-time activation charge and monthly recurring charges.
+(f) If a calling party has subscribed for CNND services, when a telephone call is initiated, the calling party's network operator would
+
+4
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+transmit a CNND indicator, together with the calling party's telephone number, through the originating telephone network to the recipient's network operator. The function of the CNND indicator is to mark the caller's telephone number as "Presentation Restricted", which would notify the recipient's network operator not to forward the calling party's telephone number to the recipient's device.
+(g) In order for the calling party's telephone number to be withheld from the recipient, the recipient network operator's cooperation is needed to honour the CNND indicator, by recognising the indicator and withholding the calling party's telephone number from the recipient's device.
+(h) As such, the successful withholding of the calling party's telephone number from the call recipient is ultimately dependent on cooperation between the caller's network operator and the recipient network operator. In this regard, the Commission understands that the Organisations have adopted common standards for CNND services, and as between themselves will typically honour one another's CNND indicators.
+Findings and Basis for Determination
+9 The key issue to be determined in this case is whether the Organisations have contravened section 16 of the PDPA by requiring individual subscribers to pay charges for the CNND value-added service, in order to withhold their telephone number from being disclosed to call recipients.
+
+10 In addressing the aforementioned key issue, it is pertinent to briefly address a couple of preliminary issues that were raised in the course of the Commission's investigation into this matter, namely:
+(a) whether telephone numbers constitute personal data; and
+
+5
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+(b) whether express consent is required for the disclosure of telephone numbers to call recipients.
+
+Whether telephone numbers constitute personal data
+11 In some of their representations to the Commission, the Organisations suggested that mobile telephone numbers do not constitute personal data for the purposes of the PDPA. In this regard, the Organisations asserted that a call recipient would not be able to identify a calling party simply by looking at the telephone number displayed.
+
+12 I do not think that that such an assertion accords with the definition of "personal data" under the PDPA. Section 2 of the PDPA defines "personal data" to mean:
+
+"data, whether true or not, about an individual who can be identified �
+(a) from that data; or
+(b) from that data and other information to which the organisation has or is likely to have access".
+[Emphasis added.]
+
+13 In relation to whether telephone numbers constitute personal data, the Commission has stated in the Advisory Guidelines for the Telecommunication Sector that:
+"Telephone numbers and International Mobile Equipment Identity ("IMEI") numbers
+
+6
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+2.3 Where an individual is identifiable from the data, such as a combination of the individual's name, address and telephone number, then such data is personal data. In cases where the individual cannot be identified from that data alone (such as a device identifier in itself), such data may still be personal data if the organisation has or is likely to have access to other information that will allow the individual to be identified when taken together with that data...
+2.4 In the telecommunication context, an individual's mobile telephone number is likely to be personal data as it may uniquely identify, or be uniquely associated with, that individual..."1
+[Emphasis added.]
+14 Additionally, the Commission's Advisory Guidelines on Key Concepts in the Personal Data Protection Act also identifies personal mobile telephone numbers as a unique identifier, and hence personal data on its own:
+
+"Certain types of data can on its own, identify an individual, for instance biometric identifiers which are inherently distinctive to an individual, such as the face geometry or fingerprint of an individual.
+Similarly, data that has been assigned to an individual for the purposes of identifying the individual (e.g. NRIC or passport number of an individual) would be able to identify the individual from that data alone.
+Such data which, on its own, constitutes personal data, is referred to as "unique identifier" in these guidelines. Data that the Commission generally considers unique identifiers include: ... Personal mobile telephone number
+
+1
+
+PDPC, Advisory Guidelines for the Telecommunication Sector at [2.3] � [2.4].
+
+7
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+..."
+15 Mobile use in Singapore has grown in leaps and bounds. Just in terms of figures alone, there were altogether 8,381,900 mobile subscriptions in Singapore as of March 2018, and a mobile population penetration rate of 149.3%.2 It was also reported that 7 in 10 Singaporeans use social media on mobile, which, according to the survey, is double of the global average.3 Given the multitudinous uses of mobile in today, mobile numbers have increasingly been used as a form of identification or verification of individuals, including for online transactions, mobile payments, and social networking. This works on the general premise that an issued mobile number is unique, and no two same mobile numbers should be in operation at the same time. Hence, a mobile number acts as a unique address for which individuals may be contacted or receive messages or information on their mobile phones. In this regard, mobile numbers double up as a unique identifier of the individual.
+
+16 This role of a personal mobile telephone number as a unique identifier is further strengthened by the mobile telephone number portability policy such that an individual is able to retain and keep his mobile telephone number when he switches to another service provider. This is one of the reasons that caller ID is popular with mobile phone subscribers � a subscriber is able to identify the
+
+2
+
+https://www.imda.gov.sg/industry-development-facts-and-
+
+figures/telecommunications/statistics-on-telecom-services/statistic-on-telecom-
+
+service-for-2018-jan
+
+3 http://www.businesstimes.com.sg/consumer/7-in-10-singaporeans-use-social-media-onmobile-double-global-average-survey
+
+8
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+caller through the caller's telephone number if the subscriber had programmed the caller's telephone number in his telephone directory.
+
+17 Also, when one of the Organisations uses a subscriber's personal mobile telephone number, for example to establish a telephone call or for logging call data for billing purposes, that Organisation is using that personal mobile telephone number as a unique identifier of the individual subscriber.
+
+18 There is, however, a distinction between land lines and mobile telephone numbers. The foregoing discussion is concerned with mobile telephone numbers. A land line terminates at premises that are, more likely than not, shared: e.g. residence of a family or place of business of an organisation. It is the recognition of this key distinction that the aforementioned advisory guidelines limit its policy guidance to treating mobile telephone numbers personal data without adopting a similar approach for land lines. Consumers and organisations also do not treat land lines as personal.
+
+19 From the perspective of the call originating network, the Organisation transmitting its subscriber's mobile telephone number will be transmitting personal data since it has full subscriber details. From the perspective of the recipient of the call, the reality today is that a significant number of calls will be matched with an address book entry in the recipient's mobile phone and will thus identify the caller, or the recipient may recognise the number. Hence, I am satisfied that the guidance set out in the Advisory Guidelines referred to above would be applicable in the context of the present case, and that it would be entirely relevant and reasonable to proceed with the analysis in this case on the basis that subscribers' mobile telephone numbers constitutes personal data.
+
+9
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+Deemed consent for disclosure of subscriber identity to telephone call recipients
+20 The Advisory Guidelines for the Telecommunication Sector sets out the following guidance in relation to consent and the withdrawal of consent for the disclosure of a subscriber's telephone number to receiving parties:4
+
+"Provision of subscriber identity for calls or text messages
+3.8 Currently, when a subscriber who is an individual makes a telephone call or sends a text message, his telephone number (which may be personal data relating to him) would typically be disclosed to the receiving party and both the subscriber and receiving party's telecommunication operators, unless the subscriber had chosen to have his telephone number `blocked'/ `unlisted'. Telecommunication operators may wish to obtain the consent of the individuals for the purpose of such disclosures to recipients of his calls and messages.
+3.9 Even if the telecommunication operators do not obtain such actual consent, given established practice, the Commission is of the view that a subscriber who opts to have an `unblocked'/ a `listed' telephone number would typically be aware that the telephone number would be collected, used or disclosed for the purpose of identifying that subscriber to other parties. Where the telephone number is personal data relating to a subscriber, a subscriber with an `unblocked'/ a `listed' telephone number initiating a call or sending a message may be deemed to have consented to the collection, use or disclosure of the number for the purpose of identifying himself to the receiving party, since the subscriber would have voluntarily provided the data, and it would be reasonable for the subscriber to have done so.
+
+4
+
+PDPC, Advisory Guidelines for the Telecommunication Sector at [3.8] � [3.11].
+
+10
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+3.10 Conversely, a subscriber who has opted for a `blocked'/ an `unlisted' number at the outset would not be considered to have consented to the collection, use or disclosure of the number for that purpose. A subscriber with an `unblocked'/ a `listed' telephone number who subsequently applies to `block'/ `unlist' that telephone number would be considered to have withdrawn consent for the collection, use or disclosure of that telephone number for the purpose of identifying himself to other parties when making a call or sending a message.
+3.11 Where an individual subscriber is deemed to have given consent for disclosure of his telephone number by one telecommunication operator to another telecommunication operator for the purpose of identifying himself to the recipient of his call or message, consent may be deemed to have been given to the collection, use or disclosure of the telephone number by that other telecommunication operator for the same purpose. Alternatively, consent may not be required if the purpose for collection, use or disclosure of the personal data falls within an exception, such as when it is required or authorised under written law."
+[Emphasis added.]
+21 I understand that currently the Organisations obtain express consent from subscribers for the collection, use and disclosure of their telephone
+numbers for the purpose of identifying them to receiving parties. This is a good
+practice although, as the Advisory Guidelines for the Telecommunication
+Sector establish, not strictly necessary. A subscriber who has opted for an `unblocked' or `listed' telephone number may be deemed to have consented to
+the collection, use or disclosure of his telephone number for the purpose of
+
+11
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+identifying himself to recipients of his calls.5 It naturally follows that, the Organisations would be able to rely on deemed consent to collect, use or disclose the subscriber's telephone number for the purpose of identifying the subscriber to call recipients.
+
+Whether the Organisations have contravened section 16 of the PDPA
+22 Turning to the key issue raised in this case, section 16 of the PDPA provides that individuals may at any time withdraw any consent given or deemed to be given under the PDPA in respect of the collection, use or disclosure of their personal data for any purpose.
+
+23 Section 16(3) of the PDPA is particularly relevant, and states that an organisation:
+
+"shall not prohibit an individual from withdrawing his consent to the collection, use or disclosure of personal data about the individual, but this section shall not affect any legal consequences arising from such withdrawal".
+[Emphasis added.]
+
+24 Section 16(3) of the PDPA may be seen as comprising two limbs, namely that:
+(a) an organisation shall not prohibit individuals from withdrawing consent; and
+
+5
+
+Section 15(1) of the PDPA; and PDPC, Advisory Guidelines for the
+
+Telecommunication Sector at [3.9].
+
+12
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+(b) any legal consequences arising from such withdrawal shall not be affected.
+
+25 It is necessary to construe both limbs of section 16(3) of the PDPA holistically. While section 16(3) of the PDPA is clearly intended to ensure that individuals are not prohibited from exercising their right to withdraw consent, it also expressly preserves any legal consequences arising from such withdrawal.
+
+26 It is also pertinent to refer to section 11(1) of the PDPA, which imposes a general standard of reasonableness on organisations in meeting their responsibilities under the PDPA. Section 11(1) of the PDPA states:
+
+"In meeting its responsibilities under this Act, an organisation shall consider what a reasonable person would consider appropriate in the circumstances."
+27 At this juncture, it should be highlighted that the provision of CLI services serves important societal purposes, including helping to reduce calls made to harass or scam individuals and to speed up law enforcement investigations where a caller's telephone number is required for the purposes of criminal investigations. Additionally, given that most mobile telephone subscribers have CLI and that Over-The-Top telephone services such as calls made through smartphone applications do not provide the ability to the caller to mask his telephone number, the provision of CLI services has become a baseline expectation of all users of modern mobile telephone networks: call recipients expect to know the identity of the caller. Consumers' expectations to be able to identify an incoming caller as a basic functionality is also clearly embedded into the design and manufacture of mobile phones as mobile phone manufacturers universally incorporate the ability to display caller ID as a basic and essential
+
+13
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+feature of modern mobile phones. This functionality is integrated with the contact list functionality such that display caller ID is matched with contact details whenever a call is received, and the caller's name is displayed by the mobile phone when the call is connected. This modern convenience enables the subscriber to decide whether to answer the call from an identified contact; and some subscribers prefer not to take calls when the display caller ID does not match a known contact.
+
+28 Under the signaling standards adopted by fixed and mobile network operators in Singapore, a caller's telephone number will be transmitted by the calling party's network to the receiving party's network by default as part of the conveyance of a telephone call.
+
+29 In order for calling parties to withhold their telephone numbers from being displayed to call recipients (the vast majority of whom currently have caller ID enabled), action has to be taken on the part of the Organisations, in terms of transmitting and giving effect to the relevant "Presentation Restricted" indicator.
+
+30 Against this backdrop, I understand from the Organisations' representations that, for CNND services to be implemented and offered as an option to subscribers, the Organisations have had to invest in relatively complex IT systems which are, amongst other things, able to automatically and in real time instruct the mobile network to either implement or deactivate the CNND depending on whether the caller is a CNND subscriber and which would be able to manage the customer sign-up for CNND and the database of CNND customers. Regular and continuous tests and updates to the IT systems are also required to ensure that CNND continues to work accurately when there is an update to interconnected systems, whenever new handsets are introduced into
+
+14
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+the Singapore market by the Organisations, when new roaming partners are onboarded by the Organisations and when new technologies and platforms (such as VoLTE and VoWiFi) are deployed.
+
+31 Perhaps in a nod to the infrastructure investment and operational costs required in order to provide consumer choice in both CLI and CNND services, the International Telecommunication Union ("ITU") provides charging principles for supplementary services such as for the charging of both CLI and CNND services, but has left it to individual member country to formulate its own policy decision with respect to charging for such services. The ITU is an agency of the United Nations specializing in information and communication technologies and, amongst other things, allocates global radio spectrum and satellite orbits. In its ITU-T Rec D.232, ITU provides for charging principles for supplementary service as follows:
+
+"2.1 Number Identification This subclause provides charging principles for the supplementary services, Calling Line Identification Presentation (CLIP), Calling line Identification Restriction (CLIR), Connected Line Identification Presentation (COLP), Connected Line Identification Restriction (COLR) and Malicious Call Identification (MCID). Detailed description of the services are provided in Recommendations 1.251.3 (CLIP), 1.251.4 (CLIR), 1.251.5 (COLP), 1.251.6 (COLR and 1.251.7 (MCID).
+2.1.1 Charging principles
+Innovation of the display or restriction service may be charged for by:
+a) Inclusion in the rental charges raised against customers; or b) The setting of a separate subscription charge; c) A per event charge; or d) Combinations of a) to c)."
+
+15
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+32 Given established practice as discussed above and the inherent nature of a telephone call, whereby a calling party's telephone number is by default transmitted to the recipient network operator and typically forwarded to the call recipient's device, it would not be unreasonable for the network operator to charge a reasonable fee for the costs it incurs to provide the CNND and restrict the number from being disclosed to the call recipient. Also, given the competitive marketplace in the provision of telecommunications services in Singapore, market forces can be expected to determine the range of service charges that any of the Organisations will be able to impose for the CNND service. The relevant charges for the Organisations' CNND services are publicly accessible and can be obtained by subscribers relatively easily, and that any charges payable by individual subscribers to the Organisations for CNND services would have a legal basis stemming from the contract between subscribers and the Organisations.
+
+33 In summary, users of modern mobile telecommunications services expect to be able to identify a caller and mobile telephone handset manufacturers have incorporated CLI as a basic and essential feature. CLI now plays a societal role, enabling consumers to order their private lives and exercise choice in how they wish to be contacted or to decline taking calls. In order to provide consumers with this choice, significant ongoing investment have to be made by the Organisations to maintain CNND services for its subscribers. The ITU also recognises that there may be a need to charge for both CLI and CNND services. In our domestic market, the price of these services are contained by competitive market forces. With the provision of CNND services as a value added service, consumers have access to a paid service to restrict the sharing of their personal mobile phone numbers.
+
+16
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+34 Given the consumer expectations and reliance on CLI and how CLI is fundamentally embedded into the design and operation of mobile telephone systems and handsets, and the additional infrastructure investments and operational costs required to provide consumer choice for CLI and CNND, it is not unreasonable that the Organisations impose a reasonable charge for these services. I have no doubt that a reasonable person would consider it appropriate for the Organisations to charge a caller to prevent his telephone number from being displayed to the call recipient, failing which the Organisation may inform the subscriber that the Organisations are unable to provide the caller with telecommunications services if he wishes to withdraw such consent. An example which illustrates the application of this can be found in the Advisory Guidelines on Key Concepts in the PDPA, which states:6
+
+"An individual wishes to obtain certain services from a telecom service provider, Operator X and is required by the telecom service provider to agree to its terms and conditions for provision of the services. Operator X can stipulate as a condition of providing the services that the individual agrees to the collection, use and disclosure of specified types of personal data by the organisation for the purpose of supplying the subscribed services. Such types of personal data may include the name and address of the individual as well as personal data collected in the course of providing the services such as the individual's location data. The individual provides consent for those specified types of personal data but subsequently withdraws that consent.
+The withdrawal of consent results in Operator X being unable to provide services to the individual. This would in turn entail an early termination of the service contract. Operator X should
+
+6 PDPC, Advisory Guidelines on Key Concepts in the PDPA at [12.45].
+17
+
+Starhub Mobile Pte Ltd and others
+
+[2019] SGPDPC 12
+
+inform the individual of the consequences of the early termination, e.g. that the individual would incur early termination charges."
+35 I am therefore of the view that the provision of CNND is less a means to withdraw consent for the disclosure of the caller's personal mobile telephone number to the call recipient but rather a separate service to allow a caller to maintain anonymity. Accordingly, where an individual subscriber requests his telecommunications service provider to mask his telephone number when he calls another phone number, the Organisations are in compliance with section 16 if they inform the subscriber that he may do so by subscribing and paying for CNND services failing which the Organisation is unable to provide the telecommunications service to the subscriber. By doing so, the Organisations would have informed the subscriber of the legal consequences arising from such withdrawal pursuant to section 16(2) of the PDPA.
+
+36 Having carefully considered all the relevant circumstances of the present case, and for the reasons set out above, I find that the Organisations have not breached section 16 of the PDPA in respect of the charges imposed on subscribers for providing CNND value-added services, and that take no further action is required in this matter.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+
+18
+
+

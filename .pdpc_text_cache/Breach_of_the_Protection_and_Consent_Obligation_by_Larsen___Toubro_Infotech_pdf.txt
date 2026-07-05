@@ -1,0 +1,22 @@
+PERSONAL DATA PROTECTION COMMISSION Case No. DP-2011-B7464
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And
+Larsen & Toubro Infotech Limited, Singapore Branch
+SUMMARY OF THE DECISION
+1. On 29 November 2020, the Personal Data Protection Commission (the "Commission") received a complaint against Larsen & Toubro Infotech Limited, Singapore Branch ("LTI") from an LTI job applicant.
+2. On 25 November 2020, an LTI employee had emailed the complainant a set of sample forms which contained the personal data of a past job applicant. The LTI employee had sent the complainant those sample forms to assist him in filling up his own forms correctly.
+3. Subsequently, on 3 December 2020, another LTI employee sent an email reminder to the complainant and 53 other job applicants to complete their application process. The email contained all of the job applicants' respective names, with their email addresses placed in the "To" field and thus visible to all recipients.
+
+4. Once notified of the complaint by the Commission, LTI undertook a review of its employees' emails for the period from 2016 to 2020, and uncovered 73 other instances where past job applicants' personal data had been disclosed to other job applicants.
+5. In total, 13 past job applicants' forms were disclosed by 10 of LTI's employees to 74 other job applicants. The personal data disclosed in the forms comprised:
+a. Name; b. Signature; c. Email address; d. National Identification/ passport numbers; e. Date of Birth; f. Address; g. Contact number; h. Medical health status; i. Employment history; j. Salary information; and k. Criminal records disclosure.
+6. The Deputy Commissioner for Personal Data Protection finds that LTI negligently contravened the Protection Obligation under section 24 of the Personal Data Protection Act 2012 by failing to provide adequate instructions to its employees dealing with recruitment matters on how to handle personal data. LTI also negligently contravened the Consent
+
+Obligation under section 13 of the Personal Data Protection Act 2012, by disclosing the names and email addresses of all job applicants in its email sent to the 54 job applicants on 3 December 2020, including the complainant.
+7. While LTI claimed to have a general Corporate Privacy Policy and an Employee Privacy Notice which applied to all employees, the purpose of these documents was to provide notice to individuals and employees on how LTI used, processed, and protected personal data. Guidance to employees on how they should handle personal data in the course of work could only be found in LTI's "Data Privacy Awareness" training materials. LTI had no targeted policies or standard operating procedures specifically for the employees handling recruitment matters, despite the type and volume of personal data handled by such employees. The fact that as many as 10 of LTI's employees had engaged in the same conduct over a 4 year period, reinforced the finding that the existing instructions were inadequate.
+8. LTI indicated that it would make all its employees aware of this incident, and that it would implement a new set of procedures for email communications to external job applicants. LTI notified all affected job applicants of the wrongful disclosure of their personal data to other job applicants, and informed the job applicants to delete the emails they had received containing the affected job applicants' forms. Refresher training was also conducted for the employees who had sent the emails.
+
+9. After considering the circumstances of the case and the factors listed at section 48J(6) of the Personal Data Protection Act 2012, including LTI's cooperation with investigations, its proactive review to identify additional historical breaches, and its prompt remedial actions, the Deputy Commissioner for Personal Data Protection requires that LTI pay a financial penalty of $7,000 for the breach.
+10. LTI must make payment of the financial penalty within 30 days from the date of this decision, failing which interest at the rate specified in the Rules of Court in respect of judgment debts shall accrue and be payable on the outstanding amount of the financial penalty until it is paid in full.
+11. No further directions are required as LTI had taken actions to address the gaps in its security arrangements.
+
+

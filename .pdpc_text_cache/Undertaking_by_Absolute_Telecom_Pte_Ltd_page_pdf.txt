@@ -1,0 +1,103 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Absolute Telecom Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Absolute Telecom Pte Ltd
+Published on 23 Oct 2024
+
+Share:   
+
+Background
+Absolute Telecom Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 15 May 2024 that it came under a ransomware attack on 12 May 2024. The threat actor ("TA") executed a SQL injection on the Organisation's webpage and compromised administration rights (the "Incident").
+Investigation revealed that the Organisation's website contained vulnerabilities, which allowed the TA to gain control of the system administrator account and exfiltrated the personal data of the affected individuals.
+As a result of the Incident, the personal data of approximately 578 individuals, including their names, address, NRIC numbers, phone numbers, email addresses and credit card information (number and expiry dates) were exfiltrated.
+The Commission found the Organisation to be lacking in its cybersecurity and data protection practices. The Organisation had engaged freelancers to develop its website in 2012, before the provisions relating to the protection of personal data under the Personal Data Protection Act 2012 came into force on 2 July 2014. The Organisation's contract with the freelancers did not include any contractual requirements on the protection of personal data or the need to carry out any security testing before launch. Thereafter, the Organisation continued using the website and did not take steps to review whether the security arrangements for the website adequately protected its customers' personal data. The Organisation also admitted Tthoaotfiftedr iydounoatbheatvteerdeaxtpaeprrieonteccet,iothnispsoitlieciuesseosrcgouoikdieelsin. Reesafodrmitsoeremapbloouyet ecso.okies  in our Privacy Statement.
+
+Remedial Actions
+FOR
+Individuals After the incident, the Organisation implemented the following:
+(a) Disconnected the server access to the public internet;
+A(bb)oRuetformatted the server to eliminate any potential malware;
+
+
+
+(Ocr)gTaonoiksadtoiownns the affected web pages;
+
+
+
+(d) Notified affected individuals and filed a police report; and
+
+(Ine)dRiveidmuoavlsed all super user access and conducted a thorough check to ensure no 
+further exposure.
+
+VMoedluian&tEavreynUtsndertaking
+
+
+
+Having considered the circumstances of the case and the lack of knowledge by the Organisation in cybersecurity and data protection practices, the Commission accepted a voluntary undertaking (the "Undertaking"), which was executed on 25 September 2024, from the Organisation to engage an external service provider to improve its cybersecurity set-up and its data protection practices and policies.
+
+As part of the Undertaking, the external service provider will assist the Organisation to first complete an initial set-up within 2 months. The initial set-up will include establishing an asset inventory for personal/business data, an IT asset inventory for hardware and software, developing an incident response and data breach management plan and implementing the necessary cybersecurity measures to protect personal data. A review will then be conducted 6 months after the initial setup to ensure, amongst others, that the latest software updates have been installed on the Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations To offer you a better experience, this site uses cookies. Read more about cookies IinndoiuvirdPuraivlsacy Statement.
+
+Media & Events
+FOR
+CInondtaicvt iduals
+About  
+
+ROerpgoarnt iVsualtnioernasbility 
+
+Privacy Statement
+Individuals
+Terms and Conditions
+
+RMeeadchia & Events
+
+� 2026 Personal Data Protection Commission Last updated 23 Oct 2024
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

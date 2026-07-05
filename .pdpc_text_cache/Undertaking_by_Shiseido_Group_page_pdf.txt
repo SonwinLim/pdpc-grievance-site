@@ -1,0 +1,117 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Shiseido
+Group
+
+Voluntary Undertakings
+Voluntary Undertaking by Shiseido Group
+Published on 02 Aug 2024
+
+Share:   
+
+Background
+Shiseido Asia Pacific Pte Ltd ("SAPAC"), Shiseido Singapore Co. (Pte) Limited ("SS") and Shiseido Travel Retail Asia Pacific Pte. Ltd ("TRA"), collectively, the "Shiseido Group" (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 14 August 2023 of a personal data breach involving a ransomware attack by the Lockbit 3.0 ransomware group that had encrypted their production servers and deleted the data stored on its backup server (the "Incident").
+Investigations revealed that a threat actor ("TA") had likely gained access to the Organisation's system using a local administrator account which was used to conduct lateral movements within the system. The first successful entry to the Organisation's network originated from a `test' account (it was not known why, when or by whom it was created) following a coordinated password-spray attack.
+The TA encrypted the Organisation's files containing the personal data of 2,351 individuals who were the Organisation's current employees, beauty consultants/promoters and contractors. The types of personal data affected included the name, email address, contact number, passport information, date of birth, bank account information and salary information.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including isolating the encrypted production server from its global IT network, disabling VPN access so as to secure its IT network and systems and resetting the pTorivoiflfeegreydouacacbouetnttesraenxdpepraiesnswceo,rtdhsi.s site uses cookies. Read more about cookies  in our Privacy Statement. The PDPC notes that there was no evidence of exfiltration of personal data.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case, the Commission accepted a 
+voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The UAbnoduetrtaking was executed on 28 May 2024.
+
+As part of the Undertaking, Shiseido Group will be implementing the following:
+
+Organisations (a) Additional MFA for administrative accounts to servers
+
+
+
+(Inbd) Eivnidhuaanlcse period;
+
+logging
+
+and
+
+backup
+
+strategy
+
+of
+
+systems
+
+including
+
+a
+
+longer
+
+retention
+
+
+
+(Mc)eCdoian&duEcvtecnotsmprehensive penetration testing as a routine to identify gaps;(d) Enhance firewall configurations and upgrade of firewall firmware;
+
+
+
+(e) Installation of anti-virus and anti-malware software in Cloud VMs; and
+
+(f) Implement enforcement of password management and reset of passwords.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+To offer you a better experience, this site uses cookies. Read more about cookies Rinepoourrt PVurilvnaecraybSiltitaytement.
+
+Privacy Statement
+FOR
+TIenrmds iavndidCoundaitilosns
+Reach 
+
+�Ab20o2u6tPersonal Data Protection Commission
+Last updated 02 Aug 2024
+
+Built with
+
+Powered by
+
+Organisations
+
+Individuals
+� 2026 Government of Singapore
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

@@ -1,0 +1,115 @@
+PERSONAL DATA PROTECTION COMMISSION
+[2018] SGPDPC 18 Case No DP-1711-B1315 and DP-1711-B1316
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+Management Corporation Strata Title Plan No. 4436 ... Organisation
+DECISION
+
+Management Corporation Strata Title Plan No. 4436
+
+[2018] SGPDPC 18
+
+Management Corporation Strata Title Plan No. 4436
+[2018] SGPDPC 18
+Yeong Zee Kin, Deputy Commissioner -- DP-1711-B1315 and DP-1711-B1316
+2 August 2018
+Background 1 The Complaint concerns the Management Corporation Strata Title Plan No. 4436 (the "Organisation") of River Isles Condominium ("River Isles") permitting a subsidiary proprietor to view the CCTV footage in the security guardhouse in the presence of two council members but without the presence of a security supervisor. The Organisation is formed to manage the River Isles.
+2 On 6 and 7 November 2017, two subsidiary proprietors of River Isles (collectively known as the "Complainants") complained that the Organisation had allowed a fellow subsidiary proprietor to view the CCTV footage without supervision, notwithstanding the presence of the two council members. The purpose for viewing was to locate a missing cat on 2 November 2017. The Complainants were concerned other individuals might be captured in the said CCTV footage.
+3 The Complainants alleged there was no security supervisor nor staff of Savills Property Management Pte Ltd, the managing agent ("MA") present during the viewing. Although two council members were in attendance, the Complainants were of the view that only security guards, the MA's staff or police could view the CCTV footage.
+4 In its responses, the Organisation averred that section 47 of the Building Maintenance and Strata Management Act ("BMSMA") applies. Section 47 states that any subsidiary proprietor has the right to ask for inspection as well as request for a copy of any other record or document in the possession of the Organisation. Consequently, the request to view the
+
+Management Corporation Strata Title Plan No. 4436
+
+[2018] SGPDPC 18
+
+CCTV footage by the subsidiary proprietor was, according to the Organisation, an inspection of a document that was permitted under section 47 of the BMSMA.
+
+5 In this case, it is not disputed that the individual who applied for and viewed the CCTV footage was a subsidiary proprietor at the material time. Investigations disclosed that the inspection of the CCTV footage was carried out on 2 November 2017 at about 2110hrs by the subsidiary proprietor in the presence of two council members. The CCTV footage that was inspected consisted footages of the lift lobby on 29 October 2017 and the subsidiary proprietor viewed it for about 20-30 minutes.
+
+Findings and Basis for Determination
+
+6 This case concerns the operation of the subordination provision in section 4(6)1 with respect to the access obligation under 212 of the Personal Data Protection Act 2012 ("PDPA") and its interaction with a subsidiary proprietor's right to inspect and take copies of documents under section 47 of the BMSMA. In particular, the issues are:
+(a) Whether CCTV footage is considered a document or record under section 47 of the BMSMA; and
+(b) Whether the subordination provision in section 4(6)(b) of the PDPA applies to displace section 21 of the PDPA in respect of a subsidiary proprietor's request for documents and records under section 47 of the BMSMA.
+
+(a) Whether CCTV footage is a document under section 47 of the BMSMA
+
+7 In the case of Tan Hee Chye, relying on the definition of online Oxford Dictionaries, Strata Titles Board ("STB") accepted that the `audio recordings' fell within the definitions of `document' and `record'. STB viewed that MCST should make available the audio recordings for inspection under section 47 of the BMSMA.
+
+1
+
+Under Section 4(6)(b) of the PDPA, unless otherwise expressly provided, the provisions of other written
+
+law shall prevail to the extent that any provision of Parts III to VI is inconsistent with the provisions of
+
+that other written law.
+
+2
+
+Section 20 of the PDPA requires the organisation to provide access to personal data about an individual
+
+that is in its possession or under its control subject to exceptions enumerated in the Fifth Schedule or
+
+subsection (3). Pertinent to this case is subsection (3)(c), which limits the data subject's right of access
+
+where it is reasonably expected to reveal personal data about another individual.
+
+Management Corporation Strata Title Plan No. 4436
+
+[2018] SGPDPC 18
+
+8 It is trite law that the meaning of the word "document" given the broadest definition and is capable of accommodating any form or medium on which information can be recorded in a material form. The courts have held that documents include electronic documents like emails, audio and video files, and even storage media and recording devices like hard disks.3 The Supreme Court's Practice Directions on electronic discovery enumerates a list of reasonably usable file formats for the production of electronic documents during discovery which includes file formats for both audio and video files.4
+
+9 The present case deals with video files in the form of CCTV footages. Since audio recordings can come within the meaning of "document" or "record", I do not see any reason why a video record should be treated with any exception. Accordingly, I am of the view that CCTV footages should also fall within the ambit of documents or records to which a subsidiary proprietor has a right to inspect and take copies under section 47 of the BMSMA.
+
+(b) The interaction of the access obligation under section 21 of the PDPA and a subsidiary proprietor's right to inspection under section 47 of the BMSMA
+
+10 Section 47 of the BMSMA states that the Organisation shall make available for inspection any document or record in the custody or under the control of the Organisation: see Tan Hee Chye v The MCST Plan No. 395 STB No. 83 of 2014 ("Tan Hee Chye"). As such, the Organisation has a legal obligation to provide inspection and copies of documents or records to any subsidiary proprietor under section 47 of the BMSMA.
+
+11 Section 21 of the PDPA gives a data subject the right to access personal data about him that the Organisation has in its possession or under its control. The data subject's right of access is curtailed by subsection (2) and (3). Subsection (2) absolves the Organisation from providing -- "is not required to provide" (but presumably has a discretion to provide if it is reasonable to do so) -- access in any of the situations enumerated in the Fifth Schedule. In contrast, subsection (3) is a mandatory injunction that prohibits the Organisation from providing access -- "shall not provide" -- in any of the situations enumerated therein. In the present case, the pertinent provision is subsection (3)(c). The Organisation cannot provide (and has no discretion in the matter) access to personal data that can reasonably be expected to reveal personal data
+
+3
+
+See Sanae Achar v Sci-Gen Ltd [2011] 3 SLR 967; [2011] SGHC 87, at [10].
+
+4
+
+See Part V of the Supreme Court Practice Directions and Appendix E Part 4.
+
+Management Corporation Strata Title Plan No. 4436
+
+[2018] SGPDPC 18
+
+about another individual. The PDPC has issued advisory guidelines5 on the operation of section 21 of the PDPA which requires organisations to redact personal data about other individuals from documents that are provided to a data subject pursuant to a data subject access request, unless consent for disclosure have been obtained from these other individuals.
+
+12 The subordination provision in section 4(6)(c) of the PDPA becomes operative when there are inconsistencies between the provisions of any other written law and the provisions in Parts III to VI of the PDPA. It operates by placing the PDPA provisions in subordination to other written law, such that the provisions of such other written laws shall prevail in the event of any inconsistencies. In the present case, the two potentially inconsistent provisions are section 47 of the BMSMA and section 21 of the PDPA.
+
+13 The subsidiary proprietor's right to inspect and take copies of any document or record under section 47 of the BMSMA is not subject to any restrictions. Whereas the data subject's access right under section 21 of the PDPA to access personal data about him is subject to restrictions. A subsidiary proprietor has the right to inspect and take copies of CCTV footages under section 47 of the BMSMA without any requirement for the redaction of personal data about other individuals that happen to be captured as part of the video record. If the same request is made by the subsidiary proprietor under section 21 of the PDPA in exercise of his data subject access rights, personal data of other individuals have to be redacted unless their consent have been obtained.
+
+14 In the face of this inconsistency, I am obliged by section 4(6) of the PDPA to decide that section 47 of the BMSMA shall prevail over section 21 of the PDPA in the present case, to the extent that the Organisation can provide inspection of CCTV footages to the subsidiary proprietor without the need to redact personal data of other individuals or to seek their consent for such disclosure. However, it should be borne in mind that section 47 of the BMSMA only applies when it is a person entitled under that provision, eg a subsidiary proprietor, is making the application for inspection of the CCTV record. It has no application when the request for inspection is made by any other resident or visitor to the property, in which case the request should be handled as a data subject access request under section 21 of the PDPA.
+
+5
+
+See paragraph 4.8 of the Advisory Guidelines on the PDPA for Selected Topics.
+
+Management Corporation Strata Title Plan No. 4436
+
+[2018] SGPDPC 18
+
+15 This decision should be distinguished from Re Exceltec Property Management Pte Ltd and others6, also a decision that involved section 47 of the BMSMA, where it was decided that information on the strata roll was generally available to the public by reason that the class of person entitled to apply was broadly defined and as a matter of fact there were few or no restrictions imposed for a person to gain access to the strata roll: all an applicant was required to do was make an online application and pay the prescribed fee.7 In the present case, there is no evidence that the CCTV video footages was broadly accessible in the same manner. The contrary was in fact true. Access in this case was restricted to a subsidiary proprietor and inspection was conducted in the presence of two other council members. Re Exceltec Property Management Pte Ltd should not be interpreted in an overly broad manner to render all documents accessible under section 47 of the BMSMA to be publicly available. The analysis in Re Exceltec Property Management called for both a legal and a factual analysis. In order that CCTV footages do not become de facto publicly available, management corporations would do well to put in place policies and practices to ensure that only parties entitled to access under section 47 of the BMSMA are given access to CCTV footages.
+
+Conclusion
+
+16 For the reasons set out above, I am therefore of the view that the Organisation has not breached section 21 of the PDPA when it provided the subsidiary proprietor inspection of the CCTV footages under section 47 of the BMSMA.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+
+6
+
+[2017] SGPDPC 8.
+
+7
+
+[2018] PDP Digest 184; [2017] SGPDPC 8 at [33], et seq.
+
+

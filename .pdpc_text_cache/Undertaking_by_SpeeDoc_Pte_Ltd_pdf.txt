@@ -1,0 +1,195 @@
+WRITTEN VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Personal Data Protection Commission or its delegates pursuant to section 48L(1) of the PDPA, by:
+SpeeDoc Pte Ltd UEN: 201705599R Registered Address: 991C Alexandra Road #01-13B Singapore 119971
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+1.1 In this Undertaking:
+(a) "PDPA" means the Personal Data Protection Act 2012; and
+(b) "Relevant Provisions" means the provisions in Parts III, IV, V, VI, VIA and IX, and section 48B(1) of the PDPA.
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) The Commission has carried out investigations into certain acts and practices of the Organisation, and has reason to believe that the Organisation has not complied, is not complying, or is likely not to comply with one or more of the Relevant Provisions. The relevant facts and circumstances are summarised at Schedule A.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to issue directions under sections 48I or 48J of the PDPA.
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the
+Page 1 of 10
+
+course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation appears ready to implement or is in the midst of implementing the steps set out in Schedule B.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+3.1 The Organisation undertakes that it has taken, or will take all necessary steps, to carry out the actions or refrain from carrying out the actions referred to in Schedule B, and where applicable, in accordance with the stipulated timelines.
+4. COMMENCEMENT
+4.1 This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3)(ca) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above, and if necessary, will exercise its powers under the Ninth Schedule of the PDPA to do so.
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the
+Page 2 of 10
+
+Organisation fails to comply with this Undertaking or part thereof in relation to any matter. 5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under sections 48I, 48J, 48L(4) and 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent. 6. VARIATION 6.1 This Undertaking may be varied only with the express written agreement of the Commission. This document has been electronically signed. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+Page 3 of 10
+
+SIGNED, for and on behalf of
+
+)
+
+SpeeDoc Pte Ltd
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+ACCEPTED by
+
+)
+
+)
+
+Name: ______________________________________ )
+
+Designation: Deputy Commissioner
+
+Personal Data Protection
+
+)
+
+Date: _______________________________________ )
+
+Page 4 of 10
+
+SCHEDULE A
+Page 5 of 10
+
+SUMMARY OF FACTS 1. On 27 October 2020, the PDPC was informed that the Organisation's AWS3
+bucket was incorrectly configured which enabled public access to the personal data stored within. 2. Consequently, the personal data of 12,652 individuals including their names, phone numbers, email addresses, NRIC numbers, lab test results, profile pictures, and photos of symptoms and medicines was exposed to public access. 3. To prevent a recurrence of a similar incident, the Organisation took immediate remedial action to address the cause of the personal data breach.
+Page 6 of 10
+
+SCHEDULE B
+Page 7 of 10
+
+Remediation Actions
+
+Purpose
+
+Target Completion Date
+
+Details
+
+Security training for Engineering team
+
+Ensure competency of engineering staff tasked April 2022 with development of Speedoc web and applications and are familiar with.
+
+AWS Certification:
+Jeffrey Gan - Information Security Manager
+Nina Wiryanto - React Developer
+
+Formation of Security Team
+
+In-house department tasked with developing security framework, policies and procedures that provide adequate information systems protection.
+
+Completed
+
+Information Security Manager - Jeffrey Gan (Oct 2021)
+IT Executive - James Yeo (Sept 2021)
+DevOps Engineer - Rudy Moniaga (Jan 2022)
+
+ISO 27001 Certification
+
+Implementation of an information security management system aligning with the industry's best practices.
+
+June 2021
+
+Expected completion in August 2022 due to expansion of scope
+
+Implementation Progress: 42%
+
+Page 8 of 10
+
+Remediation Actions
+
+Purpose
+
+Target Completion Date
+
+Details
+
+IT Operating Procedure Policy
+
+Ensure appropriate and secure operations of information systems, that information systems are protected against malware and loss of data, that events are logged, and compliance monitored, that operating system software is controlled, that the exploitation of technical vulnerabilities is prevented, and that the impact of audit activities on operational systems is minimized.
+
+Completed on 22 October 2021
+
+ISO 27001 Annex A.12
+Policy documentation approved and signed on 22 October 2021
+
+Systems Acquisition and Development Security Policy
+
+Ensure that security is an integral part of information systems across their entire lifecycle, including those that provide services over public networks, that information security is integrated into the system development life cycle, and to ensure the protection of data used for testing.
+
+Completed on 22 October 2021
+
+ISO 27001 Annex A.14
+Policy documentation approved and signed on 22 October 2021
+
+Incident Management Procedures
+
+To ensure that Speedoc is ready to bring together necessary resources in an organized manner in the event of an incident.
+
+Completed on 22 ISO 27001 Annex A.16 October 2021
+Policy documentation approved and signed on 22 October 2021
+
+Page 9 of 10
+
+Remediation Actions
+
+Purpose
+
+Target Completion Date
+
+Details
+
+Third-party
+
+Identify security vulnerabilities in our network
+
+Security Audit and systems to eliminate or mitigate them.
+
+To be done annually
+Next test to be conducted on November 2022
+
+- Speedoc App - Speedoc Provider App - Speedoc's Network - CIS AWS Foundation Benchmark - AWS Security Hardening
+
+Security Awareness Training for staff
+
+Ensure Speedoc staff, especially those with access to sensitive data, are aware of current security threats and are equipped with required knowledge on security practices to mitigate the threats.
+
+To be done annually
+Current training target completion date: March 2022
+
+Current training is still in progress and done via Gnowbe:
+- Started in Nov 2021 - Security Incident Response - Security Awareness
+
+Training for InfoSec staff:
+
+Improve staff expertise in security and data protection. Ensure Speedoc's data protection measures are aligned with the latest legal requirements.
+
+7 March 2022 - 23 SMU Advanced Certificate in Data
+
+June 2022
+
+Protection Principles - James Yeo (IT
+
+Executive)
+
+Page 10 of 10
+
+

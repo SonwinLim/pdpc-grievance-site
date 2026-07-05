@@ -1,0 +1,119 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+by
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Singapore University of
+
+Social
+
+Sciences
+
+Voluntary Undertakings
+
+Voluntary Undertaking by Singapore University of Social Sciences
+Published on 28 Aug 2024
+
+Share:   
+
+Background
+Singapore University of Social Sciences (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 2 January 2024 of a data security incident where the Organisation discovered suspicious activities on a server, including the creation of unauthorised admin accounts and the installation of unauthorised software (the "Incident").
+Investigations revealed that the Threat Actor ("TA") had exploited a vulnerability in the Capstone Project Portal web application, which was designed to facilitate selection and archival of students' independent research projects.
+As a result of the Incident, the personal data of 1,823 individuals, who were the Organisation's current students, terminated/withdrawal students, graduated alumni, project supervisor/tutor, current staff, and ex-staff, was affected. The types of personal data affected included a combination of the name, email address, contact number, matriculation number, tutor's ID number, name of programme enrolled/supervised, password of Capstone Project Portal, photograph.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including isolating the Affected Servers and blocking bad reputation IP addresses and enforcing account lockout after six failed attempts. Additionally, the OTorgoaffneirsayotiuonaabsestetsesreedxptheeriepnocten, tthiaisl vsuitlenuersaebsilcitoyoaknieds.cRyebaedrsmecourreitaybriosukst coof oitksies  ainpopulicr aPtriiovnascyanStdadteemviecenst,. implemented continuous live scanning, reviewed, and
+
+tightened firewall rules to prohibit access to internal IPs from unknown or untrusted
+
+FIPORaddresses and block any known potential web exploitation attempts.
+
+Individuals
+
+
+
+Voluntary Undertaking
+
+AHbavoiuntg considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+UOnrgdaenrtisaaktiinognswas executed on 11 June 2024.
+
+
+
+As part of the Undertaking, Singapore University of Social Sciences will be
+
+iImndpivleidmueanlsting the following:
+
+
+
+(a) Review and assessment of its IT application and asset inventory;
+
+Media & Events (b) Implementation of web application firewall;
+
+
+
+(c) Review and strengthening backup according to 3-2-1 backup rule;
+
+(d) Optimisation of SIEM alert rules;
+
+(e) Enhancement of network segmentation and restriction; and
+
+(f) Independent review and strengthening of firewall rules.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+To offer you a better experience, this site uses cookies. Read more about cookies
+in our Privacy Statement.
+
+Report Vulnerability 
+FOR
+PInrivadcyivStiadtemueantls
+Terms and Conditions
+ARebaocuht 
+
+� 2026 Personal Data Protection Commission
+OLarsgt uapndiastaedti2o8nAsug 2024
+
+Built with
+
+Powered by
+
+Individuals
+
+M� 2e0d2ia6 G&oEvevrennmtsent of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

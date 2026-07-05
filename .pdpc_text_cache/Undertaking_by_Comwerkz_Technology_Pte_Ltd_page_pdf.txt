@@ -1,0 +1,104 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Comwerkz
+Technology
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Comwerkz Technology Pte Ltd
+
+Share:   
+
+Published on 02 Aug 2024
+
+Background
+On 5 December 2023, the Personal Data Protection Commission (the "PDPC") was notified by Comwerkz Technology Pte Ltd (the "Organisation") of a personal data breach incident after the Organisation discovered that its files had been encrypted by ransomware on or about 1 December 2023. Investigations found that a workissued laptop was infected with malware, and this had most likely occurred when an employee clicked on a malicious link (the "Incident").
+As a result of the Incident, the personal data of approximately 48 employees, including their names, NRIC numbers (of 7 out of 48 employees), FIN numbers, date of birth, nationality, contact numbers and residential addresses were at risk of unauthorised access. There was no evidence of exfiltration of data.
+Investigations revealed that the Organisation did not appoint a data protection officer and had failed to properly document any data protection or IT security policies.
+Remedial Actions
+After the incident, the Organisation implemented the following remedial actions:
+(a) Promptly notified all employees about the Incident;
+T(bo)oRfefefor rymouatatebdetttheer aefxfpeectreiednsceer,vtehris, SsSitDe ustsoersagcoeoakniedsl.aRpetaodp;more about cookies  in our Privacy Statement.
+
+(c) Issued a warning to staff members to be cautious of phishing advertisments/ eFOmRails; and
+Individuals  
+(d) Enrolled selected staff members to attend basic cybersecurity training.
+
+VAbooluutntary Undertaking
+
+Having considered the circumstances of the case and the lack of knowledge by the
+
+OOrrggaanniissaattiioonnsin cybersecurity and data protection practices, the Commission accepted a voluntary undertaking (the "Undertaking"), which was executed on 1
+
+
+
+March 2024, from the Organisation to engage an external service provider to improve
+
+iItnsdcivyibdeuraslescurity set-up and its data protection practices and policies.
+
+
+
+As part of the Undertaking, the external service provider will assist the Organisation
+tMoefdirisat &coEmvepnletste an initial set-up within 2 months. The initial set-up will include the
+appointment and registration of a DPO with the Commission or the Accounting and Corporate Regulatory Authority ("ACRA"), establishing an asset inventory for personal/business data, an IT asset inventory for hardware and software, developing an incident response and data breach management plan and implementing the necessary cybersecurity measures to protect personal data. After the initial set-up, the external service provider will conduct two further reviews. The first review will be conducted 6 months after the initial set-up has been completed and the second review will be conducted one year after the first review. The reviews are to ensure, amongst others, that the latest software updates have been installed on the Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events CToonotfafecrtyou a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+
+FOR
+Individuals
+Report Vulnerability 
+APrbivoaucyt Statement
+Terms and Conditions
+Organisations
+Reach 
+
+I�n2d0i2v6idPeursaolnsal Data Protection Commission
+Last updated 02 Aug 2024
+
+Built with
+
+Powered by
+
+Media & Events
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

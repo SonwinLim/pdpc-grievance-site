@@ -1,0 +1,78 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by iCuisto
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by iCuisto Pte Ltd
+Published on 02 Aug 2024
+
+Share:   
+
+Background
+iCuisto Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 27 November 2023 of the deletion of its users' personal data that was stored on its staging server (the "Incident"). The Organisation is the start-up behind a kitchen and meal-planning application called "KitchenPal". The personal data which included the name, email address, photograph, gender and date of birth of 95,713 individuals was affected.
+Investigations suggest that a threat actor ("TA") gained access to the Organisation's staging server through either (a) a brute force attack on the login credentials used to access the staging database; or (b) the login credentials used by its developers that were compromised.
+Upon discovering the Incident, the Organisation took prompt remedial actions. This included resetting the login credentials, decommissioning the compromised port and switching to another secure port, ceasing the transfer of personal data into the Organisation's staging environment for future developments and activating 2FA for access.
+Voluntary Undertaking
+Having considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its Tcoomofpfeliraynocue awbitehtttehreePxepresroiennacl eD,atthaisPsrioteteucsteiosncAooctki2e0s1.2R(etahde m"PoDrPeAa"b).oTuhtecookies  UinnoduerrtParkivinacgywSatasteexmeceuntte. d on 3 June 2024.
+
+As part of the Undertaking, the Organisation will be implementing the following:
+FOR
+Individuals (a) Adopt stronger password controls by using an online password generator, 
+implementing 2FA and introducing separate credentials for different developers;
+
+p(Abob)soNsuiobt illoitnygoefreenxcproyprttiinnggpitesrdsoantaabl adsaet;aatnodits staging environment and exploring the
+
+o(Ocfr)goSnahnbaiorsiaanrtgdioitnnhgse. PDPA guidelines with new developers to improve security at the time
+
+TtInhhdeeivOCidrogumaanmlsisisastiioonn wfaiilllsvteoricfyomthpelyOwrgitahniasnaytiotenr'ms csoomf pthlieanUcnedweritthaktihneg,UtnhdeeCrotamkimngis.sIifon
+
+may issue a direction so as to ensure the Organisation's compliance with the
+
+UMneddeiart&akEivnegn. ts
+
+
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+� 2026 Personal Data Protection Commission Last updated 02 Aug 2024
+BTouilot wffiethr you a bePttoewrereexdpbey rience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+FOR
+Individuals
+� 2026 Government of Singapore
+About Organisations Individuals Media & Events
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

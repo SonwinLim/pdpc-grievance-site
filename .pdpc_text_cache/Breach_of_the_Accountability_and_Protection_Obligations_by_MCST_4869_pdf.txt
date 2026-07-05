@@ -1,0 +1,74 @@
+PERSONAL DATA PROTECTION COMMISSION [2026] SGPDPC 1
+Case No. DP-2503-C3469 In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And The Management Corporation - Strata Title Plan No. 4869 ...Organisation
+DECISION
+Page 1 of 10
+
+The Management Corporation - Strata Title Plan No. 4869
+Wong Huiwen Denise, Commissioner -- Case No. DP-2503-C3469 1 April 2026
+Introduction
+1 Between 4 March 2025 and 8 April 2025, the Personal Data Protection Commission (the "Commission") received 16 complaints from 15 subsidiary proprietors ("SP") of Riverfront Residences (the "Condominium") on alleged breaches of the Personal Data Protection Act 2012 (the "PDPA") in relation to their Management Corporation and Managing Agent's (the "MA") disclosure of a requisition (the "Requisition") to convene an extra-ordinary general meeting ("EGM"), which contained the names, unit numbers and signatures of 303 SPs and which was sent to all 1,472 SPs of the Condominium. On 5 March 2025, the MA filed a data breach notification to the Commission on the same.
+2 Separately on 31 March 2025 and 22 April 2025, the Commission received two further complaints from one of the 15 SPs, alleging additional breaches of the PDPA against: (i) the Management Corporation for not having a designated data protection officer, and failing to make information available on their data protection policies and practices; and (ii) against the MA for failing to make information available on their data protection policies and practices, and unauthorised disclosure to him of the contact and maintenance fee payment details of two other SPs.
+Page 2 of 10
+
+Facts of the Case
+3 Management Corporation Strata Title Plan No. 4869 ("the Organisation") is a body corporate constituted by all SPs of the Condominium, responsible for the overall control, management and administration of the common property of the estate. On 26 May 2023, the Organisation appointed Asia Properties & Assets Consultancy Pte. Ltd. ("Asia Properties") as the MA for the Condominium1, which handles the day-to-day operations of managing the common property for the Organisation. Asia Properties is a data intermediary of the Organisation which processes personal data on its behalf for these purposes. The three issues which are the subject of the PDPA complaints are summarised below.
+(i) Disclosure of SPs' personal data contained in the Requisition ("the First issue")
+4 Sometime on or about 24 January 2025, a group of SPs sent the Requisition to the secretary of the Organisation, containing the personal data of 303 SPs making the Requisition to convene an EGM. The Requisition was made pursuant to Paragraph 14(1) of the 1st Schedule to the Building (Strata Management) Act 2004 ("BSMA 2004"). The personal data in the Requisition consisted of the 303 SPs' names, unit numbers and signatures. The Requisition was later amended and resubmitted on or about 10 February 2025.
+
+1 The MA's term expired on 25 May 2025.
+
+Page 3 of 10
+
+5 Asia Properties processed the Requisition. On 3 March 2025, it proceeded to issue a notice for an EGM ("Notice") accompanied by the Requisition as proof that the requirements under the BSMA 2004 for an EGM had been met, to all 1,472 SPs of the Condominium via registered post and the iCondo mobile application platform.
+6 Following resident feedback, Asia Properties:
+a. Removed the digital copy of the Notice from the iCondo mobile platform on 4 March 2025; and
+b. Issued a digital memo on 6 March 2025 on the iCondo mobile platform to request SPs to return the hardcopies of the Requisition sent via post.
+(ii) No Data Protection Officer or information made available about data protection policies and practices ("the Second issue")
+7 On 31 March 2025, the Commission received a further complaint from one of the 15 SPs who had submitted complaints regarding the First issue. This complaint alleged that the Organisation did not have a designated data protection officer, and that both the Organisation and Asia Properties had failed to make information available about their data protection policies and practices in response to the SP's requests of 7 March 2025 and 18 March 2025. On 17 April 2025, the Organisation replied to the SP with a copy of its data protection policy.
+Page 4 of 10
+
+(iii) Unauthorised disclosure of the personal data of two other SPs ("the Third issue")
+8 On 22 April 2025, the same SP informed the Commission that Asia Properties had disclosed the personal data of other SPs via an email sent to the SP erroneously by a staff of Asia Properties on 7 April 2025 on behalf of the Organisation (the "Email"). The Email and its attachments contained the names and address of two SPs, their previous quarter maintenance fee invoice and an image of an amount paid and the last four digits of a bank account number.
+9 After carrying out preliminary investigations, on 2 February 2026, the Commission accepted a voluntary undertaking from Asia Properties pursuant to section 48(L)(1)(a) of the PDPA to implement procedures and policies for handling emails and requests for personal data. As the Organisation did not request for a voluntary undertaking, the Commission's assessment below focuses on whether the Organisation had failed to comply with its obligations under the PDPA.
+Findings and Basis for Determination
+First issue: no breach of the Consent, Purpose Limitation, Notification and Protection Obligations under sections 13, 18, 20 and 24 of the PDPA
+10 In relation to the First issue, the Commission finds that the Organisation has not breached sections 13 ("Consent Obligation"), 18 ("Purpose Limitation
+Page 5 of 10
+
+Obligation"), 20 ("Notification Obligation") and 24 ("Protection Obligation") of the PDPA.
+11 Since Asia Properties is a data intermediary of the Organisation, save for the Protection Obligation, the other obligations did not apply to Asia Properties2 in respect of personal data processed on behalf of the Organisation. Nevertheless, for completeness, it is also determined that Asia Properties has also not breached the Protection Obligation under section 24 of the PDPA in relation to the First issue.
+12 Section 47(1)(b)(viii) of the BSMA 2004 requires a management corporation to make available for inspection any record or document in its custody or under its control, where an application is made by one of the following � (a) a subsidiary management corporation; (b) a subsidiary proprietor or mortgagee; (c) prospective purchaser; or (d) a mortgagee of that lot or by a person authorised. The Organisation is legally obliged to allow inspection and provide copies of documents or records to any SP, if such records fall within the scope of this provision. The Commission notes that the information in the Requisition relating to the identity of the signatories, lots/share value and signature were required to convene the EGM, under Paragraph 14(1) of the 1st Schedule to the BSMA 2004. Under section 47 of the BSMA 2004, the personal data contained in the Requisition is freely accessible by every SP of the Condominium as every SP is entitled to inspect and obtain copies of the Requisition, being a document in the custody and under the control of the
+
+2 Section 4(2) of the PDPA.
+
+Page 6 of 10
+
+Organisation as management corporation for the Condominium, without requiring the consent of other SPs.
+13 In this specific scenario, to the extent that the Consent, Purpose Limitation, Notification and Protection Obligations might have required that the Requisition not be disclosed, such obligations are inconsistent with Section 47(1)(b)(viii) of the BSMA 2004. As the Commission has held in Management Corporation Strata Title Plan No. 4436 [2018] SGPDPC 18 at [14], in the face of such inconsistency, section 4(6) of the PDPA3 applies, and the BSMA 2004 provision prevails. Thus, in relation to the First issue, both the Organisation and Asia Properties have not breached any of these obligations under the PDPA.
+Second issue: Breach of Accountability Obligation under sections 11(3) and 12(a) of the PDPA
+14 In relation to the Second issue, the Commission finds that the Organisation has breached the Accountability Obligation under sections 11(3) and 12(a) of the PDPA. First, the Organisation did not appoint a Data Protection Officer ("DPO") until 11 March 2025. The Commission has repeatedly emphasised the importance of designating an individual to be responsible for the Organisation's compliance
+3 Section 4(6) of the PDPA provides that "Unless otherwise expressly provided in this Act � (a) nothing in Parts 3, 4, 5, 6, 6A and 6B affects any authority, right, privilege or immunity conferred, or obligation or limitation imposed, by or under the law, including legal privilege, except that the performance of a contractual obligation is not an excuse for contravening this Act; and (b) the provisions of other written law prevail to the extent that any provision of Parts 3, 4, 5, 6, 6A and 6B is inconsistent with the provisions of that other written law."
+Page 7 of 10
+
+with the PDPA (see Management Corporation Strata Title Plan No. 3593 & Others [2020] SGPDPC 6 at [10]). A management corporation's appointment of an MA does not automatically delegate this obligation to the MA. As separate organisations, the MA's DPO is not the Organisation's DPO. The Organisation has therefore breached section 11(3) of the PDPA.
+15 Second, at the time of the complaints, the Organisation had not developed any operational data protection policies or procedures, either by itself or jointly with Asia Properties, on how the personal data in its possession or under its control should be handled. The Organisation also gave no specific instructions to Asia Properties on how the Requisition and the personal data contained therein were to be handled, as it thought such matters were routinely handled by Asia Properties. The Organisation has therefore breached section 12(a) of the PDPA. The Organisation has since rectified this by developing and adopting a data protection policy with effect from 8 April 2025.
+Third issue: Breach of the Protection Obligation under section 24 of the PDPA
+16 In relation to the Third issue, the Commission finds that the Organisation has breached the Protection Obligation. Where an Organisation engages a data intermediary to process personal data on its behalf, it must still comply with the Protection Obligation as if it is processing that personal data itself4.
+
+4 Section 4(3) of the PDPA.
+
+Page 8 of 10
+
+17 The Organisation did not institute any reasonable security arrangements to protect the personal data being processed by Asia Properties. In particular, the Organisation made no security arrangements for the protection of personal data when handling emails. For example, the Organisation could have given standing administrative instructions to Asia Properties to double-check email recipients before sending emails or to password protect email attachments with more sensitive content such as maintenance fee transactions, but it left such matters entirely to Asia Properties, with no oversight.
+18 The Commission observes that management corporations comprise a diverse group of SPs, and the breaches of the Accountability and the Protection Obligation above appear to stem from their unfamiliarity with the PDPA. Professional managing agents are likely to have more familiarity with the PDPA and should work with their management corporations to help them comply with their PDPA obligations.
+The Commissioner's Directions
+19 Having considered all relevant factors of this case, the Commission directs the Organisation to carry out the following within 90 days of this decision:
+(a) Review its current policy and implement policies necessary to meet its obligations under section 12 of the PDPA;
+(b) Put in place procedures to manage the use, disclosure and protection of individuals' personal data by its managing agent;
+Page 9 of 10
+
+(c) Communicate the policies and procedures to its managing agent; (d) Submit to the Commission a written update after the completion of the
+above directions. WONG HUIWEN DENISE COMMISSIONER FOR PERSONAL DATA PROTECTION
+Page 10 of 10
+
+

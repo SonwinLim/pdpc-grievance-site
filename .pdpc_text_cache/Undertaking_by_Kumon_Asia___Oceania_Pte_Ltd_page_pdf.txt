@@ -1,0 +1,110 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Kumon Asia &
+Oceania Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Kumon Asia & Oceania Pte Ltd
+
+Share:   
+
+Published on 04 Jul 2024
+
+Background
+The Personal Data Protection Commission (the "Commission") was notified by Kumon Asia & Oceania Pte. Ltd. (the "Organisation") on 14 August 2023 of a personal data breach involving the unauthorised access and exfiltration of personal data (the "Incident").
+Investigations revealed that a malicious actor successfully established a Remote Desktop Protocol connection within the Organisation's environment, by exploiting vulnerabilities and using compromised credentials.
+After gaining a foothold in the environment, the malicious actor created unauthorised accounts to maintain access within the environment. The malicious actor then encrypted the Organisation's files containing the personal data of 5,136 individuals. The types of personal data affected included the name, address, NRIC number, passport number, date of birth, contact information, photographs, and bank information.
+Upon discovery of the Incident, the Organisation took prompt remedial actions. This included tightening the access controls to the IT infrastructure by restricting login attempts, discontinuing the use of end-of-support OS, limiting Remote Desktop Protocol connections to the Organisation exclusively to administrator accounts, resetting the privileged accounts and passwords, and enhancing endpoint protection while ensuring all systems were updated to the latest version. To offer you a better experience, this site uses cookies. Read more about cookies 
+VinooluurnPtriavarycyUStnadteemretnatk. ing
+
+Having considered the circumstances of the case, the Commission accepted a FvOoRluntary undertaking (the "Undertaking") from the Organisation to improve its
+Individuals compliance with the Personal Data Protection Act 2012 (the "PDPA"). The  
+Undertaking was executed on 9 February 2024.
+
+AAsbopuatrt of the Undertaking, the Organisation will be implementing the following:
+
+(a) Improve its firewall policy to limit access to the regional country network and
+
+eOxrtgearnniaslantieotnwsork;
+
+
+
+(b) Implement Zero Trust Network Access (ZTNA) on the replaced network appliance
+
+tInodeinviadbulaelsmore granulated access control by services and users;
+
+
+
+(c) Enable Multi-Factor Authentication (MFA) to all accounts;
+(Mde) dDieap&loEyvaenndtsconfigure endpoint management software to enforce regular security
+patching on devices;
+
+(e) Plan and conduct tabletop exercise to evaluate the robustness of its Incident Response Playbook;
+
+(f) Develop Product Lifecycle Management to end the use of end-of-service/support life (EOSL) products;
+
+(g) Perform an external vulnerability assessment to identify further vulnerabilities and remediate them; and
+
+(h) Engage cybersecurity consultants to review its systems post remediation.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals MToeodfifaer&yEovueantbsetter experience, this site uses cookies. Read more about cookies in our Privacy Statement. Contact
+
+
+FOR
+Individuals
+Report Vulnerability 
+APrbivoaucyt Statement
+Terms and Conditions
+Organisations
+Reach 
+
+I�n2d0i2v6idPeursaolnsal Data Protection Commission
+Last updated 05 Jul 2024
+
+Built with
+
+Powered by
+
+Media & Events
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

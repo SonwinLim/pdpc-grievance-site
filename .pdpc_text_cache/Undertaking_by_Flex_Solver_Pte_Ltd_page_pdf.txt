@@ -1,0 +1,100 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by FlexSolver Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by FlexSolver Pte Ltd
+Published on 25 Sep 2024
+
+Share:   
+
+Background
+Flex-Solver Pte Ltd (the "Organisation"), a Singapore-based technology consultant and solution provided company, notified the Personal Data Protection Commission (the "Commission") on 22 April 2024 that its customers had received phishing emails from the Organisation's email address.
+The threat actor managed to gain unauthorised access to the name, address, email address, telephone number and order information of up to 15,812 individuals (the "Incident") after successfully compromising the password for the affected email account through a brute force attack. Investigations revealed that at the time of the Incident, a weak password was being used for the affected email account.
+Upon discovering the Incident, the Organisation took prompt remdial actions. This included triggering a password reset to logout all unauthorized access, notifying all potentially affected individuals about the phishing emails, and enabling two-factor authentication ("2FA") for the affected email account.
+Voluntary Undertaking
+Having considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 5 August 2024. To offer you a better experience, this site uses cookies. Read more about cookies  sinpoaurtr oPfritvhaecyUSntdaetertmakeintg., the Organisation will be implementing the following:
+
+(a) Adopt stronger password controls implementing 2FA for all user accounts;
+FOR
+Individuals (b) Implement account lockout policies to limit brute force attack and setting upa
+system alert for suspicious login activity;
+
+(Acb) oEunthance current cybersecurity training by increasing the frequency of training; (d) Carry out regular cybersecurity incident drill;
+
+(Oer)gRaeninisfaotricoensperiodic checks on antivirus software installed on work devices;
+
+
+
+(f) Review password practice annually; and
+
+Individuals
+
+
+
+(g) Maintain a list of blacklisted password(s).
+
+TMheedCiao&mEmveisnstiosn will verify the Organisation's compliance with the Undertaking. If
+the Organisation fails to comply with any terms of the Undertaking, the Commission
+may issue a direction so as to ensure the Organisation's compliance with the
+Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+To offer you a better experience, this site uses cookies. Read more about cookies �in2o02u6rPPerrsiovnaacl yDaSttaaPtreotmecetionnt.Commission
+Last updated 25 Sep 2024
+
+Built with
+
+Powered by
+
+FOR
+
+Individuals
+
+�Ab2o02u6t Government of Singapore
+
+Organisations
+
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

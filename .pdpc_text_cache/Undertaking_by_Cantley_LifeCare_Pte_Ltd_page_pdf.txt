@@ -1,0 +1,113 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Cantley LifeCare Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Cantley LifeCare Pte Ltd
+Published on 02 Aug 2024
+
+Share:   
+
+Background
+On 30 January 2024, the Personal Data Protection Commission (the "Commission") was notified by a complainant of an unauthorised disclosure of her personal data by Cantley LifeCare Pte. Ltd. (the "Organisation") on its website. The complainant had discovered the unauthorised disclosure after conducting a Google search of her own email address (the "Incident").
+The Commission promptly conducted investigations and on 2 February 2024, the Organisation deleted the file containing its customers' personal data which was publicly accessible on its website. The file was inadvertently placed in a public folder on the Organisation's website following a website migration exercise in April 2021.
+The personal data of 1,130 individuals, including their names, phone numbers, email addresses, addresses and transaction information, was affected.
+The Organisation was found to be lacklustre in its cybersecurity and data protection practices. First, the Organisation engaged a freelancer for the website migration in April 2021 and did not emphasise the need for personal data protection in this exercise. Second, the Organisation failed to conduct periodic security reviews that could have detected the publicly accessible file on its website. Third, the Organisation also did not have any IT security-related policies such as backup policies, audits and access control policies. In addition, the Organisation did not have any personal data protection policies and internal guidelines for its employees that cToouolfdfehrayvoeuparobveitdteedr egxupiedraienncecew, thheisnsrietespuosnedsicnogotkoieas.pReersaodnmalodraetaabborueat ccho.okies  in our Privacy Statement.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case and the lack of knowledge by the
+Organisation in cybersecurity and data protection practices, the Commission
+accepted a voluntary undertaking (the "Undertaking"), which was executed on 1 April
+2A0b2o4u,tfrom the Organisation to engage an external service provider to improve its cybersecurity set-up and its data protection practices and policies.
+
+AOsrgpaanrtisoaftitohnesUndertaking, the external service provider will assist the Organisation
+
+to first complete an initial set-up within 2 months. The initial set-up will include
+
+establishing an asset inventory for personal/business data, an IT asset inventory for
+
+hInadrdivwidauraelsand software, developing an incident response and data breach
+
+
+
+management plan and implementing the necessary cybersecurity measures to
+
+pcMoreondtdeiaucct&tpEtewvresonofntusarlthdeartare. Avifetewrst.hTeheinfiitrisatl
+
+set-up, review
+
+the external service will be conducted 6
+
+provider will months after
+
+the
+
+initial set-up has been completed and the second review will be conducted one year
+
+after the first review. The reviews are to ensure, amongst others, that the latest
+
+software updates have been installed on the Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability 
+To offer you a better experience, this site uses cookies. Read more about cookies PinrivoaucryPSrtaivtaemcyeSntatement.
+
+Terms and Conditions
+FOR
+IRneadchividuals
+
+� 2026 Personal Data Protection Commission
+
+Last updated 02 Aug 2024
+
+ABubilot wuitth
+
+Powered by
+
+Organisations
+
+I�n2d0iv2i6dGuoavlesrnment of Singapore
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

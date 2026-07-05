@@ -1,0 +1,89 @@
+VOLUNTARY UNDERTAKING UNDER SECTION 48L OF THE PERSONAL DATA PROTECTION ACT 2012 Case number: DP-2207-9942
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 ("the Act")
+And
+(1) AEM Holdings Ltd. (UEN No. 200006417D)
+... Organisation The Commission has reasonable grounds to believe that the Organisation has not complied, is not complying or is likely not to comply with section 24 of the Act. In order for the Commission to suspend its investigation pursuant to section 50(3)(ca) of the Act, the Organisation HEREBY UNDERTAKES that it will: (a) Complete the remediation plan set out at Schedule B within the timelines
+stated in Schedule B; and (b) Within 14 days of the completion of the remediation plan set out at Schedule
+B, provide the Commission with a copy of the declaration set out at Schedule C duly signed by the signatory of this Undertaking or a representative of the Organisation of equal designation. The Organisation acknowledges that the Commission shall be entitled to publish and make available to the public this Undertaking and the summary of the Commission's findings set out at Schedule A to this Undertaking.
+Page 1 of 8
+
+The terms of this Undertaking may be varied by the written agreement of the Commission and the Organisation.
+
+SIGNED, for and on behalf of
+
+)
+
+AEM Holdings Ltd.
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+Page 2 of 8
+
+SCHEDULE A
+Page 3 of 8
+
+SUMMARY OF FACTS 1. On 1 July 2022, the PDPC was informed by the Organisation about the
+deployment of ransomware on its network. 2. As a result, the personal data of 18,135 individuals including their names,
+personal contact information, identification numbers, employment records, date of birth, race, religion, COVID-19 test results and vaccination information, shareholding information, employee bank account number, profile photographs and fingerprints were encrypted and/or exfiltrated. 3. To prevent a recurrence of a similar incident, the Organisation took immediate remedial action to address the cause of the personal data breach.
+Page 4 of 8
+
+SCHEDULE B
+Page 5 of 8
+
+REMEDIATION PLAN
+
+S/N Item
+
+Status
+
+1 Implement a third party vendor In progress cybersecurity risk management policy.
+
+2 Implement a standard set of contractual In progress clauses for use in, as well as a contracting playbook to rely on when negotiating, contracts with relevant third party vendors identified following implementation of the third party vendor cybersecurity risk management policy referenced in s/n 1 above.
+
+3 Perform regular cybersecurity reviews, with Periodic prompt action to be taken for any identified risks as reasonably practicable.
+
+4 Review and enhance the data classification In progress policy.
+
+Target Completion June 2023 Q3 2023
+Periodic June 2023
+
+Page 6 of 8
+
+SCHEDULE C
+Page 7 of 8
+
+Case number: DP-2207-B9942
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 ("the Act")
+
+And
+
+(1) AEM Holdings Ltd. (UEN No. 200006417D) ... Organisation
+
+DECLARATION
+
+I refer to the voluntary undertaking dated _______________ given by the Organisation to the Personal Data Protection Commission pursuant to section 48L of the Act ("the Undertaking").
+I declare that the remediation plan set out at Schedule B of the Undertaking has been completed.
+I acknowledge that by making a false declaration or providing false or misleading information to the Personal Data Protection Commission, I may be prosecuted for offences under section 51(3)(c) of the Personal Data Protection Act 2012 and/or section 182 of the Penal Code 1871.
+
+________________________ Signature
+
+_______________________ Date
+
+________________________ Name
+
+________________________ Designation
+
+Page 8 of 8
+
+

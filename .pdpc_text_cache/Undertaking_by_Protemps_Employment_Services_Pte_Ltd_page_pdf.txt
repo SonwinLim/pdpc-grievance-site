@@ -1,0 +1,132 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Protemps Employment
+Services Pte
+
+Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by Protemps Employment Services Pte Ltd
+Published on 23 May 2024
+
+Share:   
+
+Background
+
+Protemps Employment Services Pte Ltd (the "Organisation") lodged a data breach notification with the Personal Data Protection Commission (the "Commission") on 18 October 2021 after it found out that personal data of individuals in the possession or control of the Organisation was available on the dark web (the "Incident").
+
+Investigations revealed that the Organisation's website had suffered a ransomware attack on 4 October 2021. The Organisation's own investigations revealed that its website contained vulnerabilities, which allowed the threat actor(s) to access the website infrastructure and exfiltrate the personal data of the affected individuals.
+
+As a result of the Incident, the personal data of approximately 19,361 individuals, including their names, residential addresses, NRIC images, nationality, date of birth, phone numbers, email addresses and passport number, was exfiltrated by the threat actor(s). The breakdown of each type of personal data affected is as follows:
+
+Personal data affected
+
+No. of Individuals affected
+
+Name
+
+19,361
+
+To offer you a better experience, this site uses cookies. Read more about cookies  in our Privacy Statement.
+
+FORResidential
+InAdddirvesisduals
+Nationality About
+Contact number Organisations
+Email address Individuals
+Birthday Media & Events
+Passort number
+Race
+Religion
+Highest qualification
+Last Salary
+CVs
+
+3,608
+4,092 987 19,360 3,299 3,898 3,383 2,528 3,261
+
+
+  
+
+3,258
+
+2541
+2499 of these CVs contained NRIC numbers and 400 contained the NRIC images
+
+The Commission found the Organisation to be wanting in its cybersecurity and data protection practices. First, the Organisation did not carry out any periodic security reviews with vulnerability scans to test its website vulnerability prior to the Incident. Second, there were deficiencies in vendor management for security maintenance, as data protection and job specifications were not clearly defined. Finally, the Organisation lacked proper documentation for password policies, patch management policies or change management policies.
+Remedial Actions
+After the incident, the Organisation implemented the following: (a) Decommissioned its website; and (b) Entered into a new vendor contract with a clear job description and rTeosopfofenrsiyboiulitaiebs eetxtpeer cetxepdeorifetnhcee,vtehnisdosirt.e uses cookies. Read more about cookies in our Privacy Statement.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case and the lack of knowledge by the
+
+Organisation in cybersecurity and data protection practices, the Commission
+
+fAarcobmcoeutphtteeOdrgaavnoislautinontatroyeungnadgeeratankeixntegrn(athl seer"vUicnedperrotavkidinegr "t)o,
+
+which was executed on 10 August 2022, improve its cybersecurity set-up and its
+
+data protection practices and policies.
+
+AOsrgpaanritsaotfiothnes Undertaking, after the initial set-up, the external service provider will conduct two further reviews. The first review will be conducted 6 months after the iInnidtiiavildsueat-lus p has been completed and the second review will be conducted one year after the first review. The reviews are to ensure, amongst others, that the latest software updates have been installed on the Organisation's devices and systems.
+Media & Events The Organisation has since updated the Commission that it has fully implemented its remediation plan. The Commission has reviewed the matter and is satisfied that the Organisation has complied with the terms of the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement Terms and Conditions
+RToeaocfhfer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+� 2026 Personal Data Protection Commission
+
+Last updated 23 May 2024
+
+BFOuiRlt with
+
+Powered by
+
+Individuals
+
+About
+� 2026 Government of Singapore
+Organisations
+
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

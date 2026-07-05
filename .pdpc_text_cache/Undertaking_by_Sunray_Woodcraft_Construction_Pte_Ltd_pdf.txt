@@ -1,0 +1,469 @@
+VOLUNTARY UNDERTAKING UNDER SECTION 48L OF THE PERSONAL DATA PROTECTION ACT 2012 Case number: DP-2305-C1003
+In the matter of an investigation under section 50(1)
+And
+(1) Sunray Woodcraft Construction Pte Ltd (UEN No. 198703016K)
+Organisation The Commission has reasonable grounds to believe that the Organisation has not complied, is not complying or is likely not to comply with section 24 of the Act. In order for the Commission to suspend its investigation pursuant to section 50(3)(ca) of the Act, the Organisation HEREBY UNDERTAKES that it will: (a) Complete the remediation plan set out at Schedule B within the timelines
+stated in Schedule B; and (b) Within 14 days of the completion of the remediation plan set out at Schedule
+B, provide the Commission with a copy of the declaration set out at Schedule C duly signed by the signatory of this Undertaking or a representative of the Organisation of equal designation. The Organisation acknowledges that the Commission shall be entitled to publish and findings set out at Schedule A to this Undertaking.
+Page 1 of 13
+
+The terms of this Undertaking may be varied by the written agreement of the Commission and the Organisation.
+
+SIGNED, for and on behalf of
+
+)
+
+Sunray Woodcraft Construction Pte Ltd
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+Page 2 of 13
+
+SCHEDULE A
+Page 3 of 13
+
+SUMMARY OF FACTS 1. On 11 May 2023, the PDPC was notified by Sunray Woodcraft Construction
+Pte Ltd SWCPL of a ransomware attack on its servers on or about 25 April 2023 causing loss of access to IT systems and encryption of files with personal data. 2. As a result, the personal data of 2,130 individuals including their names, addresses, personal email addresses (in respect of 689 individuals), telephone numbers, NRIC numbers, passport numbers, photographs, dates of birth, bank account numbers and salary information was affected. 3. To prevent a recurrence of a similar incident, the Organisation took immediate remedial action to address the cause of the personal data breach.
+Page 4 of 13
+
+SCHEDULE B
+Page 5 of 13
+
+No. Potential Risk Factors Remediation Plan / Improvement Areas
+
+Target Completion (Date)
+
+Technical remediation
+
+1 Exploitable vulnerabilities in software used.
+
+Software in use will be updated to the latest version available.
+
+Completed
+
+2
+
+SWCPL will evaluate December 2023
+
+and thereafter
+
+implement/deploy
+
+technological measures
+
+to ensure that software
+
+on all devices is
+
+updated as new patches
+
+become available.
+
+3
+
+SWCPL will conduct a December 2023
+
+risk assessment for
+
+software that cannot be
+
+updated (e.g., because
+
+it is needed for
+
+compatibility with legacy
+
+hardware such as CNC
+
+machines / laser
+
+cutters), to evaluate
+
+vulnerabilities, threats,
+
+impacts, mitigation
+
+measures, business
+
+context, compliance,
+
+and risk acceptance to
+
+inform decision-making
+
+and appropriate
+
+prioritization of
+
+resources for effective
+
+risk management.
+
+4 Lack of enforcement of SWCPL will enforce
+
+multi-factor
+
+multi-factor
+
+authentication for all
+
+Completed
+Page 6 of 13
+
+No. Potential Risk Factors Remediation Plan / Improvement Areas
+authentication for virtual account logins for VPN private network access. connections to its IT
+systems.
+
+Target Completion (Date)
+
+5 Inadequate
+
+SWCPL will update all Completed
+
+maintenance of security security software to the
+
+software (e.g. antivirus, latest version available,
+
+firewalls).
+
+including updating
+
+antivirus patterns.
+
+6
+
+SWCPL will evaluate December 2023
+
+and thereafter
+
+implement/deploy
+
+technological measures
+
+(such as vulnerability
+
+scanning engines) to
+
+ensure that security
+
+software is updated as
+
+new patches become
+
+available.
+
+7
+
+SWCPL will conduct a Completed
+
+thorough firewall rules
+
+review to ensure
+
+adequate protection for
+
+SWCPL. Any issues
+
+identified will be
+
+resolved.
+
+8
+
+SentinelOne (an EDR)
+
+security defense,
+
+has already been
+
+SWCPL is evaluating deployed. IDS/IPS will
+
+and will deploy intrusion be managed through
+
+detection systems (IDS), our Palo Alto firewall,
+
+intrusion prevention
+
+which has already been
+
+systems (IPS), or
+
+deployed. Continuous
+
+endpoint detection and evaluation and fine
+
+response (EDR) to
+
+strengthen its
+
+Page 7 of 13
+
+No. Potential Risk Factors Remediation Plan / Improvement Areas
+cybersecurity profile. SWCPL will also perform continuous evaluation and finetuning of IDS. IPS, and EDR.
+
+Target Completion (Date)
+tuning will be performed as necessary.
+
+9 Use of default usernames for highprivilege accounts.
+
+SWCPL will change usernames for highprivileged accounts that are default usernames. Technological policies will be implemented to ensure that default
+
+Completed
+
+10 Weak enforcement of secure passwords.
+
+SWCPL will strengthen password enforcement by implementing Group Policy Object (GPO) policies that enforce compliance with SWCPL's password policy on complexity, length, and expiry.
+
+Completed
+
+11 Account lockout policies SWCPL will enforce automatic account lockout policies which will lockout an account after 5 failed login attempts.
+
+Completed
+
+12 On-premises backup SWCPL will evaluate dependency increases and thereafter vulnerability to data loss implement of off-site or unavailability during
+
+Evaluation will be completed by November 2023. Actual backups will be
+
+Page 8 of 13
+
+No. Potential Risk Factors Remediation Plan / Improvement Areas
+
+disasters or cyberattacks.
+
+back tape backup or cloud-based backup
+
+Target Completion (Date)
+performed as necessary.
+
+13 Implementation of
+
+SWCPL will evaluate November 2023
+
+centralized logging
+
+and thereafter
+
+capabilities to ensure implement systems to
+
+that system logs are
+
+retain and adequately
+
+available in the event of secure logs from
+
+a cyber incident.
+
+network devices, local
+
+hosts and cloud
+
+services, etc for at least
+
+90 days.
+
+Policies / Process Remediation
+
+14 Strengthen incident response plan.
+
+SWCPL will draft an Incident Response Plan that includes an outline of the scope, incident response methodology, incident response phases, guidelines for the incident response process, and documentation, tracking, and reporting procedures, ensuring a comprehensive and tested approach to addressing information security incidents.
+
+November 2023
+
+15 Vulnerability testing
+
+SWCPL will research available vulnerability testing solutions to conduct a suitable penetration test after the abovementioned steps.
+
+Research on vulnerability testing solutions will be completed by November 2023. Penetration testing will
+
+Page 9 of 13
+
+No. Potential Risk Factors Remediation Plan / Improvement Areas
+SWCPL will also implement periodic penetration testing.
+
+Target Completion (Date)
+be conducted as needed.
+
+16 Implementing asset
+
+SWCPL will implement Items 1 and 2:
+
+management actions to the following asset
+
+November 2023
+
+ensure that information management actions:
+
+Item 3: Completed.
+
+assets are available
+
+1. Keep an
+
+SWCPL is actively
+
+and accurate.
+
+inventory of
+
+maintaining this
+
+hardware and
+
+network diagram.
+
+software assets
+
+to identify
+
+outdated
+
+hardware and
+
+software.
+
+2. Keep an inventory of user accounts.
+
+3. Maintain an updated network diagram of
+
+network.
+
+17 Implementing account SWCPL has in place the Item 1: SWCPL already
+
+management actions to following account
+
+has in place such
+
+ensure security of user management actions. procedures and
+
+accounts
+
+processes. SWCPL will
+
+1. Implementing
+
+regularly review these
+
+procedures and procedures and
+
+processes to
+
+processes to ensure
+
+perform periodic that they are complied
+
+review of user
+
+with.
+
+accounts and
+
+removal of
+
+Item 2: Completed.
+
+inactive
+
+SWCPL will regularly
+
+accounts.
+
+review these
+
+procedures and
+
+Page 10 of 13
+
+No. Potential Risk Factors Remediation Plan / Improvement Areas
+
+Target Completion (Date)
+
+2. Enforcing the
+control user access rights.
+
+processes to ensure
+- that they are complied with.
+
+18 Implementing written SWCPL will review and November 2023
+
+policies/processes/guid update its internal
+
+elines relating to the
+
+policies/processes
+
+collection, use,
+
+relating to the collection,
+
+disclosure, protection use, disclosure,
+
+and retention of
+
+protection, and retention
+
+personal data in the
+
+of personal data in the
+
+possession and/or
+
+possession and/or
+
+custody of SWCPL
+
+custody of SWCPL
+
+and/or its employees. and/or its employees,
+
+including but not limited
+
+to ensuring the proper
+
+documentation of the
+
+policies and processes
+
+and enhancing training
+
+for all staff on their data
+
+protection.
+
+Page 11 of 13
+
+SCHEDULE C
+Page 12 of 13
+
+Case number: DP-2305-C1003 In the matter of an investigation under section 50(1)
+And (1) Sunray Woodcraft Construction Pte Ltd (UEN No. 198703016K)
+
+DECLARATION
+
+I refer to the voluntary undertaking dated [___________] given by the Organisation to the Personal Data Protection Commission pursuant to section 48L of
+the Undertaking
+I declare that the remediation plan set out at Schedule B of the Undertaking has been completed.
+I acknowledge that by making a false declaration or providing false or misleading information to the Personal Data Protection Commission, I may be prosecuted for offences under section 51(3)(c) of the Personal Data Protection Act 2012 and/or section 182 of the Penal Code 1871.
+
+________________________ Signature
+
+_______________________ Date
+
+________________________ Name
+
+________________________
+
+Designation
+
+Page 13 of 13
+
+

@@ -1,0 +1,118 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Jet Aviation
+Asia Pacific
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Jet Aviation (Asia Pacific) Pte Ltd
+
+Share:   
+
+Published on 27 Feb 2025
+
+Background
+Jet Aviation (Asia Pacific) Pte Ltd (the "Organisation") operates private jet charters for individuals and provides aircraft Maintenance, Repair and Overhaul ("MRO") services. On 26 July 2024, the Organisation notified the Personal Data Protection Commission (the "Commission") of unauthorised access to 5 of the Organisation's email accounts containing personal data (the "Incident").
+Investigations revealed that that the threat actor ("TA") had likely gained access to the email accounts via spear phishing emails sent to specific employees. The TA had engineered the phishing emails to appear as legitimate requests for e-signatures from either trusted business partners or from within the Organisation. The TA used a cloud-based e-signature service, Adobe Acrobat Sign, to send documents containing a phishing link to the targeted employees. As the phishing link was contained within the document, the emails bypassed the Organisation's security scans for malicious email content. The targeted employees were convinced on the authenticity of the emails as the emails also bore a legitimate sender email address from Adobe.
+After clicking on the link, the employees were directed to a phishing website which emulated the Microsoft Office logon page and displayed genuine email addresses associated with the Organisation. Believing that the website that they had been directed to was authentic, the targeted employees entered their Microsoft credentials and the necessary passwords and multi-factor authentication ("MFA") tTitnoookotoehufnefresPgr. TreyihonvaeuucipanyhebSisetMahtttiiceenrrmgoeswexonpeftteb.wrsiieetenbcstehit,eetnhainesmdsiiptneltoeuyrsecedespactoereodvkteiherssee. pRpreirmaodxaymrytoorerreefrlaeabsyhothutoitskcieonnofoskrimesation
+
+returned by the Microsoft website. With the intercepted tokens, the TA was able to FbOyRpass existing MFA and gain persistent access to the email accounts.
+Individuals  
+The 5 affected email accounts contained the personal data of approximately 37,623 individuals, who were mostly the Organisation's customers. The types of personal dAabtoauatffected varied across individuals, and included a combination of the name, address, email address, telephone number, government issued identification number, passport number, photograph, date of birth, health information, gender,
+rOerlgigaionnis,aetmionpsloyment, health insurance policy information, one birth certificate, 
+country of issue of passport, and fingerprints recorded on identity cards, for example.
+Invdeivsitdiguaatlisons revealed that the TA had focused on email accounts that contained 
+invoices but relatively little personal data with the objective of identifying unpaid invoices. The TA accessed those email accounts a total of 18 times. In contrast, the TA
+aMcecdeisase&dEavnenotths er email account which contained almost all of the affected personal
+data only 3 times.
+In addition, after accessing email accounts of MRO personnel, the TA identified unpaid invoices from the MRO email accounts and manually forwarded five such emails. Thereafter, the TA sent fraudulent payment instructions to a customer and successfully diverted and received a payment of US$139,000.
+Following the Incident, the Organisation also commissioned a third party to monitor and report if any personal data from the affected email accounts was detected on the Internet, including the dark web. As at 12 November 2024, no such finding was reported to the Organisation.
+Remedial Actions
+Upon discovering the Incident, the Organisation took prompt remedial actions including password and token resets for all accounts and engaging forensics investigators. Measures implemented by the Organisation include:
+(a) Enhancing current phishing training and awareness with users receiving monthly training based on overall user risk profile of job responsibilities.
+(b) Implementing new processes for reporting phishing emails ensuring review and tracking by the cybersecurity team.
+(c) Updating email filtering configurations.
+(d) Refreshing and updating alerting mechanisms for various higher-risk logins.
+(e) Implementing stricter access condition requirements.
+(f) Adding additional endpoint detection and response capabilities.
+Voluntary Undertaking
+Having considered the circumstances of the case, the Commission accepted a vTooloufnfetarryyouunadberettatkeirnegxp(tehreie"nUcned, tehritsaksiitnegu")sefrsocmoothkieesO. rRgeaandismatoiorne atoboimutpcroovoekiietss cinomouprlPiarnivcaecwy Sitthattehme Penerts. onal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 7 January 2025.
+
+As part of the Undertaking, the Organisation will be implementing the following:
+FOR
+Individuals (a) Implementing sensitive data identification and labelling systems.
+
+(b) Implementing an updated data retention policy across the Organisation's iAnbfoorumt ation systems and other processes.
+
+(c) Updating the Organisation's Cyber Security Incident Response Program to aOcrcgoaunnistaftoior ninscident notification obligations, reporting timelines and procedures.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If
+
+tmInhdaeyivOiisdrgsuuaaenlsiasadtiiroenctfiaoinls
+
+to so
+
+comply with as to ensure
+
+any terms of the Undertaking, the Organisation's compliance
+
+the Commission with the
+
+Undertaking.
+
+Media & Events
+
+Share:   
+
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 27 Feb 2025
+
+Built with
+
+Powered by
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+� 2026 Government of Singapore
+FOR
+Individuals
+About Organisations Individuals Media & Events
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

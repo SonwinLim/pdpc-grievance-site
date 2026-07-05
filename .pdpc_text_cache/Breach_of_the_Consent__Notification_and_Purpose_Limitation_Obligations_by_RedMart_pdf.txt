@@ -1,0 +1,89 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+Case No. DP-2105-B8405
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+
+And
+
+RedMart Limited
+
+... Organisation
+
+DECISION
+
+Page 1 of 11
+
+RedMart Limited [2023] SGPDPC 1
+Yeong Zee Kin, Deputy Commissioner -- Case No. DP-2105-B8405 18 January 2023
+Introduction
+1 On 31 May 2021, the Personal Data Protection Commission (the "Commission") received a complaint that RedMart Limited (the "Organisation") was collecting images of the physical NRICs and other identification documents of suppliers making deliveries to its warehouses (the "Incident"), and that this practice did not appear to be in compliance with the Personal Data Protection Act 2012 ("PDPA").
+Facts of the Case
+2 Investigations revealed that the Organisation operated two warehouses at 47 Jalan Buroh, CWT Distripark, Singapore 619491 ("Warehouses") which were used to store goods and produce sold by the Organisation. The Warehouses were regularly visited by suppliers delivering goods and produce ("Visitors"), and the Organisation implemented measures to regulate such Visitors' access to the Warehouses. Security checkpoints at the Warehouses used an Organisation-issued tablet computer
+Page 2 of 11
+
+("Tablet") to take photographs of Visitors' NRIC or other identification documents ("ID Photographs"). The Organisation said it collected ID Photographs to Visitors seeking access to areas where food safety risks had to be managed. The Organisation explained that these measures are intended to deter acts that could compromise food safety and facilitate investigations of food safety incidents.
+3 Prior to the Incident, there were no notices at the Warehouses' security checkpoints informing Visitors of the purpose for collection of ID Photographs. After being notified by the Commission of the Incident, the Organisation put up notices at the Warehouses' security checkpoints to inform Visitors of the purpose of collection of ID Photographs.
+Findings and Basis for Determination
+4 Considering that the Tablets remained in the possession of the Organisation's security team at all times, and that there was no evidence of misuse of the ID Photographs collected, the impact of the Incident was limited. Having collected the ID Photographs, the Organisation is obliged to protect these and associated personal data to a standard commensurate to the risks that unauthorised access, use or disclosure might pose to respective individuals. The nub of the issue in this case is the legal basis upon which these ID Photographs were collected. The Organisation could have relied on two possible grounds.
+Page 3 of 11
+
+5 First, Visitors may have volunteered their IDs to be photographed on request. However, the Organisation's failure to inform Visitors of the purpose for collecting the ID Photographs was contrary to sections 14(1)(a) and 18(b) of the PDPA read with section 20. Further, the collection of a photographic image of their IDs was a condition for entry. Visitors enter the Warehouses to make deliveries as part of their employment or business. It is not a product or service that they chose to access, as contemplated by section 14(2)(a) of the PDPA. Hence, even if the requirement of notification of purpose had been met, this is not a situation where persons making deliveries as part of their employment or business could be said to have consented to allowing a photographic image of the IDs to be taken as a condition for a product or service provided by the Organisation which such persons wanted access to. Consent is not the most appropriate basis for collection and use of the ID Photographs. Accordingly, the Organisation did not obtain valid consent from the Visitors for collecting the ID Photographs, and would have breached section 13 of the PDPA if this ground was relied on.
+6 There was an alternate ground available to the Organisation. The purpose of public food hygiene and safety, cited by the Organisation in the present case, is a legitimate interest of the Organisation, and also of its business partners and ultimately, consumers. Ensuring good public hygiene and safety benefits all downstream food and beverage businesses, supermarkets and diners who eventually consume food that was stored in the Warehouses. The Organisation may therefore rely on the exception at Paragraph 1, Part 3 of the First Schedule of the PDPA ("Legitimate
+Page 4 of 11
+
+Interests Exception") to collect the ID Photographs without Visitors' consent. The Legitimate Interests Exception was introduced in the PDPA effective 1 February 2021, and could have been invoked by the Organisation any time after this date.
+7 To rely on the Legitimate Interests Exception, prior to collecting the ID Photographs, the Organisation would have had to conduct and document an assessment determining whether the Organisation's interests in collecting the ID Photographs outweighed the adverse effect to Visitors. For any adverse effects identified, the Organisation would have had to implement reasonable measures to eliminate, mitigate or reduce the likelihood of occurrence. The Organisation would also have had to provide Visitors with reasonable access to information about the Organisation's collection of the ID Photographs, which could have been done by way of disclosure in the Organisation's public data protection policy.
+8 The Commission accepts that the Organisation implemented access controls to regulate how the ID Photographs were collected and stored, which in turn reduced the risk of misuse of the ID Photographs. Notwithstanding, based on the reasons provided by the Organisation, the collection had been solely or primarily to deter acts that could compromise food safety and facilitate investigations into food safety incidents. The collected ID Photographs contained full NRIC / ID numbers together with other personal information that, in combination, had identified Visitors to a high degree of fidelity. The Commission noted that the collection of ID Photographs or full NRIC numbers had not been required by law in this case, and it is incumbent on the
+Page 5 of 11
+
+Organisation to justify why the collection of ID Photographs had been a reasonable practice in these circumstances.
+The Commission's Preliminary Decision
+9 In view of the above, bearing in mind that the Organisation had taken some steps to remediate the Incident, the Commission's preliminary decision was to give the following directions to the Organisation:
+(a) To within 60 days of this decision, conduct and document an assessment to:
+(i) evaluate whether the collection of ID Photographs from Visitors is reasonably necessary for the Organisation's interests in deterring and investigating security incidents at the Warehouses.
+(ii) If the Organisation intends to rely on the Legitimate Interests Exception for such collection, to:
+(A) identify whether the Organisation's collection of ID Photographs (or other personal data) from Visitors is likely to have an adverse effect on Visitors;
+(B) identify reasonable measures that could be implemented to eliminate, mitigate, or reduce the likelihood of such adverse effects occurring; and
+Page 6 of 11
+
+(C) determine whether the Organisation's interest in collecting the ID Photographs (or other personal data) outweighs the adverse effect to Visitors (if any) after the above measures are implemented.
+(iii) If the Organisation does not intend to rely on the Legitimate Interests Exception, to identify the basis under which the Organisation intends to collect the ID Photos (or other personal data) from Visitors, and to implement the necessary policies and processes for such collection to be in compliance with the PDPA.
+(b) To provide the Commission with a copy of the Organisation's above assessment within 14 days of its completion.
+The Organisation's Representations
+10 The Commission's preliminary decision was communicated to the Organisation on 8 July 2022. On 22 July 2022, the Commission received representations from the Organisation in respect of the preliminary decision. The Organisation claimed that it had complied with the PDPA when collecting ID Photographs from Visitors, on the following bases:
+(a) It was in the national interest to collect ID Photographs in order to establish the identities of Visitors to a high fidelity and deter potential food security incidents
+Page 7 of 11
+
+at the Warehouses, an exception to the obligation to obtain consent pursuant to Paragraph 2, Part 2 of First Schedule to the PDPA ("National Interest Exception"); (b) The collection of ID Photographs was necessary to facilitate investigations into food security incidents at the Warehouses, an exception to the obligation to obtain consent pursuant to Paragraph 3, Part 3 of First Schedule to the PDPA ("Investigations Exception"); and/or (c) There was deemed consent from Visitors for collection of the ID Photographs, as these were volunteered, and collected for the reasonable purposes as part of efforts to ensure food security (pursuant to section 15 of the PDPA).
+11 The Organisation's representations are not accepted:
+(a) The National Interest Exception does not apply. The Organisation's food security concerns, while valid, are limited to its own Warehouses and are not at the level of the "national defence or "national security" concerns contemplated by the definition of "national interest" at section 2 of the PDPA.
+(b) The Investigations Exception does not apply. In order to rely on the Investigations Exception, the collection of personal data must be for the purpose of an ongoing investigation and cannot be for a hypothetical future investigation.
+(c) There was no deemed consent from Visitors for the Organisation's collection of the ID Photographs. Visitors were not given a choice in the matter and cannot be said to have voluntarily provided their IDs as contemplated under section 15(1)
+Page 8 of 11
+
+of the PDPA. Further, it would not have been obvious to Visitors that fact that photographic images of IDs would be taken and then stored.
+12 Insofar as collection and use of ID Photographs from Visitors prior to 8 July 2022 had been on the bases cited by the Organisation above, the Commission finds that the Organisation had not been in compliance with the PDPA.
+Reliance on Legitimate Interests Exception
+13 However, the Organisation also informed the Commission of its intention to rely on the Legitimate Interests Exception as the basis for such collection going forward. Together with its representations, the Organisation provided the Commission with a copy of an internal assessment it had carried out on 22 July 2022 for its reliance on the Legitimate Interests Exception going forward ("LIE Assessment").
+14 In the LIE Assessment, the Organisation identified that there was a need to establish and/or verify the identities of Visitors to the Warehouses to a high degree of fidelity, when they were entering areas of the Warehouses containing dry food and fresh produce that were susceptible to contamination and tampering. Collection of ID Photographs served the legitimate interests of deterring and investigating potential food security incidents, which could cause harm to the public and damage to the Organisation's reputation.
+Page 9 of 11
+
+15 The Organisation identified that its collection of the ID Photographs exposed Visitors to the risks of unauthorised use and disclosure of their personal data, and detailed the measures it had implemented to eliminate or mitigate these adverse effects. These included:
+(a) limiting collection of ID Photographs to only Visitors accessing areas of the Warehouses with higher risk of food security incidents;
+(b) restricting access to the Tablets; (c) restricting the application used to collect ID Photographs on the Tablets to only
+work when connected to a dedicated Wi-Fi network at the Warehouses; (d) immediately uploading the collected ID Photographs to the Organisation's
+backend server (and not storing them locally on the Tablets); (e) limiting access to the ID Photographs (on the backend server) to the
+Organisation's DevOps team, and only when such access was on-site at the Organisation's offices and connected to its internal network; and (f) retaining the ID Photographs for a maximum of one year.
+16 The Organisation assessed the benefit in collecting the ID Photographs to be "significant" considering the potential harm that could be caused to the public by a food contamination incident. The Organisation also assessed that its implementation of the above measures rendered the "adverse impact from users" to be "low". The Organisation confirmed that it would notify Visitors of its reliance on the Legitimate Interests Exception by way of notices posted at the relevant security posts.
+Page 10 of 11
+
+17 The Commission accepts that the Organisation's interest in deterring food security incidents at the Warehouses is legitimate. The Commission also accepts that there may be a legitimate interest served in implementing enhanced identification requirements to regulate access to high risk areas, and that the collection of ID Photographs promote this interest. Most importantly, the Commission recognises that the risks of unauthorised access, use and/or disclosure of the ID Photographs have been significantly lowered on account of the enhanced access controls implemented by the Organisation to protect the ID Photographs.
+The Commission's Decision
+18 For the above reasons, the Commission is satisfied that the Organisation has met the requirements for reliance on the Legitimate Interests Exception in this case. As the Organisation has already complied with the proposed direction (contemplated at [9] above) by carrying out the LIE Assessment to the Commission's satisfaction, it is no longer necessary for the direction to be issued.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+
+Page 11 of 11
+
+

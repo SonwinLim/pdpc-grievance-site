@@ -1,0 +1,112 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+Undertaking
+
+by
+
+Singapore
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Teachers' Co-
+
+operative
+
+Society
+
+Voluntary Undertakings
+
+Limited
+
+Voluntary Undertaking by Singapore Teachers' Cooperative Society Limited
+Published on 03 Jul 2025
+
+Share:   
+
+Background
+On 11 November 2024, Singapore Teachers' Co-operative Society Limited (the "Organisation") notified the Personal Data Protection Commission (the "Commission") of a personal data breach involving unauthorised access to; and exfiltration of personal data of its members from its website.
+The Organisation established that the threat actor ("TA") had likely exploited vulnerabilities in the Organisation's website to perform SQL injection attacks. The personal data of approximately 3,253 members could have been exfiltrated. The types of personal data stored on the website included the name, NRIC number, address, email address, telephone number, nationality, race, gender, marital status, date of birth, age, highest academic qualification, designation, employment status, date of employment / joining the society, and membership type. Consequently, the TA used the personal data to send phishing emails to at least 153 members.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including disabling access to the affected website, changing the website's administrator password, engaging a third-party vendor to perform forensics investigation, and notified all affected members. Additionally, the Organisation also posted a notice on its official website to notify and provide advice for all members on the incident. To offer you a better experience, this site uses cookies. Read more about cookies 
+VinooluurnPtriavarycyUStnadteemretnatk. ing
+
+Having considered the circumstances of the case, the Commission accepted a vFOoRluntary undertaking (the "Undertaking") from the Organisation to improve its
+Individuals compliance with the Personal Data Protection Act 2012 (the "PDPA"). The  
+Undertaking was executed on 30 May 2025.
+
+AAsbopuatrt of the Undertaking, the Organisation will be implementing the following:
+
+(a) Audit its internal processes against the Commission's Data Protection Essentials
+aOnrgdatnhiesaCtyiobnesrsecurity Agency of Singapore's Cyber Essential Mark requirements. 
+
+(b) Develop an outsourcing management policy.
+
+(Inc)dPiveidrfuoarmls data protection impact assessments.
+
+
+
+(aMdde)ddEriseatsa&sbsEleisvcheunartigtsyrereemqueinretmweitnhtsth. e vendor managing the Organisation's website to 
+
+(e) Complete the data inventory map documenting data shared with external parties.
+
+(f) Perform due diligence checks on all vendors.
+
+(g) Revamp its website.
+
+(h) Perform Web Application Penetration Testing on its website and ensure that all identified vulnerabilities are remediated.
+
+(i) Review and update its IT and data protection policies.
+
+(j) Implement additional technical measures to improve its cyber security.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals MToeodfifaer&yEovueantbsetter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+Contact
+FOR
+Individuals 
+
+About
+Report Vulnerability 
+POrrivgaacny iSstaattieomnsent
+Terms and Conditions
+IRnedaicvhiduals
+
+M�La2se0td2u6ipadPae&tresEodnv0ae3lnDJutalst2a0P2r5otection Commission
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

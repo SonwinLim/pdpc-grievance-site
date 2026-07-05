@@ -1,0 +1,117 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Rotary
+Engineering
+
+Pte Ltd
+
+Voluntary Undertakings
+Share:   
+Voluntary Undertaking by Rotary Engineering Pte Ltd
+
+Published on 07 May 2026
+
+Background
+Rotary Engineering Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 3 June 2025 of a ransomware attack on its corporate systems (the "Incident").
+Investigations revealed that the threat actor had gained unauthorised access to the Organisation's corporate systems which resulted in ransomware deployment and exfiltration of personal data affecting 2,209 individuals (current and ex-employees of the Organisation).
+The types of personal data affected included a combination of names, addresses, dates of births, signatures, image copies of passports, NRICs and birth certificates, resumes, pay slips and IR8A.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including disabling legacy authentication, implementing multi-factor authentication ("MFA") across network and VPN, applying conditional access controls and token revocations, disabling remote management for all devices, deploying a new "Green" environment that consists of a new network, rebuilt servers and rebuilt endpoint with no overlap with the original, compromised environment. The Organisation also notified the affected individuals.
+The Incident had likely occurred as there were authentication and access control fTaoiloufrfeesr wyohuicahbinecttluerdexdptehreieanbcsee, nthcies osifteMuFsAeosncoVoPkNieas.nRdecarditimcaolraecacboouuntsc.oTohkeirees were ainlsoouwr eParikvnaecsysSetsaitnemtheenOt.rganisation's network and infrastructure such as flat
+
+network architecture without segmentation. In addition, the Organisation's backups
+
+FaOnRd recovery were not sufficiently robust and resilient.
+Individuals
+Voluntary Undertaking
+
+
+
+HAbavoiuntg considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+OUnrgdaenrtisaaktiinognswas executed on 18 March 2026.
+
+
+
+As part of the Undertaking, the Organisation will be implementing or has
+
+Iimndpivleidmueanlsted the following:
+
+
+
+a. Deploy a new "Green" environment that consists of a new network, rebuilt servers
+
+Maneddriaeb&uEilvteenntdspoint. This environment has zero overlap with the original,
+
+
+
+compromised environment;
+
+b. Review and tighten access to SharePoint;
+
+c. Implement MFA across M365, network and VPN;
+
+d. Implement new network/AD architecture to segment Data from Application and Web tier;
+
+e. Schedule and perform regular vulnerability and penetration testing (VAPT) assessments; and
+
+f. Review and enhanced IT policies to align with the industry standards such as Cyber Essentials.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals MToeodfifaer&yEovueantbsetter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+Contact
+FOR
+Individuals 
+
+About
+Report Vulnerability 
+POrrivgaacny iSstaattieomnsent
+Terms and Conditions
+IRnedaicvhiduals
+
+M�La2se0td2u6ipadPae&tresEodnv0ae7lnDMtaastya2P0r2o6tection Commission
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

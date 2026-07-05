@@ -1,0 +1,15 @@
+PERSONAL DATA PROTECTION COMMISSION Case No. DP-2007-B6832
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+R.I.S.E Aerospace Pte. Ltd.
+SUMMARY OF THE DECISION
+1. On 25 August 2020, R.I.S.E Aerospace Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") of a ransomware infection that had rendered its network storage server inaccessible to the Organisation (the "Incident").
+2. The Incident occurred on or about 23 August 2020. Personal data of 21 employees were encrypted by the ransomware. The personal data encrypted included the name, address, contact number, NRIC number, Work Permit details, passport details. redacted bank account numbers, and child's date of birth.
+3. Investigations revealed that the Organisation had not implemented adequate technical security arrangements to protect the personal data in its possession or control, in particular, the Organisation did not carry out any security scans or perform updates to the server firmware despite being prompted to do so by the device manufacturer. In
+
+addition, the Organisation did not put in place any documented form of IT Security policies such as its password policy, policies for patching and updating of the company server etc. These failings had resulted in a system that had vulnerabilities which a hacker could exploit by injecting ransomware into the server.
+4. Following the Incident, the Organisation had since discontinued the use of its network storage server and to opt for cloud storage instead. Additionally, the Organisation also decided to encrypt all its sensitive data and only store them on offline devices.
+5. In the circumstances, the Deputy Commissioner for Personal Data Protection finds the Organisation in breach of the Protection Obligation under section 24 of the Personal Data Protection Act 2012 (the "PDPA") and took into account the following factors in deciding to issue a Warning to the Organisation. a. The low number of affected individuals; b. There was no evidence that the personal data affected in the Incident had been misused in any form; c. The Organisation had a backup copy of the encrypted personal data and did not lose any personal data as a result of the Incident; and d. The Organisation voluntary notified the Commission of the Incident.
+6. In view of the remedial actions taken by the Organisation, the Commission will not be issuing any other directions.
+
+

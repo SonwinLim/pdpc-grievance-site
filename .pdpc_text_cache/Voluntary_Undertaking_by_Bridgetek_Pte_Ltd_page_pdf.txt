@@ -1,0 +1,108 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by
+Bridgetek
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Bridgetek Pte Ltd
+
+Share:   
+
+Published on 08 Jan 2026
+
+Background
+Bridgetek Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 16 January 2025 of a personal data breach involving a ransomware attack that had impacted the Organisation's infrastructure, comprising their servers across Singapore and overseas offices (the "Incident"). All personal data resided on the Singapore servers.
+The Organisation established that the threat actor ("TA") had likely gained access to the Organisation's system through a research and development device which required importing of development tools and reference software from external sources, creating a potential entry point for the ransomware. Malware was detected by the Organisation's antivirus programme on this device. This vulnerability in the development environment, combined with insufficient network segmentation, ultimately led to the system-wide compromise.
+The TA encrypted the Organisation's files containing the personal data of approximately 300 individuals who were the Organisation's current and former employees (201 individuals) and customers (less than 100 individuals). The types of employee personal data affected included name, email address, contact number, residential address, NRIC number, bank account number, personal CV, passport details and birth certificate details. For customers, only basic contact information was affected, including name, email address, shipping address and contact number.
+UTopoofnfedriyscoouvaerbyeottfetrheexIpnecridieenncteo, nth1i7s sDiteecuemsebsecro2o0k2ie4s,.tRheeaOdrmgaonriesaatbioonuttocookokpireosmpt irnemouerdPiarlivaacctyioSntsatinecmluednitn. g isolating all servers, disconnecting VPN tunnelling
+
+between offices and cutting off internet connection.
+FOR
+VInodluinvtiadryuUanlsdertaking
+
+
+
+Having considered the circumstances of the case, the Commission accepted a
+
+vAoblouunttary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+Undertaking was executed on 5 December 2025.
+
+Organisations As part of the Undertaking, the Organisation will be implementing the following:
+
+
+
+(Ina)dNiveidtwuaolrsk isolation of all research computers on a separate network with ITcontrolled segmentation rules preventing communication between networks
+
+
+
+M(be) dRieam&oEvvaelnotfsadministrator rights from all users and restriction of program installation to IT personnel only
+
+
+
+(c) Implement 2FA/MFA for privileged account
+
+(d) Replace antivirus solution with antivirus/EDR solution
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability 
+To offer you a better experience, this site uses cookies. Read more about cookies PinrivoaucryPSrtaivtaemcyeSntatement.
+
+Terms and Conditions
+FOR
+IRneadchividuals
+
+� 2026 Personal Data Protection Commission
+
+Last updated 08 Jan 2026
+
+ABubilot wuitth
+
+Powered by
+
+Organisations
+
+I�n2d0iv2i6dGuoavlesrnment of Singapore
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

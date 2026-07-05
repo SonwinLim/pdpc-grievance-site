@@ -1,0 +1,80 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Meinhardt
+
+(Singapore)
+
+Pte Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by Meinhardt (Singapore) Pte Ltd
+
+Share:   
+
+Published on 09 Apr 2026
+
+Background
+Meinhardt (Singapore) Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 23 October 2025 of a personal data breach involving a ransomware incident (the "Incident").
+The Organisation established that the threat actor ("TA") had gained access to its servers and encrypted data. The threat actor also exfiltrated data and posted a sample of the exfiltrated data on the dark web. The sample data posted included the name and designation of 73 employees.
+The personal data of approximately 3,000 current and former employees were put at risk of unauthorised access and exfiltration. The types of personal data affected included a combination of their name, nationality, NRIC/FIN number, date PR granted, date of birth, gender, marital status, race, religion, email address, address, bank name, bank account number, local contact number, mobile number, passport number, passport expiry date, salary, education, and emergency contact information.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including engaging a cybersecurity consultant to assist with investigation and containment. The ransomware attack had likely occurred as the Organisation had inadequate security measures including no Multi-Factor Authentication for remote VPN access, lack of endpoint security solutions, and weak passwords.
+VToooluffenrtyaoruyaUbentdteer ertxapekriinengce, this site uses cookies. Read more about cookies 
+in our Privacy Statement.
+
+Having considered the circumstances of the case, the Commission accepted a FvOoRluntary undertaking (the "Undertaking") from the Organisation to improve its
+Individuals compliance with the Personal Data Protection Act 2012 (the "PDPA"). The  
+Undertaking was executed on 4 March 2026. AAsbopuatrt of the Undertaking, the Organisation will be implementing the following including:
+(Oar)gOabntiasaintiionngsCyber Security Agency of Singapore (CSA) Cyber Essentials certification
+and conduct an external audit of security systems; and
+(Inbd) Eivnidfouraclisng Conditional Access policies for Microsoft 365 and cloud services. 
+The Commission will verify the Organisation's compliance with the Undertaking. If
+tMheedOiarg&aEnviseanttios n fails to comply with any terms of the Undertaking, the Commission
+may issue a direction to ensure the Organisation's compliance with the Undertaking.
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+� 2026 Personal Data Protection Commission
+LTaostoufpfedartyedou14 aApbr e20tt2e6r experience, this site uses cookies. Read more about cookies BinuioltuwrithPrivacy StaPtoewmereednbty.
+
+FOR
+Individuals
+� 2026 Government of Singapore
+About Organisations Individuals Media & Events
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

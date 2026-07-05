@@ -1,0 +1,21 @@
+PERSONAL DATA PROTECTION COMMISSION Case No. DP-2107-B8598
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+ACL Construction (S) Pte Ltd
+SUMMARY OF THE DECISION
+1. On 2 June 2021, the Personal Data Protection Commission (the "Commission") was notified that data from ACL Construction (S) Pte Ltd (the "Organisation"), a company that provides pre-fabricated structures, structural steel products and construction services, was being offered for sale on the darkweb by one "Prometheus" (the "Incident").
+2. Investigations revealed that a few days ago, three ACL staff - a designer and two sales executives had experienced difficulties when they tried to log in to access their files. Thereafter, the ACL staff discovered that the files had been encrypted. The Organisation then sought external IT support.
+3. The Organisation informed the Commission that the affected files contained the following data related to their projects: (i) Quotation folder � quotations (to clients and from suppliers), delivery orders, invoices and other supporting documents; (ii) Common folder � project document and photographs; and Page 1 of 3
+
+(iii) Drawing folder � CAD drawings.
+4. Our investigations revealed that the affected files contained the names of the Organisation's customers, the relevant liaison person, their business contact number(s) and/or business email(s). As the names, business contact numbers and business emails were not provided by the individuals concerned for a personal purpose, they would constitute "business contact information" as defined under the Personal Data Protection Act ("PDPA"), and fall outside the scope of the Act by virtue of section 4(5) of the PDPA. Accordingly, while the Organisation may have suffered a data breach, no personal data was in fact affected.
+5. This finding alone would have brought the matter to a close. However, in the course of our investigations, the Commission found out that the Organisation had failed to designate one or more individuals, commonly known as a Data Protection Officer ("DPO"), to be responsible for ensuring that the Organisation complies with the PDPA, as required under section 11(3) of the PDPA. The Organisation's omission to have any data protection policies in place meant that it was also in breach of section 12(a) of the PDPA.
+6. The Commission is cognizant that by virtue of the nature of the Organisation's business, the Organisation primarily deals with business contact information from its corporate clients. Having said that, while no personal data may have been affected as a result of the Incident, the Organisation still has to comply with the accountability obligation, as set out in sections 11 and 12 of the PDPA so as to protect the personal data of its employees, and any other personal data it may incidentally process, come into control or possession of. Page 2 of 3
+
+7. The Commission notes that after the Incident, the Organisation took prompt remedial actions and duly appointed a member of its staff to be responsible for ensuring that the Organisation complies with the PDPA.
+8. Nonetheless, bearing in mind the Organisation's low level of awareness of its obligations under the PDPA, the Commission considered that it would be most appropriate in lieu of imposing a financial penalty, to direct the Organisation to comply with the following: a. To develop and implement policies and practices to comply with the provisions of the PDPA; and b. Put in place a programme of compulsory training for employees of ACL on compliance with the PDPA when handling personal data.
+The following is the provision of the Personal Data Protection Act 2012 cited in the above summary:
+Compliance with PDPA 11(3). An organisation must designate one or more individuals to be responsible for ensuring that the organisation complies with the PDPA. Policies and practices 12(a). An Organisation must develop and implement policies and practices that are necessary for the organisation to meet the obligations of the organisation under the PDPA.
+Page 3 of 3
+
+

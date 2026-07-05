@@ -1,0 +1,26 @@
+PERSONAL DATA PROTECTION COMMISSION
+Case Nos. DP-1903-B3630, DP-1908-B4431
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+1. Zero1 Pte. Ltd.
+2. IP Tribe Pte Ltd
+SUMMARY OF THE DECISION
+1. On 22 March 2019, Zero1 Pte Ltd (the "Organisation") voluntarily informed the Personal Data Protection Commission (the "Commission") that invoices containing the personal data of their subscribers had been emailed to unintended recipients (the "Incident"). Each invoice contained the name, address, subscriber ID, mobile number, mobile charges, and the call details of any international calls made by a subscriber (the "Personal Data"). Each email contained a subscriber's invoice which was unintendedly sent to another subscriber instead.
+2. The Organisation was a licensed Mobile Virtual Network Operation that provided mobile services. It partnered Singtel Mobile Singapore Pte. Ltd. ("Singtel"), which appointed IP Tribe Pte Ltd ("IPT") to develop and deploy a Mobile Virtual Network Enabler (the "1st Platform") to manage subscriber accounts.
+3. IPT ran the 1st Platform for the Organisation, including generating and sending monthly emails to subscribers. IPT then subcontracted the provision of the billing system within the 1st Platform to Openet Telecom Sales Limited ("Openet"). The 1st Platform was deployed in August 2018.
+4. A replacement platform (the "New Platform") was deployed in 2019. Openet subcontracted 6D Technologies ("6D") to migrate subscriber data from the 1st Platform to the New Platform. In February 2019, 6D migrated the data of 12,000 to 15,000 subscribers.
+5. The Incident was caused by Batch ID duplication. The Batch ID was a unique number that tagged each subscriber to his name and email address. The migration was staggered and some errors made it necessary to delete data
+
+migrated earlier. However, due to a coding error, not all previously migrated data had been deleted. The New Platform failed to recognise the Batch IDs that were not deleted and re-issued the same Batch IDs. As a result, 118 invoices belonging to subscribers with duplicated Batch IDs were affected. Since each Batch ID determined the email address to which an invoice was sent, Batch ID duplication resulted in the New Platform emailing the 118 invoices to the wrong addresses.
+6. Before a new IT system or a change to an IT system goes live, pre-launch testing is important to determine that the system would run as expected. The Organisation, IPT and 6D jointly conducted pre-launch testing. The Organisation as the end user, and IPT as the Organisation's data intermediary, should have scoped the pre-launch testing to include a simulation of expected scenarios. In particular, the scenario in which migration to the New Platform is staggered and a high volume of email addresses would have been assigned Batch IDs for the sending of emails to the right subscriber ("Migration Scenario").
+7. However, in the pre-launch testing, the Migration Scenario was not catered for. Only two test accounts were used to check that the New Platform could generate and email invoices to the right parties. This was insufficient to simulate expected usage. Consequently, the tests failed to surface this issue.
+8. The proper scoping of pre-launching testing is important for the detection of functionality issues that may put personal data at risk. In failing to simulate the expected scenarios, in particular the Migration Scenario, the Organisation and IPT failed to meet the reasonable standard required to discharge the Protection Obligation.
+9. Furthermore, the processes to ensure that the New Platform would issue unique Batch IDs were inadequate. A date/time stamp could have been included as part of each Batch ID to avoid duplication, which was implemented only after the Incident.
+10. In deciding to find the Organisation and IPT respectively in breach of the Protection Obligation under the Personal Data Protection Act 2012 (the "PDPA") and to issue a Warning to each party, the Deputy Commissioner for Personal Data Protection took into account the following:
+a. Although the Organisation neither owned nor operated the New Platform, it remained a data controller in control of its subscribers' Personal Data.
+b. IPT was the Organisation's data intermediary in developing the New Platform, which included migration of the personal data of subscribers. IPT relied on Openet as its subcontractor, and the Batch ID duplication occurred as a result of errors during the migration that was performed by 6D. Notwithstanding the representations made by IPT, it retained a key role, together with the Organisation, in scoping the pre-launch testing of the New Platform.
+
+c. The tests proved to be inadequate and a reasonable opportunity to prevent the Incident was missed. For this, both the Organisation and IPT bore responsibility.
+11. No directions are required as the Organisation and IPT had taken remedial actions to address the gaps in security arrangements respectively.
+
+

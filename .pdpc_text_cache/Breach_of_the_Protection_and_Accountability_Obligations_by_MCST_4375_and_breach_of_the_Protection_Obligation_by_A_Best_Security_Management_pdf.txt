@@ -1,0 +1,96 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+[2020] SGPDPC 4
+
+Case No. DP-1903-B3437
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+
+And
+
+(1) Management
+
+Corporation
+
+Strata Title Plan No. 4375
+
+(2) Smart Property Management (Singapore) Pte Ltd
+
+(3) A Best Security Management Pte Ltd
+
+... Organisations
+
+DECISION
+
+Management Corporation Strata Title Plan No. 4375 & Others
+[2020] SGPDPC 4
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1903-B3437 3 February 2020
+Introduction 1 In late February 2019, a woman was injured when a glass door fell on her at the premises of Management Corporation Strata Title Plan No. 4375 ("MCST 4375"), also known as Alexandra Central Mall (the "Mall"). The Personal Data Protection Commission (the "Commission") subsequently became aware that closed-circuit television ("CCTV") footage showing the glass door falling on the woman was disclosed on the Internet (the " Incident").
+Facts of the Case 2 At the time of the incident, MCST 4375 had appointed Smart Property Management (Singapore) Pte Ltd ("SPMS") as its managing agent and A Best Security Management Pte Ltd ("ABSM") to provide security services at the Mall. These appointments took effect from 1 July 2018 and 1 June 2018 respectively. SPMS' scope of work as managing agent included supervising service providers such as ABSM to ensure it carried out its duties properly.
+3 On 24 February 2019, the senior security supervisor from ABSM (the "SSS") who was on duty at the Mall's Fire Control Centre, saw a glass door fall on a woman at Level 4 of the Mall's car park lift lobby (the "Accident") through
+
+Management Corporation Strata Title Plan No. 4375 & Others [2020] SGPDPC 4
+the CCTV monitors. The SSS immediately called for an ambulance and notified MCST 4375's Property Officer and ABSM's Operations Manager of the Accident. Shortly thereafter, MCST 4375's Property Officer asked the SSS to send her a copy of CCTV footage of the Accident. In response to this request, the SSS replayed the portion of the CCTV footage showing the Accident (the "Relevant CCTV Footage") and recorded it with his mobile phone. The SSS then sent the copy of the Relevant CCTV Footage which he had recorded on his mobile phone to a WhatsApp group chat consisting of the SSS, the Security Executive from ABSM (the "SE") who was also on duty at the time of the Accident, and MCST 4375's Property Officer. The SSS also sent a copy of the same footage to ABSM's Operations Manager in a separate WhatsApp message. Subsequently, the SE forwarded a copy of the Relevant CCTV Footage to the cleaning supervisor (engaged by MCST 4375) on duty at the time of the Accident (the "Cleaning Supervisor"). The SE also told the Cleaning Supervisor to inform the cleaners not to enter the barricaded area (where the Accident occurred) when carrying out their cleaning duties.
+4 On 25 February 2019, a member of the management council of MCST 4375 (the "Management Council Member") requested a copy of the Relevant CCTV Footage from the SSS for purposes of relating to an emergency meeting of MCST 4375's management council. The SSS sent the Management Council Member a copy of the Relevant CCTV Footage. The Management Council Member then forwarded the Relevant CCTV Footage via WhatsApp to the other members of MCST 4375's management council for their information.
+5 On or around 26 February 2019, a copy of the Relevant CCTV Footage was posted onto the video-sharing website YouTube. The YouTube video containing a copy of the Relevant CCTV Footage was subsequently made available through various websites on the Internet.
+2
+
+Management Corporation Strata Title Plan No. 4375 & Others [2020] SGPDPC 4
+6 Since the discovery of the Incident, MCST 4375 took the following remedial actions:
+(a) MCST 4375 replaced SPMS with a new managing agent with effect from 18 March 2019; and (b) An internal memorandum was issued to all MCST 4375 employees specifying that there shall be no distribution of any documents or media materials from the management office of MCST 4375, without prior approval from MCST 4375's management council.
+Findings and Basis for Determination
+7 For the reasons set out below, I find MCST 4375 in breach of Sections 12 and 24 of the PDPA and ABSM in breach of section 24 of the PDPA. I find SPMS not to be in breach of any of its obligations under the PDPA in relation to the Incident.
+Breach of Sections 12 and 24 of the PDPA by MCST 4375
+8 Under section 24 of the PDPA, MCST 4375 had the primary responsibility of ensuring that there are reasonable security arrangements in place to protect personal data in its possession or under its control. It is not disputed that MCST 4375 had possession and/or control of the Relevant CCTV Footage. To the extent that an MCST has appointed a managing agent or vendor to process personal data on its behalf, it should have in place a written agreement
+3
+
+Management Corporation Strata Title Plan No. 4375 & Others [2020] SGPDPC 4
+with clauses requiring them to comply with the relevant data protection provisions under the PDPA1.
+9 In the present case, MCST 4375 had engaged ABSM to provide security services which included management of CCTV footage recorded via the Mall's CCTV system. In the course of providing security services, ABSM was engaged to process personal data on behalf of MCST 4375, to wit, ABSM had to process video footages captured by the Mall's CCTV network and system. In this case, the SSS retrieved CCTV footage recorded by the Mall's CCTV system, made a recording of an extract (i.e. the Relevant CCTV Footage) and transmitted it to various parties. These actions amount to "processing" as the term is defined in section 2(1) of the PDPA. Hence, the true nature of the relationship between MCST 4375 and ABSM is that of a data controller and data intermediary.
+10 The Commission's investigations revealed that MCST 4375 had security arrangements in place to restrict access to the Fire Control Centre (which was the only place where CCTV footage could be viewed). However, MCST 4375 did not provide any instructions to ABSM or SPMS in relation to requests for access to personal data, as well as the management of CCTV footage in general. Given its duties (which included processing CCTV footage on behalf of MCST 4375), MCST 4375 should have had written instructions clearly setting out the relevant procedures to be followed by ABSM and SPMS if they received a request for access to, or disclosure of, any CCTV footage recorded at the Mall. In the circumstances, I find MCST 4375 in breach of Section 24 of the PDPA.
+1See Re KBox Entertainment Group Pte. Ltd. [2016] SGPDPC 1 at [12] and 29(b)(ii); the Commission's Guide on Data Protection Clauses for Agreements Relating to the Processing of Personal Data (20 July 2016) which provides sample data protection clauses that organisations may find helpful
+4
+
+Management Corporation Strata Title Plan No. 4375 & Others [2020] SGPDPC 4
+11 In addition, under section 12 of the PDPA, organisations are required to develop and implement policies and practices that are necessary for the organisation to meet the obligations of the organisation under the PDPA. The importance of data protection policies have been emphasized multiple times in previous decisions2, as well as the Commission's Advisory Guidelines for Management Corporations (issued on 11 March 2019) at [2.6].
+12 It emerged during the course of the Commission's investigations that MCST 4375 had not developed or put in place any data protection policies. According to MCST 4375, it expected its managing agent (i.e. SPMS) to put in place the necessary policies and practices for MCST 4375 to comply with the PDPA. However, the contract between MCST 4375 and SPMS did not contain any requirements or clauses to this effect. MCST 4375 also conceded that it had not given any instructions to SPMS in this regard. In the circumstances, I also find MCST 4375 in breach of Section 12 of the PDPA.
+Breach of Section 24 of the PDPA by ABSM
+13 As mentioned at [9], the security services provided by ABSM included the management of CCTV footage. This amounted to "processing" of personal data as defined in section 2(1) of the PDPA. ABSM was accordingly acting as a data intermediary of MCST 4375 in respect of the Relevant CCTV Footage.
+14 At the material time, ABSM had a Personal Data Protection Policy, which specifically provided that ABSM would not disclose personal data to third parties without MCST 4375's consent. ABSM also had Standard
+2See Re Aviva Ltd 2017 SGPDPC 14 at [32]; Re M Stars Movers & Logistics Specialist Pte Ltd [2017] SGPDPC 15 at [31] to [37]; Re AgcDesign Pte Ltd [2019] SGPDPC 23 at [5]
+5
+
+Management Corporation Strata Title Plan No. 4375 & Others [2020] SGPDPC 4
+Operating Procedures ("SOP") outlining the standards of conduct expected of its employees. However, the SOP did not include provisions in relation to the recording, retrieving or disclosure of CCTV footage recorded at the Mall or the personal data captured therein. In addition, ABSM had a Crisis Report Flow Chart for the reporting of incidents (such as the Accident) which also did not contain any provisions relating to the handling of personal data.
+15 Although the Relevant CCTV Footage contained personal data that was publicly available and consent for disclosure is not required, section 18(a) of the PDPA overlays the requirement that disclosure must nevertheless be for a reasonably appropriate purpose in the circumstances. In my view, the disclosure of the Relevant CCTV Footage by the SSS to MCST 4375's Property Officer, ABSM's Operation Manager, the SE and the Management Council Member was for a reasonably appropriate purpose. Pursuant to the Crisis Report Flow Chart, the SSS had to inform representatives of MCST 4375 and his supervisor (i.e. the ABSM Operation Manager) of the Accident. The SE was on duty at the time of the Accident and would have been working with the SSS to manage the situation post-Accident. As for the disclosure to the Management Council Member, members of the Management Council are representatives of an MCST and disclosure to them was akin to disclosure to MCST 4375.
+16 However, the disclosure of the Relevant CCTV Footage by SE to the Cleaning Supervisor was unauthorised and in direct contravention of both ABSM's Personal Data Protection Policy and Crisis Report Flow Chart. Given that the Relevant CCTV Footage contained personal data that was recorded in the Mall, ABSM's Personal Data Protection Policy required the SE to obtain MCST 4375's approval before sending a copy of the Relevant CCTV Footage to the Cleaning Supervisor. The SE's failure to do so may be due, at least in
+6
+
+Management Corporation Strata Title Plan No. 4375 & Others [2020] SGPDPC 4
+part, to the lack of any provisions in the SOP setting out the procedures to be followed before CCTV footage is disclosed.
+17 It is well-established that proper training is a key security arrangement in an organisation's compliance with the protection obligation under section 24 of the PDPA3. Proper staff training � which creates data protection awareness amongst employees, imparts good practices in handling personal data, and puts employees on the alert for threats to the security of personal data � is necessary to complement an organisation's data protection policies. According to ABSM, both the SSS and SE were briefed on the PDPA in August 2018 when they were assigned to work at the Mall. However, the SE's conduct evidenced a lack of knowledge or understanding of ABSM's internal policies and procedures.
+18 In my view, ABSM failed to properly train and communicate its internal policies and procedures in relation to the protection of personal data to its employees. In particular, ABSM should have had a written policy setting out the procedures to be followed in relation to the disclosure of CCTV footage and the personal data therein. In the circumstances, I find ABSM in breach of Section 24 of the PDPA.
+No Breach of the PDPA by SPMS
+19 SPMS was also a data intermediary of MCST 4375 in relation to the personal data it processed on their behalf when carrying out its duties as managing agent. As a data intermediary, SPMS had an obligation under section
+3Re National University of Singapore [2017] SGPDPC 5 at [15] � [28]; Re SLF Green Maid Agency [2018] SGPDPC 27 at [12]; Re SME Motor Pte Ltd [2019] SGPDPC 21 at [10] and Advisory Guidelines On Key Concepts in the Personal Data Protection Act (Revised 9 Oct 2019) at [17.5]
+7
+
+Management Corporation Strata Title Plan No. 4375 & Others [2020] SGPDPC 4
+24 of the PDPA to put in place reasonable security arrangements to protect such personal data which was in its possession or under its control.
+20 Notably, the personal data which is the subject of the present case was not in the possession or under the control of SPMS. In particular, the Relevant CCTV Footage was in the possession and under the control of ABSM and was within the scope of ABSM's responsibilities as MCST 4375's security services provider. Accordingly, it was not SPMS' responsibility to put in place reasonable security arrangements to protect the Relevant CCTV Footage.
+21 While SPMS' duty as managing agent was to exercise a supervisory role over ABSM, the Commission's investigations revealed that this was limited to exercising broad oversight over the attendance and performance of duties by ABSM's employees. In both ABSM's Personal Data Protection Policy and Crisis Report Flow Chart, SPMS did not have a role with respect to the management or approval of requests for access or disclosure of personal data. In particular, there was no requirement for ABSM's employees to consult or seek approval from SPMS in relation to the disclosure of CCTV footage. The Incident accordingly did not arise due to SPMS' lack of supervision over ABSM.
+22 In the circumstances, I find that SPMS was not in breach of any of its obligations under the PDPA in relation to the Incident.
+8
+
+Management Corporation Strata Title Plan No. 4375 & Others [2020] SGPDPC 4
+The Deputy Commissioner's Directions
+23 Having considered all the relevant factors in this case, I hereby direct:
+(a) MCST 4375 to: (i) Develop and implement policies necessary for the protection of personal data in its possession and/or under its control to meet its obligations under Section 12 of the PDPA within 60 days from the date of this decision; (ii) Put in place reasonable security arrangements, including policies necessary for the protection of personal data in its possession and/or under its control to meet its obligations under Section 24 of the PDPA within 60 days from the date of this decision; (iii) As part of the security arrangements to be put in place, conduct training to ensure that its staff are aware of, and will comply with, the requirements of the PDPA when handling personal data within 60 days from date of decision; and (iv) Inform the Commission of the implementation of each of the above within 1 week of implementation; and
+(b) ABSM to: (i) Put in place reasonable security arrangements, including policies necessary for the protection of personal data in its possession and/or under its control to meet its obligations under Section 24 of the PDPA within 60 days from the date of this decision; and
+9
+
+Management Corporation Strata Title Plan No. 4375 & Others [2020] SGPDPC 4 (ii) Inform the Commission of the implementation of the above within 1 week of implementation.
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+10
+
+

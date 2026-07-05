@@ -1,0 +1,183 @@
+WRITTEN VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Personal Data Protection Commission or its delegates pursuant to section 48L(1) of the PDPA, by:
+MURATA MACHINERY SINGAPORE PTE LTD UEN: 198800649D Registered Address: 69 Ubi Crescent #06-01, CES Building Singapore 408561
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+In this Undertaking:
+(a) "PDPA" means the Personal Data Protection Act 2012; and
+(b) "Relevant Provisions" means the provisions in Parts III, IV, V, VI, VIA and IX, and section 48B(1) of the PDPA.
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) The Commission has carried out investigations into certain acts and practices of the Organisation, and has reason to believe that the Organisation has not complied, is not complying, or is likely not to comply with one or more of the Relevant Provisions. The relevant facts and circumstances are summarised at Schedule A.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to issue directions under sections 48I or 48J of the PDPA.
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the course of the investigation and was responsive to requests for
+
+information. The Commission further recognises that the Organisation appears ready to implement or is in the midst of implementing the steps set out in Schedule B.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+The Organisation undertakes that it has taken, or will take all necessary steps, to carry out the actions or refrain from carrying out the actions referred to in Schedule B, and where applicable, in accordance with the stipulated timelines.
+4. COMMENCEMENT
+This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3)(ca) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above, and if necessary, will exercise its powers under the Ninth Schedule of the PDPA to do so.
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the Organisation fails to comply with this Undertaking or part thereof in relation to any matter.
+
+5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under sections 48I, 48J, 48L(4) and 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent.
+6. VARIATION
+This Undertaking may be varied only with the express written agreement of the Commission.
+This document has been electronically signed. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+
+SIGNED, for and on behalf of
+
+)
+
+MURATA MACHINERY SINGAPORE PTE LTD
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+ACCEPTED by
+
+)
+
+)
+
+Name: ______________________________________ )
+
+Designation: Deputy Commissioner
+
+Personal Data Protection
+
+)
+
+Date: _______________________________________ )
+
+SCHEDULE A
+
+SUMMARY OF FACTS
+1. On 1 April 2022, the PDPC was informed that the Organisation had suffered from a ransomware attack on its back-end servers on 31 May 2022, causing personal data stored within to be encrypted.
+2. The personal data of 220 individuals affected included their names, addresses, email addresses, contact numbers, NRIC/FIN and passport numbers, date of birth, salary and bank account numbers.
+3. To prevent a recurrence, the Organisation took immediate remedial action to address the cause of the personal data breach.
+
+SCHEDULE B
+
+REMEDIATION PLAN
+
+S/N Key Weaknesses 1 Lack of regular updates to the firmware of its firewall and VPN client
+
+Remedial Actions/Measures a. Replace existing firewall and VPN
+client with more complete security features
+b. Engage vendor to regularly update and maintain its firewall and VPN client
+
+Completion Date By 30 September 2022
+By 1 August 2022
+
+2 Usage of VPN client a. Implement MFA before re-allowing
+
+without multi-factor
+
+use of VPN access into its server.
+
+authentication
+
+The MFA will either be a virtual
+
+("MFA")
+
+token tied to the end-user's mobile
+
+phone, or an email passcode sent
+
+to the company's email address
+
+By 30 September 2022
+
+b. Implement a lockout threshold of 5 failed attempts for the VPN clients' logins as an added security
+
+Once VPN use is restored
+
+3 Lack of regular monitoring of the IT network to detect any illegal access
+
+a. Engaging vendor to monitor traffic By 1 August 2022 of its IT network for illegal access.
+
+b. Plan to restrict Remote Desktop Protocol (RDP) as a default setting to disallow remote access to its backend servers on regular days; and only allowed RDP for planned maintenance tasks
+
+By 1 July 2022
+
+4 Insufficient offline
+
+a. Implement automated offline
+
+backups for contents
+
+backups of the contents of the
+
+hosted on the server
+
+server in the form of a tape drive
+
+By 30 September
+
+b. Implement regular manual data
+
+2022
+
+backup to encrypted hard disks that
+
+will be kept under lock and key.
+
+5 Lack of proper
+
+a. Source for suitable encryption
+
+By 30 September
+
+encryption
+
+software to encrypt server
+
+2022
+
+implementation on
+
+directories containing personal data
+
+files on the servers
+
+6 Storage of Personal a. Periodically off-load low use
+
+By 1 July 2022
+
+data with low
+
+personal data to an encrypted
+
+frequency of use on
+
+external hard disk to be kept under
+
+servers
+
+lock and key offline
+
+7 Additional actions towards existing IT security measures
+
+a. Engage external vendor to fulfil the By 1 August 2022 following:
+i. Conduct regular audit to its computer devices to ensure essential software and OS updates and patches are properly installed.
+ii. Conduct regular review and audit to the domain user accounts and computer devises to cleanup unused accounts.
+iii. Implement local administrator password solution for domain user computer devices.
+iv. Enforce server message block signing to encrypt traffic between domain user computer devises and backend servers
+
+

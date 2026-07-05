@@ -1,0 +1,109 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by TJ Assurance
+Partners
+
+PAC
+
+Voluntary Undertakings
+Voluntary Undertaking by TJ Assurance Partners PAC
+
+Share:   
+
+Published on 07 Aug 2025
+
+Background
+TJ Assurance Partners PAC (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 12 March 2025 of a data breach involving an unauthorized access to one of the Organisation's corporate email accounts. The Threat Actor ("TA") subsequently used the compromised email account to send phishing emails to the Organisation's clients (the "Incident").
+The Organisation established that the Incident occurred when a staff member fell victim to a phishing attack, enabling the TA to gain access to the mailbox of the compromised email account for about one hour. During the access period, the TA accessed a number of emails and used the mailbox to send phishing emails to contacts in the address book.
+Based on the log analysis performed with Microsoft support, no file downloads were detected. The personal data was contained in email attachments within the email correspondence of the compromised mailbox, affecting 71 individuals. The affected personal data included full name, address, NRIC number, passport number, nationality, and financial information.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including:
+(a) Notified recipients of the phishing emails purportedly sent out by the TOorgoaffneirsayotiuona; better experience, this site uses cookies. Read more about cookies  in our Privacy Statement.
+
+(b) Forced logout of all Microsoft 365 users across the Organisation to invalidate FaOcRtive sessions; and
+Individuals  
+(c) Reset the password and revoking the Microsoft 365 license associated with the compromised mailbox.
+VAbooluutntary Undertaking
+
+HOargvainngiscaotinosnids ered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+UInnddiveidrtuaaklisng was executed on 26 June 2025.
+
+
+
+As part of the Undertaking, the Organisation will be implementing the following
+
+iMncelduidai&ngE:vents
+
+
+
+(a) Conduct phishing simulation exercise for employees and identify susceptible personnel;
+
+(b) Schedule Annual Vulnerability Assessment and Penetration Testing ("VAPT") for all internet-facing assets and internal systems;
+
+(c) Implement Data Protection Management Programme ("DPMP") including password policies and email data retention Standard Operating Procedures ("SOP");
+
+(d) Formalise breach response procedures; and
+
+(e) Undergo Data Protection Trustmark ("DPTM") audit and certification.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals MToeodfifaer&yEovueantbsetter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+Contact
+FOR
+Individuals 
+
+About
+Report Vulnerability 
+POrrivgaacny iSstaattieomnsent
+Terms and Conditions
+IRnedaicvhiduals
+
+M�La2se0td2u6ipadPae&tresEodnv0ae7lnDAtuasgta2P0r2o5tection Commission
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

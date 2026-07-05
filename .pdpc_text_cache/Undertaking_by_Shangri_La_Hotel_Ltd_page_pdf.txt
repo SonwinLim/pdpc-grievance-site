@@ -1,0 +1,98 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Shangri-
+La Hotel Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Shangri-La Hotel Ltd
+Published on 25 Sep 2024
+
+Share:   
+
+Background
+On 16 July 2022, the Personal Data Protection Commission (the "Commission") received a data breach notification from Shangri-La Hotel Limited (the "Organisation") informing that unknown threat actor(s) had accessed and likely exfiltrated personal data from the Organisation's property management system on or around 27 June 2022 (the "Incident"). The Organisation is a Singaporeincorporated subsidiary of the Shangri-La Group, which is headquartered in Hong Kong. The Shangri-La Group operates through a consolidated IT infrastructure located overseas.
+The personal data of approximately 1,076,899 guests was affected in the Incident. The affected datasets included guests' names, phone numbers, email addresses, addresses, countries of residence, and/or membership information. Sensitive information such as guests' identity document details and credit card details were encrypted by the Organisation and there was no evidence that these were affected.
+As the threat actor(s) alleged that they had also exfiltrated data from a number of other Shangri-La entities, the Shangri-La Group notified the relevant authorities as required, including the Office of the Privacy Commissioner for Personal Data in Hong Kong, China where the Shangri-La Group is headquartered.
+Investigations
+TToheofOferrgyaonuisaatbioentteenr gexapgeerdietnwcoe,ththirids spitaertuysfeosrecnosoikcieesx.pReertasdtomionrveeastbigoauttectohoekies  Iinncoiduer nPtr.ivInavceysSttigataetmionesnrte. vealed evidence of the threat actor's activity in the Shangri-
+
+La Group's network in Hong Kong as early as 26 November 2019. However, given the uFOnRavailability of forensic evidence before 26 November 2019, and steps taken by the
+Individuals sophisticated threat actor(s) to avoid detection, both forensic experts couldnot 
+establish how the threat actor initially gained access to the Shangri-la Group's network in Hong Kong. About By 1 November 2021, the threat actor(s) compromised an account with domain level administrator credentials managed and used by the Shangri-la Group. After
+Ospregnadninsagtiaopnpsroximately 6 months (between 1 November 2021 and 20 May 2022) 
+understanding the environment of the Hong Kong network, the threat actor(s) moved laterally to a patch management server in the Organisation's Singapore
+Innedtiwviodrukaalsnd eventually, the server hosting the Organisation's property management
+system (and the personal data within). The Organisation was unable to detect this
+imMnteerdauissauio&renEsivnaetdnootipststendebtwyothrkedSehsapnitgerit-hlaeGinroduupstarys-sthtaentdharredatinafcotromr(as)t'isomn soevceumrietynt 
+mimicked commonly occurring legitimate network connections to evade detection.
+Remedial Actions
+Following discovery of the Incident, the Organisation and Shangri-La Group carried out remedial actions to contain the Incident. The Organisation:
+(a) Engaged third party forensic experts to conduct threat hunting and ensure that the threat actor is no longer present in the systems;
+(b) Notified all potentially affected individuals; and
+(c) Offered complimentary identity monitoring services to potentially affected individuals.
+Voluntary Undertaking
+The Commission recognises that as a subsidiary in a multinational corporate group, the Organisation implemented the group's IT policies and security practices and had limited ability to influence the same. While the Organisation had implemented industry-standard security arrangements to protect the personal data in its possession and control at the time of the Incident, these security measures were bypassed by the threat actor as the initial compromise occurred in the Shangri-La Group's network in Hong Kong outside of the Organisation's control.
+Investigations also separately revealed that the software used by the Organisation for the property management system had failed to purge the personal data of 7,349 guest profiles even though the Organisation no longer had any business or legal reasons to retain them. The Organisation had been aware of the issue and was seeking a solution from the vendor of the software when the Incident occurred. The Organisation has since completed the purging exercise.
+Having considered the circumstances of the case, including the fact that the threat actor's entry into the Shangri-la Group's network in Hong Kong had been outside of tThoeoOffergr aynoiusaatiboent'tsecroenxtproerl,iethnecer,etahsiosnsaitbeleusseescucoriotykiaersr.aRnegaedmmenotrseoatbhoeurwt cisoeokies iinmopulermPreivnatecydSbtyattehme Oenrgt.anisation at the time of the Incident and the remedial steps taken by the Organisation in the immediate aftermath of discovering the Incident to
+
+notify and offer complimentary identity monitoring services to all the potentially FaOffRected individuals, the Commission accepted a voluntary undertaking from the
+Individuals Organisation to improve its compliance with the PDPA. The voluntary undertaking
+was executed on 6 November 2023 (the "Undertaking"). AAsbopuatrt of its proposed remediation plan, the Organisation: (a) Enhanced logging of its network and systems; O(br)gHaanridsaetnioendsits networks and systems; I(nc)dIisvoidlautaelds systems from internet and blocked malicious IP addresses; (d) Removed and rebuilt the compromised systems; M(e)eEdniag&agEevdenatns independent cybersecurity provider to conduct a security review to ensure the remedial actions are completed and effective; (f) Worked with its vendor to resolve its property management system's flaws; and (g) As part of Shangri-La Group, revised its group password policy and implemented revised complex password controls in its Active Directory. The Organisation has since updated the Commission that it has fully implemented its remediation plan. The Commission has reviewed the matter and determined that the Organisation has complied with the terms of the Undertaking.
+Share:   
+Personal Data Protection Commission
+About
+Organisations
+Individuals
+Media & Events
+Contact
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+Report Vulnerability 
+FOR
+PInrivadcyivStiadtemueantls
+Terms and Conditions
+ARebaocuht 
+
+� 2026 Personal Data Protection Commission
+OLarsgt uapndiastaedti2o5nSsep 2024
+
+Built with
+
+Powered by
+
+Individuals
+
+M� 2e0d2ia6 G&oEvevrennmtsent of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

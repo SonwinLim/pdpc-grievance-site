@@ -1,0 +1,85 @@
+LEGALLY BINDING UNDERTAKING TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Info-communications Media Development Authority designated as the Personal Data Protection Commission under section 5(1) of the PDPA (hereinafter referred to as the "Commission"), by:
+Grabcar Pte. Ltd. UEN: 201427085E Registered Address: 6 Shenton Way, #38-01, OUE Downtown, Singapore 068809
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and agrees to be bound by the terms of this Undertaking.
+1. DEFINITIONS
+1.1 In this Undertaking:
+(a) "Commission's Letter" means the letter dated 21 February 2020 from the Commission to the Organisation, concerning its investigation under the PDPA, including the appendices thereto;
+(b) "Data Protection Provisions" means Parts III to VI of the PDPA; and
+(c) "PDPA" means the Personal Data Protection Act 2012 (No. 26 of 2012).
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) The Commission has carried out an investigation into certain acts and practices of the Organisation, which infringes one or more provisions of the Data Protection Provisions.
+(b) The facts and circumstances relating to the Commission's investigation, as well as the Commission's investigation findings and concerns arising therefrom, are set out in the Commission's Letter, a copy of which has been furnished to the Organisation.
+(c) The Organisation agrees that it has been given the opportunity to submit representations to the Commission in relation to the facts, allegations and the Commission's investigation findings, as well as the form of binding undertaking, as set out in the Commission's Letter.
+1
+
+(d) As a result of any non-compliance with the PDPA by an organisation, there are a number of enforcement options under the PDPA, including the option to give a direction under section 29 of the PDPA.
+(e) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the course of the investigation and was responsive to requests for information.
+(f) Having carefully considered all the relevant facts and circumstances, the view is taken that this is an appropriate case in which a binding undertaking may be accepted.
+3. UNDERTAKINGS
+3.1 In consideration of the powers under section 29 of the PDPA not being exercised to give a direction in relation to the matters set out in the Commission Letter, the Organisation hereby undertakes as follows.
+3.2 The Organisation undertakes to take all necessary steps to implement and give effect to the conditions set out below, and to procure and ensure that it takes all necessary steps to implement and give effect to the following within the time frame approved by the Commission under paragraph ( b ) below:
+(a) review its change management process when making changes to its Information Technology systems and services to ensure that reasonable security checks are made before deploying such changes;
+(b) provide, within fourteen (14) days of the date of acceptance of this Undertaking, a proposed plan of implementation for fulfilling (a) above, for the Commissioner's approval. The proposed plan of implementation shall state specific measures that Grabcar has taken and/or proposes to take to fulfil (a) above, as well as the time frame within which Grabcar expects to complete each of the specific measures (to the extent that these measures have yet to be completed). The overall time frame within which Grabcar proposes to complete all of the specific measures (the "Time Frame") shall not exceed sixty (60) days beginning from the date of acceptance of this Undertaking. The proposed plan of implementation shall also explain how each of the specific measures proposed would achieve the objective of (a) above. Grabcar shall make such amendments to the proposed plan of implementation as may be required by the Commissioner, in order to address any further concerns that the Commissioner may have. In deciding whether to approve the plan of implementation, the Commissioner will consider whether the specific
+2
+
+measures would adequately address and achieve the objective of (a) above; and
+(c) comply and procure that Grabcar complies with each and every obligation set out in the approved plan of implementation, which is hereby incorporated into and forms part of this Undertaking, within the specified time frames;
+(d) appoint an individual of sufficient authority to oversee Grabcar's compliance with the terms of the Undertaking and another individual of sufficient authority to work with the first named individual to report the status of Grabcar's compliance to the Commissioner in accordance with paragraph (e) below, and to appoint a replacement in the event that either appointee departs from the organisation; and
+(e) provide a status report to the Commissioner within fourteen (14) days from the end of the Time Frame approved by the Commissioner under paragraph (d) confirming whether Grabcar has fulfilled each of the specific measures set out in the approved plan of implementation, and provide details as to when each of the specific measures was completed.
+3.3 In addition, the Organisation undertakes to provide, and will ensure that it provides all necessary assistance that the Commission may require to verify the completion of the specific measures as set out in paragraph 3.2, including (without limitation) granting the Commission and its representatives physical access to the Organisation's premises, providing information and documentation to the Commission, and arranging for meetings and/or interviews with the Organisation's staff, contractors and/or consultants. To facilitate the Organisation's ability to assist the Commission, the Commission shall provide reasonable notice (which shall not be less than 72 hours) prior to exercising the aforementioned verification activities.
+4. COMMENCEMENT, TERM AND TERMINATION
+4.1 This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's fully executed Undertaking.
+5. GOVERNING LAW
+5.1 This Undertaking shall be governed by Singapore law. Each party irrevocably submits to the exclusive jurisdiction of the Singapore courts any dispute or claim arising in any way out of or in connection with this Undertaking (including a dispute regarding the existence, validity or termination of this Undertaking), and waives any right to oppose any such Singapore action or proceedings on any jurisdictional basis, and agrees not to oppose the enforcement against it in any other jurisdiction of any judgment or order duly obtained from a Singapore court.
+3
+
+6. VARIATION
+6.1 This Undertaking may be varied only with the express written agreement of the Commission.
+7. OTHER MATTERS
+7.1 The Organisation acknowledges that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+7.2 For the avoidance of doubt, nothing in this Undertaking shall constrain or fetter the exercise of any statutory powers including, but not limited to, the powers under section 29 and section 50 of the PDPA in respect of the findings herein, should there be a failure by the Organisation to comply with any term of this Undertaking or if there are reasonable grounds for suspecting that any of the information provided by the Organisation in connection with the investigation in this case was incomplete, false or misleading in a material particular. Furthermore, nothing in this Undertaking shall fetter or constrain the Commissions rights in any manner, nor be construed as creating any expectation that the Commission will take or not take any particular course of action in the future, should the Organisation be suspected or found to have contravened its obligations under the PDPA after the signing and acceptance of this Undertaking.
+7.3 It is further acknowledged that the acceptance of this Undertaking is on a oneoff and exceptional basis, and is strictly confined to the particular facts of the present case, on the basis of the information provided by the Organisation. The acceptance of this Undertaking shall not be construed as establishing any precedent, shall not create any legitimate expectations on the part of any parties (whether or not a party to this Undertaking), and shall not bind the Commission in respect of any other case involving a breach or suspected breach of the PDPA. All of the Commission's rights in the foregoing respects are expressly reserved.
+7.4 For the avoidance of doubt, acceptance of this Undertaking does not derogate from any rights and remedies available to any other person arising from conduct described in this Undertaking.
+
+SIGNED, for and on behalf of
+
+)
+
+Grabcar Pte. Ltd.
+
+)
+
+4
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+ACCEPTED, for and on behalf of
+
+)
+
+Info-communications Media Development Authority )
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+5
+
+

@@ -1,0 +1,168 @@
+PERSONAL DATA PROTECTION COMMISSION [2018] SGPDPC [14]
+Case No DP-1707-B0946 In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And Credit Bureau (Singapore) Pte Ltd ... Organisation
+DECISION
+
+Credit Bureau (Singapore) Pte Ltd
+
+[2018] SGPDPC [14]
+
+Mr. Yeong Zee Kin, Deputy Commissioner -- Case No DP-1707-B0946
+
+14 May 2018
+
+Background
+
+1
+
+This complaint concerns the accuracy and retention of the
+
+Complainant's personal data by Credit Bureau (Singapore) Pte Ltd ("the
+
+Organisation"). The Organisation is a consumer credit bureau. It aggregates
+
+credit-related information from its participating members. The risk profiles of
+
+individuals are presented in its Enhanced Consumer Credit Report ("ECCR").
+
+2
+
+The complainant had a bankruptcy application taken out against him in
+
+June 2012. The bankruptcy application was withdrawn by the creditor in July
+
+2012. The Complainant was given a "HX" risk grade in this ECCR. A "HX"
+
+risk grading meant that there could be a past or existing bankruptcy record
+
+associated with the Complainant. The Complainant felt that a "HX" risk grading
+
+was inaccurate as he thought that it implied that he had an outstanding
+
+bankruptcy record or was not creditworthy. He therefore requested the
+
+Organisation to amend his risk grading.
+
+3
+
+The Organisation informed the Complainant that it was its practice to
+
+display bankruptcy-related data for 5 years. The Complainant then lodged a
+
+complaint against the Organisation to the Personal Data Protection Commission
+
+Credit Bureau (Singapore) Pte Ltd
+
+[2018] SGPDPC 14
+
+on 24 May 2017. The complaint was that the Organisation had retained his personal data when it was no longer necessary for legal or business purposes.
+
+Findings and Basis for Determination
+
+4
+
+This case concerns the accuracy and retention obligations under the
+
+Personal Data Protection Act ("PDPA"), with respect to the bankruptcy
+
+information in the ECCR. In particular, the issues are:
+
+a. Whether the Organisation had made a reasonable effort to ensure that the personal data it had collected was accurate and complete pursuant to section 23(b); and
+
+b. Whether the Organisation had retained the Complainant's personal data when it was no longer necessary for legal or business purposes pursuant to section 25 of the PDPA.
+
+Did the Organisation breach Section 23(b) of the PDPA?
+
+5
+
+Section 23(b) of the PDPA requires an organisation to make a reasonable
+
+effort to ensure that the personal data collected by or on behalf of the
+
+organisation is accurate and complete if the personal data is likely to be
+
+disclosed by the organisation to another organisation.
+
+6
+
+In this case, the Organisation had explained that a "HX" rating merely
+
+meant that there was a past or existing bankruptcy record associated with the
+
+individual concerned. A "HX" rating did not represent that the individual was a
+
+bankrupt. The Organisation had also cautioned creditors against upfront
+
+rejection of credit applications of applicants with "HX" ratings. This buttresses
+
+2
+
+Credit Bureau (Singapore) Pte Ltd
+
+[2018] SGPDPC 14
+
+the Organisation's positon that "HX" rating alone does not determine creditworthiness.
+
+7
+
+According to the Association of Banks in Singapore ("ABS"), financial
+
+institutions ("FIs") consider information from several sources when making
+
+lending decisions. Apart from searches with credit bureaux, FIs also conduct
+
+public registry searches1. Records from the Insolvency & Public Trustee Office
+
+("IPTO") also showed that he was not a bankrupt. FIs would have been able to
+
+obtain the same information on the Complainant when conducting their own
+
+due diligence. Generally, FIs' creditworthiness assessment vary according to
+
+their risk appetite, internal assessment policies, portfolio delinquency and loss
+
+experience.
+
+Did the Organisation breach section 25 of the PDPA?
+
+8
+
+Section 25 of the PDPA requires an organisation to cease retaining its
+
+documents containing personal data, or remove the means by which the personal
+
+data can be associated with particular individuals, as soon as it is reasonable to
+
+assume that the purpose for which that personal data was collected is no longer
+
+served by retention of the personal data; and retention is no longer necessary for
+
+legal or business purposes.
+
+9
+
+The Organisation displays bankruptcy-related information for 5 years in
+
+its ECCR.2 This aligns with the display period of the publicly available
+
+Insolvency Search maintained by the Insolvency & Public Trustee Office. The
+
+1 Including publicly available litigation and bankruptcy information. 2 Including "HX" ratings.
+3
+
+Credit Bureau (Singapore) Pte Ltd
+
+[2018] SGPDPC 14
+
+5-year retention policy gives FIs useful credit history of potential borrowers. Along with other information sources, this facilitates FIs' lending decisions.
+
+10 I do not think that a 5-year display period for bankruptcy-related information is unreasonable. The Organisation provides credit reporting services and the retention of bankruptcy-related information in order to deliver its services is a valid business purpose.
+
+Conclusion
+
+11 For the reasons set out above, I do not think that the Organisation has breached section 23(b) or 25 of the PDPA.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION
+
+4
+
+

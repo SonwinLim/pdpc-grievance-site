@@ -1,0 +1,116 @@
+PERSONAL DATA PROTECTION COMMISSION [2019] SGPDPC 21
+Case No DP-1901-B3318 In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And SME Motor Pte. Ltd. ... Organisation
+DECISION
+1
+
+SME Motor Pte. Ltd.
+
+[2019] SGPDPC 21 Yeong Zee Kin, Deputy Commissioner -- Case No DP-1901-B3318 4 July 2019
+
+Background
+1 On 31 January 2019, the Personal Data Protection Commission (the "Commission") received a complaint from an individual (the "Complainant") in relation to the disclosure of other individuals' personal data that had been printed on the reverse side of an invoice issued to the Complainant by SME Motor Pte. Ltd. (the "Organisation").
+
+Material Facts
+2 The facts of this case and circumstances leading to the breach bear some resemblance to the cases of Re SLF Green Maid Agency [2018] SGPDPC 27 and Re Furnituremart.sg [2017] SGPDPC 7.
+
+3 The Organisation is in the business of auto repair and servicing. In an effort to be environmentally friendly, the Organisation had a practice of re-using scrap or unwanted paper documents by printing other documents on the reverse side.
+
+4
+
+The Complainant met with a car accident and brought her vehicle to the
+
+Organisation's workshop for repair. The Complainant subsequently discovered
+
+1
+
+SME Motor Pte. Ltd.
+
+[2019] SGPDPC 21
+
+that the Organisation had printed her workshop repair invoice on a piece of paper that contained the personal data of two other individuals (the "Personal Data") on the reverse side. On 31 January 2019, the Complainant lodged a complaint with the Commission in relation to the disclosure of the Personal Data.
+
+5 The Personal Data disclosed to the Complainant included the following:
+(a) the first individual's name, National Registration Identification Card ("NRIC") number, and insurance policy number; and
+(b) the second individual's name, insurance policy number, and claim number.
+
+Findings and Basis for Determination
+
+6
+
+The issue that arises in this case for determination is whether the
+
+Organisation had complied with its obligations under section 24 of the PDPA.
+
+Section 24 of the PDPA requires an organisation to protect personal data in its
+
+possession or under its control by taking reasonable security steps or
+
+arrangements to prevent unauthorised access, collection, use, disclosure,
+
+copying, modification, disposal or similar risks.
+
+7 As a preliminary point, the Organisation did not dispute that there was an unauthorised disclosure of the Personal Data. Having considered the material facts and circumstances, the Organisation did not have reasonable security measures in place to protect the Personal Data in its possession or under its control for the following reasons.
+
+8 First, the Organisation failed to protect the Personal Data by not preventing the unwanted or scrap documents that contained personal data from
+
+2
+
+SME Motor Pte. Ltd.
+
+[2019] SGPDPC 21
+
+being re-used or given to other customers, and by not providing instructions on the proper handling and disposal of such documents. While the Organisation's Internal Guidelines set out some minimal storage and disposal procedures for general documents, there was no mention of any process or system for segregating unwanted or scrap paper containing personal data from the pile of papers designated for re-use by the Organisation's employees. Given its silence on the practice of using the reverse side of documents containing personal data, I find that the Organisation's Internal Guidelines did not amount to an adequate security arrangement.
+
+9 Second, the Organisation did not train its employees to be aware that customers' personal data could be at risk of unauthorised disclosure through the practice of re-using unwanted or scrap paper. During the investigation, the Organisation admitted that its employees used the reverse sides of unwanted documents for "environment protection" reasons. As noted in Re SLF Green Maid Agency [2018] SGPDPC 27 at [1], although the practice of re-using scrap or discarded paper is "highly commendable and environmentally-friendly... organisations must take care to ensure that there is no personal data on the scrap or discarded paper set aside for such re-use". In this regard, the Organisation failed to show that it created employee awareness concerning the risk of unauthorised disclosure of personal data when re-using unwanted or scrap paper.
+
+10 Third, the Organisation did not provide proper data protection training for its employees. It is well-established that proper training is a key security arrangement in an organisation's compliance with the Protection Obligation.1
+
+1 Re National University of Singapore [2017] SGPDPC 5 at [15] � [28] and Re SLF Green Maid Agency [2018] SGPDPC 27 at [12].
+3
+
+SME Motor Pte. Ltd.
+
+[2019] SGPDPC 21
+
+Proper staff training � which creates data protection awareness amongst employees, imparts good practices in handling personal data, and puts employees on the alert for threats to the security of personal data � is necessary to complement an organisation's data protection policies. Seeing as the Organisation regularly handles sensitive personal data such as NRIC numbers, insurance policy numbers and claims information, it is crucial for the Organisation to provide properly structured, periodic data protection training to its employees to help them identify risks and protect the personal data collected, used and disclosed in the course of their employment.
+
+11 Taking all of the above into consideration, I find that the Organisation did not comply with its obligation under section 24 of the PDPA to put in place reasonable security arrangements to protect the Personal Data in its possession or under its control.
+
+Remedial Actions by the Organisation
+12 After being notified of the complaint on 26 February 2019, the Organisation undertook the following remedial actions:
+(a) implemented the following additional measures ("Additional Measures"):
+(i) all documents containing personal data are no longer to be re-used for printing; (ii) the office manager to review documents at least once a week to ensure that (i) is complied with; and
+
+4
+
+SME Motor Pte. Ltd.
+
+[2019] SGPDPC 21
+
+(b) instructed the DPO and officer manager to inform all employees of the Internal Guidelines and Additional Measures, and re-train them in this respect.
+
+13 However, these Additional Measures failed to establish robust data protection policies and practices concerning the re-use and secure disposal of unwanted or scrap documents containing personal data, which would prevent the recurrence of another unauthorised disclosure of personal data or the occurrence of a similar data breach.
+
+The Deputy Commissioner's Directions
+14 Given my findings that the Organisation is in breach of section 24 of the PDPA, I am empowered under section 29 of the PDPA to issue the Organisation such directions as I deem fit to ensure compliance with the PDPA.
+
+15 In assessing the breach, and determining the directions to be imposed, I took into account the following mitigating factors:
+(a) only two individuals were affected by the data breach; (b) the Personal Data was only disclosed to a single individual; (c) there was no evidence to suggest any actual loss or damage resulting from the data breach; and (d) the Organisation was cooperative during the investigations.
+
+16 Having considered all the relevant factors of this case, I do not think that a financial penalty is warranted and instead make the following directions:
+
+5
+
+SME Motor Pte. Ltd.
+
+[2019] SGPDPC 21
+
+(a) the Organisation is to comply with the provisions of the PDPA by putting in place a data protection policy and internal guidelines, which include a procedure for the proper control and disposal of unwanted or scrap documents containing personal data, within 30 days from the date of this decision;
+(b) the Organisation is to conduct training to ensure that its staff are aware of, and will comply with, the requirements of the PDPA when handling personal data within 60 days from the date of decision; and
+(c) the Organisation is to inform the Commission of the completion of each of the above directions within 1 week of implementation.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+
+6
+
+

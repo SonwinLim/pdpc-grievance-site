@@ -1,0 +1,164 @@
+WRITTEN VOLUNTARY UNDERTAKING TO THE PERSONAL DATA PROTECTION COMMISSION This Undertaking is given to the Personal Data Protection Commission or its delegates pursuant to section 48L(1) of the PDPA, by:
+UEN: 197302448M Registered Address: 1 Wallich Street #07-01 Guoco Tower Singapore 078881
+Organisation By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS 1.1 In this Undertaking:
+(a) PDPA means the Personal Data Protection Act 2012 (No. 26 of 2012); and
+(b) Relevant Provisions and IX, and section 48B(1) of the PDPA.
+2. ACKNOWLEDGEMENTS 2.1 The Organisation hereby acknowledges the following matters:
+(a) The Commission has carried out investigations into certain acts and practices of the Organisation, and has reason to believe that the Organisation has not complied, is not complying, or is likely not to comply with one or more of the Relevant Provisions. The relevant facts and circumstances are summarised at Schedule A.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to issue directions under sections 48I or 48J of the PDPA.
+1
+
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation appears ready to implement or is in the midst of implementing the steps set out in Schedule B.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+3.1 The Organisation undertakes that it has taken, or will take all necessary steps, to carry out the actions or refrain from carrying out the actions referred to in Schedule B, and where applicable, in accordance with the stipulated timelines.
+4. COMMENCEMENT
+4.1 This Undertaking shall take effect upon the acceptance by the Commission of duly executed Undertaking.
+5.
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3)(ca) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the 3 above, and
+if necessary, will exercise its powers under the Ninth Schedule of the PDPA to do so.
+2
+
+5.3 powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the Organisation fails to comply with this Undertaking or part thereof in relation to any matter.
+5.4 Nothing in this Undertaking Undertaking, is intended to, or shall, fetter or constrain the and statutory powers (including but not limited to those under sections 48I, 48J, 48L(4) and 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent.
+6. VARIATION
+6.1 This Undertaking may be varied only with the express written agreement of the Commission.
+This document has been electronically signed. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+
+SIGNED, for and on behalf of
+
+)
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+3
+
+ACCEPTED by
+
+)
+
+)
+
+Name: ______________________________________ )
+
+Designation: Deputy Commissioner
+
+Personal Data Protection
+
+)
+
+Date: _______________________________________ )
+
+4
+
+SCHEDULE A
+5
+
+SUMMARY OF FACTS 1. On 18 March 2021, the Organisation was informed of a cyber incident involving
+an overseas affiliate. An account belonging to the affiliate which had high privilege and access rights was compromised in the incident. The compromised account was then used to lau environment in Singapore. 2. As a result of the attacks, the personal data of 252 individuals including their name, address, NRIC number, passport number, nationality, photograph, family details, medical information and bank account number were affected.
+6
+
+SCHEDULE B
+7
+
+TECHNICAL REMEDIATION PLAN
+
+COMPLETED Remediation actions to be undertaken
+Reinforcing the use of built-in password protection capability for sensitive documents and use of desktop encryption tool by all staff.
+
+Date on which such actions were taken and completion date Start Date: 7th April 2021
+Completion Date: 9th April 2021
+
+Review of the Access Control List for network Start Date: 21st March 2021 traffic between the Organisation and its affiliates.
+Completion Date: 22nd March 2021
+
+Review of administrative rights and access of the servers between the Organisation and its affiliates.
+
+Start Date: 25th March 2021 Completion Date: 9th April 2021
+
+Global Account management for all Active Directory Domains in Organisation Group Companies;
+Change in Password policy settings and a global exercise to update all users and system account credential.
+
+Start Date: 30th April 2021
+Completion Date: 12th May 2021 for Singapore User account 22nd May 2021 for Singapore Service accounts
+
+Employment of cybersecurity analyst to perform Security alerts triage, IT security projects.
+
+Start Date: 9th February 2021
+Completion Date: 3rd June 2021 (contract of employment signed off) Joining onboard 1st July 2021
+
+2FA implementation for Servers Remote access. Completion Date: 31st July 2021
+
+2FA implementation for Remote access by User Completion Date: 21st July 2021 via Virtual Private Network (VPN) connection.
+Microsoft Cyber Incident Response service led Completion Date: 27th July 2021 -
+a. Conduct a threat analysis of the Organisation client PCs that are connected to the
+b deployed throughout Organisation group
+
+8
+
+Global Cyber E-Learning Program by the
+
+Completion Date: 5th August 2021
+
+IN PROGRESS Remediation actions to be undertaken
+Established a possible service agreement with Security vendors for 24/7 Managed, Detect & Response (MDR).
+
+Dates on which such actions were taken/ are targeted to be taken Planned to go into production: October 2021
+
+Vulnerability testing on IT systems by Security vendor.
+
+Planned: September 2021
+
+System Hardening. USB Enforcement.
+
+Planned: September 2021 October 2021
+Planned: September October 2021
+
+Encryption Solution to protect Database and File Planned to go into production:
+
+System.
+
+End December 2021
+
+Expand Firewall capability to perform scanning on encrypted network packet, mitigate potential malicious payload hiding under HTTPS encrypted traffics.
+
+Planned to production: October 2021
+
+Engagement of External Consultant to provide cybersecurity Awareness campaign to increase general workforce awareness, knowledge to handle Cyber risks.
+
+Planned to start: August 2021
+
+9
+
+POLICIES/ PROCESSES REMEDIATION PLAN
+
+COMPLETED Remediation actions to be undertaken
+Engagement of external consultant to take on the appointment of the Data Protection Officer and to review and oversee the internal policies/processes of the Organisation relating to personal data.
+
+Date on which such actions were taken and completion date Completed on 24th June 2021
+
+IN PROGRESS Remediation actions to be undertaken
+A review and update of the internal policies/ processes of the Organisation relating to the personal data, which include but are not limited to ensuring the proper documentation of the processes and retention policies and enhancing training for all staff on the data protection obligations.
+
+Commencement Date/ Completion Date In progress of review. Estimated Completion Date: 30th September 2021
+
+Follow up audit on the new processes.
+
+By 31st December 2021
+
+10
+
+

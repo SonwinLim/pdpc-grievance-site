@@ -1,0 +1,44 @@
+DECISION OF THE PERSONAL DATA PROTECTION COMMISSION
+Case Number: DP-1602-A642
+SPEAR SECURITY FORCE PTE. LTD. [Reg. No. 200810808H]
+... Respondent
+Decision Citation: [2016] SGPDPC 12
+GROUNDS OF DECISION
+25 July 2016
+A. INTRODUCTION
+1. The Personal Data Protection Commission (the "Commission") had received a complaint from Mr L [Redacted] on 24 December 2015 in relation to the lapses by Respondent's employees in safeguarding the visitor log book of Prive Executive Condominium (the "Condominium"), which contained personal data of the visitors. In this regard, Mr L claimed that the Respondent was in breach of the Personal Data Protection Act 2012 (No. 26 of 2012) ("PDPA").
+B. MATERIAL FACTS AND DOCUMENTS
+2. The Complainant was a resident of the Condominium. The Respondent was appointed by the MCST of the Condominium to provide security services.
+3. According to the Complainant, on several occasions between November 2015 and December 2015, he had observed that the security guards under the Respondent's supervision had left the log book open and unattended on a table near the guard post at the Condominium's entrance.
+4. The Complainant further mentioned that he highlighted his concerns to both the Condominium's Managing Agent and the Respondent but he had not received an adequate response.
+5. In its response to the Commission's investigations into the matter, the Respondent mentioned that it was aware that the visitor log book had been left unattended by its security guards on multiple occasions from the feedback it received, and had taken certain remedial actions since then. These are set out in paragraph 7 below.
+6. The Respondent further mentioned that the contents of the log book included the visitor's name, mobile phone number, time of entry, the unit number visited and
+Page 1 of 4
+
+the purpose of the visit. The purpose for the collection of the visitors' details was to ensure that (i) there is no unauthorised entry or trespassing of the premises; and (ii) the security guards is able to contact a visitor in the event the visitor has parked in a car park lot that was not allocated to visitors.
+7. Following the complaint(s) that was made to the Respondent, the Commission understands that the Respondent had taken remedial actions as follows:
+a. The Respondent had briefed its security guards on the PDPA and put in place certain protective measures such as keeping the log book in the guard post at all times and performing visitor registration there.
+b. The Respondent had also instructed its security guards not to disclose the visitor details to any third parties besides the Managing Agent and the Operations Manager of the Condominium.
+c. The security guards were also required to surrender the log book before going for breaks; handing and taking over of the log book between the security supervisors at shift changeovers; and keeping the log book within sight of the security camera.
+d. The Respondent also required security supervisors on duty to remind the security guards prior to every shift on the confidentiality of the visitors' personal data in the log book.
+e. Action may also be taken against the security guards for non-compliance with the Respondent's instructions above � this ranges from progressive warnings to the dismissal of employment.
+C. COMMISSION FINDINGS AND BASIS FOR DETERMINATION
+8. There is no dispute that the log book contains personal data1 of the visitors who had visited the Condominimum.
+9. Under Section 24 of the PDPA, the Respondent is obliged to make reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks, in respect of the personal data contained in the Condominium log book.
+10. The Respondent's past practice that was the subject of this complaint was the placement of the visitor log book at a location that was not sufficiently safeguarded from prying eyes nor subject to close supervision by the guards. During the Commission's investigation, the Respondent has not shown that it had put in place any arrangement, or taken any steps, to prevent unauthorised access to the contents in the log book comprising of personal data. On the contrary, given that the log book was left open and unattended on multiple occasions, this allowed for, and increased the opportunities for, unauthorised access to the personal data contained within the log book. The Respondent had
+Page 2 of 4
+
+only taken action to secure the log book only after it received complaint(s) and/or feedback.
+11. Given the lack of any reasonable security arrangement that was in place to prevent the authorised access to the personal data in the log book, the Commission finds that the Respondent is in breach of Section 24 of the PDPA in respect of the past practice.
+D. ACTIONS TAKEN BY THE COMMISSION
+12. Given the Commission's findings that the Respondent is in breach of its obligations under Section 24 of the PDPA, the Commission is empowered under Section 29 of the PDPA to give the Respondent such directions as it deems fit to ensure compliance with the PDPA. This may include directing the Respondent to pay a financial penalty of such amount not exceeding $1 million as the Commission thinks fit.
+13. In considering whether a direction should be made or given to the Respondent in this case, the Commission notes that: (a) while there was a risk of data leakage, there was no evidence suggesting that the visitors' personal data had actually been exposed to unauthorised third parties due to the lapses by the Respondent; and (b) the Respondent had taken reasonably adequate steps to remedy the lapses, as set out above at paragraph 7, during the course of the investigations.
+14. In view of the factors noted above, the Commission has decided not to impose a financial penalty against the Respondent. Instead, it has decided to issue a Warning against the Respondent for the breach of its obligations under Section 24 of the PDPA.
+15. The Commission emphasises that it takes a very serious view of any instance of non-compliance with the PDPA, and it urges organisations to take the necessary action to ensure that they comply with their obligations under the PDPA. The Commission will not hesitate to take the appropriate enforcement action against the organisation(s) accordingly.
+YEONG ZEE KIN COMMISSION MEMBER PERSONAL DATA PROTECTION COMMISSION
+Page 3 of 4
+
+1 Personal data under the PDPA is defined as data, whether true or not, about an individual who can be identified (a) from that data; or (b) from that data and other information to which the organisation has or is likely to have access.
+Page 4 of 4
+
+

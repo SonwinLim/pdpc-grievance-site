@@ -1,0 +1,70 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+Case No DP-1903-B3570
+
+[2020] SGPDPC 7
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+
+And
+
+Majestic Debt Recovery Pte Ltd
+
+DECISION
+
+... Organisation
+
+1
+
+Majestic Debt Recovery Pte Ltd
+[2020] SGPDPC 7
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1903-B3570 2 March 2020
+Introduction 1 This case concerns a debt collection company's posting of a video recording on social media as a tactic to shame a debtor. The recordings in question captured exchanges between the company's representative and staff of the debtor company.
+Facts of the Case
+2 Majestic Debt Recovery Pte Ltd (the "Organisation") is a company in the business of collecting debts on the behalf of its clients. On 22 March 2019, the Personal Data Protection Commission (the "Commission") received a complaint from the managing director (the "Complainant") of a debtor company (the "Company") stating that the Organisation had been engaged by the Company's sub-contractor to recover debts from the Company. The Complainant stated that on or around 21 March 2019, the Organisation's representatives (the "Representatives") visited the Company's premises to collect a debt on behalf of its client (the "Incident"). Not surprisingly, heated words were exchanged with the Company's personnel when the Representatives attempted to recover the debt. The Representatives recorded video footage of the exchanges with the Company's personnel, including the Complainant (the "Recording"), on a tablet device. The Complainant and the Company's personnel could be identified from the images and audio captured by the Recording. According to the Complainant, he "protested against the taking of [the Recording and] posting it [on] social media but [the Representative] said he would do it". The Representatives nonetheless took the Recording and subsequently posted it on the Organisation's official public Facebook page (its "Facebook Page").
+2
+
+3 During its investigation, the Commission found other video recordings on the Facebook Page. These videos also captured images and voices of other individuals who appeared to be either individual debtors or representatives of corporate debtors of the Organisation's clients.
+4 By its own admission to the Commission, the Organisation did not have any knowledge of the Personal Data Protection Act 2012 ("PDPA") prior to this incident and had not developed any data protection policies or practices. The Organisation also admitted that it did not have a data protection officer ("DPO") prior to this incident.
+5 Upon being notified by the Commission, the Organisation took the following remedial actions:
+(a) Removed the Recording and all other videos from the Facebook Page;
+(b) Designated an individual tasked with data protection matters (i.e. a DPO); and
+(c) Assured the Commission that it will ensure that it obtains consent in writing from individuals before recording and uploading their personal data onto its Facebook Page.
+Findings and Basis for Determination
+Whether the Organisation had breached section 13 of the PDPA
+6 Broadly, section 13 of the PDPA prohibits organisations from collecting, using or disclosing personal data about an individual unless the individual's consent is obtained (either actual or deemed) or such collection, use or disclosure is required or authorised under the PDPA or any written law. As stated at [2], the Organisation recorded the video using a tablet device. The incident took place at the Company's premises, after the Representatives were met at the reception and brought into the office proper, which was not open to the public. The Organisation posted the Recording on its Facebook Page despite the Complainant's protests. This disregard of the individual's wishes is a breach of section 13 of the PDPA given that the collection, use and disclosure of the Recording was not required or authorised under the PDPA or other written law.
+3
+
+7 In relation to the Organisation's assurance (noted at [5]) that it would in future obtain consent from individuals concerned, it seems unlikely or even unconceivable that an individual who owed a debt would willingly consent to be filmed by the debt collecting agency calling on him, and for such recordings to be posted on social media. If such consent were obtained ex ante by an organisation, for example at the time when the loan was first given, and the purpose for posting the recording on social media is to shame the debtor, there is a real risk that this purpose may not be one which a reasonable person would consider appropriate under section 18 of the PDPA; or that consent thus obtained is vitiated under section 14(3), as having been obtained through unfair, or deceptive or misleading practices.
+8 However, this is not to say that the capturing of personal data through video will never be appropriate or in compliance with the PDPA. As an example, a security company may wish to equip its security officers with body worn cameras to ensure that its officers are exercising their duties in a responsible and lawful manner and their interactions with the public adhere to their code of conduct. Any organisation that wishes to implement such a practice has to be accountable and should ensure that it has sound legal basis to do so. Additionally, it will need to put clear guidelines and policies in place for its employees in relation to their conduct and the use of such cameras and the video footage captured. In developing such guidelines and policies, such organisations should ensure that the use of these recording devices are in compliance with the PDPA and have measures and controls in place to ensure that these guidelines and policies are adhered to.
+Whether the Organisation had breached sections 12 and 11(3) of the PDPA
+9 Section 12 of the PDPA requires organisations to, inter alia, develop and implement policies and practices that are necessary for the organisation to meet its obligations under the PDPA, and section 11(3) of the PDPA requires organisations to designate one or more individuals (i.e. the DPO) to be responsible for ensuring the organisations' compliance with the PDPA.
+10 By nature of its business, the Organisation would be in possession and/or control of various personal data, including those of its employees and its clients' debtors or the debtors' employees. As stated at [3], the Organisation admitted that it did not have any knowledge of
+4
+
+the PDPA prior to being notified by the Commission over this incident, did not have any data protection policies or practices, and had not appointed a DPO.
+11 In light of the foregoing, the Organisation was also in breach of sections 11(3) and 12 of the PDPA.
+Representations by the Organisation
+12 In the course of settling this decision, the Organisation made representations regarding the findings as set out at [6]. The Organisation raised the following factors:
+(a) When the Representatives visited the Company to recover debts on various occasions prior to the Incident they had made video recordings of those visits without any objections from the Company; and
+(b) According to the Organisation, it had "video proof" of the Complainant consenting to the Organisation posting video recordings of the Representative's visits to the Company on its Facebook Page.
+13 Having carefully considered the representations, I maintain the finding that the Organisation was in breach of Section 13 of the PDPA for the following reasons:
+(a) The Organisation was unable to provide any evidence to support its assertion that there had been consent by the Company on previous occasions to the Organisation video recording the Representatives' visits to the Company's premises. The Organisation was also unable to provide the "video proof" referred to at [12(b)];
+(b) Even if consent had been obtained previously, section 16(1) of the PDPA provides that on giving reasonable notice to the organisation, an individual may at any time withdraw any consent given, or deemed to have been given in respect of the collection, use or disclosure by that organisation of personal data about the individual for any purpose. As mentioned at [2], the Complainant had expressly objected to the video recording and the subsequent posting of the video on the Facebook Page. In the circumstances, I find that even if consent was given previously as asserted by the Organisation at [12], it had been withdrawn by virtue of the Complainant's express
+5
+
+objections at the material time. Accordingly, the Organisation did not have consent to post the Recording on its Facebook Page; and
+(c) Furthermore, even if consent had been obtained to post the video recording on social media to shame the debtor, I have grave doubts if the consent will stand up to scrutiny under section 14(2) of the PDPA, which vitiates consent obtained through unfair, and deceptive or misleading practices. For example, if consent to post video recordings made during debt recovery attempts was made a condition of obtaining the loan, it could possibly go beyond what is reasonable in order to provide the loan: see section 14(2)(a). Consent obtained through such unfair practice is vitiated by section 14(3). Neither would such a purpose be one which a reasonable person -- on an objective standard -- would likely consider to be appropriate under section 18 of the PDPA.
+The Deputy Commissioner's Directions
+14 In determining the directions to be imposed on the Organisation under section 29 of the PDPA, I took into account the following mitigating factors:
+(a) the Organisation was cooperative and forthcoming in the course of investigations;
+(b) the Organisation took prompt remedial action after being notified by the Commission; and
+(c) there was no evidence of any further unauthorised use of the personal data captured in the Recording.
+15 Having carefully considered all the relevant factors of this case, I hereby direct the Organisation to:
+(a) pay a financial penalty of $7,500 within 30 days from the date of this direction, failing which interest at the rate specified in the Rules of Court in respect of judgment debts shall accrue and be payable on the outstanding amount of such financial penalty until the financial penalty is paid in full;
+6
+
+(b) develop and implement policies and practices which are necessary for its compliance with the PDPA; and (c) put in place a program of compulsory training for its employees on compliance with the PDPA. YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+7
+
+

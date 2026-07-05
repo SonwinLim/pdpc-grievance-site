@@ -1,0 +1,121 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by
+PSGourmet
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by PSGourmet Pte Ltd
+
+Share:   
+
+Published on 05 Jun 2026
+
+Background
+PSGourmet Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 26 June 2025 of a ransomware incident, involving the personal data of (current and former) employees and non-corporate customers (the "Incident").
+Investigations revealed that the threat actor had gained initial unauthorised access to the Organisation's internal network using compromised login credentials for a dormant account via Virtual Private Network ("VPN") which subsequently resulted in ransomware deployment and exfiltration of personal data. The personal data of an estimated 3,122 individuals were affected. There was no evidence that the exfiltrated personal data was published.
+The types of personal data affected included names, addresses, email addresses, telephone numbers, dates of birth, NRIC numbers and financial information of bank account numbers and salary / CPF payments.
+Upon discovery of the Incident, the Organisation took prompt remedial actions which included blocking inbound and outbound network traffic on the Organisation's firewall, except for known good IP addresses and domains until confidence in the network's security had been achieved, disabling VPN access and resetting all local VPN accounts to prevent further unauthorised entry during remediation efforts, and ensuring multi-factor authentication ("MFA") was enforced fTooroVfPfeNr yuosueras.bTehteteOr regxapneirsiaetniocen, athlsios sniotetifuiesedstchoeoakfifeesc.tReedaidndmivoidreuaalbso. ut cookies  in our Privacy Statement.
+
+The Incident had likely occurred as among other weaknesses: there was no MFA for FthOeR Organisation's VPN, Endpoint Detection and Response ("EDR") was not deployed
+Individuals on affected servers, a dormant account was not removed, and there was a lack of
+network segmentation.
+
+VAbooluutntary Undertaking
+
+Having considered the circumstances of the case, the Commission accepted a
+
+vOorlguanntaisraytiuonndsertaking (the "Undertaking") from the Organisation to improve its 
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+Undertaking was executed on 28 April 2026.
+
+Individuals
+
+
+
+As part of the Undertaking, the Organisation has implemented or will be
+
+implementing measures including the following:
+
+Media & Events
+
+
+
+(a) Enforcing MFA for VPN access;
+
+(b) Deploying EDR on all servers in Organisation's network;
+
+(c) Review and removal of unrequired accounts;
+
+(d) Conducting data protection and security training for all staff;
+
+(e) Conducting a security review of the Organisation's network security posture and endpoints;
+
+(f) Implementing records retention policies to purge personal data not required for statutory and business needs; and
+
+(g) Initiating the process for Cyber Security Agency of Singapore's Cyber Essentials Mark certification.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals To offer you a better experience, this site uses cookies. Read more about cookies Mineoduiar P&riEvvaecnytSstatement.
+
+Contact
+FOR
+Individuals
+
+
+About
+Report Vulnerability 
+POrrivgaacny iSstaattieomnsent
+
+Terms and Conditions
+Individuals
+Reach 
+
+M� 2e0d26iaPe&rsEonvaelnDtasta Protection Commission
+Last updated 05 Jun 2026
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

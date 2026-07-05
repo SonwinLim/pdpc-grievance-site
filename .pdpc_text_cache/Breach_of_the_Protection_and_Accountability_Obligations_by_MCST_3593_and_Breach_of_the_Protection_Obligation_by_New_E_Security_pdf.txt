@@ -1,0 +1,86 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+Case No DP-1903-B3554
+
+[2020] SGPDPC 6
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+
+And
+
+(1) Management Corporation Strata Title Plan No. 3593
+(2) Edmund Tie & Company Property Management Services Pte Ltd
+(3) New-E Security Pte Ltd
+
+... Organisations
+
+DECISION
+
+1
+
+Management Corporation Strata Title Plan No. 3593 & Others
+[2020] SGPDPC 6
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1903-B3554 2 March 2020 Introduction
+1 On 19 March 2019, Edmund Tie & Company Property Management Services Pte Ltd ("ETCPM") on behalf of Management Corporation Strata Title Plan No. 3593 ("MCST 3593") notified the Personal Data Protection Commission (the "Commission") of unauthorised disclosure of closed-circuit television ("CCTV") footage recorded at the premises of MCST 3593, known as Marina Bay Residences (the "Condominium"), by NewE Security Pte Ltd ("New-E"), a company providing security services at the Condominium, to an owner resident of a unit at the condominium (the "Incident").
+Facts of the Case
+2 MCST 3593 had appointed ETCPM as the managing agent of the Condominium since 2012. In November 2014, MCST 3593 had also engaged New-E to provide security services at the Condominium. ETCPM's scope of work as managing agent included supervising New-E to ensure it carried out its duties properly.
+3 On 1 February 2019, an owner resident of a unit at the Condominium (the "Resident") approached the security supervisor on duty, who was an employee of New-E (the "Security Supervisor"), to request a copy of the CCTV footage of the Condominium's lobby on 29 January 2019 between 9.00 pm to 9.30 pm (the "Requested CCTV Footage"). The Requested CCTV Footage had captured images of identifiable individuals who had passed through the common property during that period, and hence contained personal data of those individuals. The Security Supervisor proceeded to review the CCTV recordings and used his mobile phone to record a copy of the Requested CCTV Footage. The Security Supervisor then sent a copy of the Requested CCTV Footage which he had recorded on his mobile phone to the Resident using WhatsApp messenger. The Security Supervisor also sent a copy of the same footage to the residence manager of the Condominium, who was an employee of ETCPM (the "Residence
+2
+
+Manager"). Upon receiving the copy of the Requested CCTV Footage, the Residence Manager contacted the Security Supervisor who informed him of the Resident's request. The Residence Manager instructed the Security Supervisor not to release the Requested CCTV Footage to the Resident and to await further instructions. At that time, the Security Supervisor did not inform the Residence Manager that he had already sent a copy of the Requested CCTV Footage to the Resident.
+4 On 2 February 2019, ETCPM informed MCST 3593 of the Resident's request. MCST 3593 decided not to disclose the Requested CCTV Footage to the Resident and the Residence Manager conveyed MCST 3593's decision to the Security Supervisor. Both MCST 3593 and ETCPM remained unaware that the Security Supervisor had already sent a copy of the Requested CCTV Footage to the Resident.
+5 On 9 February 2019, the Residence Manager was notified that the Resident's Facebook page contained a post with a copy of the Requested CCTV Footage (the "Facebook Post"). On 11 February 2019, the Residence Manager contacted the operations director of New-E to inform him of the matter. On the same day, the Security Supervisor admitted to the Operation Director of New-E that he had sent a copy of the Requested CCTV Footage to the Resident on 1 February 2019. On 13 February 2019, ETCPM informed MCST 3593 of the unauthorised disclosure of the Requested CCTV Footage by the Security Supervisor to the Resident and the Facebook Post.
+6 Since the discovery of the Incident, the following remedial actions have been taken:
+(a) MCST 3593 appointed a Data Protection Officer ("DPO") and implemented its Personal Data Protection Policy and Standard Operating Procedure to comply with the Personal Data Protection Act 2012 ("PDPA"). MCST 3593 also informed the Commission that it will also be preparing and including additional data processing provisions in addendum(s) to the respective contracts with its managing agent and security company; and
+(b) New-E developed a personal data protection policy and operational procedure on personal data protection for all its employees.
+3
+
+Findings and Basis for Determination
+7 For the reasons set out below, I find MCST 3593 in breach of Sections 11(3), 12 and 24 of the PDPA and New-E in breach of section 24 of the PDPA. I find ETCPM not to be in breach of any of its obligations under the PDPA in relation to the Incident.
+Breach of Sections 11(3), 12 and 24 of the PDPA by MCST 3593
+8 As an "organisation" under the PDPA, MCST 3593 had the primary responsibility of ensuring that there are reasonable security arrangements in place to protect personal data in its possession or under its control.1 It is not disputed that MCST 3593 had possession and/or control of the Requested CCTV Footage. To the extent that an MCST has appointed a managing agent or vendor to process personal data on its behalf, it should have in place a written agreement with clauses requiring them to comply with the data protection provisions under the PDPA, and carried these contractual obligations through into implementing practices like standard operating procedures.2
+9 In the present case, MCST 3593 had engaged New-E to provide security services (including the management of CCTV footage) for the Condominium. In the course of providing security services, New-E was engaged to process personal data on behalf of MCST 3593, to wit, New-E had to process video footages captured by the CCTV network and system. In this case, the Security Supervisor retrieved CCTV footage, made a recording of an extract, and transmitted it. These actions amount to "processing" as the term is defined in section 2(1) of the PDPA. Hence, the true nature of the relationship between MCST 3593 and New-E is that of a data controller and data intermediary. However, the contract between MCST 3593 and New-E did not contain any clauses relating to the protection of personal data or any reference to the PDPA. There were no written instructions in the contract in relation to the management of CCTV footage, and MCST 3593 admitted to the Commission that it had not communicated any data protection requirements to ETCPM or New-E. In the circumstances, I find MCST 3593 in breach of Section 24 of the PDPA.
+1 Section 24 of the PDPA 2 See Re KBox Entertainment Group Pte. Ltd. [2016] SGPDPC 1 at [12] and 29(b)(ii); the Commission's Guide on Data Protection Clauses for Agreements Relating to the Processing of Personal Data (20 July 2016) which provides sample data protection clauses that organisations may find helpful
+4
+
+10 In addition, during the course of investigations, MCST 3593 admitted that it had not appointed any DPO and it had not developed and put in place any data protection policies, as required under Sections 11(3) and 12 respectively of the PDPA. The importance of these requirements have been emphasized multiple times in previous decisions,3 as well as the Commission's Advisory Guidelines for Management Corporations (issued on 11 March 2019) at [2.6]. In the circumstances, MCST 3593 was also in breach of Sections 11(3) and 12 of the PDPA.
+Breach of Section 24 of the PDPA by New-E
+11 As mentioned at [9], the security services provided by New-E included the management of CCTV footage. This amounted to "processing" of personal data as defined in section 2(1) of the PDPA. New-E was accordingly acting as a data intermediary of MCST 3593 with respect to the Requested CCTV Footage.
+12 In my view, New-E failed to put in place reasonable security arrangements to protect the Requested CCTV Footage and was in breach of section 24 of the PDPA for the following reasons:
+(a) According to New-E, it had a practice of only releasing CCTV footage to representatives of ETCPM which was communicated verbally to New-E's employees and ETCPM. However, New-E conceded that it did not have any written policies to instruct and guide its employees with respect to their obligations under the PDPA, in particular the usage of mobile phones to record CCTV footage. In the present case, the Security Supervisor did not adhere to New-E's practice and this may be due, at least in part, to the lack of a written policy which clearly sets out the relevant procedures to be followed before CCTV footage is disclosed.
+(b) New-E did not provide data protection training for its employees. It is wellestablished that proper training is a key security arrangement in an organisation's compliance with the protection obligation under section 24 of the PDPA.4 Proper staff
+3 See Re Aviva Ltd 2017 SGPDPC 14 at [32]; Re M Stars Movers & Logistics Specialist Pte Ltd [2017] SGPDPC 15 at [31] to [37]; Re AgcDesign Pte Ltd [2019] SGPDPC 23 at [5] 4 Re National University of Singapore [2017] SGPDPC 5 at [15] � [28]; Re SLF Green Maid Agency [2018] SGPDPC 27 at [12]; Re SME Motor Pte Ltd [2019] SGPDPC 21 at [10] and Advisory Guidelines On Key Concepts in the Personal Data Protection Act (Revised 9 Oct 2019) at [17.5]
+5
+
+training � which creates data protection awareness amongst employees, imparts good practices in handling personal data, and puts employees on the alert for threats to the security of personal data � is necessary to complement an organisation's data protection policies.
+No Breach of the PDPA by ETCPM
+13 ETCPM was a data intermediary of MCST 3593 in relation to the personal data it processed on their behalf when carrying out its duties as managing agent. As a data intermediary, ETCPM had an obligation under section 24 of the PDPA to put in place reasonable security arrangements to protect such personal data which was in its possession or under its control.
+14 However, the personal data which is the subject of the present case was not in the possession or under the control of ETCPM. In particular, the Requested CCTV Footage was in the possession and under the control of New-E and was within the scope of New-E's responsibilities as MCST 3593's security services provider, as mentioned at [11]. Accordingly, it was not ETCPM's responsibility in the present case to put in place reasonable security arrangements to protect the Requested CCTV Footage.
+15 For completeness, I note that pursuant to the written agreement between the MCST 3593 and ETCPM, ETCPM's scope of services as managing agent included supervising NewE and ensuring that it carried out its duties and responsibilities properly and efficiently. The Incident did not arise due to ETCPM's lack of supervision over New-E. As mentioned at [3] and [4] above, the Residence Manager instructed the Security Supervisor not to disclose the CCTV Footage to the Resident without further instructions, and subsequently conveyed MCST 3593's instructions to the Security Supervisor that the Requested CCTV Footage should not be disclosed. Unbeknown to the Residence Manager, his instructions came too late because the Security Supervisor had already disclosed a copy of the Requested CCTV Footage to the Resident before then.
+16 In the circumstances, I find that ETCPM was not in breach of any of its obligations under the PDPA in relation to the Incident.
+6
+
+Representations by MCST 3593
+17 In the course of settling this decision, MCST 3593 made representations regarding the findings as set out at [8] to [10], and on the quantum of financial penalty . The Organisation raised the following factors:
+(a) MCST 3593 comprises of subsidiary proprietors, and its council is elected annually at the annual general meeting to represent all subsidiary proprietors. All members of the council serve on a voluntary basis;
+(b) MCST 3593 appointed ETCPM to advise on its obligations and act on its behalf. MCST 3593's management council relies on ETCPM to guide and help put in place measures to comply with the PDPA. According to MCST 3593, measures and safeguards had already been put in place to ensure that collection, use, disclosure of personal data, as well as protection and retention of personal data are in compliance with the PDPA;
+(c) The Security Supervisor disclosed the Requested CCTV Footage against the Resident Manager's instructions and usual standard operating procedures. The Resident Manager's instructions to the Security Supervisor was for and on behalf of the MCST 3593. No measures or safeguards could have prevented such wilful acts by the Security Supervisor; and
+(d) MCST 3593 took immediate remedial actions to address the matter, including voluntarily informing the Commission of the Incident.
+18 Having carefully considered the representations, I have decided to maintain the quantum of financial penalty set out at [19(a)] for the following reasons:
+(a) In relation to MCST 3593's representations on its constitution and the voluntary nature of the members of MCST 3593's council, it is not disputed that MCST 3593 is an "organisation" as defined in section 2(1) of the PDPA and is therefore required to comply with the data protection provisions. The fact that the members of MCST 3593's
+7
+
+council are volunteers does not lower the standard expected of MCST 3593 in complying with its obligations under the PDPA.
+(b) It is not disputed that one of the roles that ETCPM had to perform as managing agent was the supervision of New-E. However, the gravamen of the breach lies in the fact that when MCST 3593 appointed New-E, there was nothing in the contract between them, or any written instructions thereafter, that dealt with the protection of personal data in the management of CCTV footage. New-E is a data intermediary to MCST 3593 insofar as it was managing personal data captured and stored in the CCTV system. As such, the contract between MCST 3593 and New-E has to deal with the protection and retention limitation obligations under the PDPA over this set of personal data. This ought to be followed through in their standard operating procedures, which in this case could either be supplied by ETCPM in its capacity as managing agent and supervisor of New-E or put in place between MCST 3593 and New-E. A review of the contract between MCST 3593 and New-E discloses this omission; and no written policies concerning the management of personal data stored in CCTV footage has been produced during investigations. On the contrary, New-E has admitted that there was nothing written up and they relied on verbal instructions of practices: at [12(a)]; and MCST 3593 admitted that it has not given any data protection instructions to either ETCPM or New-E: at [9].
+(c) As for MCST 3593's representations on the Resident Manager's instructions to the Security Supervisor and the Security Supervisor's wilful conduct, this does not absolve MCST 3593 from the requirement of having data protection clauses in its respective contracts with ETCPM and New-E and implementing standard operating procedures. The lack of these are sufficient reasons to find a contravention of section 24 of the PDPA by MCST 3593.
+(d) MCST 3593's prompt remedial actions and voluntary notification to the Commission of the Incident had already been taken into consideration in my determination of the quantum of financial penalty.
+The Deputy Commissioner's Directions
+19 Having considered all the relevant factors in this case, I hereby direct:
+8
+
+(a) MCST 3593 to pay a financial penalty of $5,000 within 30 days from the date of the directions, failing which interest at the rate specified in the Rules of Court in respect of judgment debts shall accrue and be payable on the outstanding amount of such financial penalty until the financial penalty is paid in full; and (b) New-E to:
+(i) put in place a data protection policy and internal guidelines, including procedures for proper management and access control in respect of CCTV footage within 30 days from the date of this direction; and (ii) inform the Commission of the completion of the above within 7 days of implementation.
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+9
+
+

@@ -1,0 +1,549 @@
+WRITTEN VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Personal Data Protection Commission or its delegates pursuant to section 48L(1) of the PDPA, by:
+Simmons (Southeast Asia) Private Limited UEN: 199303272D Registered Address: 300 Beach Road, #25-03, The Concourse, Singapore 199555
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+In this Undertaking:
+(a) "PDPA" means the Personal Data Protection Act 2012; and
+(b) "Relevant Provisions" means the provisions in Parts III, IV, V, VI, VIA and IX, and section 48B(1) of the PDPA.
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) The Commission has carried out investigations into certain acts and practices of the Organisation, and has reason to believe that the Organisation has not complied, is not complying, or is likely not to comply with one or more of the Relevant Provisions. The relevant facts and circumstances are summarised at Schedule A.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to issue directions under sections 48I or 48J of the PDPA.
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation
+Page 1 of 16
+
+appears ready to implement or is in the midst of implementing the steps set out in Schedule B.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+The Organisation undertakes that it has taken, or will take all necessary steps, to carry out the actions or refrain from carrying out the actions referred to in Schedule B, and where applicable, in accordance with the stipulated timelines.
+4. COMMENCEMENT
+This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3)(ca) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above, and if necessary, will exercise its powers under the Ninth Schedule of the PDPA to do so.
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the Organisation fails to comply with this Undertaking or part thereof in relation to any matter.
+5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under sections 48I, 48J, 48L(4) and 50 of the PDPA) in any manner. Neither shall be construed as
+Page 2 of 16
+
+creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent.
+6. VARIATION
+This Undertaking may be varied only with the express written agreement of the Commission.
+This document has been electronically signed. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+
+SIGNED, for and on behalf of
+
+)
+
+Simmons (Southeast Asia) Private Limited
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+ACCEPTED by
+
+)
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Personal Data Protection
+
+)
+
+Date: _______________________________________ )
+
+Page 3 of 16
+
+SCHEDULE A
+Page 4 of 16
+
+SUMMARY OF FACTS 1. On 17 August 2022, the PDPC was informed that a server which the
+Organisation's and set up for testing purposes was subject to a ransomware attack, resulting in the encryption of a backup copy of its database. 2. As a result, the personal data of 87,824 customers including their name, address, email address, telephone number, and transaction information was encrypted. In addition, the data of another 128 employees, including their name, business email address, and user ID and password for internal software accounts was also encrypted. There was no evidence of any exfiltration of personal data. 3. To prevent a recurrence of a similar incident, the Organisation took immediate remedial action to address the possible cause of the personal data breach.
+Page 5 of 16
+
+SCHEDULE B
+Page 6 of 16
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+Technical Remediation
+
+1.1. The attacker(s) likely SPL reformatted and 11 August 2022
+accessed the test restored the affected test (completed)
+server through the RDP server to a pre-infected
+port which was opened version.
+to public internet
+
+2. access.
+
+SPL closed the RDP port of 10 August 2022
+
+the test server from public (completed)
+
+internet access.
+
+3. SPL will ensure that any 12 August 2022 connection to any of SPL's (completed) servers within its IT environment can only be made through a SSL/VPN or IPSec connection, and that all RDP ports on all its servers are closed to public internet access.
+
+Page 1 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+4. SPL has issued a 12 August 2022 SSL/VPN account to its (completed) vendor for the vendor to connect to SPL's network before accessing the test server.
+
+5. SPL has shut down the test 22 August 2022
+
+server and will not (completed)
+
+reactivate the test server
+
+for development work until
+
+the appropriate security
+
+measures
+
+are
+
+implemented.
+
+6. SPL used production SPL will remove all 13
+
+September
+
+data on a test server. production data containing 2022 (completed)
+
+personal data from test
+
+servers and ensure that
+
+any future test servers will
+
+Page 2 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+not contain personal data in any form, and will only utilise test data from which personal data cannot be derived.
+
+7. SPL will set up all future When required. test servers on a separate domain so that the possibility of lateral movement is minimised. SPL will include this as a requirement in the written internal policies/processes to be published under SN14 below.
+
+8. Since the test server SPL will ensure that the 25 October 2022 was a new server set up passwords used on test solely for development servers (including the work, SPL's existing current test server) comply
+Page 3 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+password policy was with SPL's existing
+
+not implemented.
+
+password policy. SPL will
+
+also require all employees
+
+2.
+
+to
+
+use
+
+password
+
+generation
+
+and
+
+management software to
+
+ensure that passwords are
+
+"random" and do not
+
+contain easily guessable
+
+words (e.g. SPL's name).
+
+SPL will include this as a
+
+requirement in the written
+
+internal policies/processes
+
+to be published under
+
+SN14 below.
+
+Page 4 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+9.
+
+3. SPL will also implement
+
+29 November
+
+multi-factor authentication
+
+2022
+
+for all possible account
+
+logins (including 4.
+
+administrators) in SPL,
+
+including accounts on test
+
+servers.
+
+10. As the test server was a SPL will research on 29
+
+November
+
+new server, it was not available IDS/IPS in order 2022
+
+connected to SPL's to implement and integrate
+
+Symantec Endpoint a suitable IDS/IPS into is
+
+Protection system.
+
+systems.
+
+SPL only has Symantec SPL will review its current Endpoint Protection logging locations and system in place and strategies as well as look does not have in place into available logs. any other intrusion
+SPL will evaluate logging solutions in order to pick a
+
+Page 5 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+detection or prevention solution that would best fit
+
+detection systems.
+
+the organization.
+
+11. SPL will ensure that SPL's When required
+
+endpoint protection /
+
+intrusion detection /
+
+prevention
+
+detection
+
+systems is installed on all
+
+servers and endpoints,
+
+regardless of whether they
+
+are production or test
+
+servers/endpoints, at the
+
+time the server or relevant
+
+machine is set up.
+
+SPL will include this as a requirement in the written internal policies/processes to be published under SN14 below.
+
+Page 6 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+12. The personal data that All personal data stored in Ongoing.
+
+was uploaded onto the any of SPL's servers will be Encryption of data
+
+test server was not encrypted.
+
+stored on SPL's
+
+encrypted.
+
+human resources
+
+server has been
+
+completed.
+
+Encryption of
+
+other servers will
+
+be completed by
+
+15 November
+
+2022
+
+13. SPL informed all users to 18 August 2022 change the passwords for (Completed) all their accounts in SPL's IT environment.
+SPL thereafter enforced this by manually expiring
+Page 7 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+all the passwords within SPL's control, such as for the user domain accounts, SAP accounts, and SSL/VPN accounts.
+
+Out of an abundance of caution, SPL also informed all users to change the passwords of any accounts which used a SPL domain address.
+
+Policies/Process Remediation
+
+14. There were no written SPL will review and update 17 October 2022
+
+polices / processes/ its
+
+internal
+
+guidelines relating to policies/processes relating
+
+the collection, use, to the collection, use,
+
+disclosure, protection, disclosure, protection, and
+
+and retention of retention of personal data
+
+Page 8 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+personal data in the in the possession and/or
+
+possession
+
+and/or custody of SPL and/or its
+
+custody of SPL and/or employees, including but
+
+its employees in place. not limited to ensuring the
+
+proper documentation of
+
+the policies and processes
+
+and enhancing training for
+
+all staff on their data
+
+protection obligations
+
+15. Strengthen
+
+incident SPL will draft an Incident 10 October 2022
+
+response plan
+
+Response Plan. The (Completed)
+Incident Response Plan
+
+will outline the plan for
+
+responding to information
+
+security
+
+incidents
+
+containing the following
+
+information:
+
+a. Scope;
+
+Page 9 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+b. Incident Response
+
+Methodology;
+
+c. Incident Response
+
+Phases;
+
+d. Guidelines for the
+
+Incident Response
+
+Process; and
+
+e. Documentation,
+
+Tracking and
+
+Reporting.
+
+16. There was no written SPL will endeavour to SPL will either
+
+contract in place with enter into a written contract enter into a written
+
+SPL's IT Vendor with its IT Vendor which agreement with its
+
+regarding the IT contractually obliges the IT IT Vendor or
+
+Vendor's provision of Vendor to protect the determine if it will
+
+hosting services to SPL, personal data stored by switch to a new
+
+which could include SPL.
+
+vendor by 1
+
+provisions for the protection of personal data.
+
+Alternatively, SPL will endeavour to enter into a written agreement with a
+
+November 2022. If SPL determines that it should enter
+
+Page 10 of 11
+
+No. Potential
+
+Risk Remediation Plan
+
+Factors/Improvement
+
+Areas
+
+Target Completion (Date)
+
+different vendor on terms into a written
+
+which oblige the vendor to agreement with a
+
+protect the personal data different vendor,
+
+stored by SPL.
+
+SPL will do so by
+
+15 November
+
+2022.
+
+17. Vulnerability testing
+
+SPL will research on 29 November
+
+available
+
+vulnerability 2022
+
+testing solutions in order to
+
+conduct a suitable
+
+penetration test after the
+
+above mentioned steps are
+
+taken.
+
+SPL will also implement
+
+periodic
+
+penetration
+
+testing.
+
+Page 11 of 11
+
+

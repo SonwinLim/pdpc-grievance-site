@@ -1,0 +1,66 @@
+DECISION OF THE PERSONAL DATA PROTECTION COMMISSION
+Case Number: DP-1503-A368
+FULL HOUSE COMMUNICATIONS PTE LTD [Reg. No. 199405394C]
+... Respondent
+Decision Citation: [2016] SGPDPC 8
+GROUNDS OF DECISION
+20 April 2016
+A. INTRODUCTION
+1. The Complainant, Mr Nicholas Loh, submitted a complaint to the Personal Data Protection Commission (the "Commission") on 4 March 2015 in respect of the way that the Respondent had collected and protected1 personal data2 at a lucky draw redemption counter operated by the Respondent. The specific matters that were raised in his complaint were as follows:3
+a. The auto-fill function was enabled for the forms on the Respondent's laptops that a participant had to fill up to register for the lucky draw. This allowed a user to view from a drop-down box the historical entries containing the personal information of the previous registering participants.
+b. The Respondent's laptop screens were in plain view of customers waiting in line behind the Complainant, which allowed them to view the personal information that was being entered into the laptop.
+c. The page containing the form was accessed through an unsecured Mozilla Firefox browser at the site: http://localhost/coupon/finish.php.
+1 Section 24 of the PDPA states thatan organisation is obliged to protect personal data in its possession or control by making reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks. Section 24 of the PDPA came into effect on 2 July 2014.
+2 "Personal data" as referred to in Section 24 of the PDPA refers to data, whether true or not, about an individual who can be identified: (a) from that data; or (b) from that data and other information to which the organisation has or is likely to have accessf
+3 Page 2 of the Complaint Form submitted by Complainant on 4 March 2015 ("Complaint Form")
+Page 1 of 5
+
+d. The Respondent's staff did not appear to be adequately trained to ensure the protection of personal data collected at the redemption counter.
+B. MATERIAL FACTS AND DOCUMENTS
+2. The lucky draw that the Respondent had organised was for a Furniture Fair that took place from 28 February 2015 to 8 March 2015 at the Singapore Expo Hall 7. On 1 March 2015, the Complainant and his mother had attended the Furniture Fair and had purchased items which entitled the Complainant to participate in the Respondent's lucky draw.4 To participate in the lucky draw, a participant was required to register his or her personal details in the laptops provided by the Respondent at the redemption counter, including the individual's name, identity card number, occupation, contact number, email address and residential address. The form would then be printed out and dropped into a box for the lucky draw.
+3. While entering the personal details of his mother in the computerised form, the Complainant had four (4) main concerns about the level of protection of the personal data that was provided by the Respondent, as mentioned at paragraph 1 above.
+4. Following from the Commission's investigation into the matter, the Respondent's responses to the Commission were, in essence, as follow:5
+a. The Respondent acknowledged that the auto-fill function had been enabled for all the fields in the form for the convenience of customers.
+b. The Respondent maintained that the personal data entry into the laptops had been in the presence of its staff, and they would watch the customers and ensure that no one would not be able to take photos of the personal information displayed on the laptops.
+c. The forms were not accessible to the Internet.
+d. Subsequent to receiving the Commission's notification of this matter, the Respondent had taken remedial actions during the ongoing Furniture Fair.
+5. The Commission also understands that the Respondent had taken remedial actions as follow:6
+a. The Respondent said it changed its practices by having the entries into the forms in the laptops made by its staff instead of by the registering participants themselves.
+4 Page 2 of the Complaint Form submitted by Complainant on 4 March 2015 ("Complaint Form") 5 See Respondent's letter of 6 March 2015 ("Respondent's letter") and Statement taken by the Commission of the Respondent's representative on 18 August 2015 ("Respondent's statement") 6 Page 2 of the Respondent's letter
+Page 2 of 5
+
+b. The Respondent also said that it had re-configured the table arrangements so that the screens of the laptops were aligned away from the view of registering participants in queue at the redemption counter.
+C. COMMISSION FINDINGS AND BASIS FOR DETERMINATION
+6. The Commission's findings on the four issues raised are as follows.
+Issues at pargraphs 1a and 1d: The Respondent's failure to protect personal data by enabling the Auto-fill function and the failure of the Respondent's staff to protect personal data
+7. In the Commission's assessment, by enabling the auto-fill function, this permitted a user to have access to the personal data of other individual(s) that was stored on the Respondent's laptops.
+8. The Respondent has pointed out that the information that a user would have access to was confined to information found within that particular drop-down box,7 and that the entries were not listed in chronological order of the time that they were entered into the system. In this regard, it would be difficult to draw a connection between the entries in the various drop-down boxes to link them to a particular individual. It follows from this line of argument that the information that a user would have access to would not be personal data, but simply generic information, and hence the Respondent was not in breach of Section 24 of the PDPA.
+9. The Commission disagrees with this line of argument. It was noted that the information that was displayed in the drop-down boxes included the individual's name, identity card number, contact number, email address. Based on the definition of "personal data" under the PDPA, some of these information would, by themselves or collectively, amount to personal data. For example, by having a person's full name in the drop-down box alone, one would be able to identify the person who had registered as a participant of the Furniture Fair. Therefore, even if a person had access to the information in a single drop-down box, that may be sufficient in identifying an individual.
+10. The Commission also notes that there may be certain instances where a link could be drawn between the information across fields � ie such as the instance where an email address containing part of the individual's name could be linked to the full name of the individual, and hence, identify that individual.
+11. In the premises, the Commission finds that by enabling the auto-fill function for the drop-down boxes, the Respondent had failed to make reasonable security arrangements under Section 24 of the PDPA.
+
+7 Page 2 of the Respondent's statement
+
+Page 3 of 5
+
+12. While the Respondent claimed that its staff had been present to monitor unauthorised user access to data stored in the system, however, the Commission notes that the Respondent was providing the very function itself (by enabling the auto-fill function) that would allow a user access to personal data of the other individuals. In this regard, the Commission is of the view that the staff presence (if any) would not have made any difference in preventing any user from accessing the personal data stored on the system.
+13. Notwithstanding the Commission's view about the presence of the staff at the redemption counter, the Commission makes no finding on the other allegation raised by the Complainant at paragraph 1d above (ie that the Respondent's staff could not ensure the protection of personal data), as there was no evidence of an actual failure by the Respondent's staff to protect the personal data collected by the laptops.
+Issue at paragraph 1b: Laptop screens were in plain view of other customers
+14. In relation to the allegation that the Respondent's laptop screens were in plain view of the other customers, the Commission notes that there is no evidence that other customers could easily observe the information displayed on the laptop screens. The Commission further notes the assurance given by the Respondent that its staff was on hand to watch over the laptops and, in particular, to ensure that other individuals do not take photographs of the laptop screens. The Commission therefore makes no finding in respect of this allegation.
+Issue at paragraph 1c: Computerised forms accessed through unsecured Mozilla Firefox browsers
+15. In respect of the allegation that the computerised forms were accessed through unsecured Mozilla Firefox browsers, the Commission notes that the forms and the personal data were collected and stored on the local hard drives and were not accessible on the internet. The Commission is of the view that of the risk of online attacks or intrusion to these laptops where the personal data was held could not be ascertained. The Commission therefore makes no finding in respect of this allegation.
+D. ACTIONS TAKEN BY THE COMMISSION
+16. Given the Commission's findings that the Respondent is in breach of its obligations under Section 24 of the PDPA, the Commission is empowered under Section 29 of the PDPA to give the Respondent such directions as it deems fit to ensure compliance with the PDPA. This may include directing the Respondent to pay a financial penalty of such amount not exceeding $1 million as the Commission thinks fit.
+17. In considering whether a direction should be made or given to the Respondent in this case, the Commission notes that: (a) the impact of the breach is limited, since, in the given circumstances, a user would have had limited time to observe and collect personal data in the drop-down boxes; and (b) the Respondent took
+Page 4 of 5
+
+action shortly after the complaint was made to stop the use of the drop-down boxes and to arrange for its staff to fill in the forms themselves.8
+18. In view of the factors noted above, the Commission has decided not to issue any direction to the Respondent to take remedial action or to pay a financial penalty. Instead, it has decided to issue a Warning against the Respondent for the breach of its obligations under Section 24 of the PDPA.
+19. The Commission emphasises that it takes a very serious view of any instance of non-compliance with the PDPA, and it urges organisations to take the necessary action to ensure that they comply with their obligations under the PDPA. The Commission will not hesitate to take the appropriate enforcement action against the organisation(s) accordingly.
+YEONG ZEE KIN COMMISSION MEMBER PERSONAL DATA PROTECTION COMMISSION
+
+8 Page 2 of the Respondent's statement
+
+Page 5 of 5
+
+

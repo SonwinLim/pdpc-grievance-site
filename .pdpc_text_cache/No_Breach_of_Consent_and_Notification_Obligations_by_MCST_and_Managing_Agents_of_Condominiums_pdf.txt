@@ -1,0 +1,173 @@
+DECISION OF THE PERSONAL DATA PROTECTION COMMISSION
+Case Number: DP-1607-B0117
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+(1) Exceltec Property Management Pte Ltd
+(2) Management Corporation Strata Title Plan No 2956
+(3) Strata Land Property Consultants Pte Ltd
+... Organisations
+Decision Citation: [2017] SGPDPC 8
+GROUNDS OF DECISION 12 June 2017
+A. BACKGROUND 1. This decision arises from three separate cases involving Management
+Corporation Strata Title ("MCSTs") and managing agents (collectively, the "Organisations") of condominiums posting documents containing the personal data of subsidiary proprietors (hereinafter will be referred to as "residents") on notice boards. The nature of the complaints was that the disclosures made of these personal data was an infringement of the Personal Data Protection Act 2012 ("PDPA").
+2. The Personal Data Protection Commission (the "Commission") commenced investigations into the matter, and provides its decision below.
+3. Although the three cases involve different residents and managing agents of condominiums, the facts of the three cases are substantially similar and the legal issues involved are identical. Therefore, this consolidated decision is issued for the three cases.
+1
+
+B. MATERIAL FACTS AND DOCUMENTS
+
+4. Between 29 June and 27 July 2016, the Commission received complaints from several residents of three condominiums (namely, (1) Prive, (2) The Mornington, and (3) Seletaris) against the condominiums' respective MCST or managing agents, namely, (1) Exceltec Property Management Pte Ltd ("Exceltec"), (2) Management Corporation Strata Title Plan No 2956 ("MCST 2956"), and (3) Strata Land Property Consultants Pte Ltd ("Strata Land") respectively:
+a. In the first case, three residents ("1st Complainants"), complained that Exceltec had posted copies of the voter list containing the names, unit numbers, and voting shares of residents, and the draft minutes of the 1st council meeting on 12 July 2016 (containing the names and unit numbers of residents) on notice boards of the Prive condominium and Prive EC web portal without providing prior notification and obtaining their consent.
+
+b. In the second case, a resident ("2nd Complainant"), complained that MCST 2956 had left the voter list, containing the names and unit numbers of residents, on a publicly accessible notice board for longer than necessary after the conclusion of the Annual General Meeting. According to the 2nd Complainant, the voter list was left on the board for roughly 2 months after the council meeting was held.
+
+c. In the third case, a resident ("3rd Complainant"), complained that Strata Land had posted a voter list containing the names, unit numbers, and voting shares of residents, on at least two notice boards at different blocks of the Seletaris condominium. The 3rd Complainant alleged that there was no need to have posted the voter list on multiple notice boards, and further, that the voter lists had been displayed for an unnecessarily long period of time (ie 2 days after the council meeting).
+
+5. For ease of reference, we set out in a table below a summary of the types of personal data that were disclosed by the Organisations and the nature of the complaints that were made by the various complainants.
+
+No. Relevant parties 1. 1st Complainants
+Exceltec
+
+Documents Involved (1) Draft minutes of meeting
+
+Personal Data Involved (1) Names and unit numbers
+
+Nature of Complaint Disclosure of personal data without notification or consent.
+
+2
+
+(2) Voter list
+2. 2nd Complainant Voter list MCST 2956
+3. 3rd Complainant Voter list Strata Land
+
+(2) Names and unit numbers, and voting shares
+
+Names and unit numbers
+
+Duration of the disclosure of personal data was for longer than necessary.
+
+Names, unit numbers, and voting shares
+
+- Disclosure of personal data without notification or consent.
+
+- Duration of the disclosure of personal data was for longer than necessary.
+
+- Disclosure of personal data ought not to be made on multiple notice boards.
+
+C. THE COMMISSION'S FINDINGS AND ASSESSMENT
+Applicability of the PDPA
+6. The posting of the voter lists and minutes of meeting by the Organisations on notice boards located within the compound of the condominiums amounted to a "disclosure" under the PDPA of the information in the voter list and minutes of meeting.
+7. As seen in the table above, the information that was disclosed in the voter lists and minutes of meeting included the names, unit numbers, and voting shares of the residents. This information constitutes "personal data" under section 2(1) of the PDPA because the residents could be identified from such information.
+3
+
+For example, the 2nd Complainant could be identified from the voter list that MCST 2956 had disclosed on The Mornington's notice board, which included the name, unit number and voting shares of the 2nd Complainant.
+8. Given that the disclosed information constitutes personal data, the Organisations are therefore subject to the data protection provisions in Parts III to IV of the PDPA in relation to the disclosure of that personal data.
+Issues to be Determined
+9. There are two data protection obligations under the PDPA that are relevant to the disclosures that were made by the Organisations � the Consent Obligation1 and Notification Obligation.2
+a. The Consent Obligation generally requires organisations to obtain consent from an individual for the collection, use or disclosure of his or her personal data.
+b. The Notification Obligation generally requires that notice of the purposes for which organisations collect, use or disclose personal data be given to the individual beforehand.
+10. Both the Consent and Notification Obligations are subject to various exceptions under the PDPA, including the exceptions found in Schedules 2 to 4 of the PDPA. Additionally, section 4(6) of the PDPA allows the provisions of other written law to prevail over data protection obligations where they are inconsistent with the provisions of that other written law ("the subordination provision").
+11. The first issue is therefore whether the Organisations have complied with the Consent and Notification Obligations, or whether they can avail themselves of any exceptions under the PDPA.
+12. For this issue, we will examine what the Commission considers is the crux of the matter: (a) whether, by reason of the subordination provision, the requirements for Organisations to notify and obtain consent to disclose the voter lists and minutes of meeting containing personal data is superseded by the Building Maintenance and Strata Management Act (Cap. 30C) (Rev. Ed. 2008)
+1 Pursuant to Sections 13 to 15 and 17 of the PDPA. 2 Pursuant to Section 20 of the PDPA.
+4
+
+("BMSMA") requirements for such voter lists and minutes of meeting to be disclosed; and/or (b) whether the public availability exception applies.
+13. The second issue is whether, even if the disclosure was permissible in respect of the first issue above, the Organisations had disclosed more personal data than what was permitted in the voter lists and minutes of meeting.
+14. The final two issues are: (i) whether MCST 2956 and Strata Land had disclosed the personal data for a longer duration than necessary, and (ii) whether Strata Land was permitted to disclose the voter lists on multiple notice boards located in the condominium.
+Issue (a): Whether the Organisations had obtained consent or provided notification when they disclosed the personal data of the residents
+15. As part of the Consent Obligation, section 13 of the PDPA requires that prior consent be obtained by an organisation in order to collect, use or disclose personal data about an individual.
+16. This is concomitant with the Notification Obligation, which requires, under section 20 of the PDPA, that notification be provided to the individual of the purposes for the collection, use or disclosure of personal data before consent is obtained. However, the need to obtain consent or to provide the related notification is dispensed with where an exception to section 13 of the PDPA (ie the Consent Obligation) applies.
+17. Based on the Organisations' representations to the Commission, none of the Organisations had notified their respective residents of the purpose of the disclosure of the voter lists or minutes of meeting, nor did any Organisation obtain the residents' consent to disclose their personal data.
+18. Accordingly, the next question is whether the Organisations could avail themselves of an exception to section 13 of the PDPA (ie the Consent Obligation).
+Issue (b): Whether the disclosure may be made without consent
+Sub-issue (1): Whether the disclosure was required or authorised under other written law
+19. Section 13(b) of the PDPA provides for an exception to the need for consent to be obtained � it states that an organisation shall not disclose personal data unless the disclosure without the consent of the individual is required or authorised under the PDPA or any other written law. Simply put, insofar as there
+5
+
+is another written law which requires or authorises the disclosure of personal data, an organisation which does so pursuant to that law will be able to avail itself of the exception under section 13(b) of the PDPA. In the present case, the other written law in question is the BMSMA.
+20. Under Paragraph 7 of the First Schedule to the BMSMA, management corporations are statutorily required to display a list of voters entitled to vote at the general meeting on the notice board maintained on the common property. Paragraph 7 of the First Schedule to the BMSMA reads as follows:
+"List of names of persons entitled to vote 7. The secretary of the management corporation or (as the case may be) subsidiary management corporation shall put up a list of the names of the persons who are entitled to vote at a general meeting on the notice board maintained on the common property at least 48 hours before the general meeting."
+[Emphasis added.]
+21. The BMSMA therefore requires that the names of the persons entitled to vote at the general meeting to be put up on the notice board. It does not, however, state that other information, namely, the unit numbers or voting shares, may also be disclosed in the voter list. This would be an issue which we will address further below at paragraphs 30 to 39.
+22. Similarly, management corporations are required under Paragraph 3 of the Second Schedule to the BMSMA to keep the minutes of any meeting of the council or executive committee of the management corporation, and display those minutes on the notice board. Paragraph 3 of the Second Schedule to the BMSMA reads as follows:
+"Keeping of records 3.--(1) The council or executive committee shall keep minutes of its proceedings and shall cause minutes of general meetings to be kept.
+(2) If the management corporation or subsidiary management corporation is required by its by-laws to maintain a notice board, its council or executive committee, as the case may be, shall --
+(a) cause a copy of the minutes of a meeting of the council or executive committee, as the case may be, to be displayed on the notice board within 7 days after the meeting; and (b) cause a copy of a minute of any resolution thereof, or of the management corporation or subsidiary management corporation, as the
+6
+
+case may be, passed in accordance with this Act to be displayed on the notice board after it is passed.
+(3) A copy of any minutes referred to in sub-paragraph (2) shall be kept displayed on the notice board for a period of not less than 14 days.
+(4) If there is no notice board, the council or executive committee concerned shall give each resident a copy of the minutes referred to in subparagraph (2)(a) or (b) within the period specified in that sub-paragraph.
+(5) The council or executive committee shall -- (a) cause proper books of account to be kept in respect of all sums of money received and expended by it, specifying the matters in relation to which the receipts and expenditure take place; and (b) on the application of a resident or mortgagee of a lot (or any person authorised in writing by him), make the books of account available for inspection at all reasonable times."
+[Emphasis added.]
+23. While Paragraph 3 of the Second Schedule to the BMSMA does not expressly state the information that ought to be included (or omitted) in the minutes of meeting that is displayed on the notice board, in the Commission's view, the function and purpose of minutes of meetings, at least in the context of the BMSMA, is to fully and accurately record what was discussed and what happened at the meeting. This includes recording the declarations made under section 60(7) of the BMSMA3, and the resolutions and/or motions that were passed. Such minutes serve a variety of purposes including being record of discussions for future reference, or to capture the rationale behind the decisions being made. It is therefore implicit in the definition and understanding of "minutes of meetings" that it can contain the personal data of individuals, as part of this full and accurate recording of the meeting: eg attendance, participation in discussions and views expressed, as the subject of matters discussed in the meeting agenda.
+24. In this regard, the Commission agrees with the position taken by the Office of the Information and Privacy Commissioner of British Columbia ("OIPC"):4
+3 Section 60(7) of the BMSMA states: "The secretary of the council shall record every declaration under this section in the minutes of the meeting at which it was made." 4 Office of the Information and Privacy Commissioner of British Columbia, Privacy Guidelines for Strata Corporations and Strata Agents (June 2015), online: OIPC <https://www.oipc.bc.ca/guidancedocuments/1455> at page 19.
+7
+
+"[A] strata council should ensure that every statement in the strata council minutes is accurate, objective and verifiable and that the minutes contain the minimum amount of personal information necessary."
+25. The OIPC also provided some guidance on the personal information that may be recorded in the strata council minutes:5
+"If a strata council member or a guest attends a strata council meeting, they have provided implied consent to have their name recorded in the strata council minutes.
+Similarly, the names of any authorised people in attendance at the meeting, such as the strata manager, can be noted in the minutes. The name, strata lot number and/or unit number of each strata council member, who is not attending the meeting, should also be recorded.
+...
+Minutes of strata council meetings should record all decisions made by the strata council, but need not include the exact discussions leading up to any votes. It is important that the strata council minutes clearly document how resolutions are amended and what outcome of any votes were.
+Strata councils should ensure that only the minimal amount of personal information required to provide an accurate and objective account of its decisions is recorded in the meeting minutes."
+26. In the Exceltec case, the draft minutes if the 1st council meeting disclosed the names and unit numbers of the residents. In the Commission's view, the names of the residents would reasonably form part of the minutes of the council meeting as there is a need to identify and record the persons in attendance (or absence), including the council office bearers and the residents who are sitting in the meeting as observers. Given that Paragraph 3 of the Second Schedule to the BMSMA provides for an organisation (specifically, the MCST or managing agent) to disclose the full and accurate minutes of the council meeting on the notice board, it must be taken that the personal data (ie the names) are to be disclosed as part of the overall publication of the minutes of meetings. When read together with section 13(b) of the PDPA, Exceltec is allowed to disclose the names and of the residents in the minutes of meeting without obtaining the residents' consent.
+5 Office of the Information and Privacy Commissioner of British Columbia, Privacy Guidelines for Strata Corporations and Strata Agents (June 2015), online: OIPC <https://www.oipc.bc.ca/guidancedocuments/1455> at page 17.
+8
+
+27. In respect of the unit numbers found in the minutes of meeting, it should first be noted that a unit number in and of itself is not personal data. The association of the unit number with the person attending the meeting renders the pair personal data. Having considered the matter, the Commission is of the view that if the purpose of including the name of the person attending the council meeting is to identify him, then the inclusion of the unit in the minutes of meeting is reasonable because it serves to establish the basis for his attendance (ie he is the subsidiary proprietor or represents the subsidiary proprietor of that unit). In any event, as will be dealt with below, the publicly available exception would apply to the disclosure of such personal data.
+28. In light of the foregoing, the Commission makes the following findings:
+a. In respect of the disclosures that were made by the Organisations of the residents' names in the voter lists, these were in compliance with the Consent Obligation and Notification Obligation, pursuant to Paragraph 7 of the First Schedule of the BMSMA read with section 13(b) of the PDPA.
+b. In respect of the disclosures of the residents' (i) names and (ii) unit numbers that were made by Exceltec of the minutes of meetings, these were in compliance with the Consent Obligation and Notification Obligation, pursuant to Paragraph 3 of the Second Schedule of the BMSMA read with section 13(b) of the PDPA.
+29. This leaves open the question of whether or not the disclosures of (i) unit numbers and (ii) voting shares of residents in the voters list are also permitted to be disclosed under the PDPA. These two issues will now be addressed in the paragraphs below.
+Sub-issue (2): Whether the disclosure fell under the public availability exception
+30. The Commission also found that the public availability exception6 is applicable in this case. Public availability (of the personal data) is an exception to the Consent Obligation and Notification Obligation, and allows for personal data to be disclosed without obtaining consent, as provided for in section 17(3) of the PDPA read with Paragraph 1(d) of the Fourth Schedule of the PDPA.
+31. Public availability, in relation to personal data about an individual, is defined in section 2(1) of the PDPA to be personal data that is generally available to the public, and includes personal data which can be observed by reasonably expected means at a location or event (a) at which the individual appears, and (b) that is open to the public.
+6 Paragraph 1(d) of the Fourth Schedule of the PDPA.
+9
+
+32. In its Advisory Guidelines on Key Concepts in the PDPA, the Commission has stated at paragraph 12.58 that personal data will be generally available to be public as long as "any member of the public could obtain or access the data with few or no restrictions" (emphasis added).
+33. In the present case, the disclosures that were made by the Organisations, on the whole, were the (i) names, (ii) unit numbers and, in the cases of Exceltec and Strata Land, (iii) the voting shares of residents. The Commission is of the view that all these three types of personal data were generally available to the public for the following reasons.
+34. First, the information can be found in the strata roll, which is generally available to the public. Under section 47(1)(b) of the BMSMA, any resident or mortgagee, prospective purchaser or mortgagee, or even a person authorised in writing by the resident or mortgagee, may make an application to the managing corporation for the property's strata roll. All management corporations are required to prepare and maintain a strata roll which contains, among other things, the (i) names and (ii) addresses (including the apartment unit number) of residents and mortgagees of the lots, and the (iii) respective share value of the lots.7 Since access to these strata rolls extends to "prospective" purchasers or mortgagees as well, in practical terms, this allows almost any member of public who claims to be a "prospective" purchaser to gain access the information in the strata roll.
+35. Second, there are few restrictions under the BMSMA for a person to gain access to the strata roll. In order for a person to inspect the strata roll (amongst other information that the MCST has to make available under Section 47(1)(b) BMSMA, ie minutes of general meetings of MCST and council, or any other record in the custody or control of the MCST), the person only needs to do two things: (a) make an application to the MCST and (b) pay the prescribed fee in order to obtain the strata roll. There are generally no other pre-requisites or qualifications needed to fulfil in order to obtain the strata roll. Even though section 47 of the BMSMA states that the strata roll shall only be made available to a defined group (ie residents, mortgagees or purchasers), "prospective" mortgagees or purchasers as well as such persons authorised by residents or mortgagees are included in the group. The expansion of the defined group renders it very difficult to enforce checks to ensure that the applicant for the information falls within the class. The practical reality is that there is a very low barrier to cross for a person to access the strata roll, besides just simply making the online application and paying the prescribed fee.
+7 Pursuant to Section 46 of the BMSMA.
+10
+
+36. Third, some of this information may already be found on the Singapore Land Authority Registry ("SLA"), which the public would generally have access to. In this regard, anyone can purchase property title information, property ownership information and land information, which include name, unit number and share value of the lot, for a prescribed fee. Similar to the strata roll, SLA imposes no or few restrictions on the purchase.
+37. Accordingly, the Commission takes the view that the names, unit numbers, and voting shares of the residents (which are, for all intents and purposes, the same as the share value of the apartment) are publicly available information under the PDPA.
+38. As the information was publicly available, therefore, pursuant to section 17(3) of the PDPA and Paragraph 1(d) of the Fourth Schedule of the PDPA, there was no need for the Organisations to obtain consent from the residents or provide prior notification to the residents before the Organisations disclosed the names, unit numbers, and voting shares of the residents found in the strata rolls.
+39. In light of the above, the Commission is of the view that the above exceptions are applicable, and that the Organisations are neither in breach of the Consent Obligation or Notification Obligation in respect of the residents' personal data.
+Issue (c): Whether the Organisations had disclosed more personal data than necessary in the voter lists and minutes of meeting
+40. In consideration of the applicability of the exceptions to the PDPA, the Commission also looked at whether the Organisations had disclosed more personal data than they were required or authorised to in the voter lists and minutes of meeting.
+(i) Voter lists
+41. It was already determined above that the Organisations are permitted to disclose the names of residents for the voter list on the notice board, without obtaining consent or providing notification, pursuant to Paragraph 7 of the First Schedule of the BMSMA and section 13(b) of the PDPA.
+42. However, based on the express wording of Paragraph 7 of the First Schedule to the BMSMA, this does not appear to extend to the disclosure of unit numbers and voting shares of the residents. The exception under section 13(b) of the PDPA therefore does not apply to the disclosure of such personal data on the notice board.
+11
+
+43. Nonetheless, as mentioned above, the residents' unit numbers and voting shares were publicly available information, and therefore could be disclosed without notifying the residents of the purpose for disclosure or obtaining prior consent from them before disclosure.
+(ii) Minutes of meeting
+44. Turning to the minutes of meeting, the Commission also considered whether Exceltec was specifically required to record the personal data of the residents, ie their names and unit numbers, in the draft minutes of the 1st council meeting.
+45. It has already been mentioned above at paragraphs 26 to 28 that personal data found in the minutes of meetings may be disclosed pursuant to Paragraph 7 of the First Schedule of the BMSMA read with section 13(b) of the PDPA.
+46. However, this position should not be construed to mean that MCSTs and managing agents may include personal data of their residents without any restriction. The Commission cautions that any personal data recorded in the minutes should be relevant to the proceedings and necessary to ensure a full and accurate record of the conduct of the meeting. In a case where personal data is disclosed without being in any way relevant to the agenda of the meeting, the Commission may take the appropriate enforcement action.
+Issue (d): Whether the Organisations had disclosed personal data for longer than necessary
+47. Keeping the voter lists posted on the notice boards for a period of time may be seen as a continuous disclosure of the personal data in the voter lists. In the case of Strata Land, the disclosure was for approximately a 2-month period, whereas in the case of MCST 2956, the disclosure was for a 2-day period.
+48. The Commission is of the view that MCSTs and managing agents should generally only keep the voter list and minutes of meetings that contain personal data on the notice board for only a reasonable period of time. Good data protection practices dictate that the period of exposure of personal data and the length of such exposure should be minimised as far as possible, even if the disclosure is, in and of itself, permitted under the PDPA. By keeping personal data longer than necessary, an organisation runs the risk of falling afoul of the Retention Obligation under section 25 of the PDPA.
+49. In the case of MCST 2956, displaying the voter list on the notice board for 2 days cannot be said to be unduly protracted. In the case of Strata Land, the period was 2 months. Considering that the voter list is intended to establish both the persons who are entitled to attend and vote at the meeting and also the
+12
+
+share value or voting rights of each of such persons, it stands to reason that the voter list may be displayed on the notice board for as long a duration as the minutes of meeting. This provides the conscientious reader of the minutes of meeting the means by which to verify the accuracy of the minutes of meeting, insofar as it concerns the identity of the voters and the calculation of votes. The Commission bore in mind that the minutes of meeting must be displayed for at least 14 days: see Paragraph 3 of the Second Schedule to the BMSMA, reproduced in paragraph 22 above.
+50. Taking this minimum period of displaying as the basis for comparison, it is the Commission's view that keeping the voter list posted on the notice board for 2 months is not an unduly protracted period. Admittedly, assessments of discretions are not an exact science and there can be a range of validly held views as to what a reasonable period ought to be. In cases such as these where the reasonableness of a course of action is called to question, the Commission restricts its role to determining when the action is so clearly unreasonable such that sanctions under the PDPA are warranted. For the present case, it is not necessary to express any view as to when a period crosses the threshold and becomes unreasonably protracted. It sufficient for this decision that a period of 2 months is not so unreasonably long that it ought to attract a sanction under the PDPA.
+51. In this case, for the reasons above, the Commission finds that MCST 2956 and Strata Land are not in breach of the PDPA in respect of the duration of the disclosures that were made.
+Issue (e): Whether the disclosure of personal data may be made on multiple notice boards
+52. The last issue, raised by the 3rd Complainant, is whether there was a requirement that the disclosure of the voter lists had to be made on all the notice boards of the condominium unit, or whether it was only necessary for the disclosure to be made on one.
+53. Since the disclosure of personal data in the voter list is permissible under the PDPA for the reasons above, there are no restrictions to the voter list being disclosed on multiple notice boards under the PDPA. Moreover, the BMSMA does not make a distinction whether or not the disclosure is to be made on one notice board or multiple notice boards.
+54. Accordingly, Strata Land is not in breach of the PDPA for disclosing the voter list on multiple notice boards.
+13
+
+D. CONCLUSION 55. For the foregoing reasons, the Commission therefore concludes that the
+Organisations have not breached the Consent and Notification Obligations under the PDPA in relation to the disclosure of personal data in the voter lists and minutes of meeting, and has decided to take no further action in respect of the complaints made. YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION COMMISSION
+14
+
+

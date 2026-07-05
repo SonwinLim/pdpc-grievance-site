@@ -1,0 +1,95 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Giveback Coffee Co
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Giveback Coffee Co Pte Ltd
+Published on 25 Sep 2024
+
+Share:   
+
+Background
+On 12 July 2024, the Personal Data Protection Commission (the "Commission") received a complaint from a concerned member of public against Giveback Coffee Co. Pte. Ltd. (the "Organisation") who discovered from search engine results that the Organisation's web directory was misconfigured and made publicly accessible. 5 spreadsheet files containing the personal data of 32,925 individuals, including their name, email address, postal code, and details relating to their orders such as the items purchased, cost, and shipping information were publicly accessible (the "Incident").
+Investigations revealed that an administrator user had triggered the generation of the files to analyse customer orders made through the Organisation's website, which were subsequently stored in the web directory.
+Remedial Actions
+Upon discovery of the Incident, the Organisation took prompt remedial actions including reviewing the server configuration, removing the files, and engaging data protection and cybersecurity consultants to review its existing processes.
+Voluntary Undertaking
+Having considered the circumstances of the case, the Commission accepted a vToloufnfetarryyouunadbeerttaekrinegxpe(trhieenc"Ue,ntdheisrtsaitkeinugse")s fcroomkietsh.eReOardgmanoisraetaiobnouttocoimokpireosve its icnomouprlPiarnivcaecywStitahtemtheent.Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 23 August 2024.
+
+As part of the Undertaking, the Organisation will:
+FOR
+Individuals (a) Engage an external vendor to develop a new website to replace its existing
+website, with requirements for the external vendor to implement relevant security measures;
+
+(Abb)oIumt plement annual vulnerability assessment and penetration testing on its ecommerce web application and cloud architecture; and
+
+(Ocr)gRaneivsiaetwionitss existing processes and develop a Data Protection Management
+
+Programme with the assistance of external cybersecurity and data protection
+
+cInodnisvuidltuaanltss.
+
+
+
+The Commission will verify the Organisation's compliance with the Undertaking. If
+tMheedOiarg&aEnviseanttison fails to comply with any terms of the Undertaking, the Commission
+may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+To offer you a better experience, this site uses cookies. Read more about cookies �Lina2so0t 2uu6prdPPaetrresiodvna2a5cl ySDeaSptta2a0Pt2reo4tmecetionnt.Commission
+
+Built with
+
+Powered by
+
+FOR
+
+Individuals
+
+�Ab2o02u6t Government of Singapore
+
+Organisations
+
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

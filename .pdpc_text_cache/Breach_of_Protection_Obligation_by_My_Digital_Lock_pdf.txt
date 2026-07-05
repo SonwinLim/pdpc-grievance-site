@@ -1,0 +1,81 @@
+DECISION OF THE PERSONAL DATA PROTECTION COMMISSION
+Case Number: DP-1601-A628
+MY DIGITAL LOCK PTE. LTD. [UEN 201418165M]
+... Respondent
+Decision Citation: [2016] SGPDPC 20
+GROUNDS OF DECISION
+4 November 2016
+BACKGROUND
+1. On 4 January 2016, [Redacted] (the "Complainant"), complained to the Personal Data Protection Commission (the "Commission") that the Respondent had disclosed his personal data by posting screenshots of the Complainant's WhatsApp conversations with the Respondent's director, [Redacted] (Replaced with Mr A) on Mr A's Facebook page.
+2. On account of the complaint made, the Commission commenced an investigation under Section 50 of the Personal Data Protection Act 2012 (the "PDPA") to ascertain whether the Respondent had breached its obligations under the PDPA. The material facts of the case are as follows.
+MATERIAL FACTS AND DOCUMENTS
+3. The Respondent is in the business of selling digital locks and doors. The Complainant had made a purchase of a gate from the Respondent for his home.
+4. Subsequently, the Complainant and the Respondent became involved in a dispute concerning alleged defects in the gate. The parties were engaged in legal proceedings in relation to certain remarks that were allegedly made by the Complainant concerning the Respondent's product, business and/or service. On 4 January 2016, Mr A posted screenshots on his Facebook page of his previous WhatsApp messages (including photographs) that were exchanged between the Complainant and Mr A in connection with the dispute. In posting the screenshots on Facebook, the screenshots were made publicly viewable. The screenshots contained the Complainant's personal mobile phone number and his residential address ("Complainant's Personal Data"). The Complainant became aware of this and lodged his complaint.
+5. On 1 March 2016, the Commission notified the Respondent of the complaint and sought assistance in investigations. In the course of the investigations, the Respondent accepted that there was a public disclosure of the
+-1-
+
+Complainant's Personal Data on Mr A's Facebook page but represented to the Commission that:
+(a) Mr A had posted the screenshots containing the Complainant's Personal Data on Mr A's Facebook page for the purposes of transferring the screenshots from Mr A's WhatsApp application to Mr A's desktop computer;
+(b) The transfer was to enable Mr A to send the screenshots to the Respondent's solicitors in connection with the Court proceedings between the Respondent and the Complainant;
+(c) Mr A removed the screenshots containing the Complainant's Personal Data from his Facebook page about an hour after they were posted, after Mr A had transferred the screenshots to his desktop computer;
+(d) the Complainant's Personal Data was disclosed by Mr A in his personal or domestic capacity;
+(e) the Complainant's Personal Data disclosed was publicly available data; and
+(f) the Complainant's Personal Data was disclosed pursuant to investigations and proceedings, in particular the civil proceedings between the Complainant and the Respondent that was contemplated then and which have since been commenced.
+6. In support of the Respondent's claim that the Complainant's Personal Data was publicly available information, the Respondent provided a screenshot of a YouTube video and five images from online sites which purport to show that the personal data of the Complainant was previously available online. According to the Respondent, the YouTube video is no longer accessible online.
+COMMISSION'S FINDINGS AND BASIS FOR DETERMINATION
+Issues to be determined
+7. The Respondent admits to the posting of the screenshots on Facebook by Mr A. As the posting of the screenshots was a deliberate act by Mr A, and it caused the screenshots to be published on Facebook, this amounted to a disclosure made by Mr A of the Complainant's Personal Data.
+8. Even though Mr A claims that he did not intend to disclose the Complainant's Personal Data to third parties, the fact is that he had made the disclosure on a social media and networking application, which has the function of broadcasting and sharing text messages, pictures, etc, to the Facebook community. The size of the Facebook community and thus the extent of disclosure depends on the privacy policy settings on Mr A's Facebook page. On the evidence, this was set to allow friends of Mr A to view the page. Mr A's
+-2-
+
+intentional act of uploading the screenshots on a medium used for broadcasting or sharing of media was therefore, in the Commission's view, an act of disclosure of the Complainant's Personal Data. This is not a case where the Respondent had uploaded the screenshots to a secured online file storage or repository platform that limits access to his solicitors, which may have supported his defence that the disclosure was pursuant to an exception in the Fourth Schedule of the PDPA.
+9. The issues arising from the case are as follow:
+(a) whether the disclosure of the Complainant's Personal Data on Facebook without the Complainant's prior consent was permitted under Sections 13 and 17 of the PDPA ("Issue A");1 and
+(b) whether the Respondent had breached Section 24 of the PDPA2 in relation to its use of Mr A's Facebook page as a means of transferring the Complainant's Personal Data ("Issue B").
+10. It should also be noted that even though this was a case of a disclosure of the Complainant's Personal Data, the protection obligation under Section 24 of the PDPA is also relevant in this case, given the lackadaisical manner in which the Complainant had sought to transfer the screenshots to his lawyers. The protection obligation is a separate obligation which an organisation would need to comply with on top of the other obligations under the PDPA. In a case where the security of the personal data features as an issue, the Commissioner will investigate into the protection obligation as well.
+11. Based on the two issues mentioned above, the Commission's assessment on these issues are set out below.
+Issue A: Whether Respondent has complied with its consent obligation in disclosing the Complainant's Personal Data on Facebook
+Sub-issue I: Whether the Respondent is responsible for Mr A's disclosure of the Complainant's Personal Data
+12. A preliminary question is whether the Respondent is responsible for Mr A's disclosure of the Complainant's Personal Data. Under Section 53(1) of the PDPA, any acts done or conduct engaged in by an employee in the course of his employment shall be treated for the purposes of the PDPA as done or
+1 In essence, under Sections 13 and 17 of the PDPA, an organisation is prohibited from disclosing personal data about an individual without consent, or deemed consent, under the PDPA, unless an exception applies pursuant to Section 17 of the PDPA. 2 Section 24 of the PDPA requires an organisation to protect personal data in its possession or under its control by taking reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks
+-3-
+
+engaged in by his employer as well as him, whether or not it was done or engaged in with the employer's knowledge or approval.
+13. Based on the facts described in paragraphs 3 to 5 above, the Commission is satisfied that Mr A was acting in the course of his employment as a director of the Respondent when transferring the Complainant's Personal Data through his Facebook page. The Commission disagrees with the Respondent's claim that Mr A was transferring the Complainant's Personal Data in his personal or domestic capacity. This is because the Respondent asserts that the transfer was for the purposes of sending screenshots containing the Complainant's Personal Data to the Respondent's solicitors, which was in connection with the dispute between the Respondent and the Complainant. The Commission notes that civil proceedings have since been commenced by the Respondent against the Complainant.
+14. Accordingly, Mr A's disclosure of the Complainant's Personal Data is treated as a disclosure by the Respondent since it was made in the course of employment pursuant to Section 53(1) of the PDPA.
+Sub-issue: II: Given that the disclosure was made without the Complainant's consent, whether Complainant's Personal Data was publicly available data and disclosure necessary for investigations and proceedings
+15. It is not disputed that the Respondent did not have the consent of the Complainant when disclosing the Complainant's Personal Data on Facebook. However, the Respondent claims that the Complainant's Personal Data was, firstly, publicly available data and, secondly, that the disclosure was necessary for investigations and proceedings by the Respondent. If either exceptions are met, the Respondent would be permitted to disclose the Complainant's Personal Data without having to obtain the Complainant's consent.
+16. Upon an examination of the facts disclosed during investigations, the Commission finds that these two exceptions do not apply to this case for the following reasons below.
+Publicly available data
+17. Pursuant to Section 17 of the PDPA and Paragraph 1(d) of the Fourth Schedule of the PDPA, an organisation may disclose personal data of individuals without consent, if the personal data is publicly available. As mentioned at paragraph 6 above, the Respondent had produced a screenshot and images of online sites to the Commission to show that the Complainant's information was previously available to the public online.
+18. Having perused these documents, the Commission finds that none of these documents contain the Complainant's Personal Data. While these documents may contain some other information, such as the front entrance of the Complainant's apartment, or portions of the content from WhatsApp conversations between the Complainant and the Respondent, these are not
+-4-
+
+relevant to the assessment of whether the Complainant's Personal Data were also publicly available information.
+19. Since there was no further evidence that was proffered to show that the Complainant's Personal Data was publicly available information, the Commission finds that the Respondent may not rely on Section 17 and Paragraph 1(d) of the Fourth Schedule of the PDPA for disclosing the Complainant's Personal Data without consent.
+Disclosure necessary for investigations and proceedings by the Respondent
+20. The Respondent sought also to rely on the exceptions in Paragraphs 1(f) and 1(j) of the Fourth Schedule of the PDPA, read with Section 17 of the PDPA. In essence, these exceptions allow for disclosure of personal data to be made without consent where the disclosure was (a) necessary for any investigation or proceedings; or (b) necessary for the provision of legal services by the organisation to another person or for the organisation to obtain legal services.
+21. In both these exceptions, there is a requirement to show that the disclosure to be made was "necessary" for the purposes set out in Paragraphs 1(f) and 1(j) of the Fourth Schedule. Based on the facts of this case, the Respondent has failed to show that he needed to make the disclosure (a) on Facebook; and/or (b) to Mr A's contacts on Facebook, for the purposes set out in Paragraphs 1(f) and 1(j) of the Fourth Schedule. All that appears to be needed, and all that he claims he intended to do, was to transfer the files to his lawyers, which did not require him disclosing the Complainant's Personal Data to other third parties. As the Respondent itself admits, there were other ways by which Mr A could have sent the screenshots to his solicitors.
+22. In the premises, the Commission finds that the exceptions under Paragraphs 1(f) and 1(j) of the Fourth Schedule of the PDPA do not apply to the case.
+23. Given that the disclosure was made without the consent of the Complainant, and that none of the exceptions raised by the Respondent above would apply, the Respondent is in breach of Section 13 of the PDPA.
+Issue B: Whether Respondent had complied with Section 24
+24. The Complainant's Personal Data transferred by the Respondent included the Complainant's mobile number and residential address. There is no doubt that these data fall within the definition of "personal data" under the PDPA since the Complainant may be identified from such data when the data is coupled with other information which the Respondent has. There is also no dispute that at the material time, the Complainant's Personal Data was within the possession or control of the Respondent.
+25. In the Commission's view, the manner and mode by which the Complainant's Personal Data was transferred over Facebook was wholly inappropriate. Even if the period of the transfer is short, there exists a substantial risk of the Complainant's Personal Data being viewed, observed or even collected by
+-5-
+
+persons, with no necessity to do so. Reasonable or adequate security arrangements when transferring personal data must at least involve a process where the personal data is reasonably protected from unauthorised access or interference, until the personal data reaches its intended destination or recipient where other security arrangements on storage would apply. For example, the file could have been encrypted (or at least password protected) so that only authorised people can access its content. Alternatively, the photographs could at least have been uploaded to a site which permits control of access to the files, instead of making it visible to a wider audience on an open social media platform such as Facebook which dramatically increases the risk of unauthorised access or collection, and subsequent misuse. Lastly, it is not clear why a transfer to over the open Internet was preferable, as Mr A could have simply connected his phone to his PC and transferred the file without the need to make use of the open Internet.
+26. In view of the above, the Commission finds that the Respondent had failed to make reasonable security arrangements to protect personal data in its possession or under its control when transferring the Complainant's Personal Data using Mr A's Facebook page. As such, the Respondent is in breach of Section 24 of the PDPA.
+ACTIONS TAKEN BY THE COMMISSION
+27. Given the Commission's findings that the Respondent is in breach of its obligations under Sections 13 and 24 of the PDPA, the Commission is empowered under Section 29 of the PDPA to issue the Respondent such directions as it deems fit to ensure compliance with the PDPA. This may include directing the Respondent to pay a financial penalty of such amount not exceeding S$1 million.
+28. In determining the direction, if any, to be made, the Commission considered the following factors:
+(a) the Complainant's Personal Data was only exposed on Mr A's Facebook page for a short period of time of about an hour;
+(b) the breach involved personal data of limited sensitivity (ie the Complainant's mobile number and residential address);
+(c) the breach was not wilful or due to systemic failures of the Respondent's policies or processes but was instead triggered by an error of judgment of a single employee, ie Mr A; and
+(d) the Respondent had been fully cooperative in the investigation.
+-6-
+
+29. In view of the factors noted above, the Commission has decided not to issue any direction to the Respondent to take remedial action or to pay a financial penalty. Instead, it has decided to issue a Warning to the Respondent for the breach of its obligations under Sections 13 and 24 of the PDPA.
+YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION COMMISSION
+-7-
+
+

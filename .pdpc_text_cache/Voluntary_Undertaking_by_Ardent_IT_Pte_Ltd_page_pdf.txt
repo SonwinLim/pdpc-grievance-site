@@ -1,0 +1,145 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Ardent IT
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Ardent IT Pte Ltd
+Published on 04 Dec 2025
+
+Share:   
+
+Background
+Ardent IT Pte Ltd (the "Organisation") is a system integrator providing IT infrastructure implementation and maintenance services to its clients. The Organisation provides Infrastructure as a Service ("IaaS"), including virtual servers, as a data storage solution. The Organisation processes personal data on behalf of its clients. As part of the Organisation's services, virtual machine(s) stored as virtual hard disk ("VHD") files were provided to the clients to house their data.
+On 15 August 2024, the Organisation notified the Personal Data Protection Commission (the "Commission") that its VHD files had been encrypted by LockBit ransomware, rendering it inaccessible to its clients (the "Incident").
+Investigations revealed that that the threat actor ("TA") gained access on 4 August 2024 into the Organisation's hypervisor hosts through the integrated Dell Remove Access Controller ("iDRAC") by way of compromised root account credentials. Due to a lack of Windows event logs, the Organisation could not definitively determine how the TA obtained the root account credentials. After gaining access, the TA triggered a malicious encryptor to encrypt the VHD files, rendering them inaccessible to its clients.
+Investigations suggest that the following could have led to the TA gaining unauthorised access into the Organisation's hypervisor hosts:
+(Tao)Tohffeerreywouerae b9e1,t9t3e9r eaxttpeemripentscaet, tphaissswiteorudssepsrcaoyoinkgieasn. Rdeuasdemr eonruemabeorauttiocnoomkaiedse on tinheouhrypPerirvvaicsoyrShtaotsetms feronmt. 5 August 2024 to 9 August 2024. Many login attempts
+
+were successful during this period, which suggests that the TA could have obtained
+
+FthOeR credentials via this route.
+Individuals  
+(b) The default iDRAC root account was used for all iDRAC logins. Default accounts
+
+are often targeted by threat actors. Organisations are reminded that it is a good
+
+pArbaocutitce to disable default accounts, and to create a custom account with appropriate rights for the intended purpose. Two-factor authentication may also be
+
+implemented to ensure that stronger access controls are in place.
+
+Organisations
+
+
+
+(c)Even though malware protection was deployed on all hosts, it failed to detect and
+
+alert the Organisation of any suspicious activities, which prevented timely
+
+iIntdeivrvideunatilosn. However, none of the accounts on the hypervisors had privileges to 
+access client data, which reduces the possibility of data access via the compromised
+
+account held by the TA.
+
+Media & Events
+
+
+
+Following the ransomware encryption, the Organisation and its clients were unable
+
+to access personal data belonging to at least 931,727 individuals. However, there was
+
+no evidence to suggest that any personal data was exfiltrated by the TA.
+
+Remediation Action
+
+Upon discovering the Incident, the Organisation took prompt remedial actions by disconnecting the gateway network and internet access to its data centre. The Organisation also established emergency hosting facilities for affected clients and terminated the use of iDRAC to access their data centre hypervisors.
+
+The Organisation also adopted the following remediation actions:
+
+(a) Whitelisting IP addresses.
+
+(b) Implementing stronger password policies.
+
+(c) Implementing network segmentation to isolate critical systems and data.
+
+(d) Implementing a management tier or bastion host to manage the hypervisors.
+
+(e) Configuring endpoint detection and response solution.
+
+(f) Implementing VLANs, firewalls, and access control lists (ACLs) to enforce network segmentation.
+
+Voluntary Undertaking
+
+Having considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 25 April 2025.
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+(a) Perform server hardening, endpoints and network devices using industry hToarodfefenrinyogubaenbcehttmeraerkxspearniednccoen, ttihniusosuitselyusaedshceoreodkiteos.tRheeardeqmuoirreemaebnotust. Dcoeofiknieesa in our Privacy Statement.
+
+frequency to conduct security testing across the IT environment and fix identified FvOuRlnerabilities and weaknesses;
+Individuals (b) Review all existing contracts and include personal data protection clauses with its
+clients and contracts with related entities will be endorsed to ensure clarity on rAebsopuotnsibilities of both parties; (c) Implementation of Remote Desktop Protocol Bastion host by limiting the RDP cOhrgananneislastaiollnoswed. Defining the authorised mechanisms of remote access, via dedicated bastion host to limit the potential attack surface; (Indd) Iimvidpuleamls entation of local admin group restriction by using the principle of least privilege to secure RDP and restrict local administrators' group from using RDP; and M(e)eOdibat&ainEvinegntosf the Cyber Trustmark Certification. The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+Share:   
+Personal Data Protection Commission
+About
+Organisations
+Individuals
+Media & Events
+Contact
+
+Report Vulnerability  Privacy Statement
+To offer you a better experience, this site uses cookies. Read more about cookies iTneromusraPnrdivCaocnydSittioantesment.
+
+Reach 
+
+FOR
+Individuals � 2026 Personal Data Protection Commission
+Last updated 04 Dec 2025
+
+Built with
+
+Powered by
+
+About
+
+Organisations
+� 2026 Government of Singapore
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

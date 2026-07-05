@@ -1,0 +1,77 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+Case No DP-1802-B1770
+
+[2018] SGPDPC 25
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+
+Big Bubble Centre
+
+... Organisation
+
+DECISION
+
+Big Bubble Centre
+
+[2018] SGPDPC 25
+
+Big Bubble Centre
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1802-B1770
+28 November 2018
+1. The circumstances which led to the complaint over Big Bubble Centre's (the "Organisation") actions is a common one in today's social media age. It usually starts with a dispute between an individual and an organisation and quickly escalates from there. One party expresses unhappiness with the other on social media and the other party then responds on social media to defend themselves. During the exchange, personal data is disclosed and is accessible to all and sundry. The approach of the Personal Data Protection Commission ("PDPC") in such cases has been stated in Re My Digital Lock Pte Ltd [2018] SGPDPC 3 and Re M Star Movers & Logistics Specialist Pte Ltd [2017] SGPDPC 15 and that approach has been followed in this case.
+2. The Organisation is a sole-proprietorship in the scuba-diving services business. The Complainant is an ex-employee of the Organisation.
+3. The key issue is whether by using the personal data, the Organisation has:
+a) breached its obligation under section 13 of the Personal Data Protection Act 2012 ("PDPA") to obtain valid consent before disclosing personal data; or
+b) breached its obligation under section 18 of the PDPA to only use and disclose personal data for purposes (i) that a reasonable person would consider appropriate in the circumstances; and (ii) that the data subject has been informed of.
+Material Facts
+4. The Complainant and the Organisation had a contractual dispute in which the Complainant claimed that the Organisation had failed to pay his wages. The Complainant resigned and took dive equipment which he claims to have paid for.
+5. The Organisation, however, refutes these claims and say that they withheld $600 from the Complainant as the Complainant owed the Organisation $850 for participating in and logging dives organised by the Organisation with the aim of the Complainant obtaining the PADI Dive Master Certification. Also, the Organisation alleges that the Complainant did not pay for the dive equipment that he took and instead stole the said equipment together with the Organisation's documents. Accordingly, the Organisation has filed a police report against the Complainant for the alleged theft.
+6. The above contractual dispute and allegations of theft are beyond the remit of the Personal Data Protection Commission ("PDPC") and I do not make any findings in respect of the
+2
+
+Big Bubble Centre
+
+[2018] SGPDPC 25
+
+above. It is the actions of the Organisation and the Complainant subsequent to the submitting of the police report that concerns the PDPC. According to the Complainant, the Organisation had sent text messages to some of its customers informing them of their allegations against the Complainant.
+7. In February 2018, the Complainant wrote a Facebook post detailing his unhappiness with the Organisation and its sole proprietor. The crux of his post was that he felt cheated because the Organisation did not pay his salary and made a police report against him although he did his best as an employee. He also warned other divers from joining the Organisation.
+8. The Organisation responded with two Facebook posts of its own, which were posted on the Facebook pages of the sole-proprietor (ie his personal Facebook page) and a public group for scuba divers. The crux of these posts was that the Complainant owed the Organisation money for participating in dives organised by them, that they had given him a large discount to participate in the dives, that they had given the Complainant diving experience that no one else would give him and that the Complainant stole diving equipment as well as a customer database and the Organisation's delivery documents
+9. The Organisation also disclosed the following personal data in these posts: (a) the Complainant's name, NRIC number, date of birth, passport number and expiry date, mobile phone number, email address and residential address; and (b) the name and residential address of the Complainant's female friend as well as the make of her car (collectively, the "Personal Data Sets"). It is undisputed that the Personal Data Sets were in the Organisation's possession and that the Organisation had obtained them from the Complainant when he was employed by the Organisation.
+Did the Organisation comply with sections 13 and 18 of the PDPA?
+10. Subject to certain exceptions,1 in accordance with section 13 read with section 14 of the PDPA, organisations may only collect, use or disclose personal data about an individual with the consent of that individual (the "Consent Obligation"). It is undisputed that the Organisation had not explicitly obtained the Complainant's consent to disclose the Personal Data Sets in the manner above or notified him, as required under section 20 of the PDPA, that his personal data would be disclosed in such manner.
+11. In Re M Star Movers, the position I took was as follows:
+"18. The Deputy Commissioner advises caution in disclosing personal data when responding to public comments. An organisation should not be prevented or hampered from responding to comments about it using the
+
+1
+
+Pursuant to section 17 of the PDPA read with the Second, Third and Fourth Schedule of the PDPA.
+
+3
+
+Big Bubble Centre
+
+[2018] SGPDPC 25
+
+same mode of communications that its interlocutor has selected. In some situations, it may be reasonable or even necessary to disclose personal data in order to advance an explanation. An individual who makes false or exaggerated allegations against an organisation in a public forum may not be able to rely on the PDPA to prevent the organisation from using material and relevant personal data of the individual to explain the organisation's position on the allegations through the same public forum.
+19. The following observations may be made in this context about the approach that the Commission adopts. First, the Commission will not engage in weighing allegations and responses on golden scales in order to establish proportionality. The better approach is to act against disclosures that are clearly disproportionate on an objective standard before the Commission intervenes in what is essentially a private dispute..."
+12. In the present case, the Organisation's disclosure of personal data is clearly disproportionate on any objective standard. I can conceive of no legitimate reason for the Organisation to disclose the Complainant's NRIC and passport number in order to defend itself against the Complainant's allegations. Neither can I see the relevance of disclosing the name and residential address of the Complainant and the make of the car owned by the Complainant's friend to the dispute over salary and dive equipment.
+13. While it is understandable how such excessive disclosure of personal data could have been made when penning social media posts in the heat of the moment, such conduct is nevertheless inexcusable. Let this be a caution against wielding one's pen in anger during the heat of altercation.
+14. I thus find that the Organisation's disclosure of the personal data of the Complainant and his friend was done without consent and is in breach of section 13 of the PDPA.
+Actions taken by the Commission
+15. As at 15 March 2018, the Facebook posts had been removed. Upon being contacted by the Personal Data Protection Commission, the Organisation's sole-proprietor resolved to improve his awareness of the Organisation's protection obligations under the PDPA.
+
+4
+
+Big Bubble Centre
+
+[2018] SGPDPC 25
+
+16. Having considered these factors and the context in which the breach occurred, I have decided to issue a warning to the Organisation for breaching its obligations under section 13 of the PDPA, without further directions or imposing a financial penalty.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION
+
+5
+
+

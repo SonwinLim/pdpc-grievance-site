@@ -1,0 +1,105 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Nippon Paint
+(Singapore)
+
+Co Pte Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by Nippon Paint (Singapore) Co Pte Ltd
+Published on 31 Jul 2025
+
+Share:   
+
+Background
+Nippon Paint (Singapore) Co Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 29 April 2024 of a data security incident where the personal datasets posted on the dark web corresponded to datasets in a file belonging to the Organisation (the "Incident").
+The Organisation established that the Threat Actor ("TA") exploited vulnerabilities in the plug-ins utilised for the Organisation's e-commerce platform, allowing the TA to exfiltrate personal data from its servers and systems supporting the platform. Furthermore, it was found that one plug-in generated and hosted a file on the Organisation's server that matched with the compromised data on the dark web. The plug-ins had been removed by the time of the notification to the Commission.
+A total of 13,695 individuals were affected. The affected personal data comprised names, contact numbers, addresses, and email addresses.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including resetting its administrative password, limiting the storage of personal data to only customers' email addresses used to receive one-time passwords for log-in purposes, and strengthening user access control for customers' and administrative accounts by implementing two-factor authentication ("2FA"). To offer you a better experience, this site uses cookies. Read more about cookies 
+iVnooluurnPtriavarycyUStnadteemretnatk. ing
+
+Having considered the circumstances of the case, the Commission accepted a vFOoRluntary undertaking (the "Undertaking") from the Organisation to improve its
+Individuals compliance with the Personal Data Protection Act 2012 (the "PDPA"). The  
+Undertaking was executed on 28 August 2024.
+
+AAsbopuatrt of the Undertaking, the Organisation will be implementing the following:
+
+(a) Ensuring that data stored on the e-commerce platform is kept to a minimum.
+
+(Obr)gImanpisleamtioennsting 2FA for customers' and administrative accounts.
+
+
+
+(Inc)dPiveidrfuoarmls ing penetration tests every 3 months.
+
+
+
+(d) Reviewing existing contracts with vendor to include relevant data protection
+
+cMlaeudsiaes&tEhvaetnctlesarly set out the obligations and responsibilities of all parties.
+
+
+
+(e) Applying for the Data Protection Trustmark certification.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement
+To offer you a better experience, this site uses cookies. Read more about cookies TineromusraPnrdivCaocnydSittioantesment.
+
+Reach 
+
+FOR
+Individuals � 2026 Personal Data Protection Commission
+Last updated 31 Jul 2025
+
+Built with
+
+Powered by
+
+About
+
+Organisations
+� 2026 Government of Singapore
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

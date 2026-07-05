@@ -1,0 +1,93 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Tech In
+Asia Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Tech In Asia Pte Ltd
+Published on 25 Sep 2024
+
+Share:   
+
+Background
+Tech In Asia Pte. Ltd. ("TIA") notified the Personal Data Protection Commission (the "Commission") on 7 June 2024 of a personal data breach involving its Indonesian subsidiary, PT Teknologi Indonesia Asia ("TIA Indonesia"). The personal data of the users to TIA Indonesia's website had been exfiltrated by a threat actor and published for sale on the dark web (the "Incident").
+Investigations revealed that that the threat actor ("TA") had exploited a legacy publicfacing API endpoint that lacked the logic and ability to verify authorization token permissions, which allowed the TA to incrementally scrape user ID (a sequential number) and email address from the API endpoint.
+The TA exfiltrated the personal data of approximately 220,000 individuals who were the registered users of the TIA Indonesia's website. The types of personal data affected include the user ID, email address, full name, display name and registration date. The international website managed by TIA directly was not affected in the Incident.
+Upon discovery of the Incident, TIA took prompt remedial actions. This included immediately patching the affected API endpoint to prevent any further data leaks and conducting a comprehensive inventory and review of all existing API endpoints, in particular, user profile-related endpoints to ensure that there were no other vulnerabilities. To offer you a better experience, this site uses cookies. Read more about cookies 
+VinooluurnPtriavarycyUStnadteemretnatk. ing
+
+Having considered the circumstances of the case, the Commission accepted a vFOoRluntary undertaking (the "Undertaking") from the Organisation to improve its
+Individuals compliance with the Personal Data Protection Act 2012 (the "PDPA"). The  
+Undertaking was executed on 22 August 2024.
+
+AAsbopuatrt of the Undertaking, TIA will be implementing the following:
+
+(a) Initiate rate limiting and alert systems for API requests;
+
+(Obr)gInantriosadtuiocnesan API Gateway for centralized API management;
+
+
+
+(Inc)dEivnidhuanalcse the development code review and QA processes; and
+
+
+
+(d) Implement 2FA or multifactor authentication.
+
+TMheedCiao&mEmveisnstiosn will verify the Organisation's compliance with the Undertaking. If
+the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement
+TTeormofsfearnydoCuonadbiteiotntesr experience, this site uses cookies. Read more about cookies Rineaocuhr Privacy Statement.
+
+� 2026 Personal Data Protection Commission
+
+LFaOsRt updated 25 Sep 2024
+
+Individuals Built with
+
+Powered by
+
+About
+� 2026 Government of Singapore
+Organisations
+
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

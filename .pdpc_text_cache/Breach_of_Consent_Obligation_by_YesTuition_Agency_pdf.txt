@@ -1,0 +1,65 @@
+DECISION OF THE PERSONAL DATA PROTECTION COMMISSION
+Case Number: DP-1407-A028
+YESTUITION AGENCY (UEN No. 53084839B)
+...Respondent
+Decision Citation: [2016] SGPDPC 5
+GROUNDS OF DECISION
+20 April 2016
+BACKGROUND
+1. On 16 July 2014, the Personal Data Protection Commission ("Commission") received information that YESTUITION AGENCY (UEN 53084839B) (the "Respondent") had disclosed on its website the NRIC numbers and images of certain individuals who had registered to be tutors with the Respondent and it was alleged that they had done so without the consent of the individuals concerned.
+2. In light of the information received, the Commission commenced an investigation under section 50 of the Personal Data Protection Act 2012 (No. 26 of 2012) (the "PDPA") to ascertain whether there had been a breach by the Respondent of its obligations under the PDPA. The Commission's findings are set out below.
+MATERIAL FACTS AND DOCUMENTS
+3. The Respondent is a locally registered business providing home tuition matching services to individuals seeking tutors for primary to A-levels education. The Respondent renders its matching services via a website, which it operates at www.yestuition.sg (the "Site").
+4. The Site consists of various webpages that are accessible to the public and a tutors' log-in portal which is accessible only by individuals who had registered with the Respondent to be a tutor.
+Disclosure of NRIC numbers and images by the Respondent
+5. From the Commission's examination of the Site, it was found that the Respondent had published images of its tutors on its Site. The tutors' images were stored in a JPEG file format and named using the tutors' respective NRIC particulars, for example, as 1234567A.jpg. As such, the Respondent had also disclosed the tutors' respective NRIC numbers with the images.
+
+CONFIDENTIAL
+
+Page 1 of 5
+
+6. The NRIC numbers and images were at the material time made publicly discoverable and accessible via a directory listing on one of the Site's pages. Investigations by the Commission indicate that there were approximately thirty (30) individuals whose images and NRIC numbers were listed by the Respondent in the directory listing.
+The Respondent's responses to the Commission
+7. In its responses to the Commission during the investigation, the Respondent represented that it had more than 10,000 tutors' profiles on its Site. It asserted that these profiles were not disclosed to members of the public.
+8. The Respondent explained that individuals who wished to register with the Respondent as tutors were required to provide the following set of information to it by filling out a form made available on the Site (the "Form"):
+(a) Full names; (b) NRIC numbers; (c) Residential addresses; (d) Mobile numbers; (e) Email addresses; (f) Education backgrounds; and (g) Relevant tutoring experiences.
+9. Using the above information, the Respondent would then match the tutors to the appropriate students, and in return, collect a fee for the matching service.
+10. The Respondent also represented to the Commission that tutors who submitted their personal data via the Site would have provided either their express or deemed consent to the collection, use, and disclosure of their personal data by the Respondent for the purposes of providing the tutors with tuition matching services. In this regard, the Commission notes that the Form expressly notified tutors that:
+"By submitting this form, you hereby accept all terms & conditions as well as consent to be included in the mailing list of Yes Tuition to receive all information from us (Yes Tuition) electronically.
+Please be assured that we do not sell your personal information to third parties, and we will abide by our Privacy Policy".
+11. The Commission also sets out below the more pertinent terms of The Respondent's Privacy Policy, which was referred to in the Form and available on The Respondent's Site at the material time, as follows:
+"Tutor
+A tutor is a person who registers and maintains an account with Yes Tuition. When you register as a tutor we ask for information such as your name, identification number, email address, passwords, telephone
+Page 2 of 5
+
+number, gender, occupation, qualification, and subjects you are interested to teach. Once you register with Yes Tuition and sign in to our services, you are not anonymous to us. Tutors can go on-line to access their personal profile, and make changes to the subjects they are interested to teach and their personal information.
+...
+Tutor
+Yes Tuition will not share personal information with any other third parties without your permission, unless required by, or in connection with, law enforcement action, subpoena or other litigation, or applicable law. Yes Tuition will not sell, trade or lease your personal information to others.
+Choice and Consent
+Yes Tuition does not require that you provide Yes Tuition with personal information. The decision to provide personal information is voluntary. If you do not wish to provide the personal information requested, however, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested. Except as expressly stated otherwise in this Privacy Statement, you may opt out of having Yes Tuition share personal information with third parties as described in this Privacy Statement by notifying Yes Tuition in writing of your desire to do so.
+... (Emphasis underlined)"
+COMMISSION'S FINDINGS AND ASSESSMENT
+Relevant issue
+12. Under section 13 of the PDPA, organisations are prohibited from collecting, using or disclosing personal data about an individual unless:
+(a) the individual gives, or is deemed to have given, consent under the PDPA to such collection, use or disclosure; or
+(b) collection, use or disclosure of the personal data (as the case may be) is authorised or required under any written law.
+13. In this case, the primary issue in this case is whether the Respondent had the tutors' consent for their disclosure of their NRIC numbers and images to members of the public.
+Page 3 of 5
+
+Commission's Findings
+14. As noted above, the Respondent collected several categories of personal data from its tutors. With the exception of the tutors' NRIC numbers and images, it generally did not disclose these data to members of the public. The Commission notes that this is in line with the terms of the Respondent's own Privacy Policy.
+15. However, the Commission is of the view that the Respondent had not obtained its tutors' consent for disclosure of their images and NRIC numbers, which had been published on one of the pages of the Site. In this regard, the Commission further notes that such disclosure ran counter to the terms of the Respondent's own Privacy Policy.
+16. In light of the foregoing, the Commission is of the view that the Respondent had disclosed the personal data of some of its tutors without their consent, and it is therefore in breach of section 13 of the PDPA.
+ENFORCEMENT ACTION BY THE COMMISSION
+17. Given the Commission's findings that the Respondent is in breach of its obligations under section 13 of the PDPA, the Commission is empowered under section 29 of the PDPA to give the Respondent such directions as it deems fit to ensure compliance with the PDPA. This may include directing the Respondent to pay a financial penalty of such amount not exceeding $1 million as the Commission thinks fit.
+18. In considering whether a direction should be given to the Respondent in this case, the Commission notes the following:
+(a) The Respondent took proactive steps to restrict access to the relevant page containing personal data on the Site once it was made aware of the issue, and changed its practice of using its tutors' NRIC numbers as the file names of their images; and
+(b) The Respondent had been cooperative with the Commission and forthcoming in its responses to the Commission during the Commission's investigation.
+19. In view of the factors noted above, the Commission has decided not to issue any direction to the Respondent to take remedial action or to pay a financial penalty. Instead, it has decided to issue a Warning against the Respondent for the breach of its obligations under section 13 of the PDPA.
+Page 4 of 5
+
+20. The Commission emphasises that it takes a very serious view of any instance of non-compliance with the PDPA, and it urges organisations to take the necessary action to ensure that they comply with their obligations under the PDPA. The Commission will not hesitate to take the appropriate enforcement action against the organisation(s) accordingly. YEONG ZEE KIN COMMISSION MEMBER PERSONAL DATA PROTECTION COMMISSION
+Page 5 of 5
+
+

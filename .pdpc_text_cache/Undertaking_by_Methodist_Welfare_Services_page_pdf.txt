@@ -1,0 +1,125 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Methodist
+Welfare
+
+Services
+
+Voluntary Undertakings
+Voluntary Undertaking by Methodist Welfare Services
+
+Share:   
+
+Published on 23 May 2024
+
+Background
+On 23 June 2022, Personal Data Protection Commission (the "Commission") received a data breach notification from Methodist Welfare Services (the "Organisation") informing that the servers belonging to its Bethany Nursing Home Choa Chu Kang was encrypted by a ransomware (the "Incident"). The cause of the ransomware attack could not be established as the Organisation had reformatted its servers to restore its business operations as soon as possible.
+As a result of the Incident, the personal data of approximately 500 residents, including their names, addresses, NRIC numbers, date of birth, phone numbers, email addresses and vaccination records were encrypted and rendered inaccessible. Invoices that reflect the names and residential address of the residents' family members were also affected.
+The Commission found the Organisation to be lacklustre in its cybersecurity and data protection practices as it did not have relevant processes on IT security and did not provide any training for its employees on cybersecurity and data protection issues.
+Remedial Actions
+After the incident, the Organisation implemented the following remedial actions:
+(Tinao)ooDufefrecProrymiovaumcayisbsSietoatntteeermdeiextnsptoe.rnie-pnrceem, tihseissssietervuesressacnodomkieigsr.aRteeaddtomaocreloaubdo-buat sceodoksieersver;
+
+(b) Implemented appropriate technical measures to improve network security; and
+FOR
+Individuals (c) Issued reminders to educate its employees on cybersecurity best practices. 
+
+Voluntary Undertaking
+About
+
+Having considered the circumstances of the case, the Commission accepted a
+vfOroorlgmuannttaishrayetiuoOnndrsgeartnaiskaintigon(thteo"Uenndgeargteakianng")ewxtheircnhalwasesrevxiceecupterodvoidne9r Ntooveimmpbreorv2e02it2s,
+cybersecurity set-up and its data protection practices and policies.
+
+Individuals As part of the
+
+Undertaking,
+
+after
+
+the
+
+initial
+
+set-up,
+
+the
+
+external
+
+service
+
+provider
+
+will
+
+conduct two further reviews. The first review will be conducted 6 months after the
+
+Minietdiailas&etE-uvepnhtsas been completed and the second review will be conducted one year
+
+after the first review. The reviews are to ensure, amongst others, that the latest
+
+software updates have been installed on the Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability 
+TPorivoafcfyerStyaoteumaebnet tter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+Terms and Conditions
+
+Reach 
+
+FOR
+
+Individuals � 2026 Personal Data Protection Commission
+Last updated 23 May 2024
+
+Built with
+
+Powered by
+
+About
+
+Organisations
+� 2026 Government of Singapore
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

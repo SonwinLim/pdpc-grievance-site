@@ -1,0 +1,14 @@
+PERSONAL DATA PROTECTION COMMISSION Case No. DP-1909-B4729
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+SSA Group International Pte Ltd
+SUMMARY OF THE DECISION
+1. The Personal Data Protection Commission (the "Commission") received a complaint on 6 September 2019 that individuals' course registration information were publicly accessible via a webpage (the "Webpage") maintained by SSA Group International Pte Ltd (the "Organisation"). The Webpage contained 53 individuals' names. Other information disclosed via the Webpage included course titles, sponsorship type, information on how the registrant knew about the Organisation and date of transaction.
+2. The Commission found that the Organisation did not adopt reasonable steps to protect personal data in its possession or control against risk of unauthorised access. First, there were no authentication mechanisms in place to limit access to the Webpage. As such, the Webpage was indexed by search engines and made publicly searchable online. Second, there were no formal instructions provided to the developer of the Webpage to protect the contents during its creation in April 2018. Finally, there were no security reviews, including vulnerability scanning, conducted for the Webpage by the Organisation since
+
+its creation. As such, the fact that the Webpage was freely accessible from the Internet went undetected for more than a year.
+3. On the facts above, the Deputy Commissioner for Personal Data Protection found the Organisation in breach of section 24 of the Personal Data Protection Act 2012.
+4. In deciding to issue a warning to the Organisation, the Deputy Commissioner also took into account the following considerations: a) The Organisation's representation that the Webpage had not been easy to locate was incorrect. An online search of the names of the 53 affected individuals produced the Webpage's URL. b) The remedial measures taken by the Organisation, the type of personal data at risk, the inadvertent nature of the breach and the absence of a previous breach, all mentioned by the Organisation in its representations, had also been duly considered. c) The Commission's previous decisions, including as Re Watami Food Service Pte Ltd [2018] SGPDPC [12] and Re Jade E-Services Singapore Pte Ltd [2018] SGPDPC 21 which had similar case facts.
+5. No directions are required as the Organisation has implemented corrective measures that addressed the gaps in its security arrangements.
+
+

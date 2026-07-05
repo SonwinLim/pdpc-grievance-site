@@ -1,0 +1,149 @@
+VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Info-communications Media Development Authority designated as the Personal Data Protection Commission under section 5(1) of the PDPA (hereinafter referred to as the "Commission"), by:
+Thye Hua Kwan Moral Charities Limited UEN: 201130733N Registered Address: 1 North Bridge Road, #03-33, High Street Centre, Singapore 179094
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+1.1 In this Undertaking:
+(a) "Commission's Letter" means the letter dated 27 November 2020 from the Commission to the Organisation, concerning its investigation under the PDPA, including the appendices thereto;
+(b) "Data Protection Provisions" means the provisions in Parts III to VI of the PDPA; and
+(c) "PDPA" means the Personal Data Protection Act 2012 (No. 26 of 2012).
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) As referenced in the Commission's Letter, the Commission has carried out investigations into certain acts and practices of the Organisation, which potentially infringe one or more of the Data Protection Provisions.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to give a direction under section 29 of the PDPA.
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the
+Page 1 of 6
+
+course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation is already implementing the remediation plan set out in clause 3 below.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking (which to avoid doubt, includes the Commission's Letter), and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+3.1 The Organisation undertakes that it has taken, or will take all necessary steps to implement its remediation plan, namely, to carry out the actions referred to in Schedule A in accordance to the stipulated timelines.
+3.2 In addition, the Organisation undertakes to provide, and will ensure that it provides all necessary assistance that the Commission may require to verify the completion of the Organisation's remediation plan in accordance with Schedule A referred to in clause 3.1, including (without limitation) granting the Commission and its representatives physical access to the Organisation's premises, providing information and documentation to the Commission, and arranging for meetings and/or interviews with the Organisation's staff, contractors and/or consultants.
+4. COMMENCEMENT
+4.1 This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above.
+Page 2 of 6
+
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the Organisation fails to comply with this Undertaking or part thereof in relation to any matter.
+5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under section 29 and section 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent.
+6. VARIATION
+6.1 This Undertaking may be varied only with the express written agreement of the Commission.
+This document has been electronically signed by Info-communications Media Development Authority and Thye Hua Kwan Moral Charities Limited. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+
+SIGNED, for and on behalf of
+
+)
+
+Thye Hua Kwan Moral Charities Limited
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+Page 3 of 6
+
+ACCEPTED, for and on behalf of
+
+)
+
+Personal Data Protection Commission
+
+)
+
+By the following:
+
+)
+
+Name: _____Y_e_o_n_g__Z_e_e__K_in______________________ )
+
+Designation: Deputy Commissioner
+
+for Commissioner for Personal Data Protection
+
+)
+
+Date: _______________________________________ )
+
+Page 4 of 6
+
+SCHEDULE A
+
+Item
+
+Status
+
+Strengthen System Security
+A professional web development vendor was engaged to re-build the website to adhere to the Open Web Application Security Project (OWASP) guidelines. The new website conforms to established web security standards and guidelines according to OWASP.
+The new THKMC webserver does not store any personal data. The volunteer sign-up page and database were discontinued on the new website as the service would be outsourced to a third-party cloud-based volunteer management portal which has a set of security controls application to protect the data that it collects.
+Preventive measures were taken to harden the website by subscribing to cyber security threat monitoring software and update the AWS Firewall IP tables with the blacklisted IPs of past attackers.
+To migrate internal report submission services from the THKMC internet website to THKMC intranet staff portal, a more secured environment.
+Tighten System Admin Processes
+IT Dept has taken control of the website administrations and operations hosted by Amazon Web Services (AWS) from Web Content Management Team (CCD).
+Limited the number of Administrator Account for WordPress to two to minimise risk, one of which is held by the IT Team. All other users are given limited access rights. A matrix User Roles and Responsibilities for WordPress usage was created and managed by the IT Team.
+
+Completed
+Completed Completed In progress Completed Completed
+
+Date of Completion (Month-Year)
+Apr-20
+Jun-20
+Jun-20 Apr-21 Apr-20
+May-20
+
+Page 5 of 6
+
+Develop Cyber Security Awareness & Competency
+To make it mandatory for all staff to complete the cyber security training and passed the online quiz annually. The requirement should be recorded as an annual training target of the individual staff performance appraisal.
+Ensure IT staff attend relevant training course to upgrade their knowledge and competency in cyber security.
+Conduct periodic unannounced phishing exercises to test the alertness of our staff to cyber threats.
+Strengthen Cyber Defence
+End Point Protection Enhancements
+Email Security deployment
+Development of Cyber Security Policy
+Incident Response and Crisis Management Policy
+
+Completed
+In progress In progress In progress Completed In progress In progress
+
+On-going
+Mar-21 Jan-21 Nov-20 Oct-20 Mar-21 Mar-21
+
+Page 6 of 6
+
+To: Personal Data Protection Commission 10 Pasir Panjang Road #03-01, Mapletree Business City Singapore 117438 (By Email: ong_wei_wei@pdpc.gov.sg)
+
+ACKNOWLEDGEMENT SLIP
+
+Case number:
+
+DP-2004-B6208
+
+Organisation:
+
+Thye Hua Kwan Moral Charities Limited
+
+I, the undersigned, hereby acknowledge receipt of the following document(s) on behalf of the above-named Organisation:
+
+1. The Personal Data Protection Commission's (the "Commission") letter dated 27 November 2020 with enclosed form of undertaking in respect of the abovementioned case number.
+
+________________________ Signature
+________________________ Name
+
+_______________________ Date
+________________________ Designation
+
+Page 1 of 1
+
+

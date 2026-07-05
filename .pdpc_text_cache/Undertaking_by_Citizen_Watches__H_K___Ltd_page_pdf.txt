@@ -1,0 +1,107 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Citizen Watches
+
+(H.K.) Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Citizen Watches (H.K.) Ltd
+Published on 23 Jan 2025
+
+Share:   
+
+Background
+The Singapore branch of Citizen Watches (H.K.) (the "Organisation") Limited notified the Personal Data Protection Commission (the "Commission") on 26 April 2024 of a data breach incident where a threat actor had allegedly gained unauthorised access to its membership database that subsequently led to the exposure of the personal data of 8,126 individuals on the dark web (the "Incident").
+Investigations revealed that the threat actor gained access to the Organisation's membership database via its website for registered members (the "Members Website") on or around 24 April 2024. This was likely due to the lack of implementation of a password for the administrator account for the Members Website. The Members Website had not been tested for vulnerabilities before it went to production in August 2018. For clarity, the Members Website had been launched by the Organisation to cater to the region's membership campaign and was not affiliated to the brand's official websites which had not been affected by the Incident.
+The Incident affected the personal data of 8,126 individuals that included their names, telephone numbers, personal email addresses, members account passwords, date of birth, country region, job industry and income range.
+The Organisation was found to be lacklustre in its cybersecurity and data protection practices, including failing to implement password protection for privileged accounts and failing to carry out proper testing of and subsequent security reviews of its MToeomffbeer ryoWueabsbietett. eInr eaxdpdeitriioenn,cteh, ethreiswsiatsenuosepsrocopoekr ideos.cRuemaednmtaotrioenabfooruptacsosowkoierds  pinooliucirePs,rIivTasceycSutraittyepmoelinctie. s and data protection policies.
+
+Remedial Actions
+FOR
+Individuals After the Incident, the Organisation implemented the following:
+
+
+
+(a) Engaged a third party to conduct digital forensic investigations and incident Arebsopuotnse;
+
+(b) Permanently shut down the Members Website; and
+
+(Ocr)gDaenleistaetdiotnhse entire membership database.
+
+
+
+VInodilvuidnutaalsry Undertaking
+
+
+
+Having considered the circumstances of the case and the lack of knowledge by the
+
+OMregdainai&saEtivoenntins cybersecurity and data protection practices, the Commission accepted a voluntary undertaking (the "Undertaking"), which was executed on 5
+
+
+
+November 2024, from the Organisation to engage an external service provider to
+
+improve its cybersecurity set-up and its data protection practices and policies.
+
+As part of the Undertaking, the external service provider will assist the Organisation to first complete an initial set-up within 2 months. The initial set-up will include establishing an asset inventory for personal/business data, an IT asset inventory for hardware and software, developing an incident response and data breach management plan and implementing the necessary cybersecurity measures to protect personal data. A review will then be conducted 6 months after the initial setup to ensure, amongst others, that the latest software updates have been installed on the Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals MToeodfifaer&yEovueantbsetter experience, this site uses cookies. Read more about cookies in our Privacy Statement. Contact
+
+
+FOR
+Individuals
+Report Vulnerability 
+APrbivoaucyt Statement
+Terms and Conditions
+Organisations
+Reach 
+
+I�n2d0i2v6idPeursaolnsal Data Protection Commission
+Last updated 23 Jan 2025
+
+Built with
+
+Powered by
+
+Media & Events
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

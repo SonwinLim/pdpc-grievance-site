@@ -1,0 +1,30 @@
+PERSONAL DATA PROTECTION COMMISSION [2023] SGPDPCS 6
+Case No. ENF-DNC-230119-0007 & Others In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+Lin DaoWen Kenny
+... Person
+SUMMARY OF THE DECISION
+1. The Do Not Call Registry ("DNC Registry") is a national database kept and maintained by the Personal Data Protection Commission (the "Commission") pursuant to section 39 of the Personal Data Protection Act 2012 ("PDPA"). Persons may register their Singapore telephone numbers with the DNC Registry so as to not receive unsolicited telemarketing calls and messages. The DNC Registry comprises of 3 separate registers (i) the No Text Message Register, (ii) the No Voice Call Register, and (iii) the No Fax Message Register.
+2. From January 2023 to July 2023, the Commission received twelve (12) complaints arising from unsolicited telemarketing calls made by Lin DaoWen Kenny
+
+(the "Individual") to telephone numbers registered on the No Voice Call Register of the DNC Registry (the "Complaints").
+3. The Commission commenced investigations to determine whether there had been any breaches of the "Do Not Call" provisions in Parts 9 and 9A of the PDPA ("DNC Provisions"). This case also illustrates how the employment of online tools to generate Singapore telephone numbers to market products or services may lead to a breach of section 48B(1) of the PDPA.
+4. The Individual is a financial advisor. In order to generate leads, he used an Excel spreadsheet formula ("randbetween") to generate a list of all numbers upon entering the extreme ends on a numerical spectrum. The Individual generated 1000 numbers (the "Phone List") with the intention of finding Singapore telephone numbers to market his financial advisory services.
+5. Of the 1,000 numbers generated on the Phone List, 384 corresponded to Singapore telephone numbers that were registered with the No Voice Call Register of the DNC Registry.
+6. The Individual engaged a telemarketer to make marketing calls to the numbers on the Phone List to promote his financial advisory services. The Individual admitted that he failed to check if the telephone numbers were registered with the Do Not Call Registry before providing the Phone List to the telemarketer. Given the means by which the Individual generated the Singapore telephone numbers, the Individual was also unable to provide any evidence (written or otherwise) that he had obtained clear and unambiguous consent from the subscribers of the 384 DNC-registered numbers
+
+before making the marketing calls. In light of above, the Individuals has negligently contravened section 43(1) of the PDPA.
+7. Further, by generating the 384 Singapore telephone numbers through the Excel spreadsheet formula mentioned above and engaging a telemarketer to make marketing calls to promote his financial advisory services, the Individual has also contravened section 48B(1) of the PDPA.
+8. The Individual claimed to have inadvertently overlooked screening the numbers on the Phone List on this occasion. The Assistant Commissioner considered that the Individual had a previous compliance record of screening telephone numbers to ascertain if they were on the DNC Registry. Further, the Individual immediately ceased the telemarketing calls and promptly purchased more credits that can be used to screen if the telephone numbers were registered on the DNC Registry so as to ensure compliance with the DNC Provisions of the PDPA. Upon careful consideration of these facts, the Assistant Commissioner issued a warning to the Individual for contravening sections 43(1) and 48B(1) of the PDPA.
+The following section(s) of the Personal Data Protection Act 2012 had been cited in the above summary: Duty to check register
+43.--(1) Subject to section 48(2), a person must not send a specified message addressed to a Singapore telephone number unless the person has, at the time the person sends the specified message, valid confirmation that the Singapore telephone number is not listed in the relevant register. Prohibition on use of dictionary attacks and address-harvesting software
+48B.--(1) Subject to subsections (2) and (3), a person must not send, cause to be sent or authorise the sending of an applicable message.
+
+(2) Subsection (1) does not apply to an employee (P) who sends, causes to be sent or authorises the sending of an applicable message in good faith --
+(a) in the course of P's employment; or
+(b) in accordance with instructions given to P by or on behalf of P's employer in the course of P's employment.
+(3) However, subsection (2) does not apply to a person (P) who, at the time the applicable message was sent, was an officer or a partner of the sender and it is proved that --
+(a) P knew or ought reasonably to have known that the telephone number is an applicable telephone number; and
+(b) the applicable message was sent with P's consent or connivance, or the sending of the applicable message was attributable to any neglect on P's part.
+
+

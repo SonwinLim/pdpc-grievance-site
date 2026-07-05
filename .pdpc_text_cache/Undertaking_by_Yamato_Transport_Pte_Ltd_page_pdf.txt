@@ -1,0 +1,103 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Yamato Transport
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Yamato Transport Pte Ltd
+Published on 27 Mar 2025
+
+Share:   
+
+Background
+On 6 September 2024, a client of Yamato Transport (S) Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") of a data breach incident (the "Incident") involving the Organisation. The Organisation had notified all of its clients, whom it had acted as a data intermediary, of the Incident. Subsequently, other affected clients also notified the Commission.
+The Incident involved unauthorised access to the Organisation's server, which stored its clients' data. As the Organisation' employee data were also affected, it also notified the Commission on 4 October 2024.
+Investigations revealed that the threat actor ("TA") had gained access to the Organisation's system by exploiting a zero-day vulnerability to gain initial access to the Organisation's environment. Thereafter, the TA further exploited vulnerability of the Organisation's system and executed a ransomware.
+The exfiltrated files contained the personal data of 320,482 individuals, belonging to the Organisation's clients and employees. The types of personal data affected include various combination of name, address, email address, phone number and other information.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including, but not limited to, disconnecting the affected servers, patching the zeroTdoayofvfuelrnyeoruabailbitey,ttrerseetxtpinegriepnacssew, tohridsssiftoeruaslleussceoros,kbielos.cRkienagdtmheorTeA'asbIPouatdcdoroekssieasnd isnoolautrinPgrivaallcayffSetcatteedmseenrvte. rs and terminating internet connections.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case, the Commission accepted a 
+voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The UAbnoduetrtaking was executed on 20 January 2025.
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+Organisations (a) Enhancing password complexity;
+
+
+
+I(nbd) Civoidnudaulcsting external/internal vulnerability assessment;
+
+
+
+(c) Switching to cloud-based solution with security features;
+
+M(de) dRieap&laEcvinegntasffected server(s) with new servers installed with the latest OS and 
+software;
+
+(e) Enhancing user access rights control;
+
+(f) Hardening the operating system; and
+
+(g) Establishing new service agreements with customers.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+To offer you a better experience, this site uses cookies. Read more about cookies
+in our Privacy Statement.
+
+Report Vulnerability 
+FOR
+PInrivadcyivStiadtemueantls
+Terms and Conditions
+ARebaocuht 
+
+� 2026 Personal Data Protection Commission
+OLarsgt uapndiastaedti2o4nMsar 2025
+
+Built with
+
+Powered by
+
+Individuals
+
+M� 2e0d2ia6 G&oEvevrennmtsent of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

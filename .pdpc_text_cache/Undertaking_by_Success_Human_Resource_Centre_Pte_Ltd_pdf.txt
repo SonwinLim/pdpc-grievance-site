@@ -1,0 +1,341 @@
+VOLUNTARY UNDERTAKING UNDER SECTION 48L OF THE PERSONAL DATA PROTECTION ACT 2012 Case number: DP-2305-C1080
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 ("the Act")
+And
+(1) Success Human Resource Centre Pte Ltd (UEN No. 200516727R)
+... Organisation The Commission has reasonable grounds to believe that the Organisation has not complied, is not complying or is likely not to comply with section 24 of the Act. In order for the Commission to suspend its investigation pursuant to section 50(3)(ca) of the Act, the Organisation HEREBY UNDERTAKES that it will: (a) Complete the remediation plan set out at Schedule B within the timelines
+stated in Schedule B; and (b) Within 14 days of the completion of the remediation plan set out at Schedule
+B, provide the Commission with a copy of the declaration set out at Schedule C duly signed by the signatory of this Undertaking or a representative of the Organisation of equal designation. The Organisation acknowledges that the Commission shall be entitled to publish and make available to the public this Undertaking and the summary of the Commission's findings set out at Schedule A to this Undertaking.
+Page 1 of 12
+
+The terms of this Undertaking may be varied by the written agreement of the Commission and the Organisation.
+
+SIGNED, for and on behalf of
+
+)
+
+Success Human Resource Centre Pte Ltd
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+Page 2 of 12
+
+SCHEDULE A
+Page 3 of 12
+
+SUMMARY OF FACTS 1. On 30 May 2023, PDPC was notified by a complainant stated that the
+Organisation's URL on the Attendance Tracking System can be manipulated to gain access to the PDF documents containing personal data of other individuals. 2. As a result, the personal data of approximately 30,000 individuals including their names and phone numbers was exposed. 3. To prevent a recurrence of a similar incident, the Organisation took immediate remedial action to address the cause of the personal data breach.
+Page 4 of 12
+
+SCHEDULE B
+Page 5 of 12
+
+S/N
+
+LIKELY CAUSES PROPOSED STEPS TARGETED
+
+OF INCIDENT TO ADDRESS THE COMPLETION
+
+CAUSE
+
+DATE
+
+a. Identify the
+
+specific defects in
+
+the code causing
+
+the issue.
+
+b. Conduct a thorough code review and debugging process to fix the defects.
+
+c. Test updated
+
+code extensively
+
+to ensure the
+
+"Print_attendance"
+
+function works as
+
+Defective code for
+
+intended.
+
+"Print_attendance"
+
+1.
+
+function on ATS d. Implement a
+
+30th September
+
+Portal and
+
+comprehensive
+
+2023
+
+upgrade Web
+
+quality assurance
+
+Disk/Backup
+
+process for future
+
+Options
+
+code changes to
+
+prevent similar
+
+defects.
+
+e. Conduct a greybox penetration test by Net Assist Sdn Bhd Singapore licensed Penetration testing service provider.
+a. Assess the existing code and architecture for the IAM features.
+
+Page 6 of 12
+
+b. Identify and fix any coding flaws and structural issues affecting the IAM functionality.
+
+c. Implement best
+
+Defective code
+
+practices for
+
+and structure for
+
+secure IAM
+
+Identity Access
+
+implementation,
+
+30th September
+
+Management
+
+such as proper
+
+2023
+
+2.
+
+(IAM) features on ATS
+
+authentication, authorization, and
+
+Portal and
+
+access control
+
+mechanisms.
+
+d. Regularly review and update the IAM code and structure to address any emerging vulnerabilities.
+
+e. Introduce and
+
+integrate multi-
+
+factor
+
+authentication into
+
+IAM Modules.
+
+a. Develop a
+
+standardized
+
+process for
+
+enabling and
+
+disabling accounts
+
+based on
+
+employment
+
+Not disabling
+
+status.
+
+specific accounts
+
+for
+
+b. Implement an
+
+interns/full-time
+
+automated system
+
+job hires (For the
+
+that disables
+
+purpose of
+
+accounts for
+
+3.
+
+clocking
+
+interns or full-time 31st October 2023
+
+timesheets)
+
+job hires upon
+
+Page 7 of 12
+
+completion of their contracts or termination of employment.
+
+c. Conduct periodic audits to ensure that accounts are promptly disabled as required.
+a. Review current vendor suitability and ability to continue with the ATS system maintenance and if not, to onboard new vendor Digipixel Pte. Ltd.
+
+b. Enhance the documentation and communication of Access Control Management processes, including user access levels and permissions.
+
+c. Establish a clear
+
+and well-defined
+
+Vendor Service
+
+Level Agreement
+
+Insufficient
+
+(SLA) outlining
+
+visibility of ATS
+
+expectations,
+
+Portal
+
+responsibilities,
+
+Access Control
+
+and response
+
+Management,
+
+times with
+
+4.
+
+Vendor
+
+SLA and
+
+Digipixel Pte. Ltd. And FirstComm
+
+30th September 2023
+
+continued
+
+Solutions for web
+
+maintenance.
+
+development and
+
+hosting
+
+Page 8 of 12
+
+respectively to also cover responsibilities with regards to areas of responsibilities in protection of personal data.
+
+d. Regularly review and update the Access Control Management system to meet evolving security requirements.
+
+e. Conduct periodic checks to verify compliance with the SLA and overall system maintenance.
+a. Develop a vulnerability disclosure policy that encourages responsible reporting of potential security vulnerabilities.
+
+b. Establish a clear
+
+process for
+
+incident
+
+No vulnerability
+
+management,
+
+disclosure policy
+
+including the
+
+5.
+
+and
+
+identification,
+
+31st October 2023
+
+process chart for
+
+assessment, and
+
+specific incident
+
+mitigation of
+
+management.
+
+vulnerabilities.
+
+c. Create a dedicated team responsible for
+
+Page 9 of 12
+
+handling vulnerability disclosures and coordinating appropriate remediation actions. d. Communicate the vulnerability disclosure policy and process to stakeholders, including employees, vendors, and users.
+Page 10 of 12
+
+SCHEDULE C
+Page 11 of 12
+
+Case number: DP-2305-C1080
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 ("the Act")
+
+And
+
+(1) Success Human Resource Centre Pte Ltd (UEN No. 200516727R) ... Organisation
+
+DECLARATION
+
+I refer to the voluntary undertaking dated ________ given by the Organisation to the Personal Data Protection Commission pursuant to section 48L of the Act ("the Undertaking").
+I declare that the remediation plan set out at Schedule B of the Undertaking has been completed.
+I acknowledge that by making a false declaration or providing false or misleading information to the Personal Data Protection Commission, I may be prosecuted for offences under section 51(3)(c) of the Personal Data Protection Act 2012 and/or section 182 of the Penal Code 1871.
+
+________________________ Signature
+
+_______________________ Date
+
+________________________ Name
+
+________________________
+
+Designation
+
+Page 12 of 12
+
+

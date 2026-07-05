@@ -1,0 +1,159 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by JLegal
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by JLegal Pte Ltd
+
+Share:   
+
+Published on 28 Aug 2024
+
+Background
+
+JLegal Pte. Ltd. (the "Organisation") is a specialist legal recruitment company. The Organisation notified the Personal Data Protection Commission (the "Commission") on 17 May 2024 that a threat actor had gained unauthorised access to and deleted files containing personal data of 1,798 jobseekers that the Organisation stored on its Synology Network Attached Storage ("NAS") (the "Incident"). The Organisation managed to recover the deleted files from the recycle bin.
+
+The breakdown of the types of affected personal data is as follows:
+
+Type of Personal Data
+
+Number of Affected Individuals
+
+Name
+
+1,798
+
+Email Address
+
+1,685
+
+Mailing Address
+
+715
+
+Telephone Number
+
+1,551
+
+To offer you a better experience, this site uses cookies. Read more about cookies 
+
+in our Privacy Statement.
+
+FORIdentification Number (i.e. NRIC,
+
+176
+
+InFdINi, vaniddfuoreaiglsn IC)
+
+
+
+AbPouastsport Number
+
+8
+
+OrgPahnoitsoagtiroanpsh
+
+453
+
+
+
+IndDivaidteuoaflsBirth
+
+219
+
+
+
+Salary Data
+
+501
+
+Media & Events
+
+
+
+The Organisation engaged a forensic investigator to assist in its investigations. The forensic investigator was unable to determine if the personal data had been exfiltrated as the NAS's logging feature was not enabled. The Organisation's investigations suggested that four factors enabled the threat actor to gain access to the NAS:
+
+(a) First, the Organisation had enabled the Quick Connect feature for the NAS (which allows client application to connect to the NAS via the internet).
+
+(b) Second, the credentials of the NAS had been compromised.
+
+(c) Third, the Organisation did not enable two-factor authentication for the NAS.
+
+(d) Finally, the firewall settings had allowed internet access to the NAS.
+
+Upon discovery of the Incident, the Organisation took prompt remedial actions. This included moving all personal data from the NAS server to offline portable storage disks and ceasing the use of the NAS server and all online storage. The Organisation also implemented administrative measures to protect the personal data stored in the portable storage disks, and to periodically review the personal data it holds.
+
+Voluntary Undertaking
+
+Having considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 8 July 2024.
+
+As part of the Undertaking, The Organisation will be implementing the following:
+
+(a) Ensure that each portable storage disk is encrypted, and password protected;
+
+(b) Ensure that each staff member will be responsible for their own set of portable sTtoooraffgeer ydoisuksa; better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+(c) Ensure that each staff member keeps their portable storage disks in their FdOeRsignated secured location;
+Individuals
+(d) Ensure that each staff member will only access and use the portable storage disks from their designated secured location; About (e) Maintain an updated inventory of the portable storage disks; (Of)rgCaonnisdauticotnrsegular physical asset inventory checks to ensure that the portable storage disks are properly accounted for; (Ingd) Civoidnudaulcst regular periodic reviews of the personal data it holds; (Mhe) dSeiac&urEevlyendtisspose of personal data what is no longer required; and (i) Formally document the above processes. The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+Share:   
+Personal Data Protection Commission
+About
+Organisations
+Individuals
+Media & Events
+Contact
+
+Report Vulnerability 
+To offer you a better experience, this site uses cookies. Read more about cookies PinrivoaucryPSrtaivtaemcyeSnttatement.
+
+Terms and Conditions
+FOR
+IRneadchividuals
+
+� 2026 Personal Data Protection Commission
+
+Last updated 28 Aug 2024
+
+ABubilot wuitth
+
+Powered by
+
+Organisations
+
+I�n2d0iv2i6dGuoavlesrnment of Singapore
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

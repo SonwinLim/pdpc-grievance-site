@@ -1,0 +1,129 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+by J&W
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Premium and
+
+Exclusive
+
+Pte Ltd
+
+Voluntary Undertakings
+
+Share:   
+Voluntary Undertaking by J&W Premium and Exclusive Pte Ltd
+
+Published on 04 Jul 2024
+
+Background
+On 16 March 2023, PDPC was notified by a complainant of the disclosure of personal data of over 900 respondents on a Google Form used by J&W Premium and Exclusive Pte Ltd (the "Organisation") to register the warranty for TCL Electronics' products. The complainant first reported the issue to the Organisation on 19 December 2022 and subsequently lodged a complaint with PDPC after realizing that the Google Form remained publicly accessible online (the "Incident").
+Investigation revealed that the Organisation did not configure the correct privacy settings for the Google Form and only rectified the error upon notification of the Incident by PDPC.
+As a result of the Incident, the personal data of approximately 1,337 individuals, including their name, phone number, email address and age range, was affected.
+Investigation revealed that the Organisation lacked sufficiently robust processes to protect personal data. The Organisation did not conduct pre-launch testing and did not have any password or patch/change management policy. It also did not carry out any data protection training for its staff.
+Remedial Actions
+After the incident, the Organisation took prompt remedial actions by doing the Tfoollofwfeinr gyo: u a better experience, this site uses cookies. Read more about cookies  in our Privacy Statement. (a) Decommissioned its website;
+
+(b) Established a monthly routine checklist on security configurations; and
+FOR
+Individuals (c) Implemented three layers of checks, verification and testing procedures. 
+
+Voluntary Undertaking
+
+HAbavoiuntg considered the circumstances of the case and the lack of knowledge by the
+
+Organisation in cybersecurity and data protection practices, the Commission
+
+OMacracgyeap2n0ties2ad3t,aiforvnoosmlutnhtaerOy rugnadneisratatikoinngto(tehneg"aUgnedaenrtaexktinergn"a),lwsehrivcihcewparsoevxideecruttoedimonpr3o0ve
+
+its cybersecurity set-up and its data protection practices and policies.
+
+Individuals As part of the
+
+Undertaking,
+
+after
+
+the
+
+initial
+
+set-up,
+
+the
+
+external
+
+service
+
+provider
+
+will
+
+conduct two further reviews. The first review will be conducted 6 months after the
+
+iMnietdiailas&etE-uvepnhtsas been completed and the second review will be conducted one year
+after the first review. The reviews are to ensure, amongst others, that the latest
+
+software updates have been installed on the Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability 
+TPorivoafcfyerStyaoteumaebnet tter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+Terms and Conditions
+
+Reach 
+
+FOR
+Individuals � 2026 Personal Data Protection Commission
+Last updated 05 Jul 2024
+
+Built with
+
+Powered by
+
+About
+
+Organisations
+� 2026 Government of Singapore
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

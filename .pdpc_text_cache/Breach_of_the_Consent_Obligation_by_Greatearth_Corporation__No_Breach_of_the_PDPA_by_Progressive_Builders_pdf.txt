@@ -1,0 +1,77 @@
+PERSONAL DATA PROTECTION COMMISSION [2021] SGPDPC 2
+Case No. DP-1907-B4305 In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And
+
+(1) Progressive Builders Private Limited
+(2) Greatearth Corporation Pte. Ltd.
+
+... Organisation
+
+DECISION
+
+1
+
+(1) Progressive Builders Private Limited; (2) Greatearth Corporation Pte. Ltd.
+[2021] SGPDPC 2
+Yeong Zee Kin, Deputy Commissioner -- Case No. DP-1907-B4305 16 April 2021 Introduction 1 This case involves a series of incidents that led to the unauthorised collection, use, and disclosure of the personal data of 8 individuals (the "Complainants") by Greatearth Corporation Pte. Ltd. ("GCPL"). On 19 and 20 July 2019, the Personal Data Protection Commission (the "Commission") received complaints from each of the Complainants alleging that their personal data had been disclosed by Progressive Builders Private Limited ("PBPL") without their consent (the "Complaints"). The Commission commenced an investigation into the Complaints.
+Facts of the Case
+2 The Complainants are tower crane operators engaged by Craneworks Pte Ltd ("the Subcontractor") to operate tower cranes for the Subcontractor's clients, including PBPL. PBPL is the main contractor for a housing project in Geylang (the "Geylang Project") and is in charge of the Geylang Project worksite (the "Geylang Worksite"). PBPL had collected the Complainants' personal data (including their full name, NRIC, contact number and photograph) when they were appointed as tower crane operators for the Geylang Project. The collection of their personal data was for the purposes of managing the Complainants' roles as tower crane operators. The Subcontractor is a sub-contractor of PBPL for the Geylang Project. It supplies licensed crane operators to PBPL for the operation of tower cranes.
+3 GCPL is also a company that is in the construction business. It is the main contractor for a housing project in Clementi (the "Clementi Project") and is in charge of the Clementi
+2
+
+Project worksite ("Clementi Worksite"). GCPL does not have any business relationship with PBPL, the Subcontractor, or the Complainants.
+Creation of the Banned Operators List
+4 Between 12 and 18 July 2019, a series of incidents involving the Complainants and the staff of PBPL occurred at the Geylang Site. As a result of the incidents, PBPL banned the Complainants from entering the Geylang Worksite. After the workplace incidents, PBPL's project director ("Project Director") directed PBPL's Workplace Safety & Health Officer ("WSHO") at the time to compile a list of the Complainants' details, which included the following personal data of each of the Complainants:
+(a) Full name;
+(b) NRIC number;
+(c) Contact number; and
+(d) Photo ID of the individual
+(collectively, the "Banned Operators List").
+5 According to PBPL, the Banned Operators List was created to identify the Complainants that were involved in the workplace incidents and sent to the Subcontractor and the Ministry of Manpower to inform them of the individuals involved in the workplace incidents.
+Disclosure of the Banned Operators List
+6 On or about 17 July 2019, unbeknownst to PBPL and without any authorisation from PBPL, PBPL's WSHO sent the Banned Operators List to a private Whatsapp group comprising of workplace safety professionals in Singapore (the "Whatsapp Group") along with the following Whatsapp message:
+"... [details of the incident]. Please look out for such operators in future at your site."
+3
+
+7 The Complaints were filed with the Commission between 19 and 20 July 2019 after the Complainants came to know of the existence of the Banned Operators List and the fact that it was being circulated amongst those in the construction industry.
+8 GCPL's WSHO was a member of the Whatsapp Group. When GCPL's WSHO received the Banned Operators List and message, he understood it to mean that the individuals listed in the Banned Operators List (i.e. the Complainants) were banned from working at the Geylang Worksite. As he oversaw the Clementi Worksite, he wanted to look out for the Complainants should they come onto the Clementi Worksite.
+9 On or about 24 July 2019, GCPL's WSHO sent the Banned Operators List to GCPL's safety coordinator with instructions "to look out for these people and not to let them enter the Clementi worksite". Specifically, GCPL's WSHO instructed GCPL's safety coordinator to print and paste a copy of the Banned Operators List in the guard room so that the security guards could keep a lookout for the Complainants. However, GCPL's safety coordinator misunderstood these instructions. Instead of pasting a copy of the Banned Operators List in the guard room of the Clementi Worksite, the word "BANNED" was added as a header to the Banned Operators List and the list was pasted on the external fa�ade of the Clementi Worksite where it was visible to all persons walking onto the Clementi Worksite (the "Poster").
+10 According to GCPL's WSHO, he had not noticed that the Poster was pasted on the external fa�ade of the Clementi Worksite as he usually drove into the worksite. While GCPL's WSHO claimed to have only noticed the Poster on the external fa�ade in late September 2019 and intended to remove it, GCPL only took down the Poster after the Commission notified it of the Complaints on or about 26 September 2019. The Poster had been displayed on the external fa�ade for about 2 months.
+Findings and Basis for Determination
+11 The issues to be determined in this case are:
+(a) whether PBPL is responsible for their WSHO's disclosure of the Banned Operators List;
+(b) if PBPL is responsible, whether PBPL contravened its obligations under the Personal Data Protection Act 2012 ("PDPA");
+4
+
+(c) whether GCPL is responsible for their WSHO and safety coordinator's collection, use, and disclosure of the Banned Operators List; and
+(d) if GCPL is responsible, whether GCPL contravened its obligations under the PDPA.
+Whether PBPL is responsible for their WSHO's disclosure of the Banned Operators List
+12 Under section 53(1) of the PDPA, any act done, or conduct engaged in by an employee in the course of his employment is treated as done or engaged in by his employer as well, regardless of whether it was done or engaged in with the employer's knowledge or approval. Section 53(2) provides for a defence of reasonable diligence for offences under the PDPA, where the employer had taken reasonable steps to prevent or reasonably reduce the risk of the occurrence of the employee's action or conduct that resulted in an unauthorised collection, use and/or disclosure of personal data. For investigations into breaches of the PDPA that are not offences -- such as the present case -- a similar standard of reasonable diligence may be applied by virtue of section 11(1) of the PDPA, by considering whether the organisation had acted reasonably in meeting its responsibilities under the PDPA.
+13 In the present case, the Commission's investigations found that PBPL's WSHO was not acting in the course of his employment when he disclosed the Banned Operators List to the members of the Whatsapp Group:
+(a) first, even though PBPL's WSHO compiled the Banned Operators List in the course of his employment, there was no evidence that PBPL had directed him to share the Banned Operators List in the Whatsapp Group. PBPL was not aware of the Whatsapp Group's existence and did not know that their WSHO was a member of the Whatsapp Group; and
+(b) second, in sharing and disclosing the Complainants' personal data in the Banned Operators List to the members of the Whatsapp Group, PBPL's WSHO had disregarded his obligations of confidentiality under his employment contract:
+"You shall keep confidential and not, during your employment, directly or indirectly use, divulge, disclose or deliver to any person except as authorized or required by your duties, or by law, and term in this letter of
+5
+
+any Confidential Information of the Company acquired by you in the course of your employment."
+14 Thus, given that PBPL's WSHO acted outside of the course of his employment when he disclosed the Complainants' personal data without their consent, section 53(1) of the PDPA does not apply and the WSHO's actions cannot be attributed to PBPL. Accordingly, PBPL did not contravene its data protection obligations under the PDPA with regard to the disclosure of the Complainants' personal data in the Banned Operators List.
+Whether GCPL is responsible for their WSHO and safety coordinator's collection, use and disclosure of the Banned Operators List
+15 Similar to PBPL, it is doubtful if GCPL knew of the existence of the WhatsApp Group or that it's WSHO was a member thereof. GCPL's WSHO probably also did not obtain the Banned Operators List in the course of his employment, since his participation in the WhatsApp Group was unsanctioned. However, the significant departure is that unlike PBPL's WSHO, GCPL's WSHO was acting in the course of his employment when he instructed GCPL's safety coordinator to put up a copy of the Banned Operators List in the Clementi Worksite guardhouse. The use of the Complainants' personal data was expressly professed to be for the purpose of screening and restricting the entry of the Complainants onto the Clementi Worksite. Similarly, GCPL's safety coordinator was also acting in the course of his employment when he pasted the Poster on the external fa�ade of the Clementi Worksite, thereby disclosing the Complainants' personal data.
+16 Accordingly, pursuant to section 53(1) of the PDPA, GCPL's WSHO and safety coordinator's collection, use, and disclosure of the Complainants' personal data were the actions of GCPL for which it was responsible.
+Whether GCPL has contravened its obligations under the PDPA
+17 Under section 13 of the PDPA, organisations are prohibited from collecting, using or disclosing an individual's personal data unless the individual gives, or is deemed to have given, his consent for the collection, use or disclosure of his personal data, or the collection, use or disclosure without consent is authorised under the PDPA or any other written law (the "Consent Obligation").
+6
+
+18 On the present facts, the disclosure of the Complainants' personal data without their consent was not authorised under the PDPA or any other written law; nor could disclosure be supported by any extant exceptions for the Consent Obligation. It was clear from the facts that the Complainants had not voluntarily provide their personal data to GCPL. GCPL therefore needed to have obtained the Complainants' consent before disclosing their personal data by pasting the Banned Operators List onto the fa�ade of the Clementi Worksite. However, GCPL failed to do so.
+19 While it is arguable that the use of the Banned Operators List within the guardroom and confined to the security personnel may have been acceptable, especially if the context of the information had been provided and clear instructions had been given that the Banned Operators List be restricted to private reference by security personnel on duty. However, the present case went beyond what a reasonable person would consider appropriate in the circumstances. The information came from an informal source � i.e. the WhatsApp Group � and GCPL made a decision to ban the Complainants from the Clementi Worksite on the basis of the Banned Operators List. These are decisions that GCPL may make as a private commercial enterprise. The Banned Operators List could have been handled more discretely and used more responsibly. However, pasting it on the external fa�ade of the Clementi Worksite such that it could be seen any passer-by fell below the standard of reasonableness that is expected from GCPL.
+20 In the circumstances, GCPL breached the Consent Obligation.
+The Deputy Commissioner's Directions
+21 In determining the directions, if any, to be imposed on GCPL under section 48I of the PDPA, I took into account the following mitigating factors:
+(a) the incident occurred because GCPL's safety coordinator (who was a new employee at the time) misunderstood the instructions given to him;
+(b) the incident had originated from GCPL's WSHO whose actions arose out of concern for the safety of the Clementi Worksite, in view of the alleged conduct of the Complainants, and in the interest of his employer;
+7
+
+(c) there was limited disclosure of personal data of the Complainants and any disclosure would have been limited to those who entered the Clementi Worksite on foot; and (d) upon being notified of the Complaints, GCPL took prompt remedial action by removing the Banned Operators List poster from the Clementi Worksite. 22 Having considered all the relevant factors of this case, I hereby issue a Warning to GCPL. No further directions are necessary given the remedial actions that have already been taken by GCPL.
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+8
+
+

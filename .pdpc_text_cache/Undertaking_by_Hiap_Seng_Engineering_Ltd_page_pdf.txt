@@ -1,0 +1,103 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Hiap Seng
+Engineering
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Hiap Seng Engineering Ltd
+
+Share:   
+
+Published on 23 Oct 2024
+
+Background
+Hiap Seng Engineering Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 14 June 2024 of a data breach incident where its servers were infected by ransomware which encrypted files that contained personal data (the "Incident").
+Investigations revealed that a threat actor gained access to the Organisation's network on 11 June 2024 via a firewall VPN device using a local administrator account credential obtained through exploiting vulnerabilities in the VPN device. Passwords were found stored in the VPN device's configuration file and were encrypted using old encryption methods, which the threat actor was likely able to decrypt.
+The Incident affected the personal data of 10,000 individuals that included employees, ex-employees and contractor, most of which were stored and encrypted by the Organisation in an on-premise payroll software. Types of personal data affected included a combination of name, address, NRIC/FIN number, date of birth, photograph, work permit number, bank account details, telephone number and passport number.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including an update of all account passwords and firewall rules, implementing geoblocking to allow VPN connectivity from local IP addresses only, implementing twofactor authentication for all accounts on the network and procuring a new server wToitohffuepr -ytoou-daabteestteecruerxitpyefreiaetnucree,st.his site uses cookies. Read more about cookies  in our Privacy Statement.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case, the Commission accepted a 
+voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The UAbnoduetrtaking was executed on 1 October 2024.
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+Organisations (a) Train employees on cybersecurity and data protection and raise awareness on
+
+
+
+best practices and PDPA obligations;
+
+Individuals (b) Implement a software for active directory access management;
+
+
+
+(Mc)eIdmiap&leEmveennttsnetwork segregation and offsite backups;
+
+
+
+(d) Implement a disaster recovery plan; and
+
+(e) Conduct periodic vulnerability assessments and penetration testing for all systems / network / target vectors.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+RToepoofrfteVr uylonueraabbileittyter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+Privacy Statement
+
+Terms and Conditions
+FOR
+IRneadchividuals
+
+� 2026 Personal Data Protection Commission
+
+ALabstouuptdated 23 Oct 2024
+
+Built with
+
+Powered by
+
+Organisations
+
+I�n2d0iv2i6dGuoavlesrnment of Singapore Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

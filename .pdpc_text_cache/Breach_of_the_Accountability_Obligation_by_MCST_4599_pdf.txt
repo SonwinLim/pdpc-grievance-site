@@ -1,0 +1,81 @@
+PERSONAL DATA PROTECTION COMMISSION 2025 SGPDPC 3
+Case No. DP-2405-C2318 In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And The Management Corporation - Strata Title Plan No. 4599 ... Organisation
+DECISION
+1
+
+The Management Corporation - Strata Title Plan No. 4599
+2025 SGPDPC 3
+Wong Huiwen Denise, Deputy Commissioner -- Case No. DP-2405-C2318 19 May 2025
+Introduction
+1 On 4 May 2024, the Personal Data Protection Commission (the "Commission") received a complaint from an individual (the "Complainant") against The Management Corporation - Strata Title Plan No. 4599 ("Organisation") about the Organisation's rejection of the Complainant's access request to closed-circuit television camera ("CCTV") footage involving the Complainant ("4 May 2024 Complaint"). On 25 June 2024, the Commission received a complaint from the Complainant on the Organisation's failure to retain CCTV footage involving the Complainant.
+Facts of the Case
+2 The Organisation is the management corporation of The Scotts Tower Condominium (the "Condominium"), and has the control, management and administration of the Condominium's common property. The Organisation had appointed Knight Frank Property & Facilities Management Pte. Ltd. ("KFPFM") as the managing agent of the Condominium between 28 April 2023 and 31 May 2024. From 1 June 2024, the Organisation appointed Ohmyhome Property Management Pte Ltd ("Ohmyhome") as the managing agent of the Condominium.
+2
+
+3 At the time of the Incident, KFPFM was the Organisation's data intermediary, as it processed data on behalf of the Organisation when carrying out its duties, including handling access requests. KFPFM's capacity as a data intermediary was also recorded in the Managing Agent Agreement between itself and the Organisation.
+4 The Organisation had also appointed a security company to, amongst other things, operate CCTVs that record footage of areas around the Condominium.
+The Incident
+5 On 13 April 2024, the Complainant was involved in a traffic accident on Cairnhill Road, alongside the Condominium.
+6 On 25 April 2024, the Complainant wrote to KFPFM to request access to footage involving himself which was captured by the Condominium's CCTV cameras at the time of the accident ("Access Request").
+7 On the same day, KFPFM instructed the security company to review and download CCTV footage that captured the accident on 13 April 2024 ("CCTV Footage"). While the security company confirmed that the Condominium's CCTV camera did capture the CCTV Footage, it was unable to download the footage because it did not have the requisite administrator credentials.
+8 On 29 April 2024, KFPFM informed the Organisation of the access request and requested for the Organisation's instructions on its response.
+9 In the meantime, as the Condominium's CCTV system only retained footage for 17 days, the CCTV Footage was automatically overwritten on 30 April 2024. On 2
+3
+
+May 2024 , KFPFM on behalf of the Organisation notified the Complainant of its refusal of the Access Request. This led to the 4 May 2024 Complaint, in which the Complainant claimed that the Access Request was wrongfully denied. On 25 June 2024, the Complainant again wrote to the Commission, asserting that KFPFM, Ohmyhome and/or the Organisation failed to preserve the personal data that the Complainant requested for.
+10 From 4 May 2024 to 4 August 2024, the Commission engaged the parties to seek clarification on facts and to ascertain the nature of the Complainant's grievances with the Organisation, KFPFM, and/or Ohmyhome. As will be elaborated below, since the CCTV Footage had been overwritten and was no longer in the Organisation's possession or control, the Commission was unable to make any directions as regard granting access to it pursuant to section 48H of the Personal Data Protection Act 2012 ("PDPA"). Nevertheless, based on the facts provided, the Commission commenced an investigation to determine the Organisation's compliance with the PDPA.
+Findings and Basis for Determination The Access Obligation under section 21 of the PDPA
+11 Section 21 of the PDPA (the "Access Obligation") requires an organisation to provide as soon as reasonably possible, upon request by an individual, personal data about the individual that is in its possession or under its control1. By the time the Complainant filed his complaint with the Commission on 4 May 2024, the CCTV Footage had been overwritten and was no longer in the Organisation's possession or
+1 The exceptions and exemptions to this obligation are set out at sections 21(2) and (3) and the Fifth Schedule of the PDPA.
+4
+
+under its control. The Commission therefore was not able to make a determination on whether the Complainant should have been provided access to the CCTV Footage. Nevertheless, the Commission makes the following observations on the Organisation's handling of the Access Request. In denying the Access Request, the Organisation sought to rely on the exception in section 21(3)(c) of the PDPA, which states that an organisation must not provide an individual with the individual's personal data if the personal data could reasonably be expected to reveal personal data about another individual.
+12 In this regard, personal data about an individual may be disclosed without consent where such personal data is publicly available.2 This includes situations where, in providing an individual access to his / her personal data, an organisation would also disclose the personal data of another individual that is also publicly available. Where the CCTV Footage was of a public road alongside the Condominium, any personal data captured therein would have been publicly available. The Commission has provided express guidance with examples in its Advisory Guidelines on the PDPA for Selected Topics (Revised 23 May 2024), at [4.48-4.50]. 3
+13 In any case, it was open to the Organisation to mask the images of other individuals in the CCTV Footage before providing access to the Complainant. The fact that the personal data of other individuals may appear in CCTV footage does not operate as an automatic justification for a blanket refusal to grant access. When met with an access request, organisations are expected to take steps to comply with the Access Obligation, including considering whether other individuals' personal data can
+2 See section 17(1) and Part 2 of the First Schedule to the PDPA. 3 See also the Commission's Advisory Guidelines on Key Concepts in the PDPA (Revised 16 May 2022), at [15.34].
+5
+
+be masked or omitted when providing access, instead of denying access outright. Organisations are entitled to charge reasonable fees for services provided to an access request applicant to enable the organisation to respond to the applicant's request.4
+14 Another justification relied upon by the Organisation to deny access was that section 47(1)(b)(viii) of the Building Maintenance and Strata Management Act 2004 ("BMSMA") applies when a request for access to CCTV footage is made. This provision requires a management corporation to make available for inspection any record or document in its custody or under its control, where an application is made by one of the following � (a) a subsidiary management corporation; (b) a subsidiary proprietor or mortgagee; (c) prospective purchaser; or (d) a mortgagee of that lot or by a person authorised. The Organisation asserted that as the Complainant did not fall within any of the above categories of persons, it was not obliged to avail the CCTV Footage to the Complainant.
+15 This is misconceived. Provisions of such other written law shall prevail over provisions of the PDPA to the extent that there are inconsistencies.5 However, in this case, there is no inconsistency between the Complainant making the Access Request to the Organisation and section 47 of the BMSMA, which only applies when a person entitled under that provision e.g. a subsidiary proprietor, applies to inspect the CCTV footage.6 Since the Complainant did not fall within any of the above categories of persons, his Access Request should have been handled under section 21 of the PDPA.
+4 Regulation 7 of the Personal Data Protection Regulations 2021 5 Section 4(6)(c) of the PDPA. 6 See Management Corporation Strata Title Plan No. 4436 [2018] SGPDPC 18 at [14].
+6
+
+16 Given the circumstances surrounding the Organisation's handling of the Incident, the Commission focused its investigation on determining the Organisation's compliance with sections 22A, 11(3) and 12 of the PDPA.
+Preservation of personal data when processing an access request
+17 The Commission considered whether the Organisation's deletion of the CCTV Footage amounted to a breach of section 22A of the PDPA, which provides that where an organisation refuses to provide access to personal data upon request, it is required to preserve a copy of the personal data for not less than 30 days from the date of refusal, i.e. the date on which the organisation notifies the individual of its refusal.7 Section 22A presumes that, as an organisation can only provide access to personal data in its possession or control, it may only refuse access to existing personal data that is still in its possession or control.
+18 In the present case, the Organisation did refuse access, but the CCTV Footage no longer existed on the date the Organisation communicated its refusal. If the CCTV Footage was deleted after the Organisation's refusal, the Organisation may have been found in breach of section 22A. However, since the CCTV Footage no longer existed on the date of the Organisation's refusal, the Commission does not make this finding. Nevertheless, the Commission has found the Organisation in breach of section 12 of the PDPA for its failure to implement proper processes to handle access requests (addressed below).
+The Accountability Obligation under sections 11(3) and 12 of the PDPA
+7 See Section 22A of the PDPA read with Regulation 8 of the Personal Data Protection Regulations 2021.
+7
+
+19 Based on the manner in which the Access Request was handled, the Commission also focused its investigation on whether the Organisation had breached its obligations under sections 11(3) and 12 of the PDPA (the "Accountability Obligation"). Section 11(3) of the PDPA requires an organisation to designate one or more individuals, a data protection officer ("DPO"), to be responsible for ensuring compliance with the PDPA.8 Section 12 of the PDPA requires an organisation to, amongst other things, develop and implement policies and practices that are necessary for the organisation to meet the obligations of the organisation under the PDPA.
+20 The Organisation was determined to have breached the Accountability Obligation in two respects.
+Failure to develop and implement policies and practices
+21 The importance of developing and implementing policies and practices has been repeatedly emphasised.9 In the Advisory Guidelines for Management Corporations (revised 17 May 2022) ("MCST Guidelines"), the Commission specifically stated that MCSTs are required to develop and implement policies and practices that are necessary for it to meet its obligations under the PDPA.10 While the MCST may delegate certain data protection duties and functions to the managing agent, the MCST remains fully responsible for complying with the PDPA.11
+8 See also the Advisory Guidelines for Management Corporations Guidelines (revised 17 May 2022) at [2.6]. 9 See Aviva Ltd [2017] SGPDPC 14 at [32], and M Stars Movers & Logistics [2017] SGPDPC 15 at [31] to [37]. 10 See [2.6] 11 See MCST No. 4375 [2020] SGPDPC 4; and the Commission's Advisory Guidelines for Management Corporations (revised 17 May 2022) at [2.6] to [2.8]
+8
+
+22 Investigations revealed that the Organisation did not develop and implement its own data protection policy. When requested to provide a copy of the Organisation's personal data policy and internal guidelines, the Organisation provided its managing agent Ohmyhome's Personal Data Protection Policy instead. This policy was developed to address the needs of Ohmyhome, and was not conceived to meet the Organisation's needs. The policy did not, for example, address how access requests made by data subjects to the Organisation shall be handled. An organisation's data protection policy must be contextualised to its own operational setting and practices.12 It is insufficient for the organisation to simply take reference from or outsource compliance with the PDPA to its managing agent.
+23 In addition, the Organisation gave no written instructions or standard operating procedure to its managing agents or its security company on how they should handle requests for access to personal data, including requests for access to CCTV footage. If the Organisation had applied its mind to this issue, it would have also identified that the security company did not have the requisite administrator credentials to download CCTV footage, and would have rectified that gap.
+24 In light of the above, the Commission finds the Organisation in breach of section 12 of the PDPA.
+Failure to designate data protection officer
+25 The Organisation admitted that they had not appointed a DPO at the time of the Incident, and is therefore in breach of section 11(3) of the PDPA.
+12 See Tiger Airways and others [2017] SGPDPC 6 at [33]. 9
+
+26 The Commission notes that following the Incident, the Organisation has since appointed a DPO to be responsible for ensuring compliance with the PDPA.
+27 For the above reasons, the Organisation is found to have negligently breached the Accountability Obligation by (i) failing to develop and implement policies and practices that are necessary for the Organisation to meet its obligations under the PDPA; and (ii) failing to designate one or more individuals to be responsible for ensuring that the Organisation complies with the PDPA.
+No breach of the PDPA by KFPFM
+28 The Access and Accountability Obligations do not apply to data intermediaries. The Commission's assessment is therefore focused on the Organisation's compliance with the PDPA. The Commission also notes that KFPFM had consulted the Organisation on the Access Request, and had requested for the Organisation's instructions on a response.
+The Deputy Commissioner's Decision
+29 Having considered all the relevant factors of this case, the Commission hereby directs the Organisation to carry out the following within 60 days:
+(a) Develop and implement policies necessary to meet its obligations under section 12 of the PDPA;
+(b) Put in place procedures for the management of CCTV footage upon receipt of requests under section 21 of the PDPA for access to personal data that may be captured in the footage;
+10
+
+(c) Communicate the policies and procedures in (a) and (b) to relevant stakeholders such as its data intermediaries and contractors; and
+(d) Furnish to the Commission a written update within 7 days of the completion of the above directions.
+WONG HUIWEN DENISE DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+11
+
+

@@ -1,0 +1,73 @@
+PERSONAL DATA PROTECTION COMMISSION [2019] SGPDPC 23
+Case No DP-1805-B2072
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+
+And
+
+AgcDesign Pte. Ltd.
+
+... Organisation
+
+DECISION
+
+AgcDesign Pte. Ltd.
+[2019] SGPDPC 23
+Yeong Zee Kin, Deputy Commissioner � Case No DP-1805-B2072
+4 July 2019
+Background and Material Facts
+1 AgcDesign Pte. Ltd. (the "Organisation") provides interior designing services for commercial and residential properties. Between 5 and 9 May 2018, the Personal Data Protection Commission (the "Commission") received complaints alleging that the Organisation had used the complainants' names and residential addresses without the complainants' consent to send them marketing mailers. In the course of investigations by the Commission, it was found that the Organisation had sent the mailers using information from a database of property-related information obtained from a third party. That database had been compiled from information on caveats lodged with the Singapore Land Authority, which was publicly available.
+2 It also emerged in the course of investigations that the Organisation had not appointed any data protection officer ("DPO") and it had not developed and put in place any data protection policies. Upon being notified of the complaints, the Organisation appointed a DPO and issued certain verbal instructions to its employees concerning the collection, use and disclosure of personal data.
+1
+
+AgcDesign Pte. Ltd.
+
+[2019] SGPDPC 23
+
+Findings and Basis for Determination
+
+3 Section 17 of the PDPA, read with the relevant provisions of the Second, Third and Fourth Schedules to the PDPA, permits organisations to collect, use and disclose personal data which is publicly available without the consent of the individuals concerned. The Commission therefore did not proceed further with its investigation into the Organisation's use of personal data in this case and I am satisfied that it is unnecessary to do so.
+
+4 In relation to the Organisation's failures to appoint a DPO and develop and implement any data protection policy, these are required under sections 11(3) and 12 respectively of the PDPA. In particular, section 11(3) requires organisations to designate one or more individuals (typically referred to as a DPO) to be responsible for ensuring that they comply with the PDPA. Section 12 of the PDPA requires organisations to (among other things):
+
+(a)
+
+develop and implement policies and practices that are necessary
+
+for the organisation to meet the obligations of the organisation
+
+under the PDPA; and
+
+(b)
+
+communicate information about such policies and to its staff.
+
+5 The importance of these requirements have been emphasised multiple times in previous decisions. For example, it is important for an organisation to document its data protection policies and practices in writing as they serve to increase awareness and ensure accountability of the organisation's obligations under the PDPA (Re Aviva Ltd [2017] SGPDPC 14 at [32]). Similarly, appointing a DPO is important in ensuring the proper implementation of an
+
+2
+
+AgcDesign Pte. Ltd.
+
+[2019] SGPDPC 23
+
+organisation's data protection policies and practices, as well as compliance with the PDPA (see eg Re M Stars Movers & Logistics Specialist Pte Ltd [2017] SGPDPC 15 at [31] to [37]).
+6 In the circumstances, the Organisation was clearly in breach of sections 11(3) and 12 of the PDPA. While it has since appointed a DPO, it has not yet developed written policies and practices necessary to ensure its compliance with the PDPA.
+The Deputy Commissioner's Directions
+7 Having found the Organisation in breach of sections 11(3) and 12, I have decided to issue it the following directions under section 29 of the PDPA:
+(a) To develop and implement, within 30 days of the date of this direction, a data protection policy and the appropriate written internal policies and practices to comply with the provisions of the PDPA;
+(b) To communicate such policies and practices to its employees and conduct (or ensure that its employees attend) a suitable training course in order to ensure that employees handling personal data understand and comply with the requirements of the PDPA, both within 60 days of the date of this direction;
+(c) To inform the Commission of the completion of each of the above within 7 days of completion; and
+
+3
+
+AgcDesign Pte. Ltd.
+
+[2019] SGPDPC 23
+
+(d) To pay a financial penalty of $5,000 within 30 days from the date of this direction, failing which interest at the rate specified in the Rules of Court in respect of judgment debts shall accrue and be payable on the outstanding amount of such financial penalty until the financial penalty is paid in full.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+
+4
+
+

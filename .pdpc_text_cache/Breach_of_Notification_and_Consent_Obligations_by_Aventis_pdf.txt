@@ -1,0 +1,410 @@
+PERSONAL DATA PROTECTION COMMISSION [2018] SGPDPC [7]
+Case No DP-1705-B0766 In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And Aventis School of Management Pte. Ltd.
+... Organisation
+DECISION
+
+Aventis School of Management Pte. Ltd. [2018] SGPDPC [7]
+
+Tan Kiat How, Commissioner -- Case No DP-1705-B0766
+
+30 April 2018
+
+Background
+
+1
+
+The present matter concerns an individual (the "Complainant") who
+
+had signed up to receive a free brochure for a specific programme organised by
+
+the Organisation, but ended up also receiving numerous marketing emails from
+
+the Organisation that were unrelated to the programme which the individual was
+
+interested in. The question raised is whether the Organisation's "use" of the
+
+Complainant's personal data to send him the marketing emails without his
+
+consent is a breach of the Personal Data Protection Act 2012 ("PDPA"). In the
+
+Commissioner's findings, the answer is in the affirmative.
+
+2
+
+The Commissioner also found that the Organisation had failed to carry
+
+out the Complainant's request to remove his email address from the
+
+Organisation's mailing list in a timely manner, which led to further marketing
+
+emails being sent to the Complainant after the withdrawal request was made.
+
+3
+
+The Commissioner's findings and grounds of decision of the matter are
+
+now set out below.
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+Material Facts
+
+4
+
+The Organisation is an educational institution that collaborates with
+
+overseas universities to offer degrees, courses, and programmes to students
+
+across various disciplines such as Finance, Marketing, and Business.
+
+5
+
+The Complainant was interested in one of the programmes offered by
+
+the Organisation, and submitted his name, email address, and contact number
+
+through a web form on the Organisation's website, titled "Take Action Today �
+
+Download Free Brochure", at http://asm.edu.sg/california-state-university on
+
+12 January 2017.
+
+6
+
+After signing up for this free brochure, the Complainant started
+
+receiving marketing emails from the Organisation promoting various courses
+
+and programmes. For example, one of the marketing emails was titled "3
+
+Psychological Discoveries on How to Convert Difficult People into Cooperative
+
+Comrades". Another title was "How to Lead and Motivate Multi-Generational
+
+Teams through `Yin' and `Yang'". The email addresses of the senders were often
+
+different for each marketing email, such as "noreply@training-event.net" or
+
+"noreply@singapore-event.net". The email addresses did not display a visible
+
+association to the Organisation's domain name (as set out in the preceding
+
+paragraph).
+
+7
+
+The Complainant then lodged a complaint with the Personal Data
+
+Protection Commission ("PDPC") on 15 May 2017, and subsequently provided
+
+2
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+the PDPC with screenshots or actual samples of 15 such emails ("the Marketing Emails") he had received from the Organisation.1
+
+8
+
+According to the Complainant, he had attempted to unsubscribe from
+
+the Marketing Emails by clicking on the "unsubscribe" hyperlink found in the
+
+Marketing Emails. Additionally, the Complainant had also sent messages to two
+
+email addresses, namely "success@aventisglobal.edu.sg" and
+
+"shirley@aventisglobal.edu.sg", which were found within the Marketing
+
+Emails, with a request to be removed from the Organisation's mailing list.
+
+Between 19 April 2017 to 24 May 2017, the Complainant made a total of 5
+
+unsubscribe requests, but to no avail.
+
+9
+
+According to the Organisation, it had only received the Complainant's
+
+request on 15 May 2017 because the two email addresses that the Complainant
+
+had sent his request to were no longer in use by the Organisation, as the email
+
+addresses were assigned to a staff who had left the Organisation.
+
+10 Following the Complainant's complaint of the matter to the PDPC, the PDPC had also informed the Organisation to remove the Complainant's email address from the mailing list. At that point in time, the Organisation was undergoing a system upgrade and transitioning from its existing customer relationship management ("CRM") system to a new one. Due to a technical and administrative glitch in the process of porting over customer data to the new CRM system, the Complainant's email address was still included in the Organisation's mailing list, causing the Complainant to continue to receive the
+
+1
+
+These 15 Marketing Emails comprised emails from the Organisation that were sent on
+
+5 May 2017; 7 May 2017; another on 7 May 2017; 8 May 2017; 15 May 2017; 18 May
+
+2017; 23 May 2017; another on 23 May 2017; 10 June 2017; 14 June 2017; 15 June
+
+2017; 16 June 2017; 17 June 2017; 18 June 2017; and 19 June 2017.
+
+3
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+Marketing Emails. The Organisation finally corrected this issue in June 2017, and provided confirmation to the PDPC that it had fulfilled the Complainant's request on 21 June 2017.
+
+11 Based on the Commissioner's investigations, the Organisation had used the same web form to collect the personal data of 6,109 individuals, and had sent marketing emails to 719 other individuals.
+
+Findings and Basis for Determination
+Issues in this case
+12 At the heart of the matter lies the issue of whether the Complainant consented to receive the Marketing Emails when he submitted his personal details to the Organisation.
+
+13 Section 13 of the PDPA requires that organisations collect, use or disclose personal data about an individual if consent is obtained unless an exception to consent applies. Section 14(1)(a) of the PDPA requires that such consent must be given for purposes that have been notified to the individual.
+
+14 Further, section 18 of the PDPA allows organisations to collect, use and disclose personal data only for purposes which a reasonable person would consider appropriate in the circumstances and for which the impacted individual has been notified.
+
+15 Given the above, if an organisation were to collect, use or disclose personal data for a purpose different than what an individual has been notified of, or has consented to, then the organisation would be in breach of the consent obligation under section 13 of the PDPA and the purpose limitation obligation under section 18 of the PDPA.
+
+4
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+16 The Commissioner also considered whether, even if the Organisation had complied with its obligations under sections 13 and 18 of the PDPA, the Organisation would nevertheless be in breach of section 16(4) of the PDPA. Section 16(4) requires organisations to give effect to the withdrawal of an individual's consent for the collection, use or disclosure of his personal data. This issue arises due to the Organisation's delay in removing the Complainant's email address from its mailing list, which consequently led to the Organisation's continued use of the Complainant's personal data to send him additional Marketing Emails.
+
+The Organisation did not have valid consent to use the Complainant's personal data to send him the Marketing Emails
+17 According to the Complainant, he had provided his personal data on the web form only for the purposes of receiving a copy of the free brochure from the Organisation to find out more about the specific programme which he was interested in. This consent did not extend to the Organisation being able to use the personal data that was collected to send the Complainant the Marketing Emails which were unrelated to the programme he was interested in. By this reasoning, the Organisation had not complied with section 13 of the PDPA because the Organisation had used his name and email address for a different purpose (ie to send him Marketing Emails) from which the Complainant had agreed to when submitting his information.
+
+18 The Organisation disagreed with this, and provided the PDPC with its website's Terms of Use and Privacy Policy, claiming that the Complainant was sufficiently notified of, and had consented to, the Organisation using his personal data to send him the Marketing Emails. Having reviewed the Organisation's website (including the web form), Terms of Use and Privacy
+
+5
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+Policy, the Commissioner did not accept the Organisation's explanation for the following reasons.
+
+The web form did not indicate that the Organisation would use the personal data keyed into the form by individuals to send out the Marketing Emails
+19 The pertinent presentation and content of the web form is as follows:
+(a) The title of the web form states "Take Action Today � Download Free Brochure".
+(b) This is followed by a line beneath the title which reads: "Kindly fill in the simple form and download a FREE brochure".
+(c) Below this line, there are 5 input boxes, comprising of three boxes for a user to input his name, email address, contact number, and two drop-down boxes labelled "Program Interested" and "Specialization".
+(d) Right below the last input box, there is a text which reads: "[s]ubmitting this form meant your consent for our representative to contact you".
+(e) The last item in the web form is a button labelled "Submit Now" for the user to click to submit the form.
+
+20 To an ordinary user of this web form ("user"), these elements convey that upon submitting the form, the user would have agreed to the Organisation collecting the user's personal data for the purposes (a) of the Organisation providing a free brochure to the interested user, and (b) for a representative of the Organisation to contact the user with regard to the programme which the user was interested in. There is nothing in the web form that suggests that the
+
+6
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+Organisation intends to use the name, email address or contact number to send out marketing emails to the user, in particular marketing emails on a subject matter that did not relate to the programme that the user was interested in. In the present case, the information provided did not sufficiently notify the Complainant of these additional purposes and the Complainant cannot be said to have consented to the Organisation using his personal data for the purpose of sending him the Marketing Emails.
+
+The Organisation's Privacy Policy allowed the Organisation to use the personal data of the Complainant only for the purposes of providing the Complainant with the brochure of the specific programme he requested and to contact the Complainant in respect of the said programme
+21 The Organisation claims that besides the web form, its website's Terms of Use and Privacy Policy also provided valid notification of the purposes for the use of the personal data collected through the web form and thereby had obtained consent for the purposes of sending Marketing Emails to the Complainant. The Commissioner did not find this explanation satisfactory.
+
+22 The portion of the Privacy Policy found on the Organisation's website pertinent to the collection of the Complainant's personal data through the web form states the following under the section "Information Collected by E-mail and Online Transactions":
+
+"If you send us an e-mail, we will collect your email address and the contents of your message. We will use your email address and the information included in your message to respond to you, to address the issues you identify, and to improve this web site.
+
+We may also use your email address to notify you about
+
+updates, services, special events or activities offered by us and
+
+our partners. If you would prefer not to receive e-mail or other
+
+communications
+
+from
+
+us,
+
+contact
+
+us
+
+at
+
+info@aventisglobal.edu.sg. If you complete a transaction
+
+such as an online application or an information request
+
+7
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+form, we will collect the information, including personal information that you volunteered in completing the transaction. We will use this information only for purposes for which the transaction was intended. We may redirect your email message or information you provided through an online transaction to our office other than the one which originally received the message or information in order to better respond to you. [Emphasis added.]
+23 The references to "an online application or an information request form" includes the web form completed by the Complainant as the web form was essentially a request for further information on a specific programme and would, therefore, be considered a "transaction" for the purposes of the Privacy Policy.
+
+24 Looking at the pertinent portion of the Privacy Policy, the Organisation has conveyed that it will only use personal data collected as a result of a transaction "for purposes for which the transaction was intended". In this case, the intention in respect of the transaction in question � the provision of personal data in the web form to obtain a brochure on a specific programme � was for the purposes as set out above in paragraph 20. In the circumstances, the consent obtained by the Organisation from the Complainant was for the Organisation to provide a brochure to the Complainant on the specific programme in which he was interested and for a representative of the Organisation to contact the Complainant with regard to the said programme, and not for the purposes of sending Marketing Emails to the Complainant.
+
+8
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+The Organisation's Terms of Use does not apply in respect of personal data collected through the web form
+
+25 While the Organisation's Terms of Use is referred to in the Privacy Policy, the Commissioner is of the view that the Terms of Use does not provide the Organisation with the consent to use the Complainant's personal data for the purposes of sending out Marketing Emails. The reference to the Terms of Use in the Privacy Policy reads as follows:
+
+"By using the Site, you consent to the collection, use and processing of your personally identifiable information by us in the manner and for the uses described in this Privacy Policy and our Terms of Use. We reserve the right to make changes to these policies as appropriate, and will alert you to any changes made" [emphasis added.]
+
+26
+
+Certain portions of the Terms of Use only apply to specific groups of
+
+people, i.e. "Students", "Employees/Staff", and the "General Public". In the
+
+present case, the Complainant is neither a student nor employee or staff of the
+
+Organisation. As such, the Commissioner has focused on the following portion
+
+of the Terms of Use applicable to the "General Public" in determining whether
+
+consent had been obtained from the Complainant to allow the Organisation to
+
+send Marketing Emails to him:
+
+Purpose for the Collection, Use & Disclosure of Personal Data Depending on your relationship with us, the personal data which we collect from you may be used and/or disclosed for the following purpose: For General Public AVENTIS as an educational institution often organise a myriad of training, upgrading and career related activities in which general public are invited to participate. While it is impossible to list all the events in which we hope the public will participate, some events that you as a member of the public can look forward to include corporate outreach programmes, seminars, workshops, talks, exhibitions, etc. Naturally, in encouraging a vibrant interaction with the public, there will be opportunity,
+
+9
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+and often a need, to collect, use and/or disclose personal data from members of the public. The key reasons are as follows:
+ For verification purposes for Events  For administrative purposes for certain Events  To keep you updated of future Aventis Events/products
+which we feel may interest you  For marketing/publicity purposes  For any other purpose arising in respect of the
+environment within which an institution of higher learning such as AVENTIS operates which is reasonable given your relationship with AVENTIS In almost all of the above situations, it will be up to you as to whether, and to what extent, you wish to provide us with your personal data. Typical data collected include participant's name, email and phone numbers. Based on the information provided, the general public may be contacted by various channels including through social media, Whatsapp, emails, phone calls, postal mail, electronic mail, SMS and/or voice calls; ... [Emphasis added.]
+27 While the Organisation's Terms of Use as set out above do refer to the use of personal data for the purposes of keeping users updated of future events and products as well as for marketing and publicity purposes, the Terms of Use, unlike the Privacy Policy, does not mention the collection of personal data online, either through any online application, information request form, or web forms. Applying the legal maxim generalia non specialibus derogant (ie where a contract contains general terms and specific terms the specific terms are to be given greater weight than the general terms if there is a conflict between the two2), the Commissioner finds that greater weight should be given to the Privacy
+
+2
+
+Sir Kim Lewison, The Interpretation of Contracts, 6th ed. (London:
+
+Sweet & Maxwell, 2015) at [7.05].
+
+10
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+Policy which specifically deals with the purposes for which personal data collected through the web form would be used. The provisions in the Terms of Use would be inconsistent with the Privacy Policy if the Terms of Use are generally applicable to personal data collected through the web form.
+
+28 Accordingly, in the Commissioner's findings, the Organisation did not provide notification of the purposes for which the marketing emails were sent out, and consequently, the Complainant also did not provide consent to his personal data being used for such purposes. The observations made above are equally applicable in respect of the Organisation's failure to limit the use of the Complainant's personal data to the notified purposes. In the circumstances, the Organisation is in breach of sections 13 and 18 of the PDPA.
+
+Even if the Organisation had consented to the sending of the Marketing Emails, it failed to give effect to the Complainant's withdrawal of consent
+29 In the case at hand, even if the Organisation had obtained the requisite consent and provided the relevant notification, the Organisation would have nevertheless failed to comply with section 16(4) of the PDPA as it did not give effect to the Complainant's withdrawal of consent within a reasonable time.
+
+30 In this regard, the unsubscribe requests and the emails from the Complainant requesting to be removed from the Organisation's mailing list (as set out in paragraph 8 above) as well as the same request made through PDPC (as set out in paragraph 10 above) would have all, individually, triggered the Organisation's obligation to give effect to the Complainant's withdrawal of consent. These requests were sent between 19 April 2017 and 24 May 2017. However, the Organisation only fulfilled the Complainant's request in June 2017; with the PDPC receiving confirmation of this from the Organisation on 21 June 2017. The Organisation admitted to receiving the Complainant's emails
+
+11
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+at least by 15 May 2017. It took the Organisation about a month to effect the Complainant's request to be removed from the Organisation's mailing list from the time it admitted to receiving the Complainant's request.
+
+31 This runs afoul of the obligation under section 16(4) of the PDPA which requires organisations to put in place accessible means for data subjects to be able to withdraw consent to the collection, use and disclosure of their personal data.
+
+32 As stated in the PDPC's Advisory Guidelines on Key Concepts in the PDPA, as a general rule of thumb, organisations should give effect to a withdrawal notice within ten (10) business days.3 Should the organisation require more time to give effect to a withdrawal notice, it is good practice for the organisation to inform the individual of the time frame by which the withdrawal of consent will take place.
+
+33 Accordingly, given that the Organisation has taken such a long time to give effect to the withdrawal of consent to use the Complainant's personal data to send the Marketing Emails, the Commissioner is also of the view that the Organisation has, in the alternative, failed to comply with section 16(4) of the PDPA.
+
+34 Before leaving the discussion on the Organisation's section 16 obligation, the Commissioner notes that the unsubscribe facility provided for in the Organisation's Marketing Emails was included to comply with section 11 of the Spam Control Act (Cap. 311A) ("Spam Control Act") which states that:
+
+3
+
+PDPC, Advisory Guidelines on Key Concepts in the PDPA (revised 27 July 2017) at
+
+[12.42].
+
+12
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+"Any person who sends, causes to be sent or authorises the sending of unsolicited commercial electronic messages in bulk shall comply with the requirements in the Second Schedule."
+35 The Second Schedule provides that every unsolicited commercial electronic message (such as marketing emails sent in bulk without having obtained the consent of the individual recipients) shall contain a method for the recipients to unsubscribe from receiving such electronic messages in the future.4 The sender is not allowed to send any further unsolicited commercial electronic messages to recipients who have unsubscribed after the expiration of 10 business days after the day on which the unsubscribe request was submitted.5
+
+36 The Commissioner is of the view that any recipient of a marketing email who submits an unsubscribe request using the unsubscribe facility provided by the sender of the marketing email (as required by the Spam Control Act) provides notice to the sending organisation, for the purposes of the PDPA, of the recipient's withdrawal of consent in respect of the use of the recipient's personal data for the purposes of sending the recipient marketing emails.
+
+37 Organisations should therefore be aware that the unsubscribe facility serves a twofold purpose � (a) compliance with section 11 of the Spam Control Act, and (b) as a way for an individual recipient of marketing emails to provide notice to the sending organisation of his withdrawal of consent to the use or disclosure of his personal data for the purposes of sending him marketing emails, in accordance with section 16 of the PDPA. A failure to give effect to an unsubscribe request may lead to a breach of section 11 of the Spam Control Act and, as in this case, a breach of section 16(4) of the PDPA.
+
+4
+
+Paragraph 2(1) of the Second Schedule of the Spam Control Act.
+
+5
+
+Paragraph 2(7) of the Second Schedule of the Spam Control Act.
+
+13
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+38 For the avoidance of doubt, the Commissioner is not making any determination in respect of the Organisation's compliance with its obligations under section 11 of the Spam Control Act as such disputes are within the jurisdiction of the courts.
+
+Enforcement Action by the Commissioner
+39 Given the Commissioner's findings that the Organisation is in breach of its obligations under the PDPA, the Commissioner is empowered under section 29 of the PDPA to issue the Organisation such directions as it deems fit to ensure compliance with the PDPA. This may include directing the Organisation to pay a financial penalty of such amount not exceeding S$1 million.
+
+40 In assessing the breach and determining the directions to be made, the Commissioner considered, as an aggravating factor, the fact that the Organisation had failed to take timely or reasonable steps to resolve or remediate the matter, despite receiving multiple requests from both the Complainant and the PDPC. Another aggravating factor the Commissioner took into account was the high number of affected individuals; the Organisation had used the same web form to collect the personal data of 6,109 individuals, out of which 719 individuals had received similar marketing emails not specific to the programmes that these individuals were interested in from the Organisation.
+
+41 The Commissioner also considered, as a mitigating factor, the fact that the Organisation has been generally cooperative with the investigation and provided its responses to the PDPC's questions promptly.
+
+42 The Commissioner hereby directs the Organisation to pay a financial penalty of S$12,500 within 30 days from the date of the Commissioner's
+
+14
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+direction. Additionally, the Organisation is directed to carry out the following within 30 days:
+(a) cease the use of personal data about individuals for purposes which the individuals have not been notified; and
+(b) review its procedures and processes for the withdrawal of consent by individuals to ensure that such withdrawals are effected upon the receipt of reasonable notice.
+
+Representations by the Organisation
+43 The Organisation submitted its representations by way of a letter dated 5 April 2018 from its solicitors. The Organisation indicated that the Commissioner should consider its track record of acting in accordance with unsubscribe requests, that it acted quickly to improve its administration of unsubscribe requests by on-boarding a new platform to deal with such unsubscribe requests and that the delay in responding to the Complainant's unsubscribe request was due to its migration to the new platform which is a oneoff occurrence. The Organisation also indicated that it had not received the initial unsubscribe requests of the Complainant.
+
+44 The Commissioner is of the view that the above representations do not warrant a reduction in the penalty imposed for the following reasons:
+(a) The Organisation has not adduced any evidence to show that it has a track record of acting in accordance with unsubscribe requests. In any event, even if it was able to show the same, the main finding here is that there was a breach of the consent obligation. Complying with the wishes of individuals to be unsubscribed from mailing lists does not address the main finding that the Organisation collected and used
+
+15
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+personal data for purposes for which the Complainant did not consent to in the first place. At most, it is a remediation of its initial breach.
+(b) While the Organisation may have on-boarded a new platform to better comply with its obligations to give effect to a withdrawal of consent, the Organisation took about a month to give effect to the Complainant's wishes to be removed from its mailing list. While the Organisation has attempted to explain this by claiming that this delay was caused by the on-boarding of the new platform, the Organisation should have put in place measures in the interim to ensure that the Complainant did not receive any further marketing material from the Organisation.
+(c) The Commissioner had already given the Organisation the benefit of the doubt with respect to the date on which it became aware of the unsubscribe requests and based his findings and the determination of the penalty quantum on the Organisation's agreement that it at least became aware of the Complainant's unsubscribe request on 15 May 2017.
+
+16
+
+Aventis School of Management Pte. Ltd.
+
+[2018] SGPDPC 7
+
+45 The Organisation also sought to compare the penalty imposed against them with previous cases. The Commissioner highlights that the penalty imposed in each case is based on the facts in each case and is only arrived at after a detailed consideration of the facts in each case and a comparison with past cases which are broadly similar. In this case, given the aggravating and mitigating factors present as set out at paragraphs 40 and 41 above, the Commissioner decided that a penalty of $12,500 was warranted.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR COMMISSIONER FOR PERSONAL DATA PROTECTION
+
+17
+
+

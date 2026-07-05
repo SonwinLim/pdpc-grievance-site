@@ -1,0 +1,10 @@
+PERSONAL DATA PROTECTION COMMISSION Case No. DP-1904-B3652
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+Barnacles Pte. Ltd.
+SUMMARY OF THE DECISION
+1. Barnacles Pte Ltd (the "Organisation") operates a website which enables its customers to make reservations to dine at its restaurant. For this purpose, it collected certain personal data from its customers such as their name, contact number, email address and date and time of their reservation, amongst other information (the "Personal Data"). However, when the Organisation developed its website, the Organisation did not instruct the vendor it appointed to develop the website to implement security arrangements to protect the Personal Data. The Organisation also made no effort to verify whether any security arrangements had been put in place by its appointed vendor. As a result, the Personal Data was accessible over the Internet, for example, if a search was made on a customer's name using an Internet search engine. The Organisation ceased operations in January 2019 but continued to retain the Personal Data until May 2019, even though it did not have any legal or business purpose to retain the Personal Data other than to fulfil or decline its customers' reservations.
+
+2. Following a complaint against the Organisation in April 2019, the Personal Data Protection Commission found that the Personal Data of 149 individuals had been exposed to the risk of unauthorised disclosure as a result of the Organisation's failure to make security arrangements to protect the Personal Data and/or to cease to retain the Personal Data once it no longer had any legal or business purpose to retain it. In the circumstances, the Deputy Commissioner for Personal Data Protection found the Organisation in breach of sections 24 and 25 of the Personal Data Protection Act 2012 and decided to give a warning to the Organisation.
+
+

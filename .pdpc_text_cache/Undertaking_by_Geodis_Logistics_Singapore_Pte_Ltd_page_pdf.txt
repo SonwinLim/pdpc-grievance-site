@@ -1,0 +1,112 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Geodis Logistics
+Singapore
+
+Pte Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by Geodis Logistics Singapore Pte Ltd
+Published on 02 Aug 2024
+
+Share:   
+
+Background
+On 21 October 2022 and 28 October 2022, the Personal Data Protection Commission (the "Commission") received notifications from Geodis Logistics Singapore Pte. Ltd. (the "Organisation") and Keppel Telecommunications & Transportation Ltd ("KTT") respectively about a data breach incident involving unauthorised access and exfiltration of personal data from two servers belonging to the Organisation (the "Incident").
+Investigations revealed that a malicious actor had logged on to a remote desktop application, using a vendor's account. Through privilege escalation, the malicious actor successfully deployed ransomware and exfiltrated the personal data of 6,337 individuals. The personal data affected included 6,287 images of proof of delivery of parcel recipients, which contained their name, delivery address, contact number, product delivered, signature, order number and sales bill number. In addition, the personal data of 64 directors and 26 employees including their name, date of birth, address, contact number, NRIC number, passport number, bank details, and tax file number was exfiltrated.
+Investigations could not determine how the malicious actor was able to obtain the username and password. The vendor engaged by the Organisation to maintain its warehouse management and web servers found no unauthorised access from its sTyosoteffmersytoouOargbaenttiesar teioxpne'srnieentcweo, rtkh.isThsietereuwseesrecoaolskoienso. Rmeaaldicmiouorsefialebsoourtpcrooogkriaems mes in our Privacy Statement.
+
+present on the vendor's computers, and no indication of compromise, data
+
+FeOxRfiltration, or unauthorised access on its systems.
+Individuals
+Remedial Actions
+
+
+
+AAfbtoeur tthe Incident, as part of a remediation plan, Organisation took the following actions:
+
+c(Oaor)mgapTnoriosomaktiioseanfdsfescetrevders/seysntdepmosintso,faflninde,ressectapnansesdworadffsefcotreadffecetnevdiroITnemnevnirotsn, mreenbtu; ilt
+
+(Inbd) Miviodnuiatolsred dark web for uploads of exfiltrated data;
+
+
+
+(c) Decommissioned one of the compromised servers;
+
+(Mde) dImiap&leEmveennttsed multi-factor authentication for vendor logins;
+
+
+
+(e) Reset vendor's passwords and disabled account; and
+
+(f) Preserved the vendor's devices used to log into the Organisation's IT environment for forensic investigation.
+
+The Commission was also satisfied with the additional remedial actions undertaken by Organisation.
+
+Voluntary Undertaking
+
+Having considered the circumstances of the case, including the remedial steps taken by the Organisation, the Commission accepted a voluntary undertaking on 27 February 2023 (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA").
+
+The Commission accepted the Undertaking having considered the number of affected individuals, the types of personal data involved and the impact of the Incident. Accepting the Undertaking was also consistent with the Commission's practice with respect to other personal data breaches similar to the one that affected the Organisation.
+
+As part of the Undertaking, the Organisation reviewed its vendor contracts to strengthen contractual protection.
+
+The Organisation has since updated the Commission that it has completed the implementation of its remediation plan. The Commission has reviewed the matter and is satisfied that the Organisation has complied with the terms of the Undertaking.
+
+Outcome of Investigations against KTT
+
+After carrying out investigations, the Commission found that KTT had contravened the Protection Obligation under section 24 of the PDPA and imposed a financial pToenoaffletyr yoof u$1a20b,e0t0t0eroenxpKeTrTieonnc1e4, tMhiasys2it0e2u4s. es cookies. Read more about cookies
+in our Privacy Statement.
+
+SFOhRare:   
+Individuals
+PAbeorustonal Data Protection Commission
+OAbrgoauntisations Organisations Individuals Individuals Media & Events Media & Events
+Contact
+
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 02 Aug 2024
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

@@ -1,0 +1,172 @@
+VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Info-communications Media Development Authority designated as the Personal Data Protection Commission under section 5(1) of the PDPA (hereinafter referred to as the "Commission"), by:
+Manulife (Singapore) Pte Ltd UEN: 198002116D Registered Address: 8 Cross Street, #15-01, Manulife Tower, Singapore
+048424
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+1.1 In this Undertaking:
+(a) "Commission's Letter" means the letter dated 4 January 2021 from the Commission to the Organisation, concerning its investigation under the PDPA, including the appendices thereto;
+(b) "Data Protection Provisions" means the provisions in Parts III to VI of the PDPA; and
+(c) "PDPA" means the Personal Data Protection Act 2012 (No. 26 of 2012).
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) As referenced in the Commission's Letter, the Commission has carried out investigations into certain acts and practices of the Organisation, which potentially infringe one or more of the Data Protection Provisions.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has several enforcement options under the PDPA, including the option to give a direction under section 29 of the PDPA.
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data Page 1 of 6
+
+protection practices. In addition, the Organisation was cooperative in the course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation is already implementing the remediation plan set out in clause 3 below.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking (which to avoid doubt, includes the Commission's Letter), and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+3.1 The Organisation undertakes that it has taken or will take all necessary steps to implement its remediation plan, namely, to carry out the actions referred to in Schedule A in accordance to the stipulated timelines.
+3.2 In addition, the Organisation undertakes to provide, and will ensure that it provides all necessary assistance that the Commission may require to verify the completion of the Organisation's remediation plan in accordance with Schedule A referred to in clause 3.1, including (without limitation) granting the Commission and its representatives physical access to the Organisation's premises, providing information and documentation to the Commission, and arranging for meetings and/or interviews with the Organisation's staff, contractors and/or consultants.
+4. COMMENCEMENT
+4.1 This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+Page 2 of 6
+
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above.
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the Organisation fails to comply with this Undertaking or part thereof in relation to any matter.
+5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under section 29 and section 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case and is made based on the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent.
+
+6. VARIATION
+6.1 This Undertaking may be varied only with the express written agreement of the Commission.
+This document has been electronically signed by Info-communications Media Development Authority and Manulife (Singapore) Pte Ltd. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+
+SIGNED, for and on behalf of
+
+)
+
+Manulife (Singapore) Pte Ltd
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+Page 3 of 6
+
+ACCEPTED, for and on behalf of
+
+)
+
+Personal Data Protection Commission
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ ) Designation: _________________________________ ) Date: _______________________________________ )
+
+Page 4 of 6
+
+SCHEDULE A
+
+Causes of Incident
+
+Remediation Plan
+
+Target Completion
+
+1 Consistent and up-to-date The training deck by the Completed
+
+requirements on the Organisation's Information Risk
+
+permissibility of using Management ("IRM") team is to
+
+personal devices for business be aligned with the basic
+
+purposes and the proper use requirements/guidelines
+
+of removable storage media prescribed in Life Insurance
+
+("RSM") were not always Association ("LIA") Data Loss
+
+conveyed to its financial Protection Guidelines for
+
+representatives via the Insurance Agents.
+
+onboarding training, the
+
+annual refresher training, the Based on the revised training Target
+
+new agent onboarding materials provided by IRM, the completion
+
+handbook, as well as the Distribution Services and by 19
+
+quarterly bulletins circulated Compliance team will:
+
+February
+
+by the Organisation's
+
+2021
+
+Regulatory
+
+Compliance a. Issue a circular to
+
+Department.
+
+communicate the basic
+
+requirements of using and
+
+disposing
+
+personal
+
+devices (including RSM)
+
+for business purposes.
+
+b. Incorporate the basic requirements/guidelines into the Agency Market Conduct Guidelines which will be the key reference document for the financial representatives on the expected practices and consequences of noncompliance.
+
+The Organisation's Compliance team will revisit and update the corresponding training materials based on the market conduct guidelines and agent's circular.
+
+Target completion by 19 February 2021
+
+Page 5 of 6
+
+Causes of Incident
+
+Remediation Plan
+
+Target Completion
+
+2 Annual confirmation from its The attestation has been Completed
+
+financial representatives were included in the 2020 annual fit
+
+not obtained in 2019 to and proper declaration
+
+confirm their adherence to the questionnaire and will continue
+
+LIA Singapore Data Loss to remain as part of the future
+
+Protection Guidelines for annual fit and proper declaration
+
+Insurance Agents.
+
+questionnaire unless there are
+
+any regulatory changes.
+
+According to the LIA Data Loss Protection Guidelines for Insurance Agents (effective from March 1, 2019) issued in September 2018, life insurers are required to obtain from their agents a signed annual self-declaration that he/she has complied with LIA Data Loss Protection Guidelines for Insurance Agents.
+
+The Organisation's Regulatory Compliance team is involved in reviewing the questionnaire before MLS Distribution Services team triggers the annual fit and proper declaration exercise to MLS financial representatives.
+
+Page 6 of 6
+
+

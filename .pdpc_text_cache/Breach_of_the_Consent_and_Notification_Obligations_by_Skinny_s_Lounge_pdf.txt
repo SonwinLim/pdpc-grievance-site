@@ -1,0 +1,75 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+Case No DP-1806-B2267
+
+[2019] SGPDPC 13
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+
+Skinny's Lounge
+
+... Organisation
+
+DECISION
+
+Skinny's Lounge
+
+[2019] SGPDPC 13
+
+Skinny's Lounge
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1806-B2267
+11 June 2019
+Background
+1 The Organisation is a Karaoke Television ("KTV") bar located in Boat Quay. The central issue in this case is whether the Organisation had valid consent from its patrons to disclose their images recorded on closed-circuit camera footage ("CCTV Footage"). The disclosure was on a screen in a publicly accessible area of its premises.
+2 Following an investigation into the matter, I found the Organisation in breach of section 13(a) read with section 18 and with section 20(1) of the Personal Data Protection Act ("PDPA").
+Material Facts
+3 The Organisation had one KTV Room on its premise. The KTV Room had a sign beside the TV screen which read "Smile you are being recorded". Patrons using the KTV Room were then recorded on CCTV Footage streamed "live" onto a screen in the Organisation's public lounge ("Public Screen") for general viewing.
+4 On or before 19 June 2018, the Complainant and her friends used the KTV Room and their images were live-streamed onto the Public Screen. After the Complainant and her friends left, the CCTV in the KTV Room malfunctioned. With the live streaming disrupted, the Organisation played on the Public Screen randomly selected recorded CCTV Footage. This included CCTV Footage of the Complainant and her friends which was replayed on the Public Screen for "a day or two". After the Complainant found out about the replaying of the CCTV Footage, she lodged a complaint with the Personal Data Protection Commission ("PDPC") on 19 June 2018.
+
+2
+
+Skinny's Lounge
+
+[2019] SGPDPC 13
+
+Findings and Basis for Determination
+5 The provisions relevant to this case are as follows:
+(a) Section 13(a) of the PDPA states that organisations are prohibited from collecting, using or disclosing an individual's personal data unless the individual gives, or is deemed to have given, his consent for the collection, use or disclosure of his personal data (the "Consent Obligation").
+(b) Section 18 of the PDPA states that an organisation may collect, use or disclose personal data about an individual only for purposes (a) that a reasonable person would consider appropriate in the circumstances; and (b) that the individual has been informed of under section 20, if applicable (the "Purpose Limitation Obligation").
+(c) Section 20(1) of the PDPA states that an organisation is required to notify individuals of the purpose(s) for which it intends to collect, use or disclose an individual's personal data on or before such collection, use or disclosure of the personal data (the "Notification Obligation").
+Personal Data
+6 The images of the Complainant and her friends on the CCTV Footage were their personal data as defined in section 2(1) of the PDPA. This was regardless of whether the images were streamed live or replayed. The personal data was in the Organisation's possession and/ or under its control.
+The Organisation failed to obtain valid consent to re-play the CCTV Footage with the personal data of the Complainant and her friends on the Public Screen
+7 Upon review of the collected evidence, patrons were given notice that their images would be recorded and streamed live onto the Public Screen. First, they would have walked past the Public Screen before entering the KTV Room. In this regard, they would have noticed
+3
+
+Skinny's Lounge
+
+[2019] SGPDPC 13
+
+that the Public Screen showing images of the KTV Room. Second, the sign beside the TV screen mentioned also notified the customers that they were being recorded.
+8 However, there was no notice to the Complainant and her friends that their images could be randomly selected and re-played on the Public Screen when they were no longer in the Organisation's premises. The Organisation gave no notice to its patrons of the purpose(s) for which their recorded images would have been used. The only purpose evident from the circumstances was the live streaming visible to the patrons on the Public Screen. There was no evidence that a re-play of CCTV Footage on the Public Screen was regular. Neither could it be said that re-playing images of patrons in the KTV Room was an obvious response to CCTV malfunction, such that a reasonable person would have considered it natural and therefore appropriate. Music videos, for example, could have been screened.
+9 Given the foregoing, as the Organisation had not notified the Complainant of the purposes for which the CCTV Footage would be reused, it follows that it had not obtained consent for the use and disclosure of the Complainant's personal data under section 13 read with sections 14(1) and 20(1) of the PDPA. On the facts, none of the other provisions in the PDPA would apply to allow the Organisation to re-play the CCTV Footage on the Public Screen. In addition, the failure to notify the Complainant meant that the Organisation was not permitted to use and disclose the CCTV Footage in the manner which it did under section 18 of the PDPA. I therefore find that the Organisation had contravened sections 13 and 18 of the PDPA.
+Remedial Action
+10 The Organisation did take remedial action. It ceased screening of CCTV Footage on the Public Screen. It improved its notification by informing patrons that CCTV recording is ongoing in its premise for security purposes.
+Conclusion
+11 Having found the Organisation to be in breach as above, I am empowered under section 29 of the PDPA to give the Organisation such directions as deemed fit to ensure compliance with the PDPA.
+4
+
+Skinny's Lounge
+
+[2019] SGPDPC 13
+
+12 In determining the appropriate directions to be imposed on the Organisation, I have taken into account the following mitigating factors:
+(a) There was no evidence of any unauthorised use of the CCTV Footage of the Complainant and her friends other than the re-play mentioned.
+(b) The Organisation did not receive any other complaints on this incident other than from the Complainant.
+(c) The Organisation was cooperative in the course of investigation.
+(d) The Organisation took prompt remedial action after being notified by the Complainant and PDPC.
+13 Having considered all the relevant factors of the case, I have decided to issue a warning to the Organisation for breaching its obligations under section 13(a) read with section 18 and with section 20(1) of the PDPA, as neither further directions nor a financial penalty is warranted in this case.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION
+
+5
+
+

@@ -1,0 +1,136 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by MISC Group Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by MISC Group Pte Ltd
+Published on 25 Sep 2024
+
+Share:   
+
+Background
+On 23 May 2024, the Personal Data Protection Commission (the "Commission") reached out to MISC Group Pte Ltd (the "Organisation") after receiving information that a database containing personal data of individuals associated with the Organisation, were made available for sale on the dark web (the "Incident").
+The database was associated with the Organisation's online ordering website and investigations found that the API URL to the website that was hosted on a cloud server in the Amazon Web Services ("AWS") console had been publicly accessible. It was believed that the database in the server was likely exfiltrated by the threat actor(s) by exploiting the API URL.
+As a result of the Incident, the personal data of approximately 97,659 individuals, including their names, contact number, address, email address, transaction information such as choice of payment method and amount purchased were exposed on the dark web.
+The Organisation was found to be lacklustre in its cybersecurity and data protection practices as it had not developed or implemented data protection policies and procedures to comply with the Personal Data Protection Act 2012 (the "PDPA"). In addition, the AWS cloud server was not regularly scanned for vulnerabilities.
+Remedial Actions
+To offer you a better experience, this site uses cookies. Read more about cookies  iAnftoeurrthPerivinaciydSetnatt,etmheeOntr.ganisation implemented the following:
+
+(a) Enabled a secret key on the API URL to prevent public access; and
+FOR
+Individuals (b) Reviewed the restrictions on other server access keys.
+
+
+
+Voluntary Undertaking
+
+HAbavoiuntg considered the circumstances of the case and the lack of knowledge by the
+
+Organisation in cybersecurity and data protection practices, the Commission
+
+Oacrcgeapntiesadtaiovnosluntary undertaking (the "Undertaking"), which was executed on 6 September 2024, from the Organisation to engage an external service provider to
+
+
+
+improve its cybersecurity set-up and its data protection practices and policies.
+
+Individuals As part of the
+
+Undertaking,
+
+the
+
+external
+
+service
+
+provider
+
+will
+
+assist
+
+the
+
+Organisation
+
+to first complete an initial set-up within 2 months. The initial set-up will include the
+
+Mapepdoiain&tmEveennttasnd registration of a Data Protection Officer ("DPO") with the
+
+
+
+Commission or the Accounting and Corporate Regulatory Authority ("ACRA"),
+
+establishing an asset inventory for personal/business data, an IT asset inventory for
+
+hardware and software, developing an incident response and data breach
+
+management plan and implementing the necessary cybersecurity measures to
+
+protect personal data. A review will then be conducted 6 months after the initial set-
+
+up to ensure, amongst others, that the latest software updates have been installed
+
+on the Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+To offer you a better experience, this site uses cookies. Read more about cookies
+in our Privacy Statement.
+
+Report Vulnerability 
+FOR
+PInrivadcyivStiadtemueantls
+Terms and Conditions
+ARebaocuht 
+
+� 2026 Personal Data Protection Commission
+OLarsgt uapndiastaedti2o5nSsep 2024
+
+Built with
+
+Powered by
+
+Individuals
+
+M� 2e0d2ia6 G&oEvevrennmtsent of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

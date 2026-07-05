@@ -1,0 +1,125 @@
+VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Info-communications Media Development Authority designated as the Personal Data Protection Commission under section 5(1) of the PDPA (hereinafter referred to as the "Commission"), by:
+MindChamps PreSchool Limited UEN: 200814577H Registered Address: 6 Raffles Boulevard, #04-100 Marina Square, Singapore
+039594
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+1.1 In this Undertaking:
+(a) "Commission's Letter" means the letter dated 23 December 2020 from the Commission to the Organisation, concerning its investigation under the PDPA, including the appendices thereto;
+(b) "Data Protection Provisions" means the provisions in Parts III to VI of the PDPA; and
+(c) "PDPA" means the Personal Data Protection Act 2012 (No. 26 of 2012).
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) As referenced in the Commission's Letter, the Commission has carried out investigations into certain acts and practices of the Organisation, which potentially infringe one or more of the Data Protection Provisions.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to give a direction under section 29 of the PDPA.
+Page 1 of 6
+
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation is already implementing the remediation plan set out in clause 3 below.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking (which to avoid doubt, includes the Commission's Letter), and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+3.1 The Organisation undertakes that it has taken, or will take all necessary steps to implement its remediation plan, namely, to carry out the actions referred to in Schedule A in accordance to the stipulated timelines.
+3.2 In addition, the Organisation undertakes to provide, and will ensure that it provides all necessary assistance that the Commission may require to verify the completion of the Organisation's remediation plan in accordance with Schedule A referred to in clause 3.1, including (without limitation) granting the Commission and its representatives physical access to the Organisation's premises, providing information and documentation to the Commission, and arranging for meetings and/or interviews with the Organisation's staff, contractors and/or consultants.
+4. COMMENCEMENT
+4.1 This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3) of the PDPA to
+Page 2 of 6
+
+suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above.
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the Organisation fails to comply with this Undertaking or part thereof in relation to any matter.
+5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under section 29 and section 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent.
+6. VARIATION
+6.1 This Undertaking may be varied only with the express written agreement of the Commission.
+This document has been electronically signed by Info-communications Media Development Authority and MindChamps PreSchool Limited. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+Page 3 of 6
+
+SIGNED, for and on behalf of
+
+)
+
+MindChamps PreSchool Limited
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+ACCEPTED, for and on behalf of
+
+)
+
+Personal Data Protection Commission
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+Page 4 of 6
+
+SCHEDULE A
+
+Remediation Actions Specific Measures to be done
+
+by the Organisations
+
+1 To carry out Data
+
+A Data Protection Review would
+
+Protection and Security Reviews on all of its current front end and backend IT systems.
+
+include: (a) Assessment of the need for the system; (b) Updating the personal data inventory;
+
+(c) Risk identification in relation to
+
+personal data; and
+
+(d) Measures to be taken to mitigate
+
+risks identified.
+
+A Security Review includes: (a) Carrying out Vulnerability Assessment and Penetration Testing (VAPT), or obtaining results of VAPTs already carried out by service providers, eg. for SoftwareAs-A-Service; (b) Updating and patching computer software; (c) Installing or updating appropriate computer security software (including virus checking) and using suitable computer security settings; and (d) Adopting appropriate access controls (i.e. User passwords, screen saver passwords and limiting access to shared network drives to authorized personnel).
+
+Target Completion 1st Month � Identify and prioritise all IT systems
+2nd to 3rd Month � Carry out Data Protection & Security reviews on High Priority IT Systems
+4th to 6th Month � Carry out Data Protection & Security Reviews on Low Priority IT Systems
+End of 6th Month � Produce Reports on IT Systems where Data Protection & Security reviews had been carried out
+
+2 To review and ensure compliance with its existing policies on Vendor Security
+
+Vendor Security Management Policy for new IT projects covers: (a) Engagement Planning;
+
+1st Month � Carry out training for all IT and other
+
+Page 5 of 6
+
+Management and Data Protection Impact Assessment for new IT projects
+
+(b) Vendor Selection / Due Diligence; (c) Contracting (including clauses on Scope and Services, Service Levels and Risk Management Standards, Notification on Adverse Developments, Business Continuity, Dispute Resolution, Subcontracting, Confidentiality and Privacy, Compliance and Termination); (d) After Boarding a New Vendor; and (e) Exit / Renewal.
+Guidelines for DPIAs on new IT projects consists of: (a) Description of the project; (b) Nature, scope, objectives and purposes of data processing; (c) Assessment of the need for the system; (d) Measures taken in terms of information security, compliance requirements, etc.; (e) Risk identification and assessment in relation to personal data; and (f) Measures to be taken to mitigate risks identified.
+
+relevant staff on the VSMP and DPIA.
+End of 6th Month - Review and report on compliance with the VSMP and DPIA for new IT Projects during the 6 months prior.
+Thereafter, training on the VSMP and DPIA and review of compliance to the VSMP and DPIA for new IT Projects will be repeated on an annual basis.
+
+Page 6 of 6
+
+

@@ -1,0 +1,411 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+Case No DP-1712-B1471
+
+[2019] SGPDPC 8
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+German European School Singapore
+... Organisation
+
+DECISION
+
+German European School Singapore
+[2019] SGPDPC 8
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1712-B1471
+3 June 2019. Background 1 This case concerns a complaint made by the father (the "Complainant") of a student1 ("AB") at the German European School Singapore ("GESS"). The central issue raised in the complaint, in so far as it relates to the Personal Data Protection Act 2012 ("PDPA"), was that GESS had collected and used personal data of AB without valid consent in the course of conducting a random drug test. GESS has not denied that it had collected the personal data of AB but has asserted that it did so with valid consent. The brief facts of the case are as follows.
+2 On 6 December 2017, AB was selected by staff of GESS for random drug testing and asked to provide a hair sample by cutting for the drug test. This was done in accordance with GESS' internal procedures and pursuant to its school bye-laws which provided that it may conduct drug testing at random or in cases of "proven suspicion". When the Complainant found out about this later that day, he immediately contacted the Principal of GESS via email to
+1 As this individual is a minor, his name and the names of his parents are omitted from this Decision.
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+object to the test being done on his son. The complainant also requested that the results of the test be given to him in its unopened envelope, as received by the school.
+
+3 In a turn of events, the drug test could not be conducted on AB's hair sample as it apparently had not been stored correctly after it had been cut when it was sent to the overseas testing laboratory engaged by GESS to conduct the drug test2. Following the email correspondence between the Complainant and the Principal, the Complainant and his wife ("AC") met with the Principal and other GESS staff on 12 December 2017 to discuss the matter. At the meeting, the Principal informed AB's parents that AB was required to provide a second hair sample when he returned to school in January 2018.
+
+4 The outcome of this discussion was that the Complainant and AC were informed by GESS during the meeting, and again by way of a letter dated 13 December 2017, that AB would be subject to immediate expulsion from the school if he did not provide a hair sample for the drug test on his first day back in school, or if the results of the test were positive.
+
+5 The Complainant eventually sent another email to the Principal on 7 January 2018 which stated that he permitted AB to give the second hair sample, albeit under his "profound protest". In reply to this email, the Principal reiterated GESS' position that AB was required to give a hair sample for drug testing, failing which he would have to leave school. Thereafter, the
+
+2
+
+The drug test results on AB's hair sample indicated "unable to complete" in respect of
+
+each of the drugs to be tested (listed in the results as cocaine, opiates, PCP,
+
+amphetamines and marijuana) and the reason stated was "INVALID SAMPLE � Flap
+
+A/B not sealed or improperly sealed."
+
+2
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+Complainant sent a final email emphasising that he had permitted AB to give the second hair sample.
+
+6 On 8 January 2018, AB, accompanied by AC, presented himself at the Principal's office at GESS. AC agreed to AB providing his hair sample for the purpose of drug testing and the school's first aid officer proceeded to take a hair sample from AB.
+
+7 On 11 January 2018, the Complainant submitted his complaint to the Personal Data Protection Commission ("PDPC") that GESS had collected and used personal data of AB without consent. The Complainant asserted that this was in contravention of sections 13 and 14 of the PDPA and that deemed consent (under section 15 of the PDPA) did not apply. The Complainant also asserted that GESS "expect[s] parents to consent to have their children randomly selected to take hair samples" and also that GESS "cannot argue that it is reasonable to do drugs testing in order to give a good education to its students".
+
+8 In its response to PDPC's investigation into the matter, GESS sought to rely on agreements entered into between GESS and AC in 2006 and 2011. GESS also sought to rely on the Complainant's correspondence with the Principal and AC's verbal statements on 8 January 2018 to assert that the Complainant and AC had provided their consent for the collection of AB's personal data. GESS also made various representations concerning the reasons for its drug testing policy.
+
+3
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+The Deputy Commissioner's Findings
+
+What is the personal data that is the subject of the complaint?
+
+9 In his complaint, the Complainant raised the possibility of AB's hair sample being part of his personal data, apparently on the basis that a hair sample contains DNA.3 In this case, GESS had not collected the hair sample for DNA testing and would not have obtained any information concerning AB's DNA.
+
+10 Nevertheless, the intention was to obtain through chemical analysis information about whether the individual had consumed controlled drugs by identifying traces found in the hair sample. It is this personal data that is the subject matter of the complaint. Further, it is clear that the hair sample was collected for drug testing and there would be a report produced by the testing laboratory which indicated the outcome of the test. The hair sample was sent to the testing laboratory on a "no-names" basis, that is, without identifying the individual to whom the sample belonged. As such only GESS was able to match the drug test results with the student who had given the hair sample.
+
+What are the requirements for obtaining consent for the collection and use of personal data under the PDPA?
+
+11 Section 13 of the PDPA allows an organisation to collect, use or disclose personal data with the individual's consent unless an exception applied. Consent may be given by the individual or any person validly acting on behalf of the individual: section 14(4). However, section 14(2) read with section 14(3)
+
+3
+
+The Complainant stated in the third paragraph of the details of the complaint, "... I
+
+realised that a hair sample contains DNA, and therefore qualifies as data in the list of
+
+examples you listed � which included DNA sample and Iris scans".
+
+4
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+invalidates any consent which requires an individual to give consent as a condition of providing a product or service, beyond what is reasonably necessary in order to provide the product or service. Section 15 of the PDPA contemplates the possibility that an individual may be deemed to have given consent through his voluntarily act of providing personal data to the organisation for specific purposes. While section 16(1) of the PDPA provides an individual may, at any time on giving reasonable notice to the organisation, withdraw any consent given, or deemed to have been given. Finally, organisations are held to a reasonable standard in meeting their responsibilities by virtue of section 11(1) of the PDPA.
+
+12 As there are no written laws which require or authorise the collection of personal data without consent as in the circumstance of this case, GESS must therefore have either obtained consent under the PDPA for the collection and use of AB's personal data or AB must be deemed to have consented to such collection and use. For the purposes of this case, I would like to highlight the following principles which would apply under the PDPA:
+(a) The term "consent" under sections 13 and 14 � in contrast with "deemed consent" under section 15 � is not defined in the PDPA. In general, consent refers to any agreement to, or acceptance of, the matter which is being consented to.
+(b) The PDPA does not specify any particular manner in which consent is to be given under sections 13 and 14 of the PDPA. It is trite law that consent may either be express or implied:
+(i) Express consent refers to consent which is expressly stated in written or verbal form.
+
+5
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+(ii) Implied consent refers to consent which may be inferred
+or implied from the circumstances or the conduct of the
+individual in question. Thus Black's Law Dictionary (10th edition) defines "implied consent" as:
+"1. Consent inferred from one's conduct rather than from one's direct expression. � Also termed implied permission. 2. Consent imputed as a result of circumstances that arise, as when a surgeon removing a gall bladder discovers and removes colon cancer."
+Likewise, in the High Court case of Samsonite IP
+Holdings Sarl v An Sheng Trading Pte Ltd [2017] 4 SLR
+99 which involved, amongst others, the question of
+whether certain backpacks were "put on the market with
+the [trade mark] proprietor's express or implied consent
+(conditional or otherwise)" within the meaning of
+section 29 of the Trade Marks Act (Cap 322), George
+Wei J observed at [113] that:
+"The notion of "implied consent" is a more difficult concept to grapple with [as compared to express consent], especially in terms of its application. In general, it can be characterised as consent which is not expressly granted by the proprietor, but rather inferred from his actions and/or the facts and circumstances of a particular situation."
+In contrast to consent deemed by operation of law under
+section 15, this is a form of actual consent where the
+individual does, in fact, consent to the collection, use and
+disclosure of his personal data (as the case may be)
+although he has not expressly stated his consent in
+written or verbal form. It is a concept that is more
+
+6
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+expansive and malleable than deemed consent as its ambit is defined by the circumstances and conduct of the individual; but is necessarily more restricted in scope than express consent which is an expression of agreement of the range of purposes contemplated by the organisation to which the individual agrees or accepts. (Parenthetically, the expansive scope of express consent is circumscribed by the requirement of reasonable appropriateness under section 18.)
+(c) For both of the above modes of giving consent to be effective under the PDPA, the requirements of section 14(1) of the PDPA must be met. For example, the individual must have been notified of the purposes for the collection, use or disclosure (as the case may be) of his personal data.4 In comparison, deemed consent under section 15 does not require that the individual must have been notified of such purposes: section 20(3)(a) of the PDPA. It suffices that the individual provided personal data for a purpose which may, or ought to, be known to the individual, or inferred from the surrounding circumstances.
+(d) Where an individual has given express or implied consent in the circumstances specified in section 14(2) of the PDPA (see
+
+4 An example of this is where an individual presents a credit card or charge card for the purpose of making payment for an online purchase. The individual expressly consents to the issuer bank collecting, using and/or disclosing his payment details to process his purchases. Deemed consent covers the disclosure of his payment details by the merchant to its acquiring bank. Implied consent enables the multiple layers of disclosure and use of his payment details by the financial institutions participating in the card scheme during the course of processing the payment. The concepts of deemed and implied consent operate in a mutually exclusive manner but may be daisy-chained.
+7
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+above), such consent would be invalid. As stated in the Advisory
+Guidelines on Key Concepts in the PDPA (revised 27 July 2017)
+(at [12.15] to [12.16]):
+"12.15 Section 14(2) of the PDPA sets out additional obligations that organisations must comply with when obtaining consent. This subsection provides that an organisation providing a product or service to an individual must not, as a condition of providing the product or service, require the individual to consent to the collection, use or disclosure of his personal data beyond what is reasonable to provide the product or service. The subsection also prohibits organisations from obtaining or attempting to obtain consent by providing false or misleading information or using deceptive or misleading practices.
+12.16 Section 14(3) provides that any consent obtained in such circumstances is not valid. Hence an organisation may not rely on such consent, and if it collects, uses or discloses personal data in such circumstances, it would have failed to comply with the Consent Obligation."
+(e) Where an individual has given express or implied consent under
+the PDPA, deemed consent would not arise under section 15 of
+the PDPA. This is in view of the words in section 15(1)(a) which
+state that deemed consent may arise where the individual
+"without actually giving consent referred to in section 14,
+voluntarily provides the personal data to the organisation ...".
+
+Consent obtained by GESS � Implied Consent
+
+13 After a review of all the evidence obtained by PDPC during its investigation and for the reasons set out below, I am of the view that GESS had
+
+8
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+obtained the necessary consent for the collection and use of AB's personal data in connection with the drug test conducted on his hair sample.
+
+Notification of purpose
+
+14 As with other schools, GESS has in place various school rules and policies which it has established. Specifically, in relation to drug testing, paragraph 5.8 of the Respondent's School Bye-Law ("Bye-Law 5.8") states as follows:
+
+"5.8
+
+Drug Testing
+
+The School shall conduct drug tests on students of Form 7 and above in cases of proven suspicion, as well as, at random. The Principal shall decide on the procedures of the test. If and when the first test shall be positive, and this is confirmed by a second test taken within a reasonable time-span, the respective student shall be expelled from the school immediately."
+
+15 These bye-laws are made available to parents when they enrol their children in the school and are also available on GESS' website through a parents' portal set up by the school.
+
+16 When considering Bye-Law 5.8, I note that it expressly states the outcome of a positive test, which is that the student in question will be expelled from the school. I am of the view that Bye-law 5.8 sufficiently specifies the purposes for which the drug test results would be used. Accordingly, I find that Bye-Law 5.8 has met the requirements of the PDPA in terms of notifying the individuals concerned of the purposes for the collection and use of their personal data.
+
+17 During investigations, GESS sought to rely on the following documents to substantiate its assertion that it had obtained written consent for the collection and use of AB's personal data:
+
+9
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+(a) An agreement entered into by AC on 20 March 2006 to abide by the terms of GESS bye-laws (including Bye-Law 5.8) (the "2006 Agreement").
+(b) An information letter provided to parents of GESS' students, including AC, on 31 October 2011 which included a reference and a link to GESS' bye-laws and which was accepted by AC on 1 November 2011 (the "2011 Information Letter").
+
+18 The documents relied upon by GESS do not contain any express consent clause for the collection and use of personal data. This is unsurprising given that those documents predate the enactment of the PDPA. It is notable in this case that GESS had implemented a data protection policy following the enactment of the PDPA and it provided for express consent to be obtained for collection and use of various items of personal data for various purposes. However, GESS's data protection policy does not cover personal data collected for the purpose of drug testing and accordingly they have not sought to rely on their data protection policy in this case.
+
+19 The 2006 Agreement comprises a set of documents entitled "Part 4 � Admission Forms" which were signed by the Complainant's wife on 20 March 2006. In particular:
+
+20 Part 4.2 (entitled "Application Form") included the following
+paragraph which was signed and agreed to by the Complainant's wife:
+"I/We the undersigned request the enrolment of my/our child/ward/employee in accordance with the terms, conditions and the school rules of the German European School Singapore. I certify that all particulars furnished in this application are complete and accurate to the best of my/our knowledge, and that I/we will notify the School of any changes immediately. I/We acknowledge that the School is considering
+
+10
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+the application on the basis of the information I/we have provided."
+21 Part 4.6 (entitled "Confirmation of Receipt of Documents") included the following, which was also signed and agreed to by the Complainant's wife:
+"By signing this confirmation, I/we hereby confirm that I/we have received the documents listed and that I/we agree to abide by their terms, and where appropriate make my/our child aware of their content."
+
+Title of Document
+
+School rules
+
+Constitution of the School Association
+
+School Fee Bye-Law
+
+Terms and Conditions of Payments Fees
+
+School Bye-Law
+
+Bye-Law Governing the Education Principles
+
+(emphasis added)
+
+22 The 2011 Information Letter is a letter dated 31 October 2011 which had been sent by GESS to parents of its students. This letter informed parents of certain changes to their Terms and Conditions. These Terms and Conditions was found in a document entitled "Statutory Information" which included the school bye-laws. The following confirmation to the 2011 Letter was signed by AC on 1 December 2011:
+"I acknowledge receipt of the German European School Singapore Updated Terms and Conditions August 2011 and agree to accept the terms stated therein."
+
+11
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+In my view, both the 2006 Agreement and the 2011 Information Letter each serve as sufficient notification under the PDPA, since, as noted above, Bye-Law 5.8 sufficiently identified the purposes for which students' personal data (namely drug test results) were to be collected.
+
+23 In the circumstances, I am of the view that AB's parents had access to GESS' school bye-laws and hence had been notified of the purposes for the collection and use of AB's personal data in connection with the random drug testing administered by GESS.
+
+Actual and/or implied consent (by conduct) to the collection of personal data in drug test results
+24 GESS raised a number of specific instances where the Complainant and/or AC were alleged to have given their consent in written or verbal form, which I am satisfied to be the case on a review of the documents. Additionally, I am of the view that there is a more general principle that applies in this case. As the school's bye-laws were made available to parents, they must be taken to have agreed to enrol their children in the school on that basis. This is certainly the case in the present matter as AB has been enrolled in GESS for more than 10 years.
+
+25 I find that his parents' decision to enrol him, and to continue having him enrolled in the school for a substantial period, amounts to an acceptance of the school's bye-laws, including Bye-law 5.8. This constitutes implied consent for the purposes of the PDPA and, as it was validly given by AB's parents, amounts to consent by AB pursuant to section 14(4) of the PDPA. A similar view was taken by the court in GBN v GBO [2017] SGDC 143 with respect to a school's confiscation of its student's mobile phone in accordance with its school rules. In that case, the school in question had confiscated the student's mobile phone
+
+12
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+as the student was found to have used the phone in contravention of the school's
+rule on mobile phones. The said rule further provided that the school will only
+return mobile phones which had been confiscated after a period of three months.
+The father of the student commenced court proceedings against the school
+alleging that the school's confiscation of the phone amounted to the tort of
+conversion. The court in GBN, in dismissing the father's proceedings, held:
+"I also disagree with the plaintiff's assertion that he is not bound by the school rules. The plaintiff does not deny knowledge of the Phone Rule or the 3 January Letter. If the plaintiff took issue with the Phone Rule, the plaintiff could have enrolled his son in another school. Surely, as the defendant counsel submitted, by continuing to let his son study at the School, the plaintiff would have either expressly or impliedly agreed that his son would abide by the School's disciplinary policies and rules."
+26 Similarly, by continuing to keep AB enrolled at GESS, the Complainant
+and AC have either expressly or impliedly agreed that AB would abide by the
+School Bye-laws.
+
+Actual consent when AB provided his hair sample for the purposes of drug testing and collection of personal data
+27 At this juncture, I should deal with the Complainant's email of 7 January
+2018 wherein he provided consent under protest for AB to undergo drug testing:
+"My principled objections to random drugs testing, as explained in my previous email [...] remain unchanged, but my son's continued education at a school we otherwise like is more important, so [AB] will report to the front desk on Monday, under profound protest form my side:
+It is my view that parents are ultimately responsible for their children's upbringing, and that we should be asked explicitly for consent to a policy that:
+ invades our child's privacy
+ has no relation to his performance, attitude, and behaviour at school
+
+13
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+ has been ruled illegal in Europe. Specifically, every parent should have the right to deny consent without any adverse impact on their child's school experience." (Emphasis added)
+28 The Complainant's 7 January 2018 email makes it clear that he agreed to allow AB to provide GESS with his hair sample for the purpose of the drug test in view of his continued desire for AB to remain and continue with his education at the school. Presumably, the purpose of giving consent under protest is to record the Complainant's objections to GESS' policy on random drugs testing on principle. His email is premised on his "principled objections to random drugs testing" and that parents ought to be able to deny consent without any adverse impact on the child's school experience. The Complainant's protest does not and cannot be taken to mean that he is giving notice that he intends to challenge GESS' collection of personal data on the basis that his agreement under protest, without more, prevents such collection of personal data. This is made clearer on a review of the correspondence between GESS and the Complainant following the Complainant's said e-mail.
+
+29 In response to the Complainant's email of 7 January 2018, GES replied on the same day as follows:
+"Dear [redacted],
+Thank you for your mail. Our position has not changed. [AB] will not enter a classroom without giving a hair sample before doing so. If he is unwilling to cooperate, he has to leave school at once. As you know. We (sic) are a private school and we have no obligations whatsoever to keep students who do not follow our policies."
+30 The above email is presumably an attempt by GESS to make clear that AB would have to provide his hair sample without any condition or AB's admission at the school would be terminated. This correspondence likely
+
+14
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+resulted from the uncertainty of the Complainant's intention agreeing to AB giving his hair sample under protest.
+
+31 The Complainant then responded as follows:
+"Dear [redacted], In your letter (attached), you asked [AB] to report to the front desk, and in my email this morning, I write to you that [AB] will do exactly that (albeit under my official protest, as stated). So I am not sure why I receive this reply from you."
+32 This makes it clear that the Complainant agreed to AB providing GESS with the hair sample, although the Complainant was clearly displeased about having to do so. Accordingly, AB presented himself later that day and underwent the collection of the hair sample for drug testing. In this regard, I note that GESS had asserted that AC also gave verbal consent when she accompanied AB to school on 8 January 2018.
+
+33 The Complainant seeks to keep AB in GESS while cherry picking from its bye-laws those that he does not wish to abide with. Bye-laws play an important role in shaping conduct within an organisation. In an educational institution like a school, it is untenable that parents are able to cherry pick from its bye-laws in order to create a customised set of rules for their child. The Organisation has the prerogative to justify that its bye-laws are reasonably necessary for maintaining conduct and discipline in the school, and to provide a safe educational environment. If the Complainant disagrees, it was always open to the Complainant or AC to have enrolled AB in another school which did not test its student for drugs. Accordingly, I find that GESS had obtained AB's consent for the collection and use of his personal data as required under section 13 of the PDPA. In coming to this conclusion, I bear firmly in mind the fact that AB's parents had not formally objected to the collection and use of
+
+15
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+AB's personal data until after he had been selected for random drug testing, even though he had been receiving his education in GESS for over a decade and AC had, as a staff member of GESS, known of the annual random drug tests that GESS conducts pursuant to its bye-laws.
+
+Reasonableness - GESS' collection of personal data found in AB's drug test results is not beyond what is reasonable for GESS to provide education services to AB
+34 The Complainant also raised the issue that even if consent had been obtained by GESS, such consent would be invalid on the basis of section 14(2)(a) read with section 14(3) of the PDPA.
+
+35 Broadly speaking, GESS is providing education services to AB and it is clear that GESS did not permit AB to be exempt from the random drug testing when he was selected. To the contrary, GESS clearly informed AB's parents that he would be expelled from the school if he did not provide a hair sample and submit to the drug testing. Also, as set out above in paragraphs 13 to 23, the Complainant had access to the School Bye Laws and had been notified about the school's random drug testing policy since at least by 20 March 2006 when AC entered into the 2006 Agreement with the school. In the context of the PDPA, this also amounts to a requirement that AB consent to the collection and use of his personal data (namely the drug test results, as stated earlier) by GESS for the purposes provided in Bye-Law 5.8. The question therefore arises as to whether GESS' requirement for consent is beyond what is reasonable for the provision of education services by GESS to AB.
+
+36 On this issue, I note that GESS asserted that the drug testing policy is instituted for a purpose which was reasonable and appropriate in the
+
+16
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+circumstances. In this regard, GESS stated the following in its response to
+PDPC:
+"With regard to query 5(g)[5] of the Notice, the basis of GESS' belief is as follows:
+i. GESS is registered as a society with its objectives and powers set out in its constitution;
+ii. GESS has an open, long-standing, and firm policy on maintaining itself as a drugs-free institution;
+iii. In furtherance of this objective, GESS exercised its powers under its constitution to institute policies and bye-laws, including its drug policy;
+iv. As a school, GESS places paramount importance on the safety and welfare of its students, including maintaining itself as a drugs-free institution;
+v. GESS' drug policy is made known to and consented to by its students and/or their parents; and
+vi. GESS has in place clear guidelines and confidential procedures in implementing drug testing..."
+37 GESS also asserted that the German Embassy of Singapore supported
+drug testing in schools and, in this regard, provided PDPC with a copy of a letter
+from the German Embassy of Singapore to the Respondent dated 1 March 2004
+(in German together with GESS' translation). GESS' translation of the German
+Embassy's letter states that:
+"The foreign federal office makes the following statement regarding the intention to conduct drug testing at the German School Singapore and regarding the changes of the school byelaws:
+The Consideration of the German School Singapore, similar to other German schools abroad especially in the Asiatic region to introduce drug testing, has been welcomed. The German schools abroad develop their school regulations on the basis of
+
+5
+
+Query 5(g) refers to PDPC's query on the basis of GESS' assertion that their drug
+
+testing policy was instituted for a purpose which was reasonable and appropriate in the
+
+circumstances.
+
+17
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+the guideline of the standing conference of the ministers of education and cultural Affairs" (KMK) dated 15.01.1982. Under this directive, schools are taking action to promote and ensure health care, including drug prevention. A coordination with the funding German authorities is not intended. With the enrolment of their child, the parents/guardians acknowledge the school regulations, and therefore also the provisions on health care and any regulations on drug prevention.
+The prerequisite for the introduction of a drug test policy is ... these procedures shall be embedded into an overall pedagogical concept to drug prevention. If such a concept is not included elsewhere in the school regulations, schools are requested to do so without further delay. For this purpose, the exchange of experience with other schools of the region in particular the German School Beijing is recommended, as they have included a drug policy as annex to their school regulations to, inter alia, "save their students from addiction, keep the school free from addictive substances and to support students who are at risk of being addicted and their guardians to get away of the addiction, if necessary." The German School Tokyo have similar plans. The background to such an overall pedagogical approach to drug prevention is the understanding of drug prevention as an educational task and not only as measurement to identify drug users."
+(Emphasis added)
+38 As a general principle, schools have various responsibilities in relation
+to their students and these may extend beyond a purely pedagogical role. For
+example, they would also be responsible for ensuring the health and safety of
+students in the school environment. Hence, I am of the view that schools are
+best placed to determine the appropriate school rules and bye-laws to establish
+in order to discharge their various responsibilities and create an environment
+that is conducive to meet the educational needs of their students. This may
+include implementing a policy which requires drug tests for certain students or
+in certain circumstances to ensure a safe environment and to detect behaviour
+and habits that may affect a student's scholastic performance. I am fortified by
+the views of the court in GBN where the court found that a school had the
+authority to implement and enforce school rules to maintain the discipline of its
+
+18
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+students as set out above at paragraph 25. Just as in GBN, it was open to the Complainant in this matter to take AB out of GESS and enrol AB in another school.
+
+39 It should also be highlighted that it was open to the Complainant to
+withdraw his consent on giving reasonable notice to GESS by virtue of section
+16 of the PDPA. Had the Complainant withdrawn this consent, GESS would
+have had to inform the Complainant of the likely consequences of withdrawing
+the consent: section 16(2). Section 16(3) of the PDPA safeguards the
+Complainant by ensuring that GESS cannot prohibit his withdrawal of consent;
+but the Complainant will have to live with any legal consequences arising from
+such withdrawal, which in this case means that he has to take AB out of GESS
+and enroll him in another school. The application of these principles had been
+illustrated in the Advisory Guidelines on Key Concepts in the PDPA (at
+[12.45]):
+"An individual wishes to obtain certain services from a telecom service provider, Operator X and is required by the telecom service provider to agree to its terms and conditions for provision of the services. Operator X can stipulate as a condition of providing the services that the individual agrees to the collection, use and disclosure of specified types of personal data by the organisation for the purpose of supplying the subscribed services. Such types of personal data may include the name and address of the individual as well as personal data collected in the course of providing the services such as the individual's location data. The individual provides consent for those specified types of personal data but subsequently withdraws that consent.
+The withdrawal of consent results in Operator X being unable to provide services to the individual. This would in turn entail an early termination of the service contract. Operator X should inform the individual of the consequences of the early termination, e.g. that the individual would incur early termination charges."
+
+19
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+40 Clearly, the above finding is limited to the facts in this case and should not be taken as a general ruling that an organisation can in all cases justify a claim that it cannot provide services to an individual if the individual does not consent to the collection, use or disclosure of personal data. Any such finding is fact and context specific and must meet the same reasonableness test as set out at section 14(2)(a) and which is discussed above at paragraphs 35 to 38.
+
+Reasonableness � a reasonable person would consider it appropriate in the circumstances for GESS to obtain a hair sample from AB by cutting his hair
+41 Apart from whether consent to random drug testing in order to receive education from a school is reasonable, there is the related question whether the collection of personal data through the provision of hair sample by cutting is a reasonably appropriate means of implementing the random drug test policy. Section 11(1) of the PDPA imposes a general standard of reasonableness on organisations in meeting their responsibilities under the PDPA:
+"In meeting its responsibilities under this Act, an organisation shall consider what a reasonable person would consider appropriate in the circumstances."
+42 To my mind, obtaining a hair sample by cutting in order to perform drug testing does not appear to me to be particularly invasive or unreasonable. Hair tests are contemplated in our anti-drug abuse laws as means of detecting suspected drug consumption: see section 31A of the Misuse of Drugs Act. Also, obtaining a hair sample by cutting a few strands of hair is not invasive and does not ordinarily cause pain. I acknowledge that the random drug testing policy by GESS and the mandatory regime under the Misuse of Drugs Act are very different, and take care to emphasise that I refer to the Misuse of Drugs Act only to highlight that taking a hair sample to test for drug consumption is an acceptable method.
+
+20
+
+German European School Singapore
+
+[2019] SGPDPC 8
+
+43 Accordingly, I find that the collection and use of AB's personal data in the circumstances of this case is not beyond what is reasonable for GESS to provide education services to AB and the collection of personal data through hair samples is a reasonably appropriate means to do so. As GESS has not contravened section 14(2) of the PDPA, section 14(3) does not apply and the consent obtained by GESS remains valid.
+
+The Deputy Commissioner's Decision
+44 In the circumstances, I find that GESS is not in breach of sections 13 and 14 of the PDPA as they had obtained consent for the collection and use of AB's personal data and this consent was valid and subsisting at the relevant time.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+
+21
+
+

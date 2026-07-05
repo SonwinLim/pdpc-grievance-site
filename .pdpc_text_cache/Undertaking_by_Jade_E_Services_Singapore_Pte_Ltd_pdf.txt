@@ -1,0 +1,409 @@
+WRITTEN VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Personal Data Protection Commission or its delegates pursuant to section 48L(1) of the PDPA, by:
+Jade E-Services Singapore Pte. Ltd. UEN: 201134432E Registered Address: 51 Bras Basah Road #07-01/04, Singapore 189554
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+1.1 In this Undertaking:
+(a) "PDPA" means the Personal Data Protection Act 2012 (No. 26 of 2012); and
+(b) "Relevant Provisions" means the provisions in Parts III, IV, V, VI, VIA and IX, and section 48B(1) of the PDPA.
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) The Commission has carried out investigations into certain acts and practices of the Organisation, and has reason to believe that the Organisation has not complied, is not complying, or is likely not to comply with one or more of the Relevant Provisions. The relevant facts and circumstances are summarised at Schedule A.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to issue directions under sections 48I or 48J of the PDPA.
+1
+
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation appears ready to implement or is in the midst of implementing the steps set out in Schedule B.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+3.1 The Organisation undertakes that it has taken, or will take all necessary steps, to carry out the actions or refrain from carrying out the actions referred to in Schedule B, and where applicable, in accordance with the stipulated timelines.
+4. COMMENCEMENT
+4.1 This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3)(ca) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above, and if necessary, will exercise its powers under the Ninth Schedule of the PDPA to do so.
+2
+
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the Organisation fails to comply with this Undertaking or part thereof in relation to any matter.
+5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under sections 48I, 48J, 48L(4) and 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent.
+6. VARIATION
+6.1 This Undertaking may be varied only with the express written agreement of the Commission.
+This document has been electronically signed. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+
+SIGNED, for and on behalf of
+
+)
+
+Jade E-Services Singapore Pte. Ltd.
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+3
+
+ACCEPTED by
+
+)
+
+)
+
+Name: ______________________________________ )
+
+Designation: Deputy Commissioner
+
+Personal Data Protection
+
+)
+
+Date: _______________________________________ )
+
+4
+
+SCHEDULE A
+5
+
+SUMMARY OF FACTS 1. On 11 September 2021, the Organisation informed PDPC of an incident where
+marketing emails had been sent to was 456,868 individuals who did not consent to receiving such marketing emails. Of these 456,868 individuals, 165 had previously requested for their account to be terminated 2. The incident was attributed to human error by an employee who had erroneously made the wrong selection in the Organisation's system.
+6
+
+SCHEDULE B
+7
+
+Measure
+
+Remediation
+
+Description
+
+Status/ Owner
+
+/ Timeline
+
+Root Cause 1: Human error in the Campaign setup � "dispatch method" on Vendor's Platform was erroneously changed by a
+
+ZALORA employee. The employee also (i) failed to ensure the correct audience subset was selected; and (ii) failed to double check
+
+the dispatch method settings when an alert message appeared informing her that changes to the dispatch method settings had been
+
+made.
+
+1
+
+Enhance Vendor's Platform user SOP Enhancements
+
+Status: Done
+
+and training.
+
+on 10
+
+ Updates to SOPs arising from Measures 2 - 4 below Note: After the incident, the Head of
+
+September 2021.
+
+CRM decided to reevaluate whether  Reminding and offering refresher courses to all team
+
+the current SOP and Training is
+
+members
+
+Owner: CRM
+
+sufficient.
+
+As the SOP and Training for Vendor's Platform was evaluated to already be rigorous and effective, minimal
+
+All previous training material is readily available, and senior members of the team are well equipped to train and guide junior members.
+
+enhancements were made.
+
+Existing SOP and Training prior to incident:
+
+All Vendor's Platform users at ZALORA need to complete:
+
+ Vendor's Platform courses (platform training courses to familiarize themselves with key features of the platform)
+
+ Five 3-hour training sessions with senior members to understand the purpose of the function and function specific setup requirements.
+
+ A short exercise that tests new members' comprehension of topics taught at the end of every session.
+
+After completion of these 3 points, the following takes place as the new joiners are getting familiar with their roles:
+
+8
+
+ Training SOP and materials are shared with all members as a form of reference.
+
+ Senior members vet through campaigns created by junior members until they are able to execute them independently.
+
+ Key information is reiterated throughout the training and onboarding process. This includes:  Ensuring proof test sends are only sent to internal users  Testing all communication before actual roll-out  Checking through all parts of the campaign setup on Vendor's Platform before launch  Ensuring no roll-outs of any magnitude on any day before a period of long breaks (e.g. Friday, eve of public holidays) so that any errors can be picked up and rectified in a timely manner  Actively monitoring campaign send size and live emails post launch
+
+Changes in processes are also updated in individual functions'
+
+SOP and all relevant team members are informed
+
+2
+
+Custom code nested in email HTML This custom code restricts email templates to be used only Status: Done
+
+for:
+
+on 13
+
+- Users from specific countries
+
+September
+
+- Activated via a specific delivery method
+
+2021
+
+This bypasses the limitation of the Vendor's platform guardrails. If an email template was selected for the user of another country (e.g. Malaysia) outside the intended country (e.g. Singapore) or delivery method, the email cannot be sent. This would mitigate the risk of another mass sending of emails to databases of all countries.
+9
+
+Owner: CRM
+
+This was applied to all email types for good measure.
+
+3
+
+Send rate throttling � limiting number An individual setting for each campaign was implemented to Status: Done
+
+of emails per hour by campaign type cap the number of emails that can be sent per hour.
+
+on 20
+
+Campaigns such as "Account Registration" would not have September
+
+high volumes per hour. Thus if ZALORA detects abnormal 2021
+
+activity, we will be able to stem the issue and limit the
+
+affected
+
+Owner: CRM
+
+audiences.
+
+This was applied to all email types for good measure.
+
+4
+
+Custom alert sent to CRM chat group This custom alert was created by ZALORA to extract
+
+Status: Done
+
+on Vendor's Platform when campaign information from Vendor's Platform when a campaign change on 13
+
+changes are made on Vendor's
+
+is made.
+
+September
+
+Platform
+
+2021
+
+This alert system (which is a dedicated CRM chat group on
+
+Vendor's Platform) is available to the CRM team to check
+
+Owner: CRM
+
+which campaigns have undergone a change, and the CRM
+
+team can intervene when an unintended change appears to
+
+have been made.
+
+5
+
+Vendor platform enhancement
+
+requests
+
+Made 4 key system enhancement requests to Vendor's Platform. However, this is subject to discussion and development dependency on the part of Vendor's Platform.
+
+ZALORA has reached out to Vendor with proposed improvements, and this has been escalated to their HQ.
+
+10
+
+Root Cause 2: Accidental retention of 165 individuals' email addresses on ZALORA's backend system (out of which 18 belong to our Singapore database) - This occurred due to a technical error in the implementation of the Data Anonymisation feature for ZALORA's backend system in May 2020 to capture and anonymise 1 database table containing email addresses.
+
+1
+
+Review and fix Data Anonymisation ZALORA's Tech team conducted a comprehensive review of Status: Fix of
+
+feature on ZALORA's backend system the Data Anonymisation feature on ZALORA's backend
+
+Data
+
+system and its downstream systems. In particular to:
+
+Anonymisation
+
+ Investigate to identify if there are any discrepancies in feature
+
+ZALORA's backend system and downstream systems to completed on
+
+ensure that the anonymisation is effective.
+
+22 Sept
+
+ In case of mismatch or any redundant data found, clean 2021. This is
+
+up the said data and set up an automated cleanup job. now rectified
+
+and fully
+
+We have confirmed that:
+
+resolved.
+
+a) the root cause was the single database table within
+
+ZALORA's backend system which inadvertently fell
+
+Owner: Tech
+
+outside the scope of the Data Anonymisation feature,
+
+and once this technical error has been rectified there will
+
+not be any discrepancy in downstream systems as the
+
+anonymization methodology is effective;
+
+b) all anonymisation action taken on ZALORA's backend
+
+system prior to adoption of new feature in May 2020 was
+
+properly implemented; and
+
+c) this issue has now been fully rectified and all account
+
+deletion requests will be properly attended to by way of
+
+the Data Anonymisation feature on ZALORA's backend
+
+system.
+
+Root Cause 3: Retention of email addresses of individuals who had unsubscribed to our newsletter and do not have a Customer account with ZALORA - These email addresses were retained by ZALORA for business purposes, but ZALORA acknowledges the risks arising out of such retention and has re-evaluated the need to retain such email addresses on a nonanonymised basis
+
+11
+
+1
+
+CRM, CS and Tech will work together All email addresses belonging to Unsubscribed Users who Status: This
+
+to manually anonymise on ZALORA's fulfil the criteria with:
+
+process has
+
+backend system the
+
+(a) ZALORA Singapore have been anonymized manually by been
+
+email addresses of Unsubscribed
+
+CRM, CS and Tech team as at 21 October 2021; and
+
+implemented
+
+Users who fulfill the following criteria: (b) ZALORA regionally (other than Singapore) will be
+
+for ZALORA
+
+1) have unsubscribed from
+
+anonymised manually by CRM, CS and Tech team by the
+
+Singapore on
+
+Newsletter;
+
+end of October 2021.
+
+21 October
+
+2) do not have a Customer account
+
+2021 and will
+
+with ZALORA; and
+
+With the anonymisation of such email addresses, we are
+
+be
+
+3) have been on unsubscribed status of the view that the retention risk has and will be
+
+implemented
+
+for 30 days.
+
+significantly mitigated.
+
+for ZALORA
+
+regionally
+
+(other than
+
+Singapore) by
+
+the end of
+
+October 2021.
+
+This process will continue manually until the automated process (see measure 2) is in place
+
+Owner: CRM x
+
+CS x Tech
+
+2
+
+Tech will develop and implement an This automated feature to be developed and implemented will Owner: Tech
+
+automated feature and process in the remove the need for a manual process (see measure 1) and
+
+ZALORA's backend system to trigger mitigate any missed emails or human error.
+
+Timeline: To
+
+the
+
+develop and
+
+anonymisation of email addresses
+
+implement
+
+belonging to Unsubscribed Users
+
+automated
+
+who fulfil the following criteria:
+
+12
+
+1) have unsubscribed from Newsletter;
+2) do not have a Customer account with ZALORA; and
+3) have been on unsubscribed status for 30 days.
+
+process by end of Q1 2022
+
+13
+
+

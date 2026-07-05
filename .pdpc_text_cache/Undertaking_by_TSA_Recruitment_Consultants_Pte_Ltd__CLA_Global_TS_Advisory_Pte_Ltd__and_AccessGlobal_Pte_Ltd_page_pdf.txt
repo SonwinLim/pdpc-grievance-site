@@ -1,0 +1,97 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+the identity of the alleged PDPC officer. For scam-related advice, visit wwUwn.sdcearmtaskhiienlgd.gov.sg. by TSA
+
+Recruitment
+
+Consultants
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Pte Ltd, CLA Global TS
+
+Advisory Pte
+
+Ltd, and
+
+Voluntary Undertakings
+
+AccessGlobal Pte Ltd
+
+Voluntary Undertaking by TSA Recruitment Consultants Pte
+Ltd, CLA Global TS Advisory Pte Ltd, and AccessGlobal Pte Ltd
+
+Share:   
+
+Published on 29 Nov 2024
+
+Background
+TSA Recruitment Consultants Pte. Ltd. ("TSA"), CLA Global TS Advisory Pte. Ltd. ("CLA") and AccessGlobal Pte. Ltd. ("AG") (the "Organisations"), which are all affiliates sharing a common ultimate beneficial owner, notified the Personal Data Protection Commission (the "Commission") on 25 July 2024 of a personal data breach involving unauthorised access to their employees' Microsoft 365 ("M365') mailboxes by an unknown threat actor ("TA") who succeeded in exfiltrating emails containing personal data (the "Incident").
+Three employees from the Organisations (the "Affected Employees") had received phishing emails which originated from the email domain belonging to the Organisations' client. One of the Affected Employees emailed the sender to verify if the URL link contained within the email was genuine, but the TA had already compromised and gained control of the sender's email account and replied affirmatively. Thereafter, the Affected Employees clicked on the URL in the phishing email and were prompted to login to Microsoft to access the OneDrive files. The Affected Employees proceeded to do so but did not find the OneDrive files after logging in.
+ITnovoefsfteigr ayotiuonasbreetvteearleedxptehraietnthcee,TtAhishasidteoubstaeisnceodockoiepsi.eRseoafdthmeoArfefeacbtoeudtEcmoopkloieysees' cinreoduernPtriaivlsacays Swteatlleams eanut.henticated session cookies from each of their logins on the
+
+Microsoft OneDrive pages. Thereafter, the TA managed to successfully access the FAOffRected Employees' mailboxes via Microsoft Outlook (web-based), using a web
+Individuals browser. Although multi-factor authentication ("MFA") was already enabledfor the
+Affected Employees' login, the TA employed a sophisticated method of using the stolen authenticated session cookie to perform a cookie session replay using a web bArboowuster to cheat the system into thinking that his access session was authenticated, which bypassed the MFA verification.
+AOfrtgearngiasaintinongsaccess to the M365 mailboxes, the TA exfiltrated 69 emails containing
+personal data sent by the Organisations' clients. The personal data included names, email address, NRIC/FIN number, date of birth, salary information and CPF amounts.
+IInndaidviddiutiaolns, the TA was potentially able to view 576 other emails that were in the 
+Affected Employees' mailboxes.
+MUpeodniad&isEcvoevnetrsing the Incident, the Organisations took prompt remedial actions 
+including locking the M365 accounts of the Affected Employees and revoking all active sessions. The Organisations also conducted further checks to confirm that no other M365 accounts were accessed by the TA.
+Voluntary Undertaking
+Having considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisations to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 8 October 2024.
+As part of the Undertaking, the Organisations will be implementing the following:
+(a) Implementing extra conditional access rules which implement token protection and stronger compliance checks for company devices; and
+(b) Conducting penetration testing to check for any security vulnerabilities of its IT systems.
+The Commission will verify the Organisations' compliance with the Undertaking. If the Organisations fail to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisations' compliance with the Undertaking.
+Share:   
+Personal Data Protection Commission
+About To offer you a better experience, this site uses cookies. Read more about cookies iOnroguanr PisraitviaocnysStatement.
+
+Individuals
+FOR
+MIneddiaiv&iEdveuntas ls
+ACobnotuatct
+
+Organisations
+
+IRnedpiovritdVuualnlserability 
+Privacy Statement
+TMeermdisaa&ndECvoenndtsitions
+Reach 
+
+� 2026 Personal Data Protection Commission Last updated 29 Nov 2024
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

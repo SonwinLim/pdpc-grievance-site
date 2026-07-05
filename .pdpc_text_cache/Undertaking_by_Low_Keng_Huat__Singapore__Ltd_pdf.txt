@@ -1,0 +1,484 @@
+VOLUNTARY UNDERTAKING UNDER SECTION 48L OF THE PERSONAL DATA PROTECTION ACT 2012 Case number: DP-2308-C1305
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 ("the Act")
+And
+(1) Low Keng Huat (Singapore) Limited (UEN No. 196900209G)
+... Organisation The Commission has reasonable grounds to believe that the Organisation has not complied, is not complying or is likely not to comply with section 24 of the Act. In order for the Commission to suspend its investigation pursuant to section 50(3)(ca) of the Act, the Organisation HEREBY UNDERTAKES that it will: (a) Complete the remediation plan set out at Schedule B within the timelines
+stated in Schedule B; and (b) Within 14 days of the completion of the remediation plan set out at Schedule
+B, provide the Commission with a copy of the declaration set out at Schedule C duly signed by the signatory of this Undertaking or a representative of the Organisation of equal designation. The Organisation acknowledges that the Commission shall be entitled to publish and make available to the public this Undertaking and the summary of the Commission's findings set out at Schedule A to this Undertaking.
+Page 1 of 12
+
+The terms of this Undertaking may be varied by the written agreement of the Commission and the Organisation.
+
+SIGNED, for and on behalf of
+
+)
+
+Low Keng Huat (Singapore) Limited
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+Page 2 of 12
+
+SCHEDULE A
+Page 3 of 12
+
+SUMMARY OF FACTS 1. On 31 July 2023, PDPC was notified by Low Keng Huat (Singapore) Limited
+("LKHS") of a data security incident on 4 July 2023 involving ransomware encryption and possibly data exfiltration. LKHS staff had reported being unable to access the Organisation's workstations. 2. As a result, the personal data of 1,400 individuals including their names, addresses, personal email addresses, telephone numbers, NRIC numbers, passport numbers, photographs, dates of birth, transaction information was affected. 3. To prevent a recurrence of a similar incident, the Organisation took immediate remedial action to address the cause of the personal data breach.
+Page 4 of 12
+
+SCHEDULE B
+Page 5 of 12
+
+S/N
+
+LIKELY CAUSES PROPOSED STEPS TARGETED
+
+OF INCIDENT TO ADDRESS THE COMPLETION
+
+CAUSE
+
+DATE
+
+Tightened Governance over Outsourced Vendors and Infrastructure
+
+Review and enhance
+
+vendors' execution of
+
+patches for each
+
+Windows and non-
+
+Windows platform
+
+a. List all patches
+
+and firmware
+
+updates
+
+communicated
+
+Unpatched
+
+1.
+
+software and
+
+and executed by vendors on stated date
+
+20 Oct 2023 Audit Frequency:
+
+outdated firmware
+
+b. Physically check for evidence that such patches and updates are
+
+Monthly (on a Friday after Microsoft "Patch
+Tuesday")
+
+completed
+
+c. Research any other available patches and updates not covered by vendors
+
+Review and enhance current asset management processes:
+
+a. Record and
+
+document any
+
+event(s)
+
+necessitating
+
+Outdated and
+
+fresh review
+
+incomplete IT
+
+27 Oct 2023
+
+2.
+
+hardware and
+
+b. Review and
+
+software asset
+
+update inventory Audit Frequency:
+
+lists
+
+Event-driven as
+
+Page 6 of 12
+
+list(s) where necessary
+c. Check list(s) with actual (sighted) physical items
+
+defined or Annually, whichever is
+earlier.
+
+Review and enhance vendors and account management process:
+
+Breakdown of
+
+a. Record and
+
+20 Oct 2023
+
+vendor
+
+document any
+
+3.
+
+management and
+
+event(s)
+
+Audit Frequency:
+
+account responsibilities processes
+
+necessitating fresh review
+
+Event-driven as defined or Annually,
+
+b. Review and
+
+whichever is
+
+update account
+
+earlier.
+
+management
+
+processes where
+
+necessary
+
+a. Record and
+
+document any
+
+event(s)
+
+necessitating
+
+fresh review
+
+20 Oct 2023
+
+b. Full firewall
+
+Firewall not
+
+review: check
+
+Audit Frequency:
+
+managed,
+
+rules, logs,
+
+Event-driven as
+
+4.
+
+absence of rules
+
+bandwidth
+
+defined or
+
+and log files
+
+monitoring, list of
+
+Annually,
+
+monitoring
+
+super admin
+
+whichever is
+
+users, access
+
+earlier.
+
+security through
+
+Internet, logs
+
+monitoring,
+
+reporting
+
+frequency.
+
+The immediate actions taken post incident had already fixed
+
+all firewall issues identified. We intend for another round of
+
+manual checks before the target completion date and provide
+
+Page 7 of 12
+
+5. 6.
+
+screenshots, log files as part of the status report at the end of the voluntary undertaking. In the event LKHS switches service provider, or changes the type of firewall used, we will repeat all the tasks as detailed in above.
+
+Removed need for
+
+VPN, no longer using
+
+the VPN solution. VPN software end
+
+of life
+
+Files and folders
+
+N.A.
+
+access via Microsoft
+
+Sharepoint.
+
+Post incident, LKHS has discontinued the use of a VPN for external access to on-premise (local site) file servers. LKHS staff now use the public Internet to access files stored on Microsoft Sharepoint cloud. Existing local file servers (on-site) can be accessed only when physically in office, and using existing Active Directory credentials.
+
+LKHS has concluded there is no requirement to access any corporate work and assets from the Internet. The Management's decision is to use cloud Sharepoint as the main file access and sharing functionality without any need for a VPN.
+
+The previous VPN and local Active Directory security mechanism has been replaced with Microsoft's Azure Active Directory ("AAD") Authentication and Identity Management features. Authorised LKHS staff have been registered with the AAD and users need to sign in with their Azure AD credentials. Multi-factor authentication will be enforced as part of the LKHS remediation plan.
+
+LKHS uses Sharepoint's Role-Based Access Control (RBAC)
+
+to manage permissions and access. LKHS administrators will
+
+assign permissions to users and groups at various levels.
+
+Folder owners (designated staff) will need to grant privilege
+
+access to their respective team members, based on internal
+
+requirements.
+
+Cybersecurity Enhancements
+
+Work with vendors to
+
+Weak security
+
+harden infrastructure 18 Oct 2023
+
+settings for
+
+using CIS
+
+servers
+
+benchmarks,
+
+Page 8 of 12
+
+vendors' knowledge base or Windows Group Policy Objects
+
+Implement endpoint protection for all LKHS staff
+
+a. List all end users
+
+7.
+
+Lack of endpoint
+
+with and without
+
+31 Oct 2023
+
+protection
+
+endpoint antivirus
+
+software installed
+
+b. Monitor effectiveness and any expiry dates
+
+a. Implement
+
+Microsoft 2FA,
+
+password
+
+8.
+
+Weak Microsoft account
+
+security and rules
+
+18 Oct 2023
+
+passwords, lack of b. Review password
+
+2FA
+
+policies and
+
+enforce strong
+
+password
+
+requirements
+
+Lack of log file
+
+Monitor logs from key
+
+9.
+
+visibility and
+
+servers / firewall
+
+27 Oct 2023
+
+management
+
+Explore centralised log server to consolidate logs from key servers
+
+Staff Communication/Education and IT Policies
+
+S/N
+
+IDENTIFIED
+
+AGENDA
+
+MODE AND SUBSEQUENT
+
+GAPS
+
+NEXT
+
+FREQUENCY
+
+SCHEDULED
+
+DATE
+
+No schedule for
+
+Online or in
+
+staff
+
+� Cybersecurity person
+
+1.
+
+communication
+
+Training
+
+Once per year
+
+Page 9 of 12
+
+and training on cybersecurity matters
+
+� Training on LKHS IT Acceptable Use Policy
+
+Within 1 month after remediation timeframe
+
+Events when the policies are updated
+
+� LKHS-IT-01
+
+Lack of detail
+
+Vendor
+
+and actionable
+
+Management
+
+steps in current
+
+Policy
+
+IT Policies
+
+To extract
+
+2.
+
+Weak
+
+� LKHS-IT-03 and follow
+
+Once per year
+
+enforcement of
+
+Acceptable PDPC's
+
+policies related
+
+Use Policy Guides.
+
+to IT
+
+Governance
+
+� IT Policy in
+
+Software and
+
+Patch
+
+Management
+
+Page 10 of 12
+
+SCHEDULE C
+Page 11 of 12
+
+Case number: DP-2308-C1305
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 ("the Act")
+
+And
+
+(1) Low Keng Huat (Singapore) Limited (UEN No. 196900209G) ... Organisation
+
+DECLARATION
+
+I refer to the voluntary undertaking dated ________ given by the Organisation to the Personal Data Protection Commission pursuant to section 48L of the Act ("the Undertaking").
+I declare that the remediation plan set out at Schedule B of the Undertaking has been completed.
+I acknowledge that by making a false declaration or providing false or misleading information to the Personal Data Protection Commission, I may be prosecuted for offences under section 51(3)(c) of the Personal Data Protection Act 2012 and/or section 182 of the Penal Code 1871.
+
+________________________ Signature
+
+_______________________ Date
+
+________________________ Name
+
+________________________
+
+Designation
+
+Page 12 of 12
+
+

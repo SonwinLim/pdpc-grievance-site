@@ -1,0 +1,111 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by MalcaAmit
+Singapore
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Malca-Amit Singapore Pte Ltd
+
+Share:   
+
+Published on 23 Jan 2025
+
+Background
+Malca-Amit Singapore Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 10 August 2024 of a personal data breach stemming from a cyber incident involving the compromise of a limited number of servers in its network (the "Incident").
+Investigations revealed that the threat actor ("TA") had most likely gained access to the Organisation's system using a domain user account and thereafter performing network scanning and lateral movement from the SonicWall VPN. The malicious activities targeted the hosts on the VMware virtualization platform.
+The TA encrypted some of the Organisation's files which contained the personal data of 5,834 individuals who were the Organisation's employees and customers. The types of personal data affected included various combinations of name, address, email address, NRIC number, passport information, photograph, date of birth, bank account information and salary information (which only impacted its employees).
+Upon discovery of the Incident, the Organisation took prompt remedial actions including physically disconnected the site network and backbone connectivity, eradicated all known TA activity remnants in the network and ceased data backups and checked the integrity of all systems.
+Voluntary Undertaking
+To offer you a better experience, this site uses cookies. Read more about cookies  iHnaovuinrgPcriovnacsiydSetraetdemthencti.rcumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The UFOnRdertaking was executed on 9 December 2024.
+Individuals  
+As part of the Undertaking, the Organisation will be implementing the following:
+
+(Aab) oSutrtengthened Password Policy; (b) 2FA Enforced on Security Appliances;
+
+(Ocr)g2aFnAisEantifoonrcsed for Remote Access;
+
+
+
+(d) Continuous Backup of Virtualization Environments;
+
+Individuals
+
+
+
+(e) Implementation of SentinelOne XDR for Enhanced Threat Detection and
+
+Response;
+
+Media & Events
+
+
+
+(f) Scheduled Penetration Testing (PT) to Identify and Mitigate Vulnerabilities;
+
+(g) Replacement of End-of-Life Software to Enhance Security and Operational Efficiency; and
+
+(h) Enhancement of SIEM Services for Proactive Threat Detection and Response.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+To offer you a better experience, this site uses cookies. Read more about cookies Rinepoourrt PVurilvnaecraybSiltitaytement.
+
+Privacy Statement
+FOR
+TIenrmds iavndidCoundaitilosns
+Reach 
+
+About
+� 2026 Personal Data Protection Commission Last updated 23 Jan 2025
+
+Built with
+
+Powered by
+
+Organisations
+
+Individuals
+� 2026 Government of Singapore
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

@@ -1,0 +1,77 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+Case No DP-1803-B1859
+
+[2019] SGPDPC 9
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+
+And
+
+H3 Leasing
+
+... Organisation
+
+DECISION
+
+H3 Leasing
+
+[2019] SGPDPC 9
+
+H3 Leasing
+[2019] SGPDPC 9
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1803-B1859 6 June 2019 Background 1. The complaint concerns the disclosure of personal data without consent by H3 Leasing (the "Organisation"). The Organisation is in the business of rental of motor vehicles in Singapore.
+2. The Complainant was a member of the public who had come across a post on social media by the Organisation disclosing scanned images of the NRIC of another individual ("Affected Individual"). The personal data disclosed by virtue of this comprised the full name, residential address, date of birth, NRIC number, NRIC photo and the thumbprint image of the Affected Individual (the "Personal Data Set"). On 8 March 2018, the Complainant filed a complaint with the Personal Data Protection Commission (the "Commission") in relation to the disclosure of the Personal Data Set by the Organisation.
+3. The key issue raised by the Complaint is whether the Organisation had the consent required under section 13 of the Personal Data Protection Act 2012 (the "PDPA") to disclose the Personal Data Set of the Affected Individual in the manner and for the purposes which they did.
+4. Following an investigation into the matter by the Personal Data Protection Commission, I found the Organisation in breach of section 13 of the PDPA.
+2
+
+H3 Leasing
+
+[2019] SGPDPC 9
+
+Material Facts
+5. On 15 December 2017, the Affected Individual rented a motor vehicle from the Organisation. He voluntarily provided a copy of his NRIC and entered into an agreement with the Organisation for that purpose.
+6. Subsequently, the Affected Individual went into rental arrears and ceased contact with the Organisation. The Organisation was unable to locate him or the motor vehicle and made a police report concerning the apparent disappearance of the Affected Individual and the motor vehicle. The Organisation subsequently disclosed images of the Affected Individual's NRIC, which contained the Personal Data Set, through a public Facebook post to warn others about the Affected Individual and to solicit information from the general public on the whereabouts of the motor vehicle.
+Findings and Basis for Determination
+7. Section 13 of the PDPA provides that an Organisation shall not collect, use or disclose personal data about an individual unless:
+(a) the organisation obtains the consent of the individual for the collection, use or disclosure of his personal data (in accordance with section 14 of the PDPA);
+(b) the individual is deemed to consent to the collection, use or disclosure of his personal data (in accordance with section 15 of the PDPA); or
+(c) collection, use or disclosure of his personal data is permitted or required under the PDPA or any other written law.
+8. In this case, the rental agreement entered into by the Organisation and the Affected Individual did not specify any purposes for which the Organisation could disclose his personal data. There was no other document setting out such purposes
+3
+
+H3 Leasing
+
+[2019] SGPDPC 9
+
+and the Organisation admitted that it had not obtained the consent of the individual to disclose his personal data. As such, I find that the Organisation did not have consent for the disclosure of the Personal Data Set in the manner, and for the purposes, that it did.
+
+9. It is also clear to me that none of the exceptions to consent in the Fourth Schedule to the PDPA permit such disclosure. The purposes of the Organisation in making the public Facebook post were to warn others about the Affected Individual and to solicit information from the public on the whereabouts of the missing vehicle. These matters do not fall within any of the exceptions in the Fourth Schedule.
+
+10. One question which may arise is whether the Organisation could have relied on the exception to consent in paragraph 1(i) of the Fourth Schedule. That exception permits an organisation to disclose of an individual's personal data without consent where it is necessary to do so in order for the organisation to recover a debt owed by individual to the organisation. In my view, disclosure of the Personal Data Set via a public Facebook post would be too broad a disclosure and would not be necessary for the purpose of recovering a debt. Furthermore, disclosure of the scanned image of an NRIC (with all the data therein) in such a manner would neither be necessary nor appropriate.
+
+11. As regards deemed consent, although the rental agreement between the Organisation and the Affected Individual did not expressly specify the purposes for which the Organisation could collect, use or disclose the Affected Individual's personal data, the Affected Individual had provided his personal data to the Organisation for purposes relating to the rental of the motor vehicle and deemed consent under section 15 of the PDPA would apply in respect of such purposes. The scope of deemed consent permits the Organisation to use and disclose the Affected Individual's personal data to other allied service providers as necessary to provide the primary service of motor vehicle rental. However, in my view, these purposes would not extend to permitting the Organisation to disclose his full NRIC details on social media for the purpose of warning others about the Affected Individual or soliciting information from
+
+4
+
+H3 Leasing
+
+[2019] SGPDPC 9
+
+the public on the whereabouts of the missing vehicle. Accordingly, deemed consent under section 15 of the PDPA does not apply to the disclosure in this case.
+
+12. In light of the above, I find that the Organisation had disclosed the personal data of the Affected Individual without consent and is therefore in breach of section 13 of the PDPA.
+Conclusion
+13. In assessing the appropriate enforcement action in this case, I took into account the following:
+
+(a) The Organisation's prompt action to remove the Personal Data Set from the public Facebook page;
+(b) The number of individuals affected; and (c) The impact of the breach.
+
+14. Taking into account the factors listed above, I have decided to issue a warning to the Organisation for the breach of its obligation under section 13 of the PDPA.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+
+5
+
+

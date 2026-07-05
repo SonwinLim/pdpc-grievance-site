@@ -1,0 +1,73 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+[2018] SGPDPC 13 Case No DP-1701-B0463
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+
+And
+
+MyRepublic Limited
+
+... Organisation
+
+DECISION
+
+MyRepublic Limited
+[2018] SGPDPC 13
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1701-B0463
+14 May 2018
+Background
+1 The Complaint concerns the use of a customer's personal data by MyRepublic Limited's (the "Organisation") appointed debt collection company, Apex Credit Management Pte Ltd ("Apex Credit"), for the purpose of debt recovery. The Organisation is a telecommunications company which provides fibre broadband services in Singapore.
+2 The Complainant terminated his account with the Organisation on 25 September 2016. He claimed that he did not have any outstanding debt with the Organisation. However, he was subsequently contacted by Apex Credit on two occasions. The purpose was to pursue payment of outstanding amounts purportedly owed to the Organisation. First was via letter sent to the Complainant on 3 October 2016. Second was via a phone call on 10 October 2016. The Organisation disclosed that its systems had identified the Complainant's account for debt collection based on its debt aging status.
+
+MyRepublic Limited
+
+[2018] SGPDPC 13
+
+3 This case concerns section 131 of the Personal Data Protection Act 2012 ("PDPA"). In particular, the issues are:
+(a) Whether consent was given by the Complainant for his personal data to be used for debt collection purposes; and
+(b) whether it was reasonable for the Organisation to have deemed that the Complainant was in debt at the material time.
+
+(a) Whether consent was given by the Complainant for his personal data to be used for debt collection purposes?
+
+4 When customers sign up for the Organisation's services, their consent were obtained for the use of their personal data for debt management purposes. This was accomplished through the Organisation's terms and conditions, which state:
+"By having the Services we provide activated in your premises and/or by using them you are giving us your consent to use your personal information for ... credit assessment, debt management, preventing fraud... ." [Emphasis added]
+5 The Complainant had therefore consented for his personal data to be used for debt management when he signed up for the Organisation's services.
+
+1
+
+Section 13 of the PDPA requires either that (a) the individual gives, or is deemed to
+
+have given, his consent to the collection, use or disclosure of his personal data; or (b)
+
+collection, use or disclosure without consent is required or authorised under the PDPA
+
+or any other written law.
+
+2
+
+MyRepublic Limited
+
+[2018] SGPDPC 13
+
+(b) Was it reasonable for the Organisation to deem that the Complainant was in debt at the material time?
+
+6 The incident was caused by an administrative time-lag in the Organisation's systems. Investigations disclosed the following: The bank GIRO deduction for the amount owed by the Complainant to the Organisation was successfully processed on 28 September 2016. The Organisation's aging report to identify "terminated" and "suspended" accounts with outstanding payments was updated for records up to 29 September 2016, 2359 hours. Although The bank GIRO deduction report was received by the Organisation on 29 September 2016, it was only updated on 30 September 2016. As a result, the Complainant's account was included in the aging report and sent to Apex Credit on 30 September 2016. Based on the aging report received, Apex Credit commenced debt collection efforts against the Complainant.
+
+7 I am mindful that while the PDPA imposes data protection obligations on organisations, the Act does not demand infallibility in an organisation's personal data processing activities and systems. Rather, it requires organisations to do what is reasonable to fulfil their obligations. Batch processing of arrears status is commonly practiced. In this case, administrative time-lag was one day. Debt collection efforts took place within a short span of 8 days and it immediately ceased once Apex Credit was informed by the Complainant that the outstanding payment had been settled.
+
+8 I find that a weekly update of customers' account status to be a reasonable practice. I also note that the inconvenience to the Complainant was no more than a letter and phone call, both of which were private communications directed to him. Apart from annoyance and the displeasure of having to deal with requests to repay a debt that he had already settled, there
+
+3
+
+MyRepublic Limited
+
+[2018] SGPDPC 13
+
+was no embarrassment or harm caused. I am therefore of the view that the Organisation has not breached section 13 of the PDPA.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+
+4
+
+

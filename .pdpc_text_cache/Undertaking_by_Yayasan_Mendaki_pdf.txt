@@ -1,0 +1,261 @@
+VOLUNTARY UNDERTAKING UNDER SECTION 48L OF THE PERSONAL DATA PROTECTION ACT 2012 Case number: DP-2210-C0365
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 ("the Act")
+And
+(1) Yayasan Mendaki (UEN No. 198902633C)
+... Organisation The Commission has reasonable grounds to believe that the Organisation has not complied, is not complying or is likely not to comply with section 24 of the Act. In order for the Commission to suspend its investigation pursuant to section 50(3)(ca) of the Act, the Organisation HEREBY UNDERTAKES that it will: (a) Complete the remediation plan set out at Schedule B within the timelines
+stated in Schedule B; and (b) Within 14 days of the completion of the remediation plan set out at Schedule
+B, provide the Commission with a copy of the declaration set out at Schedule C duly signed by the signatory of this Undertaking or a representative of the Organisation of equal designation. The Organisation acknowledges that the Commission shall be entitled to publish and make available to the public this Undertaking and the summary of the Commission's findings set out at Schedule A to this Undertaking.
+Page 1 of 9
+
+The terms of this Undertaking may be varied by the written agreement of the Commission and the Organisation.
+
+SIGNED, for and on behalf of
+
+)
+
+Yayasan Mendaki
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+Page 2 of 9
+
+SCHEDULE A
+Page 3 of 9
+
+SUMMARY OF FACTS 1. On 27 October 2022, the PDPC was informed that the Organisation's
+servers were encrypted by a ransomware attack. Preliminary investigation had revealed that only the on-premises network was affected while the cloud infrastructure was not affected. 2. After conducting forensic investigation, the Organisation discovered that approximately 2.7TB of data had been exfiltrated from a virtual file server. However, the contents of the exfiltrated data could not be determined and none of the exfiltrated data has been published, leaked or put up for sale on the Dark Web. 3. To prevent a recurrence of a similar incident, the Organisation took immediate remedial actions to address the cause of the personal data breach and notified the potential affected individuals.
+Page 4 of 9
+
+SCHEDULE B
+Page 5 of 9
+
+REMEDIATION PLAN BY YAYASAN MENDAKI ("YM')
+
+No. Remediation action
+
+Status
+
+1
+
+Implement phishing awareness
+
+On going
+
+training for all newly onboarded
+
+YM staff members as part of YM's
+
+staff onboarding and orientation
+
+process.
+
+2
+
+Reviewing and confirming software On going
+
+patches are up to date.
+
+3
+
+Reviewing and updating YM's
+
+On going
+
+firewall policy
+
+Target Completion By 31 December 2023
+By 31 December 2023 By 31 December 2023
+
+4
+
+Running software scans on all
+
+staff-issued laptops.
+
+On going
+
+5
+
+Consulting with cybersecurity
+
+On going
+
+experts to:
+
+(a) Assist with YM's migration
+
+from on-premise servers to
+
+cloud servers;
+
+(b) Implement and improve
+
+cybersecurity on YM's cloud
+
+services and server
+
+environment.
+
+6
+
+Implemented a data export
+
+On going
+
+limit/restriction to detect and alert
+
+YM if large amounts of data are
+
+exported from its servers
+
+7
+
+Restricted access to YM's servers On going
+
+based on the location of origin of
+
+the relevant IP address
+
+8
+
+Implementing Cisco Cloud Email On going
+
+Security as an added layer of YM
+
+staff email security
+
+9
+
+Implemented two-factor
+
+On going
+
+authentication (with a fresh prompt
+
+every 24 hours) on access to YM's
+
+servers and services.
+
+10 Implemented time-specific access On going
+
+restrictions to YM's cloud servers
+
+and services
+
+By 31 December 2023 By 31 December 2023
+By 31 December 2023 By 31 December 2023 By 31 December 2023 By 31 December 2023 By 31 December 2023
+
+Page 6 of 9
+
+11 Implemented third party cloud
+
+On going
+
+By 31 December 2023
+
+backup for YM's user accounts and
+
+email
+
+12 Disabled permissions for:
+
+On going
+
+By 31 December 2023
+
+(a) Connecting unauthorised
+
+personal devices to YM's
+
+servers; and
+
+(b) Connecting removable
+
+storage devices (via USB
+
+ports) to staff-issued laptops
+
+13 Reviewing the use of wireless
+
+On going
+
+By 31 December 2023
+
+devices with staff-issued laptops.
+
+14 Restricted file sharing between
+
+On going
+
+By 31 December 2023
+
+staff members only via YM's
+
+internal Sharepoint platform, and
+
+disabling file sharing using other
+
+methods/platform
+
+15 To implement virtual private
+
+Not started By 31 December 2023
+
+network (VPN) to separate cloud
+
+environment from the Internet
+
+16 To update password policy to
+
+Not started By 31 December 2023
+
+adopt stronger passwords of at
+
+least 12 alphanumeric characters
+
+to be in line with CyberSecurity
+
+Agency of Singapore's guidelines
+
+Page 7 of 9
+
+SCHEDULE C
+Page 8 of 9
+
+Case number: DP-2210-C0365
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 ("the Act")
+
+And
+
+(1) Yayasan Mendaki (UEN No. 198902633C) ... Organisation
+
+DECLARATION
+
+I refer to the voluntary undertaking dated _________ given by the Organisation to the Personal Data Protection Commission pursuant to section 48L of the Act ("the Undertaking").
+I declare that the remediation plan set out at Schedule B of the Undertaking has been completed.
+I acknowledge that by making a false declaration or providing false or misleading information to the Personal Data Protection Commission, I may be prosecuted for offences under section 51(3)(c) of the Personal Data Protection Act 2012 and/or section 182 of the Penal Code 1871.
+
+________________________ Signature
+
+_______________________ Date
+
+_______________________ Name
+
+________________________
+
+Designation
+
+Page 9 of 9
+
+

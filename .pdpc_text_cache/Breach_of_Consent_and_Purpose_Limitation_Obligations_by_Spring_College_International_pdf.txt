@@ -1,0 +1,278 @@
+PERSONAL DATA PROTECTION COMMISSION
+[2018] SGPDPC 15 Case No DP-1705-B0799
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And Spring College International Pte. Ltd. ... Organisation
+DECISION
+
+Spring College International Pte. Ltd.
+Mr Yeong Zee Kin, Deputy Commissioner -- Case No DP-1705-B0799
+24 May 2018
+Background
+1 This matter involves a private educational institution that posted information about its students, including their names and photographs, on a public social media page, in order to promote its courses. The Organisation operates a private educational institution, known as "Spring College International Pte. Ltd." ("SCI"), that offers various academic courses to students of varying ages and levels. A complaint was made to the Personal Data Protection Commission ("PDPC") regarding the unauthorised disclosure of a student's personal data on the Organisation's Facebook page. The complaint was made by the student's parent ("the Complainant").
+2 The Commissioner's findings and grounds of decision, based on the investigations carried out in this matter, are set out below.
+Material Facts
+3 Since September 2010, the Organisation has maintained a Facebook page which is accessible to the general public, titled "Spring College International". In December 2015, the Complainant enrolled her son ("Individual A") as a student in SCI. Sometime thereafter, the
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+Complainant came across a post on the Organisation's Facebook page, dated 24 April 2016 ("Post A"). The post contained the following text:
+Application for Supplementary Admissions Exercise for International Students 1 We are pleased to inform you that your application for admission to a secondary school through the Supplementary Admissions Exercise for International Students is successful. The results of your application are as follows: ...
+4 Post A further set out the following information about Individual A: full name; partially masked passport number; date of birth; application result for Supplementary Admissions Exercise for International Students ("AEIS"); primary school assigned to; level of study; and the length of Individual A's study period in SCI.
+
+5 The Complainant subsequently discovered that Post A had been indexed by Google's search engine, and would be publicly displayed as a search result on Google if Individual A's name was used as the search term. The summary on Google's search results page displayed part of the information contained in Post A, including Individual A's name, partially masked passport number and date of birth.
+
+6 The Complainant informed the Organisation of her objection to the publication of her son's details on its Facebook page, following which the Organisation took down Post A and took steps to render Post A nonindexable by online search engines. The Complainant also submitted a complaint to PDPC, in which the Complainant alleged that the Organisation had not obtained consent to publish her son's personal data on its Facebook page.
+
+2
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+7 In the course of the investigation, three other posts containing student data on the Organisation's Facebook page were uncovered, dated on or around 25 April 2016:
+(a) Post B: data set of an individual student ("Individual B"), containing full name; partially masked FIN number; partially masked passport number; date of birth; photograph of Individual B standing under the Organisation's wall logos, next to another individual; application result for AEIS; primary school assigned to; level of study; and the length of Individual B's study period in SCI;
+(b) Post C: data set of an individual student ("Individual C"), containing full name; partially masked FIN number (without passport number); date of birth; photograph of Individual C standing, in between two other individuals, and under the Organisation's wall logos; application result for AEIS; primary school assigned to; level of study; and the length of Individual C's study period in SCI; and
+(c) Post D: titled "Top students of the preparatory course for AEIS", containing information on multiple individual SCI students comprising full names; mugshots of these individuals; course duration; schools assigned to; and the level of study.
+
+8 The Organisation did not dispute that the various Facebook posts contained the personal data of its students. The Organisation also did not deny responsibility for publishing the various Facebook posts. According to the Organisation, the various Facebook posts were made in order to share the activities and courses of SCI, for the purpose of
+
+3
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+creating brand awareness and attracting more students to register with SCI.
+
+Findings and Basis for Determination
+9 The issues for determination are:
+(a) whether the Organisation had complied with its obligation under section 13 of the PDPA to obtain valid consent before disclosing the personal data of its students; and
+(b) whether the Organisation had complied with its obligation under section 18 of the PDPA to only use and disclose personal data for purposes (i) that a reasonable person would consider appropriate in the circumstances; and (ii) that its students have been informed of.
+
+The Consent and Notification Obligations
+10 Under the PDPA, the concepts of notification of purpose and consent are closely intertwined. The PDPA adopts a consent-first regime. Unless an exception to consent applies, individual's consent has to be sought: see section 13 of the PDPA, which imposes on an organisation the obligation to obtain the consent of an individual before collecting, using or disclosing that individual's personal data ("Consent Obligation"). Consent must, of course, be obtained from the individual with reference to the intended purpose of collection, use or disclosure of that individual's personal data; section 20 of the PDPA requires an organisation to notify an individual of such intended purpose ("Notification Obligation").
+
+4
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+Personal Data Relating to Minors
+11 At this juncture, it is relevant to note that this case involved the personal data of minors. Individual A was 9 years old at the time Post A was made; Individual B was 8 years old at the time Post B was made; and Individual C was 11 years old at the time Post C was made. Post D contained the personal data of numerous individuals who were also minors at the time the post was made.
+
+12 As discussed in the PDPC's Advisory Guidelines on the Personal Data Protection Act for Selected Topics ("Selected Topics Guidelines"), certain considerations may arise when dealing with the personal data of minors.1 In particular, where the personal data of a minor is involved, the issue of whether the minor is able to effectively give consent on his own behalf may arise. In this regard, organisations should take appropriate steps to ensure that the minor can effectively give consent on his own behalf, or if not, the organisation should obtain consent from an individual who is legally able to provide consent on the minor's behalf, such as the minor's parent or guardian.2
+
+13 As stated in the Selected Topics Guidelines:3
+8.1 The PDPA does not specify the situations in which a minor (that is, an individual who is less than 21 years of age) may give consent for the purposes of the PDPA. In general, whether a minor can give such consent would depend on other legislation and the common law...
+
+1
+
+PDPC, Advisory Guidelines on the Personal Data Protection Act for Selected Topics
+
+(revised 28 March 2017) at [8.1] to [8.13].
+
+2
+
+Selected Topics Guidelines at [8.7] to [8.9].
+
+3
+
+Selected Topics Guidelines at [8.1], [8.3], [8.5] to [8.6].
+
+5
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+...
+8.3 For situations where there is no legislation that affects whether a minor may give consent, the issue would be governed by the common law. In this regard, the Commission notes that there is no international norm on when minors may exercise their own rights under data protection laws... some countries have enacted legislation to specifically protect minors below a certain age. For example, in the United States, the Children's Online Privacy Protection Act ("COPPA") requires certain organisations to obtain verifiable parental consent to collect personal data from children under 13 years of age.
+...
+8.5 The Commission notes that the age threshold of 13 years appears to be a significant one in relation to according protection to minors...
+8.6 The Commission is of the view that organisations should generally consider whether a minor has sufficient understanding of the nature and consequences of giving consent, in determining if he can effectively provide consent on his own behalf for purposes of the PDPA... the Commission will adopt the practical rule of thumb that a minor who is at least 13 years of age would typically have sufficient understanding to be able to consent on his own behalf. However, where, for example, an organisation has reason to believe or it can be shown that a minor does not have sufficient understanding of the nature and consequences of giving consent, the organisation should obtain consent from an individual, such as the minor's parent or guardian, who is legally able to provide consent on the minor's behalf.
+[Emphasis added.]
+14 While there was no allegation in this case that the Organisation
+had purported to obtain consent from individuals who lacked sufficient
+legal capacity to give such consent, it is nevertheless worth highlighting
+that it would be prudent for organisations to take additional precautions
+and/or safeguards when collecting, using or disclosing the personal data
+of minors, bearing in mind that there is "generally greater sensitivity
+surrounding the treatment of minors".4 There is no magic in the age of
+
+4
+
+Selected Topics Guidelines at [8.12].
+
+6
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+13 years as selected by the PDPC. The key determinant is whether the minor or young person is capable of understanding the nature and consequences of giving consent. The onus is on the organisation to determine whether consent may be obtained from a young person above the age of 13 years or whether, despite being above 13 years of age, it is more prudent to obtain consent from the young person's parent or guardian. Restricting my analysis only to the circumstances of this case, I would have thought that the use of minors' personal data to publicise and market the Organisation's services is one of those purposes that an organisation ought to have conducted itself with a greater degree of prudence and should have sought consent from the young person's parent or guardian, even if the young person had been older than 13 years. I probably would have come to a different conclusion if, for example, the young person was participating in a school activity and a photograph had been taken during the event and used by the organisation in its regular newsletter, college annual or blog that reports on its activities and sporting achievements. In any event, the minors in this case were all below 13 years and thus, even by the rule of thumb adopted in the Selected Topics Guidelines, consent ought to have been obtained from the minors' parents or guardians.
+
+Whether the Organisation Complied with its Obligation to Obtain Consent for the Disclosure of its Students' Personal Data
+15 In its responses to the PDPC, the Organisation stated that, when registering with SCI, students (or their parents, as the case may be) would be required to sign an enrolment form which contained a term stipulating that they would adhere to SCI's student handbook. The relevant term in the enrolment form is stated as follows:
+
+7
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+By signing the form, I acknowledge that I was informed that the course is on-going. I confirm that all documents provided by me are true. I have received and will adhere to the student handbook issued by SCI.
+16 Clause 15.1 of SCI's student handbook, entitled "Data Protection
+Notice & Consent", states:
+15.1 The information provided in Application Form is to enable to SCI to:
+(a) Administering and/or managing the Applicant's application(s) for Admission and Enrolment;
+(b) Managing the Applicant's relationship with SCI
+(including the announcement of statements or notices of the Applicant, sending the Applicant marketing, advertising and promotional information, including materials and information on courses in SCI, general student-related activities within SCI, as well as related talks, seminars and/or events via postal mail, electronic mail, SMS or MMS, fax and/or voice calls; and);
+(c) Processing the Applicant's application(s) for scholarships and/or financial aid, and if successful, administering and/or managing the Applicant's scholarship and/or financial aid programmes, which may include use of personal data for direct marketing purposes for event invitations, surveys and/or publicity of SCI' financial aid programmes;
+(d) Responding to requests for information from public agencies, ministries, statutory boards or other similar authorities
+(e) Allow the compilation and analysis of statistics for marketing purpose
+[Emphasis added.]
+17 Clauses 15.1(a) to (d) of the student handbook are concerned
+with matters that can best be described as administrative in nature.
+These clauses are not relevant to the disclosure of students' personal
+data on the Organisation's Facebook page in the present case.
+
+8
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+18 In its responses to the PDPC, the Organisation sought to rely on clause 15.1(e) of its student handbook, in order to assert that it had obtained consent for the disclosure of its students' personal data in its various Facebook posts. However, I do not think that clause 15.1(e) of the student handbook adequately covers the disclosure of personal data in the various Facebook posts by the Organisation in this case. Clause 15.1(e) contains a general reference to the "compilation and analysis of statistics". The intent and purpose of statistical analysis is very different from the use in this case. Statistical analysis goes towards identifying how the Organisation may be more effective in delivering its services, in this case, educational services. This is an acceptable use of personal data, whether in an anonymised form, aggregated (or compiled) or even in personally identifiable form (with consent or in reliance on the research exceptions in the PDPA). Organisations ought to, and are encouraged to do so, in order that they understand their customers better and can fine tune their products or services to better cater to their customers' needs and preferences. Of course, one of the ends is to enable the organisation to design its marketing strategy more effectively. The point to note is that the use of the data is indirect and goes towards a business function, in this case the Organisation's marketing strategy.
+
+19 The use of data directly in marketing is also a valid business purpose. But the intent and purpose is markedly different from statistical research. Marketing is intended to promote the organisation's products or services to new or existing customers. While I am no expert in marketing practices, what I do know is that the profiling of positive examples and the association of an organisation's products or services with success stories is not an uncommon practice. Its effectiveness is a question that each organisation that chooses to adopt such a practice
+
+9
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+needs to be satisfied with, and is not within the domain of personal data protection laws. What is within the domain of personal data protection laws is whether the individual whose image and other personal data will be used has consented to such use, or whether there is some other lawful justification that an organisation may rely upon. In this regard, the various Facebook posts published by the Organisation clearly identified students individually, and showed their details on an individual basis. It is clear that the Organisation's aim of profiling these individuals was for marketing purposes with the intent to promote its services to new (or even existing) customers. In the premises, I do not think that the purpose for which such personal data was disclosed can reasonably be said to fall within a "compilation" or "analysis of statistics" for marketing purposes. On the contrary, the personal data was used directly as part of the Organisation's marketing campaign by featuring success stories. Parenthetically, I had intimated in my earlier decision in Re My Digital Lock Pte. Ltd. [2018] SGPDPC 3 that this is an area where there is overlapping coverage between personal data protection law and the laws protecting privacy, specifically personality rights that may be protected under defamation law. In the present case, I have confined my analysis to breaches of the Consent and Notification Obligations under the PDPA.
+
+20 The student handbook also contained the following Clause 15.5:
+15.5 By attending school activities & event, you consent to the use of your photograph, voice, likeness, and image in any broadcasts of this event and in subsequent productions drawn from video or audio recordings of this event. The photographs and recordings may be published or broadcasted in the official SCI and affiliates' publications and in publicity materials, including the SCI and affiliates' websites and social media...
+
+10
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+21 As Clause 15.5 of the student handbook refers to "photographs" and "publicity materials", the Organisation could arguably rely on this clause of the student handbook for consent to post photographs of students on its Facebook page for publicity purposes, if such photographs were taken at events organised by the Organisation. The purposes that are notified by Clause 15.5 relates to how the Organisation may use video footage and photographs of its activities for publicity purposes. For such purposes, the primary focus is on the activities of the Organisation and the involvement of the individual students are secondary (although it may not be incidental or minor). The intent is to create favourable impressions of the Organisation by featuring its activities and perhaps even in its students' achievements in sporting and other activities. This purpose is markedly different from profiling selected students and associating their academic achievements with the Organisation. In this type of use, the student becomes the subject and the focus. Where the student becomes the subject and the purpose is to associate his or her academic achievement for the commercial objectives of the Organisation, specific consent ought to be obtained, and this ought to be obtained from his or her parent or guardian, as the purpose of use has probably crossed into commercial use. Moreover, this clause of the student handbook would not cover the disclosure of other personal data on the Organisation's Facebook page, such as students' names, date of birth, school assigned to and level of study.
+
+22 In light of the above, it follows that the Organisation has not complied with its Notification Obligation under section 20 of the PDPA, to inform the parents or guardians of its students, who are minors, of the purpose(s) for which the Organisation disclosed its students' personal data on its Facebook page, in respect of Posts A, B, C and D minimally.
+
+11
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+The Organisation has, therefore, breached its Consent Obligation under section 13 of the PDPA to obtain consent from such minors' parents or guardians for the same.
+
+23 Further, given the finding that the Organisation has not complied with its Notification Obligation under section 20 of the PDPA, the Organisation is also in breach of section 18 of the PDPA.
+
+The Organisation's Follow-Up Remedial Actions
+24 As mentioned above, the Organisation took steps to remove Post A from its Facebook page and to make the post non-indexable by online search engines. Sometime after the aforementioned breaches had occurred, the Organisation represented that it had "created" a "Marketing Consent and Release Form" ("MRF"), which the Organisation then instructed its staff to use in order to obtain consent for using students' personal data for marketing purposes.
+
+25 An extract from the MRF reads:
+I, ____________________ (name), __________________(NRIC) irrevocably authorize the school, its employees, and its agents, to use my / my child's name, information, picture, and likeness as recorded by the school for any purpose that the school deems appropriate, including promotional or advertising efforts. I specifically authorize the school, its employees, and its agents, to use, reproduce, exhibit, or distribute my / my child's name & information and likeness for such purpose in any communications medium currently existing or later created, including without limitation print media, television, and the Internet.
+[Emphasis added.]
+26 The MRF purports to give the Organisation a very broad
+discretion to use students' information, by using the catch-all phrase "for
+any purpose that the school deems appropriate". In this respect, apart
+
+12
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+from the accompanying words "including promotional or advertising efforts", the MRF does not provide individuals with any greater specificity or details as to the purposes for which the Organisation may use their personal data.
+
+27 It falls on me to highlight the following passage from the Advisory
+Guidelines on Key Concepts in the Personal Data Protection Act, which would be pertinent in this instance:5
+... if an organisation's Data Protection Policy sets out its purposes in very general terms (and perhaps for a wide variety of services), it may need to provide a more specific description of its purposes to a particular individual who will be providing his personal data in a particular situation (such as when subscribing for a particular service), to provide clarity to the individual on how his personal data would be collected, used or disclosed.
+[Emphasis added.]
+28 In my view, the language used in the MRF is so broad such that it cannot reasonably be said to provide adequate clarity to individuals on
+the purposes for which their personal data would be used, and does not
+fulfill the requirements of section 20 of the PDPA.
+
+29 Additionally, I note from the extract of the MRF as set out in paragraph 25 above, that the MRF purports to "irrevocably authorize" the Organisation to use students' personal data for "any purpose that the school deems appropriate". Needless to say, an overly-broad consent clause like this is unlikely to stand up to scrutiny and will probably not be effective in notifying purpose and thus any consent obtained in reliance
+
+5
+
+PDPC, Advisory Guidelines on Key Concepts in the PDPA (revised 27 July 2017) at
+
+[14.13].
+
+13
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+on it rests on weak foundations. Furthermore, this provision in the MRF is potentially contrary to the requirements of section 16 of the PDPA:
+(a) section 16(1) of the PDPA provides that individuals may at any time withdraw any consent given under the PDPA in respect of the collection, use or disclosure of their personal data for any purpose; and
+(b) section 16(3) of the PDPA further provides that an organisation must not prohibit an individual from withdrawing such consent.6
+
+30 In my view, the provision in the MRF that the Organisation be "irrevocably" authorised to use students' personal data effectively seeks to prohibit such individuals from withdrawing their consent to the use of their personal data. Supposing that the MRF had been obtained by the Organisation from the students' parents or guardians in this case, I may not have hesitated to find that it is ineffective as being contrary to the requirements under section 16 of the PDPA. However, I am also mindful of other circumstances where an irrevocable promise may be permissible, for example, in a professional modelling agreement an individual executes an irrevocable release in return for modelling fees from an advertisement agency for a specific client's marketing campaign, in which case the bargain that is struck ought to be respected. The analysis would involve a detailed discussion of the interaction of the consent provisions of the PDPA and contractual principles. But this is
+
+6
+
+Section 16(3) of the PDPA further provides that this section does not affect the legal
+
+consequences arising from such withdrawal.
+
+14
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+not an analysis for this case nor do I need to reach such a conclusion in these grounds.
+
+31 In the final analysis, I do not think that the MRF validly notifies the parents or guardians of the minors of the specific marketing use of their child or ward's personal data, nor is it acceptable in its current form for use in the context of the present pedagogical relationship between the Organisation and its students, as it purports to provide for an irrevocable waiver of the students' right to withdraw their consent, which is contrary to section 16 of the PDPA.
+
+Directions
+32 Having found that the Organisation is in breach of sections 13 and 18 of the PDPA, I am empowered under section 29 of the PDPA to give the Organisation such directions as I deem fit to ensure compliance with the PDPA. This may include directing the Organisation to pay a financial penalty of such amount not exceeding S$1 million.
+
+33 In assessing the breach and determining the directions to be imposed on the Organisation, I took into account the following factors in its mitigation:
+(a) there was no complaint or allegation received to the effect that there was any loss or damage accruing to individuals as a result of the Organisation's breach;
+(b) the Organisation demonstrated a willingness to take remedial actions upon being informed of the breach by the Complainant; and
+
+15
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+(c) the Organisation was generally cooperative throughout the investigation process and did not seek to obfuscate its role or the facts in this matter.
+
+34 In consideration of the relevant facts and circumstances of the present case, I hereby direct the Organisation to:
+(a) remove Posts B, C and D, and any other posts of a similar nature for which consent had not been obtained from the relevant individuals for their personal data to be used and disclosed on the Organisation's Facebook page;
+(b) revise the MRF and all other documents used by the Organisation for obtaining consent from its students for the collection, use and disclosure of its students' personal data, taking care:
+(i) to provide sufficient clarity and avoid the use of "catch-all" phrases in the articulation of the purposes for which personal data would be collected, used and disclosed;
+(ii) in particular, where the Organisation collects, uses or discloses personal data for purposes that involve marketing and profiling, to ensure that consent be obtained specifically for those purposes; and
+(iii) to clarify that individuals are not prohibited from withdrawing their consent; and
+
+16
+
+Spring College International Pte. Ltd.
+
+[2018] SGPDPC 15
+
+(c) take all other steps and make such other arrangements as would reasonably be required to meet (a) and (b) above.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION
+
+17
+
+

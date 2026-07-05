@@ -1,0 +1,114 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+by Bukit
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Sembawang Estates
+
+Limited &
+
+Ors
+
+Voluntary Undertakings
+
+Voluntary Undertaking by Bukit Sembawang Estates Limited & Ors
+Published on 27 Feb 2025
+
+Share:   
+
+Background
+Singapore United Estates (Private) Limited notified the Personal Data Protection Commission (the "Commission") on 12 August 2024 of a ransomware attack involving the "Fog" variant that had encrypted and deleted data, including personal data, on its systems (the "Incident"). The Incident also affected Bukit Sembawang Estates Limited, Sembawang Estates (Private) Limited, Bukit Sembawang View Pte. Ltd., Paterson Collection Pte. Ltd., BSEL Development Pte. Ltd. and Bukit Sembawang Land Pte. Ltd. (the "Organisations").
+Investigations revealed that the threat actor ("TA") had likely gained access to the Organisations' system via a compromised user account and an administrative account which enabled TA to perform port scanning and to conduct lateral movements within the network.
+The TA encrypted the Organisations' files, which contained the personal data of 1,327 individuals. The types of personal data affected included a combination of the individuals' name, NRIC number, contact information, passport number, date of birth and bank account numbers.
+Upon discovery of the Incident, the Organisations took prompt remedial actions including, but not limited to, isolating the affected systems, enforcing password cTohaonffgeersy,oimu aplbeemtteenrteinxgpemrieunltci-efa, tchtoisrsaituethuesnesticaotoioknies(".MReFaAd")mfoorraellaubsoeurst aconodkies  iennocuryrpPtirnivgacayll Ssteantseimtiveendt.ata and login credentials.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case, the Commission accepted a 
+voluntary undertaking (the "Undertaking") from the Organisations to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The UAbnoduetrtaking was executed on 23 January 2025.
+
+As part of the Undertaking, the Organisations will be implementing the following:
+
+Organisations (a) Adopt stronger password controls;
+
+
+
+(Inbd) Eivnidfouraclisng multi-factor authentication for all VPN accounts;
+
+
+
+(c) Set encryption on backup copies;
+
+(Mde) dIsisau&e Ecvyebnetrssecurity circulars and conduct IT security training for all employees;
+
+(e) Conduct phishing simulation exercises;
+
+(f) Conduct user account access review to ensure Role Based Access List is applied;
+
+(g) Perform periodic vulnerability assessments and penetration testing on their network;
+
+(h) Implement data loss prevention solution to trace and block unusual data movement in all employees' computers;
+
+(i) Engaging third-party to conduct a cyber security audit; and
+
+(j) Conduct annual table-top exercise to test the cyber and data breach response plan.
+
+The Commission will verify the Organisations' compliance with the Undertaking. If the Organisations fail to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisations' compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations ITnodoivffiedruyaolsu a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+Media & Events
+FOR
+CInondtaicvt iduals
+About  
+
+ROerpgoarnt iVsualtnioernasbility 
+
+Privacy Statement
+Individuals
+Terms and Conditions
+
+RMeeadchia & Events
+
+� 2026 Personal Data Protection Commission Last updated 28 Feb 2025
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

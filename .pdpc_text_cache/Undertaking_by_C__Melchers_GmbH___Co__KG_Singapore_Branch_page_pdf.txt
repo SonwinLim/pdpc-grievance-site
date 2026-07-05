@@ -1,0 +1,114 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+by C.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Melchers GmbH & Co.
+KG
+
+Singapore
+
+Branch
+
+Voluntary Undertakings
+
+Voluntary Undertaking by C. Melchers GmbH & Co. KG Singapore Branch
+Published on 27 Feb 2025
+
+Share:   
+
+Background
+C. Melchers GmbH & Co. KG Singapore Branch (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 31 July 2024 of a personal data breach stemming from a ransomware attack resulting in data exfiltration (the "Incident").
+Investigations revealed that that the threat actor ("TA") had likely gained access to the Organisation's system via a compromised domain administrator account which enabled the TA to conduct lateral movements within the system.
+The TA accessed and exfiltrated the Organisation's files which contained personal data. The personal data of 10,417 employees and customers was potentially at risk. For most of these individuals, the types of personal data affected included a combination of names, addresses, telephone numbers or email addresses. In a select few, the personal data affected included NRIC numbers and/or passport numbers.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including, but not limited to, blocking all internet connections on servers, enforcing password changes for all users, introducing strong password complexity requirements and implementing multi-factor authentication ("MFA") for all accounts.
+VToooluffenrtyaoruyaUbentdteer ertxapekriinengce, this site uses cookies. Read more about cookies 
+in our Privacy Statement.
+
+Having considered the circumstances of the case, the Commission accepted a FvOoRluntary undertaking (the "Undertaking") from the Organisation to improve its
+Individuals compliance with the Personal Data Protection Act 2012 (the "PDPA"). The  
+Undertaking was executed on 20 December 2024.
+
+AAsbopuatrt of the Undertaking, the Organisation will be implementing the following:
+
+(a) Review its incident response plan;
+
+(Obr)gRaenvisieawtioitnsssecurity policies and operational procedures, including the handling of
+
+data when it is no longer necessary for any business and/or legal purposes and
+
+Ienndhivaindcuinalgs its password policy;
+
+
+
+(c) Train employees on cybersecurity and data protection and raise awareness on
+
+Mbeesdtipar&acEtviceenstsand PDPA obligations;
+
+
+
+(d) Enforce MFA across all accounts;
+
+(e) Conduct periodic vulnerability assessments and penetration testing for all systems, network and target vectors.
+
+(f) Review and update disaster recovery plans; and
+
+(g) Conduct drills and simulations for employees to ensure preparedness in the event of data breach incidents.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact To offer you a better experience, this site uses cookies. Read more about cookies
+in our PrivacyStatement.
+
+RFOeRport Vulnerability 
+Individuals
+Privacy Statement
+
+ATebrmoustand Conditions
+Reach 
+
+�O2rg02a6nPiesrasotnioanl Dsata Protection Commission
+Last updated 27 Feb 2025
+
+Built with
+Individuals
+
+Powered by
+
+Media & Events
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

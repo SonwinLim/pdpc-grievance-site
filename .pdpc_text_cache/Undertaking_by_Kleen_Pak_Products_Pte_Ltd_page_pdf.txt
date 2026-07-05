@@ -1,0 +1,110 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by KleenPak
+Products
+
+Pte Ltd
+
+Voluntary Undertakings
+Share:   
+Voluntary Undertaking by KleenPak Products Pte Ltd
+
+Published on 03 Sep 2025
+
+Background
+On 21 March 2025, Kleen-Pak Products Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") that documents containing the personal data of individuals associated with the Organisation had been published on the dark web (the "Incident").
+The Organisation ascertained that it had suffered a ransomware attack on its company servers on 6 March 2025. The Organisation restored its servers from backups. The files in the server were likely exfiltrated by the threat actor(s) during this period.
+As a result of the Incident, the personal data of approximately 330 individuals, including their names, NRIC / FIN numbers, date of birth, mobile numbers, email addresses, address, dated salary details and bank account numbers of former and current employees were encrypted and exfiltrated by the threat actor(s).
+The Organisation was lacking in its cybersecurity and data protection practices. The Organisation did not have procedures for decommissioning of IT assets and deletion of data, resulting in personal data remaining on a network storage location long after data migration. In addition, the Organisation's password policy was inadequate, and there was no proper documentation for regular reviews of firewall rules and patch management.
+TRoeomffeer dyoiualaAbcetttieornexsperience, this site uses cookies. Read more about cookies 
+in our Privacy Statement. After the incident, the Organisation implemented the following:
+
+(a) Deleted the migrated data permanently;
+FOR
+I(bn) Udpidvaitdeduitas dlsata protection policy;
+(c) Conducted staff training on its updated policy;
+A(db)oCuotnducted refresher training on IT security for all staff; and
+
+
+
+(e) Implemented a cybersecurity solution.
+
+Organisations
+
+
+
+Voluntary Undertaking
+
+HInadvivinidgucaolsnsidered the circumstances of the case and the inadequacies of the 
+
+Organisation in cybersecurity and data protection practices, the Commission
+
+eaMcnecgdeaipagte&edaEnaveevnxottlesurnntaalryseurnvidceerptarkoivnidge(rthtoe
+
+"Undertaking") from the Organisation to comprehensively improve its cybersecurity
+
+
+
+set-up and its data protection practices and policies. The Undertaking was executed
+
+on 24 July 2025.
+
+As part of the Undertaking, the external service provider will assist the Organisation to first complete an initial set-up within 2 months. The initial set-up will include establishing an asset inventory for personal/business data, an IT asset inventory for hardware and software, developing an incident response and data breach management plan and implementing the necessary cybersecurity measures to protect personal data. A review will then be conducted 6 months after the initial setup to ensure, amongst others, that the latest software updates have been installed on the Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals MToeodfifaer&yEovueantbsetter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+Contact
+FOR
+Individuals 
+
+About
+Report Vulnerability 
+POrrivgaacny iSstaattieomnsent
+Terms and Conditions
+IRnedaicvhiduals
+
+M�La2se0td2u6ipadPae&tresEodnv0ae4lnDSteaspta2P0r2o5tection Commission
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

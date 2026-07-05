@@ -1,0 +1,133 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Ticketmaster
+- Singapore
+
+Pte Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by
+
+Share:   
+
+Ticketmaster - Singapore Pte Ltd
+
+Published on 23 May 2024
+
+Background
+On 1 December 2023, Personal Data Protection Commission (the "Commission") commenced investigations against Ticketmaster � Singapore Pte. Ltd. (the "Organisation") upon being alerted that users trying to buy tickets to an event on the Organisation's website were able to access and view another user's Ticketmaster account (the "Incident").
+As a result of the Incident, the personal data of a user, including their names, phone numbers, email addresses and order information (but not the ticket barcodes), was disclosed to a different user. The personal data of about 400 individuals was affected.
+Investigations revealed that the Incident occurred because the Organisation had failed to configure its content distribution network ("CDN") software correctly when the Organisation upgraded its software. The users' personal data was stored as shared cache objects based on the users' IP address. This led to a user's personal data being shown to another user if these users had been assigned to the same IP address when using the Organisation's website.
+The Commission also found that the Organisation did not detect the misconfiguration as it conducted limited testing after the software upgrade.
+Remedial Actions
+TUopofnfedriyscoouvaerbinegttethr exinpceirdieenncte, t,htheiOs srgiteanuiseastioconoimkiems.eRdeiaatdelmy tooroekatbhoeuftocllooowkiinegs  ainctoiounr sP:rivacy Statement.
+
+(a) Rolled back its CDN software to an earlier version which resolved the cause of the
+
+IFnOcRident; and
+Individuals (b) Developed a dedicated testing environment for its CDN software.
+
+
+
+VAbooluutntary Undertaking
+
+Having considered the circumstances of the case, including the remedial steps taken
+
+bOyrgtahneisOatrigoannsisation, the 2024 (the "Undertaking")
+
+Commission accepted from the Organisation
+
+a voluntary to improve
+
+iutsncdoemrtapkliianngceonwi9thAtphreil
+
+Personal Data Protection Act 2012 ("PDPA").
+
+Individuals The Organisation
+
+provided
+
+a
+
+comprehensive
+
+remediation
+
+plan
+
+to
+
+the
+
+Commission
+
+that sought to rectify the gaps identified during our investigations. As part of the
+
+UMnedeiart&akEivnegn, ttshe Organisation will be reviewing its internal onboarding processes
+and conduct appropriate training to its employees. The Organisation will also be
+
+exploring the use of an automated testing framework with a larger pool of test
+
+accounts that will help in the better identification of any anomalies.
+
+The Commission accepted the Undertaking having considered the number of affected individuals, the types of personal data involved and the impact of the Incident. Accepting the Undertaking was also consistent with the Commission's practice with respect to other similar personal data breaches.
+
+The Commission will be verifying the Organisation's compliance with its Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+To offer you a better experience, this site uses cookies. Read more about cookies
+in our Privacy Statement.
+
+Report Vulnerability 
+FOR
+PInrivadcyivStiadtemueantls
+Terms and Conditions
+ARebaocuht 
+
+� 2026 Personal Data Protection Commission
+OLarsgt uapndiastaedti2o3nMsay 2024
+
+Built with
+
+Powered by
+
+Individuals
+
+M� 2e0d2ia6 G&oEvevrennmtsent of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

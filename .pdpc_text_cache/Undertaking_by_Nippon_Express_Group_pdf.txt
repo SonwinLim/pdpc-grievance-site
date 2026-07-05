@@ -1,0 +1,152 @@
+WRITTEN VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Personal Data Protection Commission or its delegates pursuant to section 48L(1) of the PDPA, by:
+Nippon Express (Singapore) Pte. Ltd. UEN: 197301583G Registered Address: 5C Toh Guan Road East, Singapore 608828
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+In this Undertaking:
+(a) "PDPA" means the Personal Data Protection Act 2012; and
+(b) "Relevant Provisions" means the provisions in Parts III, IV, V, VI, VIA and IX, and section 48B(1) of the PDPA.
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) The Commission has carried out investigations into certain acts and practices of the Organisation, and has reason to believe that the Organisation has not complied, is not complying, or is likely not to comply with one or more of the Relevant Provisions. The relevant facts and circumstances are summarised at Schedule A.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to issue directions under sections 48I or 48J of the PDPA.
+Page 1 of 9
+
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation appears ready to implement or is in the midst of implementing the steps set out in Schedule B.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+The Organisation undertakes that it has taken, or will take all necessary steps, to carry out the actions or refrain from carrying out the actions referred to in Schedule B, and where applicable, in accordance with the stipulated timelines.
+4. COMMENCEMENT
+This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3)(ca) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above, and if necessary, will exercise its powers under the Ninth Schedule of the PDPA to do so.
+Page 2 of 9
+
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the Organisation fails to comply with this Undertaking or part thereof in relation to any matter.
+5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under sections 48I, 48J, 48L(4) and 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent.
+6. VARIATION
+This Undertaking may be varied only with the express written agreement of the Commission.
+This document has been electronically signed. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+
+SIGNED, for and on behalf of
+
+)
+
+Nippon Express (Singapore) Pte. Ltd.
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+Page 3 of 9
+
+ACCEPTED by
+
+)
+
+)
+
+Name: _______________________________________ )
+
+Designation: Deputy Commissioner
+
+Personal Data Protection
+
+)
+
+Date: _______________________________________ )
+
+Page 4 of 9
+
+SCHEDULE A
+Page 5 of 9
+
+SUMMARY OF FACTS
+
+1. On 14 November 2021, the Organisation was targeted by a malicious threat actor resulting in several servers and endpoints being encrypted with an unknown ransomware variant. These servers are centrally managed by Nippon Express (South Asia & Oceania) Pte Ltd and contained not just the personal data of individuals from the Organisation, but also the personal data of individuals from Nippon Express (South Asia & Oceania) Pte Ltd and NEX Global Engineering Pte Ltd.
+
+2. As a result of the attack, the personal data of 1,077 individuals including their name, address, telephone numbers, NRIC numbers, passport numbers, photographs, date of birth, health information and financial information were affected. The breakdown is as follows:
+
+Nippon Express (South Asia & Oceania) Pte Ltd Nippon Express (Singapore) Pte Ltd NEX Global Engineering Pte Ltd Total Affected Individuals
+
+Number of Affected Individuals 51 159 867 1077
+
+Page 6 of 9
+
+SCHEDULE B
+
+S/N
+
+Item
+
+Status
+
+Target Completion
+Page 7 of 9
+
+(MMM-YY)
+
+1 Implement Multi-Factor Authentication ("MFA") Completed -
+
+for all administrative access and all remote
+
+access to all systems.
+
+2 Review Active Directory accounts and delete any Completed -
+
+accounts that are not directly linked to identified,
+
+active employees or necessary service accounts.
+
+Revise off-boarding process to include the
+
+deactivation of user credentials and permissions.
+
+3 Perform an external and internal Vulnerability In progress Target
+
+Assessment ("VA") quarterly to identify and remediate vulnerabilities. The VA should include
+
+Completion 1 October 2022.
+
+a cloud environment audit. Perform a penetration test ("PT") annually and when major changes are performed to the network.
+
+VA to be repeated quarterly.
+
+PT to be repeated annually. 4 Ensure all software and operating systems areIn progress Oct-22 regularly updated with patches.
+
+5 Ensure all staff use stronger passwords for allIn progress Sep-22 work systems. Passwords should:
+
+� Be completely random and contain a mix of letters, digits, and special characters.
+� Have a length of at least 8 characters for normal users and at least 20 characters for privileged accounts.
+� Not be reused on other sites. � Be changed regularly. � Be stored and shared using a password
+manager if required. i. Not be stored in plaintext anywhere else. 6 Implement enterprise-grade anti-virus software Completed -
+with strong anti-tamper and anti-ransomware
+protection on servers and user endpoints and
+ensure that said software is kept up to date.
+
+Page 8 of 9
+
+7 Implement the 3-2-1 backup rule:
+
+In progress Oct-22
+
+� Keep 3 backup copies of data � Store 2 backup copies on different storage
+media (Online & Offline) � Have 1 of the backup copies located offsite
+
+Test the backup recovery process regularly to ensure it works at least once every 3 months. 8 Remove remote access tools that are no longer In progress Oct-22 in use. Use only one standard remote access protocol.
+
+Page 9 of 9
+
+

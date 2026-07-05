@@ -1,0 +1,132 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by
+Megachem
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Megachem Ltd
+
+Share:   
+
+Published on 04 Dec 2025
+
+Background
+
+Megachem Limited (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 6 May 2025 that a threat actor ("TA") had executed a ransomware attack that compromised its IT environment, resulting in its file servers being encrypted and data exfiltrated subsequently (the "Incident").
+
+The Organisation established that the TA had gained unauthorised access to the Organisation's servers located in Singapore. The TA exfiltrated the Organisation's files containing personal data of 34 individuals which comprised its staff and service providers. The types of affected personal data included a combination of names, telephone numbers, email addresses and 2 scanned copies of passports.
+
+Upon discovery of the Incident, the Organisation took prompt remedial actions including:
+
+(a) Immediate containment and system restoration from clean backups;
+
+(b) Deployment of Two-Factor Authentication for remote VPN access;
+
+(c) Enhancement of endpoint and server security;
+
+(d) Enforcement of password protection guidelines; and
+
+(e)Engagement of IT vendors for vulnerability assessment proposals. To offer you a better experience, this site uses cookies. Read more about cookies
+
+
+
+in our Privacy Statement.
+
+The ransomware attack had likely occurred as the Organisation had inadequate sFOecRurity measures including the incomplete deployment of Multi-Factor
+Individuals Authentication for remote VPN access, lack of 24/7 threat monitoring for its
+endpoints and servers, and the absence of vulnerability assessments and scans prior to the Incident. About
+Voluntary Undertaking
+
+HOargvainngisactoionnssidered the circumstances of the case, the Commission accepteda
+
+voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+UInnddiveidrtuaaklisng was executed on 7 November 2025.
+
+
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+Media & Events
+
+
+
+(a) Complete roll out Two-Factor Authentication to all staff;
+
+(b) Deploy 24/7 Managed Detection & Response (MDR) for Singapore and Malaysia users, and expand MDR coverage to all geographies where the Organisation operates with equivalent 24/7 monitoring, detection, and response capabilities;
+
+(c) Conduct comprehensive vulnerability assessment covering all network segments, on-premise servers, switches, internet routers and firewalls
+
+(d) Reinforce staff awareness through scheduled cybersecurity training and phishing tests;
+
+(e) Source for vendor to provide a suitable Security Information and Event Management solution to perform 24/7 monitoring of authentication logins and activity logs to provide alerts for suspicious user activities;
+
+(f) Source for software solution(s) to manage privilege and access control, prevent users from running malicious executables, detect suspicious patterns among other related functions; and
+
+(g) Review and enhance network environment set up for data breach detections.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+TAobouffter you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+Organisations
+FOR
+IInnddividivuaidls uals
+
+AMbeoduiat & Events
+Contact Organisations
+
+Individuals
+Report Vulnerability 
+Media & Events
+Privacy Statement
+Terms and Conditions
+Reach 
+
+� 2026 Personal Data Protection Commission Last updated 04 Dec 2025
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

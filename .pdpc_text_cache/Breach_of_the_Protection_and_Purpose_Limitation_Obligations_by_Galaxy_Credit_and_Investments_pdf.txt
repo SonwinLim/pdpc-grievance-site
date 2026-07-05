@@ -1,0 +1,133 @@
+PERSONAL DATA PROTECTION COMMISSION
+[2018] SGPDPC 22 Case No DP-1803-B1886
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And Galaxy Credit & Investments Pte. Ltd. ... Organisation
+DECISION
+
+Galaxy Credit & Investments Pte. Ltd
+[2018] SGPDPC 22
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1803-B1886
+25 September 2018
+Background
+1 Is it appropriate for a licensed moneylender, or any organisation, to attach a photograph of a debtor to a letter demanding payment of a debt and leave both the photograph and letter at the residence of the debtor? What is the objective or purpose of such a practice? If the Organisation had considered these questions, the unauthorised disclosure in this matter may very well have not occurred.
+2 The facts in this matter are straightforward and are not in dispute. On 16 March 2018, the Registry of Moneylenders & Pawnbrokers, Ministry of Law ("ROMP") informed the Personal Data Protection Commission (the "Commission") that the Organisation had sent three letters of demand, each with a photograph of a borrower, [Redacted] (Replaced with "Mr T"), to the residence of another borrower, [Redacted] (Replaced with "Mr W"). The Commission proceeded to investigate into an alleged breach of the Personal Data Protection Act 2012 ("PDPA").
+
+Galaxy Credit & Investments Pte Ltd
+
+[2018] SGPDPC 22
+
+Material Facts
+3 The Organisation is a licensed Moneylender. As part of their business, the Organisation issued letters of demand ("LODs") to borrowers who defaulted on the repayment of their loan. These LODs would be delivered to the defaulting borrowers by a third-party debt collector engaged by the Organisation. Prior to each delivery, the Organisation would provide their debt collector with the LOD and a photograph of the borrower. According to the Organisation, the purpose of providing a photograph was to help the debt collector correctly identify the borrower.
+
+4 The Organisation instructed the debt collectors to attach the photograph to the LOD and hand it to the borrower. If the borrower was not present, the Organisation's instruction to the debt collector was to place the photograph together with the LOD into a sealed envelope and leave the sealed envelope at the borrower's residence.
+
+5 To obtain photographs of all their borrowers, the Organisation took photographs of each new borrower when they visited the Organisation's premises to obtain the loans. These photographs were stored on the Organisation's system and only tagged to their respective borrower's account at the end of each day.
+
+6 Investigations revealed that Mr T and Mr W had both borrowed money from the Organisation on the same day, 17 October 2017. However, Mr W's photograph was not taken that day, and the Organisation's staff had incorrectly tagged Mr T's photograph to Mr W's account.
+
+7 Mr W defaulted on his payment for the loan he had taken out and the Organisation issued three LODs, dated 1st, 5th and 9th February 2018, to Mr W.
+
+2
+
+Galaxy Credit & Investments Pte Ltd
+
+[2018] SGPDPC 22
+
+The assigned debt collector left all of them at Mr W's residence as Mr W was not present when the debt collector visited him on those dates. As a result of the incorrect tagging, Mr T's photograph was attached to all three LODs. Mr T's photograph did not include any other identifying information. The Organisation was only made aware of the alleged data breach upon notification by ROMP.
+
+8 Following the incident, the Organisation explained to the Commission that the incident involved a human error on their part. They attempted to recover the wrongly attached photograph of Mr T, but were unable to locate or contact Mr W. They subsequently informed the Commission that the following remedial actions were taken:
+(a) The Organisation changed their practice of tagging photographs such that all photographs of new borrowers would be tagged immediately to ensure that each photograph had been taken and tagged correctly.
+(b) The Organisation changed its practices relating to the use of the borrower's photographs for debt collection. First, the photographs would no longer be attached to the LOD and handed to the borrower or left at the borrower's residence. Second, the debt collector would be handed a copy of the photograph for identification purposes, but the photograph would be returned to the Organisation for shredding after each LOD was delivered. Third, a new photograph would be generated for the debt collector if a subsequent trip to the same borrower's residence was required.
+(c) The Organisation was looking into providing more data protection training for their employees.
+
+3
+
+Galaxy Credit & Investments Pte Ltd
+
+[2018] SGPDPC 22
+
+(d) The Organisation also informed and reminded all of their employees to follow the relevant guidelines recommended by the Commission.
+
+Findings and Basis for Determination 9 The issues to be determined are as follows:
+(a) Whether the Organisation had complied with its obligations under section 24 of the PDPA; and
+(b) Whether the Organisation was in breach of section 18(a) of the PDPA.
+
+10 As a preliminary point, it was not disputed that the photographs of the Organisation's borrowers fell within the definition of "personal data" under section 2(1) of the PDPA as it was clearly possible to identify the borrowers from that data and, in fact, that was the Organisation's intention in collecting the photographs of borrowers. Further, the Advisory Guidelines on Key Concepts in the PDPA (revised on 27 July 2017) at [5.10] consider photographs with a facial image of an individual as personal data.
+
+11 The Deputy Commissioner also found that the Organisation had not breached their consent obligation. Notably, the Organisation's collection of their borrowers' photographs for the purpose of debt recovery did not require consent as it fell within the exception in paragraph 1(i) of the second schedule to the PDPA. In any case, the Organisation had obtained consent from their borrowers before taking their photographs. They had also obtained consent from their borrowers, as part of their contract, to "release all or some of [their] personal/loan/contract details to [third party organisations] for the purpose of
+
+4
+
+Galaxy Credit & Investments Pte Ltd
+
+[2018] SGPDPC 22
+
+... debt recovery". They were therefore not in breach of their consent and notification of purpose obligations under Sections 13 and 20 of the PDPA.
+
+Whether the Organisation had complied with its obligations under section 24 of the PDPA
+12 Section 24 of the PDPA requires an organisation to protect the personal data in its possession or under its control by making reasonable security arrangements to prevent unauthorised access, collection, use disclosure, copying, modification, disposal or similar risks (the "Protection Obligation").
+
+13 The Deputy Commissioner finds that the Organisation did not have adequate measures in place to ensure that borrower's photographs were correctly tagged to the borrower's accounts. Their practice of tagging the borrower's photographs at the end of each day instead of immediately tagging the photographs when they were taken created an obvious vulnerability; this arrangement was susceptible to errors being made in the tagging of photographs. To this end, the mistagging of Mr T's photograph could have been prevented if the Organisation had immediately tagged photographs to the account of the respective borrower once the photographs were taken. This would have clearly reduced the possibility of incorrect tagging.
+
+14 As such, the Deputy Commissioner finds that the Organisation had failed to make reasonable security arrangements to protect the personal data in its possession and within its control. The Organisation is, therefore, in breach of section 24 of the PDPA.
+
+5
+
+Galaxy Credit & Investments Pte Ltd
+
+[2018] SGPDPC 22
+
+Whether the Organisation had used the personal data for a purpose that a reasonable person would consider appropriate in the circumstances
+15 Section 18 of the PDPA provides, inter alia, that an organisation may collect, use or disclose personal data about an individual only for purposes that a reasonable person would consider appropriate in the circumstances. As observed in AIA Singapore Private Limited [2016] SGPDPC 10 at paragraph 18:
+"It should be borne in mind that Section 18 of the PDPA is an independent obligation that organisations would need to comply with even if it had obtained the consent from the relevant individual for the collection, use or disclosure of his or her personal data. This is an important aspect of the PDPA as it is effective in addressing excesses in the collection, use or disclosure of personal data under broadly-worded consent clauses."
+16 Despite the fact that Organisation had obtained consent for use of their borrowers' personal data for the purposes of debt collection, the issue before the Deputy Commissioner was whether the use of the borrower's photograph, by placing it together with a LOD in a sealed envelope and leaving it at his or her residence, was a usage of personal data that a reasonable person would consider appropriate in the circumstances.
+
+17 In our earlier decision of Credit Counselling Singapore [2017] SGPDPC
+18, the Commissioner considered the financial information of an individual,
+which includes information of the individual's indebtedness, to be "sensitive
+personal data" (at [15]). In particular, the Commissioner explained that:
+"Disclosure of an individual's indebtedness to other third parties could lead to harm to the individual because it could result in social stigma, discrimination or tarnish his reputation. These are real possibilities that can affect a person's life. Hence the confidentiality of the individual's financial information should not be treated lightly."
+
+6
+
+Galaxy Credit & Investments Pte Ltd
+
+[2018] SGPDPC 22
+
+A similar position has also been adopted by foreign data protection authorities in United Kingdom, Canada and Hong Kong. The point to be reiterated here is that organisations who have access to such personal data, such as licensed moneylenders, should exercise a greater degree of diligence and care in the handling and use of such personal data.
+
+18 The Organisation explained that the purpose of handing the photograph to the debt collector was so that the debt collector could identify the borrower before serving the LOD. However, they did not provide an explanation for their practice of placing the borrower's photograph together with the LOD and handing it over to the borrower or leaving it at the borrower's residence.
+
+19 In determining whether the use of personal data is for a purpose that would be considered appropriate by a reasonable person, the Deputy Commissioner would consider the purpose of such use as expressed by the Organisation. However, given that the Organisation had failed to address the purpose of placing the borrower's photograph together with the LOD and leaving it at the residence of the borrower, even though the Organisation was asked, the Deputy Commissioner draws the inference that there was no appropriate purpose for using the borrower's photographs in such a manner. Further, there is no obvious reason for this practice. As such, the Deputy Commissioner finds that the practice of placing a borrower's photograph together with an LOD in an envelope and leaving it at the borrower's residence is not for a purpose that a reasonable person would consider appropriate in the circumstances of this matter and is therefore a breach of section 18(a) of the PDPA. The Organisation should have exercised greater care in handling this sensitive personal data, and used it only where appropriate.
+
+7
+
+Galaxy Credit & Investments Pte Ltd
+
+[2018] SGPDPC 22
+
+Directions
+20 Having found that the Organisation is in breach of sections 18(a) and 24 of the PDPA, the Deputy Commissioner is empowered under section 29 of the PDPA to give the Organisation such directions as he deems fit to ensure compliance with the PDPA.
+
+21 In assessing the breach and determining the directions to be imposed on the Organisation, the Deputy Commissioner took into account the following factors:
+(a) The personal data disclosed in the data breach comprised a photograph of Mr T, which was sensitive personal data as it indicated that Mr T was an existing borrower of the Organisation.
+(b) The unauthorised disclosure had been to a single third party;
+(c) No other complaints of the photograph disclosed being misused have been received hitherto;
+(d) The risk of substantive loss or damage is low having regard to the fact that no further documentation of Mr T were attached to the photograph;
+(e) While attaching the photograph to the LOD and leaving it at the residence was an inappropriate use of personal data, its effect was minimal since it was placed in a sealed envelope and not publically displayed;
+(f) The Organisation had since stopped the practice of attaching the borrower's photograph to the LOD; and
+
+8
+
+Galaxy Credit & Investments Pte Ltd
+
+[2018] SGPDPC 22
+
+(g) The Organisation had undertaken measures proactively and swiftly to improve on its processes to prevent a recurrence of the incident.
+
+22 In view of the factors noted above, the Deputy Commissioner has decided not to issue any direction to the Organisation to take remedial action or to pay a financial penalty. Instead, the Deputy Commissioner has decided to issue a Warning to the Organisation for the breach of its obligations under sections 18(a) and 24 of the PDPA.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION
+
+9
+
+

@@ -1,0 +1,164 @@
+WRITTEN VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Personal Data Protection Commission or its delegates pursuant to section 48L(1) of the PDPA, by:
+Metropolis Security Systems Pte Ltd UEN: 201008279K Registered Address: 20 Sin Ming Lane #08-63 Midview City, Singapore (573968)
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+1.1 In this Undertaking:
+(a) "PDPA" means the Personal Data Protection Act 2012; and
+(b) "Relevant Provisions" means the provisions in Parts III, IV, V, VI, VIA and IX, and section 48B(1) of the PDPA.
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) The Commission has carried out investigations into certain acts and practices of the Organisation, and has reason to believe that the Organisation has not complied, is not complying, or is likely not to comply with one or more of the Relevant Provisions. The relevant facts and circumstances are summarised at Schedule A.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to issue directions under sections 48I or 48J of the PDPA.
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data
+Page 1 of 9
+
+protection practices. In addition, the Organisation was cooperative in the course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation appears ready to implement or is in the midst of implementing the steps set out in Schedule B.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+3.1 The Organisation undertakes that it has taken, or will take all necessary steps, to carry out the actions or refrain from carrying out the actions referred to in Schedule B, and where applicable, in accordance with the stipulated timelines.
+4. COMMENCEMENT
+4.1 This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3)(ca) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above, and if necessary, will exercise its powers under the Ninth Schedule of the PDPA to do so.
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the Page 2 of 9
+
+Organisation fails to comply with this Undertaking or part thereof in relation to any matter. 5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under sections 48I, 48J, 48L(4) and 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent. 6. VARIATION 6.1 This Undertaking may be varied only with the express written agreement of the Commission. This document has been electronically signed. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+Page 3 of 9
+
+SIGNED, for and on behalf of
+
+)
+
+Metropolis Security Systems Pte Ltd
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+ACCEPTED by
+
+)
+
+)
+
+Name: _________ _________________ )
+
+Designation: Deputy Commissioner/Commissioner
+
+Personal Data Protection
+
+)
+
+Date: _______________________________________ )
+
+Page 4 of 9
+
+SCHEDULE A
+Page 5 of 9
+
+SUMMARY OF FACTS 1. In June 2022, Metropolis Security Systems Pte Ltd was notified that their files
+with personal data could have been exposed online via an open port. 2. The exposure was due to a public folder that was configured to an open port
+during a routine maintenance service in March 2018. As a result, the personal data of 250 individuals including their name, NRIC numbers, address, mobile number and bank account number could have been affected. 3. To prevent a recurrence of a similar incident, the Organisation took immediate remedial action to address the cause of the personal data breach.
+Page 6 of 9
+
+SCHEDULE B
+Page 7 of 9
+
+S/N
+
+Issue
+
+Remedial Actions
+
+Completion Date
+
+1 Unintentional change Both sensitive and confidential Completed
+
+of data in an
+
+documents (i.e. contracts and
+
+information system supporting document with
+
+specification and scope,
+
+employment contracts) are
+
+stored centrally in HQ NAS
+
+folder with password protected.
+
+2 Deleting of Expired Review all PII records and
+
+Records
+
+to delete/destroy all expired
+
+records and records not
+
+required to be retained.
+
+31 Oct 2022
+
+3 Disclosure of Information
+
+Classification of information in 31 Dec 2022 Asset register to be reviewed at least once a year.
+
+4 Disclosure of Information by Vendor
+
+System checklist review to be conducted after every Vendor session.
+
+Completed
+
+5 Compromising Confidential Information
+
+Access control rights review half yearly and upon staff movements.
+
+30 Sep 2022
+
+Domain activity log monitoring quarterly.
+
+6 Inadequate supervision of vendors
+
+Supplier and Vendors awareness training on ISMS at least once a year and also for IT manager to monitor vendors/supplier at all time for quality assurance purposes.
+
+30 Sep 2022
+
+Page 8 of 9
+
+7 Inadequate supervision of vendors
+
+Implement documentation (contract agreement) with PDPA guidelines for all vendors/supplier
+
+8 Insufficient
+
+Conduct adequate internal
+
+infrastructure testing tests and penetration tests
+
+9 Insufficient security Conduct complete security
+
+testing
+
+review across MSS
+
+10 Enhance information Embarked on ISO27001 security processes implementation with external and implementation consultant
+
+30 Nov 2022
+31 Dec 2022 31 Dec 2022 31 Dec 2022
+
+Page 9 of 9
+
+

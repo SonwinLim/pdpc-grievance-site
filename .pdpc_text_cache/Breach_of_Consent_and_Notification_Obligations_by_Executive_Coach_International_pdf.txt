@@ -1,0 +1,57 @@
+DECISION OF THE PERSONAL DATA PROTECTION COMMISSION
+Case Number: DP-1504-A426
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 (the "PDPA")
+And
+Executive Coach International Pte. Ltd. [UEN 200414184R]
+... Organisation
+Decision Citation: [2017] SGPDPC 3
+GROUNDS OF DECISION
+21 March 2017
+BACKGROUND
+1. On 20 April 2015, the Complainant, complained to the Personal Data Protection Commission (the "Commission") that the Organisation had disclosed her past personal history in a WhatsApp group chat comprising the Complainant and the Organisation's other staff and volunteer trainees ("WhatsApp Group") without her consent and without notifying her of the purposes for the disclosure.
+2. On account of the complaint made, the Commission commenced an investigation under Section 50 of the Personal Data Protection Act 2012 (the "PDPA") to ascertain whether the Organisation had breached its obligations under the PDPA. The material facts of the case are as follows.
+MATERIAL FACTS AND DOCUMENTS
+3. The Organisation is an organisation which provides life and executive coaching services to individual and corporate clients. The Complainant is a former employee of the Organisation. She was the personal assistant to [Redacted] (Replaced with Mr L), a director of the Organisation. The Complainant has since left the employment of the Organisation on unamicable terms.
+4. The WhatsApp Group, comprising of the Organisation's employees and volunteers, was created on 22 August 2013. The Complainant and Mr L were
+-1-
+
+both participants in this WhatsApp Group. At the material time on 7 April 2015, there were a number of other participants in this WhatsApp Group.1
+5. On 7 April 2015, Mr L disclosed highly sensitive information of the Complainant's personal history, namely her past drug problem and issue with infidelity in her amorous relationship, ("Personal Data") to the participants in the WhatsApp Group. The Organisation has not disputed that the personal history of the Complainant is personal data. The disclosure of the Personal Data was made by Mr L following allegations that she was undermining the Organisation's authority by persuading the employees and volunteers of the Organisation to leave the Organisation.
+6. The Complainant claims that the Personal Data was disclosed by her to Mr L in the context of Mr L being the Complainant's employer, teacher and coach.
+7. On 11 May 2015, the Commission notified the Organisation of the complaint and requested the Organisation to cooperate and assist in investigations. In the course of the investigations, the Organisation represented to the Commission that:
+(a) Mr L disclosed the Personal Data in his personal capacity and not as an employee of the Organisation; and
+(b) the Personal Data was only known to Mr L and not the Organisation, and that the Organisation did not authorise Mr L to disclose the Personal Data.
+COMMISSION'S FINDINGS AND BASIS FOR DETERMINATION
+Issues to be determined
+8. The issues to be determined in the present case are as follows:
+(a) Whether the Organisation is responsible for Mr L's disclosure of the Personal Data.
+(b) If the Organisation is liable for Mr L's disclosure, whether the Organisation is in breach of Sections 13 and 20 of the PDPA for the said disclosure.
+1 The Complainant and Organisation disagreed on the exact number of participants in the WhatsApp Group on 7 April 2015. The Complainant claimed that the WhatsApp Group contained 117 participants. The Organisation claimed that there were only 58 participants and that a group could only accommodate a maximum of 100 participants. The Commission does not have sufficient evidence to decide on the exact number of participants. However, the exact number of participants is immaterial in this case and the Commission will accept that there were at least 58 participants in the WhatsApp Ground on 7 April 2015.
+-2-
+
+Whether the Organisation is responsible for Mr L's disclosure of the Personal Data
+9. The Personal Data disclosed involved sensitive data of the Complainant's personal history, and in this instance, there is no question, and it is not disputed, that such information falls within the definition of "personal data" under the PDPA. The nature of the Personal Data, including the fact that the Complainant was identified in the WhatsApp Group, puts it beyond doubt that the information was information "about an individual who can be identified from that data".
+10. Under Section 53(1) of the PDPA, any acts done or conduct engaged in by an employee in the course of his employment shall be treated for the purposes of the PDPA as done or engaged in by his employer as well as him, whether or not it was done or engaged in with the employer's knowledge or approval.
+11. Based on the facts described in paragraphs 3 to 7 above, the Commission notes that the disclosure of Personal Data was made in the context of an ongoing dispute arising from the unamicable departure of the Complainant from the Organisation's employment. The Organisation's director, Mr L, had expressed his disappointment and views with the Complainant in the WhatsApp Group chat following her resignation from the Organisation, and claimed that the Complainant had subsequently sought to undermine his authority, and to persuade the Organisation's employees and volunteers to leave the organisation. The Complainant, on the other hand, had expressed her own disappointment with Mr L's conduct (personally, and as an employer, teacher and coach) and raised issues that she had with the Organisation during her time of employment. Against this background, the disclosure of Personal Data in the WhatsApp Group was not made by parties in the personal sense, but was made viz an ongoing dispute between an employer and its ex-employee, with the intent to discredit the ex-employee. Accordingly, the Commission is of the view that Mr L was acting in the course of his employment as a director of the Organisation when he disclosed the Complainant's Personal Data in the WhatsApp Group chat, and was not, as the Organisation claims, disclosed by Mr L acting in his individual capacity.
+12. The Organisation claims that it did not know or approve of Mr L's collection and disclosure of the Personal Data. Even if this is true, the Organisation's knowledge or approval is immaterial under Section 53(1) of the PDPA. It is noted that Mr L was at all material times a senior member of the Organisation.
+13. Accordingly, pursuant to Section 53(1) of the PDPA, because Mr L's disclosure of the Personal Data was made in the course of employment, the disclosure is treated as a disclosure by the Organisation, for which the Organisation is responsible.
+-3-
+
+Whether the Organisation is in breach of Sections 13 and 20 of the PDPA for the said disclosure
+14. Section 13 of the PDPA prohibits organisations from collecting, using or disclosing personal data about an individual unless:
+(a) the individual gives, or is deemed to have given, consent under the PDPA to such collection, use or disclosure; or
+(b) the collection, use or disclosure of the personal data without the individual's consent is required or authorised under the PDPA or any written law.
+15. Section 20 of the PDPA requires, amongst other things, that an organisation informs an individual of:
+(a) the purposes for the collection, use or disclosure of personal data, on or before collecting the personal data; and
+(b) any other purpose of the use or disclosure of the personal data of which the individual has not been informed under paragraph (a) above before the use or disclosure of the personal data for that purpose.
+16. In the present case, there is no dispute that neither Mr L nor the Organisation obtained the Complainant's consent or informed the Complainant's of the purposes of the disclosure, before disclosing the Personal Data. The Organisation has not referred to any of the exceptions in the Fourth Schedule of the PDPA in its response and the Commission also takes the view that none of the exceptions apply in the present case.
+17. Accordingly, the Commission finds the Organisation in breach of Sections 13 and 20 of the PDPA.
+ACTIONS TAKEN BY THE COMMISSION
+18. Given the Commission's findings that the Organisation is in breach of its obligations under Sections 13 and 20 of the PDPA, the Commission is empowered under Section 29 of the PDPA to issue the Organisation such directions as it deems fit to ensure compliance with the PDPA. This may include directing the Organisation to pay a financial penalty of such amount not exceeding S$1 million.
+19. The Commission notes that the disclosure was deliberately made, and under circumstances to discredit the Complainant. The personal data that was disclosed was also highly sensitive. However, the Commission is also mindful of the fact that the disclosure was made in the context of a dispute between an employer and ex-employee, and made in what essentially was the Organisation's chat group for work (and not to the public at large). On balance, therefore, even though the Commission has found the Organisation to be in breach of Sections 13 and 20 of the PDPA, the Commission is of the view that
+-4-
+
+the enforcement action to be taken in this case should be calibrated based on the circumstances of the case. 20. Accordingly, the Commission has decided not to issue any direction to the Organisation to take remedial action or to pay a financial penalty. Instead, it has decided to issue a Warning to the Organisation for the breach of its obligations under Sections 13 and 20 of the PDPA. YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION COMMISSION
+-5-
+
+

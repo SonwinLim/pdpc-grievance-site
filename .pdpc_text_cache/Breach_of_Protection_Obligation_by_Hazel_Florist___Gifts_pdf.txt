@@ -1,0 +1,84 @@
+DECISION OF THE PERSONAL DATA PROTECTION COMMISSION Case Number: DP-1609-B0194
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+
+HAZEL FLORIST & GIFTS PTE LTD
+
+Decision Citation: [2017] SGPDPC 9
+
+... Organisation
+
+GROUNDS OF DECISION
+20 June 2017
+1. The Organisation is incorporated in Singapore and is in the business of, amongst other things, selling and delivering gift hampers. Sometime in August 2016, the Organisation delivered a gift hamper to the Complainant. The Complainant on unwrapping the gift hamper discovered that order forms (the "Order Forms") were used as fillers to cover the bottom of the hamper he received (this "Incident"). The personal data of other individuals were clearly visible on these Order Forms. The Complainant complained (the "Complaint") of this disclosure of personal data by the Organisation to the Personal Data Protection Commission (the "Commission") on 5 September 2016.
+2. Based on the complaint that was made, the Commission proceeded to investigate if there was a breach of the Organisation's obligations under the Personal Data Protection Act 2012 ("PDPA") by the disclosure to the Complainant. The following sets out the Commission's findings following its investigations into the matter.
+A. MATERIAL FACTS
+The Gift Hamper Packing Process � Order Forms were not designated as "fillers"
+3. Employees in the Organisation's Production Department ("Production Employees") are responsible for packing the gift hampers. The Production
+Page 1 of 7
+
+Employees cover the bottom of the hampers with "fillers". The materials used as fillers ("Designated Filler Material"), which include loose paper strips and shredded newspapers, outdated brochures and flyers, are kept in an allocated area near the Production Employees. The Designated Filler Material is replenished by the employees according to a roster. Order Forms were not Designated Filler Material.
+Production Employee uses Order Forms meant for disposal as she runs out of the Designated Filler Material
+4. Employee Y, a recent hire who was only on the job for about a month, was tasked to pack the Complainant's gift hamper. The Designated Filler Material kept at the allocated area had run out while Y was wrapping the Complainant's gift hamper. Y took the Order Forms which were placed in a box within the Production Department's workspace and used them as fillers for the Complainant's gift hamper instead. The Order Forms in this box relate to orders for gift hampers or floral bouquets that the Production Department had already packed or arranged; these Order Forms were meant to be disposed. The box containing these Order Forms were easily accessible by any of the Organisation's employees.
+The Complainant's Gift Hamper passes the quality control check and is delivered
+5. Once Y finished packing the Complainant's gift hamper, another employee tasked to perform quality control checks ("the QA Employee") ensured that the hamper contained the items ordered by visually comparing the items in the Complainant's gift hamper against the relevant order form in accordance with the usual process. These quality control checks are to ensure that the items packed in the gift hampers match the items stated in the relevant Order Forms and not for checking what filler material was used. In any event, it would have been impossible for the QA Employee to check what filler material was used for the Complainant's gift hamper as the filler material was covered with an opaque sheet.
+6. The gift hamper was delivered to the Complainant and as a result personal data of approximately 24 unique individuals written or printed on the Order Forms were disclosed to the Complainant.
+7. The personal data (the "Personal Data") visible in the Order Forms were the names, delivery addresses, and telephone numbers of the recipients and the reasons the gift hampers were ordered for the recipients (e.g. birth of a child or as wishes for a speedy recovery). In one instance, the National Registration Identity Card number of a recipient was shown on one of the disclosed Order Forms.
+Page 2 of 7
+
+B. COMMISSION FINDINGS AND BASIS FOR DETERMINATION
+Elements of Section 24 obligation under the PDPA
+8. Based on its investigations, the Commission finds the Organisation in breach of Section 24 of the PDPA as it:
+a. is an organisation within the meaning of the PDPA;
+b. is in possession or control of the Personal Data; and
+c. did not make reasonable security arrangements to prevent the unauthorised disclosure of the Personal Data.
+9. The first 2 elements are preconditions to the application of section 24 of the PDPA; the obligation to make reasonable security arrangements does not attach unless elements (a) and (b) are present. It is clear from the facts that the preconditions are met and that section 24 of the PDPA applies to the Organisation. The Organisation does not dispute that section 24 of the PDPA applies in this matter. This Grounds of Decision, therefore, only sets out the Commission's findings on the 3rd element (whether reasonable security arrangements were made). The Commission's reasons for finding that the Organisation did not make reasonable security arrangements to prevent the unauthorised disclosure of the Personal Data are set out below.
+The Organisation did not implement any measures to ensure that its employees only used the Designated Filler Material
+10. The Organisation did not anticipate the unauthorised disclosures in this Incident as it believed that its employees would not use materials other than the Designated Filler Material to pack gift hampers. This is clear from the Organisation's response to the Commission's request for an account of the Incident. In its official response, the Organisation states that:
+"In hazel, we have a clear procedure on what materials that has to be used for the packaging, and basing from what had transpired, the staff has clearly broken our guidelines that resulted to this unacceptable error, we have to point out that it should have been impossible for any our staff to use any of those documents because its not even considered a packaging material..." (emphasis added)
+Page 3 of 7
+
+11. The procedure referred to in the Organisation's response above is that Production Employees were instructed to use the Designated Filler Material found in the allocated area for packing gift hampers.
+12. However, the Organisation's instruction to its employees to use the Designated Filler Material for packing gift hampers is not in itself a reasonable security arrangement. The protection obligation in section 24 of the PDPA obliged the Organisation to implement reasonable security arrangements that protected the personal data found in the Order Forms from unauthorised disclosure through Y's use of Order Forms as fillers. The Organisation's instruction to its employees without any accompanying measures reasonably ensuring that the instruction was carried out by its employees does not satisfy the protection obligation.
+Y did not receive any data protection training
+13. It is possible, depending on the specific circumstances, that data protection training may serve as a security arrangement. Any such data protection training should be designed to provide an employee with an awareness of the organisation's data protection obligations and specific guidance on the proper handling of personal data relevant to the employees' day-to-day tasks.
+14. In this instance, however, the Organisation did not provide any such data protection training. The Organisation communicated its instruction on the use of Designated Filler Material to its employees through on-the-job training. This training involved members of the Production Department guiding Y on how to pack the gift hamper. It was not designed to include training on data protection. Merely training an employee on her role does not constitute a security arrangement.
+15. This lack of training showed in Y's clear lack of awareness on the importance of data protection; anyone with a basic idea of the importance of protecting personal data would not have used the Order Forms as packing material.
+Y was not properly supervised in her work
+16. Further, the Organisation acknowledged that, after a time, Y was not receptive to the training and guidance provided by her colleagues. Y brushed off her colleagues' attempts to train and guide her through the procedure for packing gift hampers and did not follow instructions. The Organisation failed to address Y's lack of receptiveness to the training.
+17. Without the guidance of her team members and the lack of intervention by the Organisation, Y was effectively working unsupervised. Given the Organisation's practices, this lack of supervision meant that the Organisation was practically
+Page 4 of 7
+
+unable to ensure that Y followed the Organisation's instruction to use the Designated Filler Material.
+The Organisation's Data Protection Policy and Employee Handbook did not provide specific practical guidance on the proper handling of personal data
+18. The Commission notes that the Organisation has in place a Data Protection Policy. The Data Protection Policy merely restates the Organisation's data protection obligations in very general terms. The Organisation's Data Protection Policy does not provide the Organisation's employees with specific practical guidance on how to handle personal data in their day-to-day work or how to comply with section 24 of the PDPA. The Commission is, therefore, of the view that the Organisation's Data Protection Policy does not constitute a "security arrangement" under section 24 of the PDPA. In this regard, the Commission repeats its advice in its Decision in The National University of Singapore [2017] SGPDPC 5:
+"Proper guidance is not easily substitutable or replaceable by general guidelines that an organisation may set."
+19. Further, the Organisation merely expects new staff to read the Data Protection Policy on the first few days after commencing employment. The Organisation does not ensure that the Data Protection Policy has been explained to the employees or that the employees understand what is required of them under the Policy. Such Policies and practices do not constitute a "reasonable security arrangement" under section 24 of the PDPA.
+20. The Commission notes that the extract of the Organisation's Employee Handbook provided to the Commission and titled "Professional Handling of Hazel Florist Confidential Information" does not even address Personal Data and instead addresses the handling of information that the company holds out to be confidential. The section generally provides that Employees are not to "divulge, share any trade and/or sensitive information regarding the business of the company in whatever form or media to unauthorized party or parties".
+The Commission's Decision: The Organisation is in breach of section 24 of the PDPA
+21. Viewing the circumstances as a whole, the Commission finds the Organisation in breach of section 24 of the PDPA. The Organisation failed to make reasonable security arrangements to protect the Personal Data as:
+Page 5 of 7
+
+a. the Organisation did not implement any measures to reasonably ensure that its instruction to its employees to use the Designated Filler Material to pack gift hampers was carried out by its employees;
+b. the Organisation did not provide Y with any Data Protection training;
+c. the Organisation failed to ensure that Y was properly supervised in her work;
+d. the Organisation's Data Protection Policy and Employee Handbook did not provide specific practical guidance on handling personal data or complying with section 24 of the PDPA; and
+e. there was no other form of security arrangement in place to protect the Personal Data.
+22. This Incident should not have come as a surprise to the Organisation. Given the above, an incident such as this was waiting to happen.
+C. REMEDIAL ACTIONS TAKEN BY THE ORGANISATION
+23. The Organisation has taken the following remedial actions to help prevent the disclosure of personal data found in Order Forms in the future:
+a. Reminders not to use documents containing personal data of customers as packaging materials and to only use designated packaging materials have been posted at all employee workspaces;
+b. Meetings and group discussions were held with employees to emphasise the above reminders;
+c. Limiting access to the box containing Order Forms meant for disposal to only authorised employees by securing it with a lock; and
+d. The Organisation is revising its Order Forms so that the forms will only state the delivery address, the date and time of delivery, and the product code.
+D. ENFORCEMENT ACTION BY THE COMMISSION
+24. The Commission is empowered under Section 29 of the PDPA to give the Organisation such directions as it deems fit to ensure the Organisation's compliance with the PDPA. This may include directing the Organisation to pay a financial penalty of such amount not exceeding S$1 million as the Commission thinks fit.
+Page 6 of 7
+
+25. In determining the directions to be imposed on the Organisation, the Commission took into account the following factors: a. The personal data was disclosed to only 1 person; b. Save for the disclosure of one individual's NRIC number, the breach involved personal data of limited sensitivity; c. The Organisation has taken remedial actions to help prevent the disclosure of the Personal Data in the future; and d. The Organisation has been fully cooperative in the investigation.
+26. In view of the factors noted above, the Commission has decided to issue a Warning to the Organisation for the breach of its obligations under section 24 of the PDPA. The Commission is of the view that neither further directions nor a financial penalty is warranted in this case.
+YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION COMMISSION
+Page 7 of 7
+
+

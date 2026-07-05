@@ -1,0 +1,82 @@
+PERSONAL DATA PROTECTION COMMISSION [2023] SGPDPC 8
+Case No. ENF-DNC-221129-0007 & Others In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And Wee Jing Kai Leon ... Person
+DECISION
+1
+
+Wee Jing Kai Leon
+Wong Huiwen Denise, Deputy Commissioner -- Case No. ENF-DNC-221129-0007 & Others
+11 July 2023
+Introduction 1 The Do Not Call Registry ("DNC Registry") is a national database kept and maintained by the Personal Data Protection Commission (the "Commission") pursuant to section 39 of the Personal Data Protection Act 2012 ("PDPA"). Persons may register their Singapore telephone numbers with the DNC Registry so as to not receive unsolicited telemarketing calls and messages. The DNC Registry comprises of 3 separate registers (i) the No Text Message Register, (ii) the No Voice Call Register, and (iii) the No Fax Message Register.
+2 Between November 2022 and March 2023, the Commission received ten (10) complaints that one Wee Jing Kai Leon ("Individual") had sent unsolicited telemarketing messages to telephone numbers registered on the No Text Message Register of the DNC Registry (the "Complaints").
+2
+
+3 The Commission commenced investigations to determine whether there had been any breaches of the "Do Not Call" provisions in Part 9 and 9A of the PDPA ("DNC Provisions").
+Facts of the Case 4 The Individual is a real estate salesperson registered with Propnex Realty Pte Ltd since 2006. Over the years, the Individual collated a list of 2,918 Singapore telephone numbers (the "Marketing List").
+5 Of the 2,918 telephone numbers in the Marketing List, 1,224 were registered with the No Text Message Register of the DNC Registry on or around 31 March 2023.
+6 The Individual did not send any marketing messages to the telephone numbers on his Marketing List before November 2022 and only admitted to sending a short messaging service message each month from November 2022 to March 2023 (the "SMS Messages") to the telephone numbers on the Marketing List to offer, advertise and/or promote his services as a real estate salesperson. According to the Individual, by November 2022, the challenging business environment had made it more difficult for him to get leads. He therefore opted to rely on the numbers in the Marketing List to prospect for leads.
+7 Given that the Marketing List included 1,224 telephone numbers registered on the DNC Registry, the Individual had sent approximately 6,120 SMS Messages to
+3
+
+telephone numbers registered on the DNC Registry from November 2022 to March 2023.
+8 The SMS Messages bore the sender ID "Propnex LW", which is registered under the SMS Sender ID Regime ("SSIR")1 by DGK Global Pte Ltd ("DGK Global"), a company owned by the Individual. During investigations, the Individual clarified that DGK Global was not involved in his real estate business, and that he used DGK Global to register the sender ID under SSIR because he needed a UEN number to do so.
+Findings and Basis for Determination The Duty to check DNC Registry under section 43(1) of the PDPA 9 The Commission's investigation focused on whether the Individual had intentionally or negligently breached section 43(1) of the PDPA by:
+(a) sending "specified messages" addressed to Singapore telephone numbers,
+(b) without having valid confirmation that the Singapore telephone numbers were not listed in the DNC Registry at the time the specified messages were sent.
+1 The SSIR was set up in March 2022 to enable organisations to protect their customers from receiving fraudulent SMS messages that spoofed the organisations' SMS Sender IDs. Organisations intending to send SMS messages to Singapore mobile numbers can register any alphanumeric Sender IDs under the SSIR. The Full SSIR Regime came into effect from 31 January 2023, upon which all non-registered Sender IDs will be marked as "LikelySCAM" for a transition period of 6 months. Thereafter, messages with non-registered Sender IDs will be blocked and not delivered to end-users.
+4
+
+"Specified message" 10 A message is a "specified message" if one of its purposes is for: 2
+(a) Advertising, promoting, or offering to supply or provide: (i) goods or services; (ii) land or an interest in land; (iii) business opportunity or an investment opportunity;
+(b) Advertising or promoting a supplier or provider (or a prospective supplier or provider) of the items listed in sub-paragraphs (i) to (iii) above.
+11 Whether a "specified message" has one of the above purposes is determined with regard to the following:3
+(a) the content of the message; (b) the presentational aspects of the message; (c) the content that can be obtained using the numbers, URLs or contact
+information (if any) mentioned in the message; and (d) if the telephone number from which the message is made is disclosed to
+the recipient (whether by calling line identity or otherwise), the content (if any) that can be obtained by calling that number.
+12 The SMS Messages were "specified messages" within the meaning of the DNC Provisions, as they were sent for the purpose of advertising and/or promoting the Individual's real estate services. The SMS Messages contained statements such as,
+2 Tenth Schedule to the PDPA. 3 Section 37(1) of the PDPA.
+5
+
+"Engage Professional & Committed Agent to Sell/Rent your Home.", and "Whatsapp Leon Wee directly at https://chatwith.io/s/enquire to rent/sell your property". They also included links to the Individual's website and social media profiles.
+13 The Individual admitted that the SMS Messages were addressed to Singapore telephone numbers, as also evidenced by the complaints received by the Commission.
+Valid confirmation 14 A person can obtain valid confirmation that a Singapore telephone number is not listed in the DNC Registry by doing the following:4
+(a) Within 21 days before sending the specified message,5 the person can apply for and receive confirmation from the Commission that the Singapore telephone number is not listed in the relevant register of the DNC Registry;6 or
+(b) The person can obtain confirmation that the Singapore telephone number is not listed in the relevant register of the DNC Registry from a "checker",7 but must not have reason to believe that, or be reckless as to whether the checker's information was obtained more than 21 days ago, or is false or inaccurate.
+4 Section 43(2) of the PDPA. 5 Section 15 of the Personal Data Protection (Do Not Call Registry) Regulations 2013 (the "DNC Regulations"). 6 Under section 40(2) of the PDPA 7 A "checker" refers to a person that, for a reward, provides to another person (P) information on whether a Singapore telephone number is listed in the relevant register for the purpose of P's compliance with Section 43(1) of the PDPA. A "checker" is a person other than the Commission, an employee of P, and an employee or agent of a checker.
+6
+
+15 Investigations revealed that the Individual did not obtain valid confirmation that the telephone numbers on his Marketing List were not listed in the DNC Registry.
+Whether the Individual received clear and unambiguous consent 16 Even if a specified message is sent to a Singapore telephone number without valid confirmation that the number is not listed in the DNC Registry, a person does not contravene section 43(1) of the PDPA if:
+(a) the subscriber or user of the Singapore telephone number gave clear and unambiguous consent to the sending of the specified message; and
+(b) the consent is evidenced in writing or other form so as to be accessible for subsequent reference8. This means that the consent must be captured in a manner or form which can be retrieved and reproduced at a later time in order to confirm that such consent was obtained. Possible forms include an audio or video recording of the consent given9.
+17 In the course of investigations, the Individual represented to the Commission that he was under the impression that since he had obtained the telephone numbers prior to the enactment of the PDPA, he could use them for marketing purposes.
+18 The Commission recognises that a subscriber of a Singapore telephone number is deemed to have given his consent to a person to send a specified message to that Singapore telephone number if the subscriber consents to the sending of the
+8 Section 43(4) of the PDPA. 9 [8.3] of the Advisory Guidelines on the DNC Provisions (revised 1 February 2021)
+7
+
+specified message before 2 January 2014 (i.e. before the DNC Provisions came into effect), and that consent has not been withdrawn.10 Even if the subscriber subsequently adds his telephone number to the DNC Registry, this would not amount to withdrawal of consent.11
+19 However, this does not relieve the Individual of his obligations under section 43(4) to obtain the consent of the subscribers or users of the Singapore telephone number to which a specified message is sent to him. In other words, if the Individual intended to rely on section 43(4) of the PDPA, he should have obtained clear and unambiguous consent to the sending of the SMS Messages to the telephone numbers in his Marketing List from the subscribers of the Singapore telephone numbers contained therein evidenced in written or other forms. The Commission sets out, at [8.5] of the Advisory Guidelines on the DNC Provisions (revised 1 February 2021), various methods through which such consent can be obtained from the subscribers or users:
+"For example, persons may seek to obtain consent by asking individuals to: a) respond to a pop-up on a webpage; b) respond to pop-ups or other form of notifications within mobile applications; c) fill out and submit a web form; d) fill out and submit a physical form; e) indicate their choice by signing or ticking against a check box printed on a
+letter or service agreement; or
+10 Section 47(4) of the PDPA. 11 Section 47(5) of the PDPA.
+8
+
+f) call or send an SMS to the person."
+20 The Commission found no evidence of the Individual obtaining such clear and unambiguous consent from any of the subscribers of the Singapore telephone numbers on the Marketing List, in written or other forms before or after 2 January 2014.
+21 Accordingly, the Individual failed to obtain valid confirmation that the telephone numbers in the Marketing List are not listed in the DNC Registry before sending the SMS Messages, and has negligently contravened section 43(1) of the PDPA.
+Whether the Individual is an employee acting in the course of employment 22 For completeness, the Commission assessed whether the defence under section 48 of the PDPA was available to the Individual, and concluded that it was not. Section 48(2) provides that section 43(1) does not apply to an employee who sends a specified message to a Singapore telephone number if he can prove that he did so in good faith in the course of his employment or in accordance with instructions given to him by or on behalf of his employer in the course of his employment. The Commission considered the following:
+(a) In accordance with industry practices, real estate salespersons such as the Individual are not in an "employer-employee relationship" with their agencies.
+(b) The Individual confirmed that he is not an employee of Propnex Realty Pte Ltd ("Propnex") despite being registered with them. He does not
+9
+
+receive salary from Propnex, nor does Propnex provide the Individual with medical benefits, CPF contributions, or annual leave benefits. The Individual is self-employed and does not report to Propnex on the conduct of his business. (c) The contents of the SMS Messages related to the services of the Individual specifically, and not Propnex.
+The Deputy Commissioner's Decision 23 In determining whether any financial penalties or directions should be imposed on the Individual, the Commission took the following into consideration:
+(a) The Individual was cooperative with the Commission's investigations; (b) The Individual had otherwise made efforts to ensure his compliance with
+other DNC Provisions, in particular the requirement under section 44 of the PDPA to include clear and accurate information identifying the sender of the SMS Messages and how he can be readily contacted. He had also provided recipients the option to unsubscribe from the SMS Messages, and would remove a recipient's telephone number from the Marketing List if so requested; and (c) The Individual's efforts to register the sender ID "Propnex LW" showed a willingness to comply with regulatory regimes, in particular the SSIR.
+24 Having considered all the factors listed above, the Individual is hereby administered a warning in respect of his breach of section 43(1) of the PDPA. No other
+10
+
+directions are necessary in view of the Individual's voluntary cessation of sending specified messages to numbers on the Marketing List. 25 The Commission observes that this case occurred alongside media reports of an increase in property scams. The Commission has also investigated complaints involving property agents who had concealed their identities while sending marketing messages in contravention of the DNC Provisions. For the avoidance of doubt, while there was no evidence that the Individual was involved in any scams or had attempted to conceal his identity in his marketing messages, the Commission will continue to monitor this trend involving property agents and calibrate its decisions in future cases accordingly to ensure compliance with the DNC Provisions of the PDPA.
+WONG HUIWEN DENISE DEPUTY COMMISSIONER FOR PERSONAL DATA PROTECTION
+11
+
+

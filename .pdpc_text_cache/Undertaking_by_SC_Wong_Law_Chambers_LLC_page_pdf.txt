@@ -1,0 +1,147 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by SC Wong Law
+Chambers
+
+LLC
+
+Voluntary Undertakings
+Voluntary Undertaking by SC Wong Law Chambers LLC
+
+Share:   
+
+Published on 29 Nov 2024
+
+Background
+SC Wong Law Chambers LLC (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 2 August 2024 of a personal data breach involving a ransomware attack by the Lockbit ransomware group that had encrypted its servers (the "Incident").
+Investigations were unable to determine, with certainty, the entry vector of the threat actor ("TA"). However, the Organisation was using an end-of-life ("EOL") operating system which was likely to contain vulnerabilities that could have been exploited by the TA.
+As a result of the Incident, the personal data of approximately 4,000 individuals including but not limited to their names, addresses, NRIC/passport numbers, telephone numbers, email addresses, date of birth and photographs were encrypted and rendered inaccessible. There was no evidence of any data exfiltration by the TA.
+Investigations established that the Organisation did not have reasonable cybersecurity and data protection practices in place. Although the Organisation wasusing EOL software for its servers, it did not carry out any periodic security reviews of its IT systems. The Organisation also did not have personal data policies or internal guidelines in place.
+Upon discovering the Incident, the Organisation took prompt remedial actions Tinocoluffdeirnygoduisacboentntercteinxpgetrhieenacfefe, tchteisdsditevuicses fcroomkitehse. Rneeatdwomrko,reupadbaotuint gcoitoskdieesvices winitohutrhPerilvaatceystSsteacteumriteynpta. tch and anti-virus definition and performing scans to ensure that no other devices were infected.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case, the Commission accepted a 
+voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The UAbnoduetrtaking was executed on 30 October 2024.
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+Organisations (a) Personal data
+
+policies
+
+outlining
+
+how
+
+the
+
+Organisation
+
+collect,
+
+use,
+
+disclose
+
+and
+
+
+
+protect personal data in its possession or control; and
+
+Individuals (b) Engaging
+
+a
+
+3rd
+
+party
+
+cybersecurity
+
+company
+
+to
+
+carry
+
+out
+
+a
+
+security
+
+audit
+
+of
+
+its
+
+
+
+systems and to remediate any identified vulnerabilities, including the phrasing out of
+
+MEOeLdisao&ftwEvaeren.ts
+
+
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement
+TeormofsfearnydoCuonadbiteiotntesr experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+Reach 
+
+� 2026 Personal Data Protection Commission
+
+LFaOsRt updated 29 Nov 2024
+
+Individuals Built with
+
+Powered by
+
+About
+� 2026 Government of Singapore
+Organisations
+
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

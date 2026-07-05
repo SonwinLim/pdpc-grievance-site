@@ -1,0 +1,112 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by DiMuto
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by DiMuto Pte Ltd
+Published on 23 Jan 2025
+
+Share:   
+
+Background
+DiMuto Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 7 October 2024 of a personal data breach where a threat actor ("TA") had gained unauthorized access to its system resulting in data exfiltration (the "Incident").
+Investigations revealed that that the TA had infiltrated the Organisation's cloudbased platform website and system by exploiting a compromised administrator account. This allowed the TA to view internal documents and personal data associated with user accounts.
+The TA exfiltrated some of the Organisation's files containing personal data of 516 employees, business partners, representatives and corporate customers. The types of personal data affected included the name, telephone number, work email addresses, as well as a single passport number, photograph and date of birth.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including, but not limited to, eliminating all single-factor authentication options, implementing encryption for the masking of personal identifiable information, enforcing password changes and enabling email-based two factor authentication ("2FA") for all internal user accounts.
+Voluntary Undertaking
+To offer you a better experience, this site uses cookies. Read more about cookies  HinaovuinrgPcriovnacsiydSetraetdemthencti.rcumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The FUOnRdertaking was executed on 26 December 2024.
+Individuals  
+As part of the Undertaking, the Organisation will be implementing the following:
+
+(Aab) oImutplement mandatory single sign-on and enable 2FA across all internal accounts; (b) Train employees to reinforce security protocols within the organisation;
+
+(Ocr)gEanngisaagteiovnesndors for penetration testing and endpoint protection;
+
+
+
+(d) Migrate server and services to cloud and enforcement of MFA;
+
+Individuals
+
+
+
+(e) Deploy encryption of personal data on platform server and implement data
+
+masking protocols;
+
+Media & Events
+
+
+
+(f) Deploy endpoint protection system and establish automated security scanning
+
+capabilities.
+
+(g) Assess the necessity of conducting the penetration testing;
+
+(h) Implement a new data retention policy and a deletion protocol;
+
+(i) Obtain practitioner certification in Personal Data Protection (Singapore) for DPO, Secondary DPO and Head of Technical Operations; and
+
+(j) Obtain Google Cybersecurity Professional Certification for the Senior Technical Lead.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events To offer you a better experience, this site uses cookies. Read more about cookies CinoonutarcPtrivacy Statement.
+
+
+FOR
+Individuals
+Report Vulnerability 
+APrbivoaucyt Statement
+Terms and Conditions
+Organisations
+Reach 
+
+I�n2d0i2v6idPeursaolnsal Data Protection Commission
+Last updated 23 Jan 2025
+
+Built with
+
+Powered by
+
+Media & Events
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

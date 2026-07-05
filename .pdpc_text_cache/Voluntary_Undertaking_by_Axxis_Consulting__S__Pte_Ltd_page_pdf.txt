@@ -1,0 +1,113 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Axxis
+Consulting
+
+(S) Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Axxis Consulting (S) Pte Ltd
+
+Share:   
+
+Published on 04 Dec 2025
+
+Background
+Axxis Consulting (S) Pte Ltd (the "Organisation"), a reseller of SAP Enterprise Resource Planning ("ERP") systems that provides installation and configuration of SAP services and cloud hosting services, discovered a ransomware attack within its data center environment on 22 June 2024 after corporate clients reported difficulties connecting to its cloud hosting platform. Nine (9) VMware ESXi servers (the "ESXi servers") likely to contain personal data from its clients had been encrypted by ransomware (the "Incident"). The Personal Data Protection Commission (the "Commission") was notified of the Incident through several of its affected clients on 12 July 2024.
+Investigations revealed that the threat actor ("TA") had gained initial access to the Organisation's network through SSL-VPN connectivity on the Organisation's firewall using a local administrative account, likely stolen by exploiting known vulnerabilities in the firewall that had reached End-of-Life ("EOL") support as of 11 October 2023. The TA subsequently created an unauthorised administrative-level account on the Organisation's backup server and deleted backup data via Remote Desktop Protocol ("RDP") connectivity. Other vulnerabilities in the Organisation's server management software also were likely exploited by the TA to activate Secure Shell ("SSH") connections to the ESXi servers and execute ransomware encryption.
+The TA had disabled the Organisation's data center environment by encrypting icTsaneooffrmoeovucfepftrreeaPcrdnoryiiuenovsasufie,cgtaryouabSrtcaethcatteiettoeiesrnrsmreefoiexslfenpp7stee4.arccinteoidnvrepctehoS,erAtahPvteiirsEtcRsuliiaPteelnshutyasss,retdiesnmdccloisusokdhkiodniesrgitsve.5eRd4seooSannidnttgmhhaeeopErEoeSSrXeaXbi-ibsoseaeursrtvevecderosso.wkhieisch 
+
+Investigations found that before the Incident, data on the SAP ERP software was FeOnRcrypted at rest through SAP's security controls and access to client databases
+Individuals required separate authentication login which the Organisation's compromised 
+administrative accounts did not have access rights to. The Organisation's corporate data was also affected in the Incident. However, employee personal data was stored iAnbdoeuptendently from its data center and was not affected in the Incident.
+
+Upon discovery of the Incident, the Organisation took prompt remedial actions
+
+iOnrcgluadninsagtiroensestting all system passwords, disabling any unused accounts, additional
+restrictions for external VPN access, enhancing data backup protocol, implementing
+
+multi-authentication for key accounts and stricter access controls to limit client RDP
+
+uInsdaigveid. uTahles Organisation also promptly engaged an external digital forensics
+
+
+
+consultant to scan for any dark web exposure on two separate occasions, neither of
+
+wMheidciha s&uEgvgeensttsed any evidence of dark web exposure.
+
+
+
+Voluntary Undertaking
+
+The Commission considered that while there may be lapses in the Organisation's security measures, including using an EOL firewall, out of date software on its backup server and a lack of a formal patch management policy, the likelihood of the TA accessing or exfiltrating PD is low. PD held by ACPL's 74 clients was encrypted by SAP security controls.
+
+Having considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 27 March 2025.
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+(a) Conduct regular security reviews on an inter-group basis;
+
+(b) Conduct regular data protection and cybersecurity awareness training for IT personnel;
+
+(c) Undergo and obtain the Cyber Essential Certification;
+
+(d) Ensure upgrading of network security measures are completed and reviewed for relevancy and efficiency;
+
+(e) Ensure strict oversight to ensure patch management policy is adhered to;
+
+(f) Conduct a red team cyber-attack simulation exercise to ascertain the effectiveness of enhanced threat detection and response capabilities; and
+
+(g) Ensure that logging is enabled for the newly migrated AWS environment.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the TUonodfefertraykoinuga. better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+SFIOnhRarde:ividuals
+PAbeorustonal Data Protection Commission
+OAbrgoauntisations Organisations Individuals Individuals Media & Events Media & Events
+Contact
+
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 04 Dec 2025
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

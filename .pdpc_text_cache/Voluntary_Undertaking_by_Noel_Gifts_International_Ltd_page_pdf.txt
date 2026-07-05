@@ -1,0 +1,119 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Noel Gifts
+International
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Noel Gifts International Ltd
+
+Share:   
+
+Published on 04 Dec 2025
+
+Background
+On 13 February 2025, Noel Gifts International Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") that a threat actor ("TA") had gained unauthorised access to the web management consoles belonging to the Organisation and its subsidiary. This led to exfiltration of the personal data contained within the web management consoles (the "Incident").
+The Organisation established that the TA had likely gained access to both web management consoles by exploiting login credentials belonging to one of the authorised accounts which allowed the TA to access the Sales Report function within.
+The TA then exfiltrated files containing personal data of approximately 200,000 former and existing customers belonging to the Organisation and its subsidiary. Only the personal email addresses of customers used to facilitate the sending of order confirmation had been affected in this Incident.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including, but not limited to, enhancing their password requirements across all accounts, introducing email based one-time password authentication, implementing account lockout and comprehensive login activity to monitor and track all system-access attempts, including management consoles and conducting a thorough review of management console access permissions, with access rights rTeovoisfefedrbyaosueadboenttaenr eeexpde-troiebnacsei,st. his site uses cookies. Read more about cookies  in our Privacy Statement.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case, the Commission accepted a 
+voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The UAbnoduetrtaking was executed on 29 May 2025.
+
+As part of the Undertaking, the Organisation will implement the following:
+
+Organisations (a) Additional multi-factor
+
+authentication
+
+for
+
+administrative
+
+accounts
+
+to
+
+servers
+
+and
+
+systems with internet facing user accounts;
+
+Individuals (b) Review and update business, workflow and security policies and operational
+
+
+
+procedures, including a data retention policy;
+
+Media & Events (c) Re-train employees on cybersecurity and data protection;
+
+
+
+(d) Conduct vulnerability assessment and penetration testing for all systems, network and target vectors;
+
+(e) Assess the feasibility and requirements to obtain the Commission's Data Protection Trustmark Certification; and
+
+(f) Review and enhance incident response plan with assistance from external party to better handle cybersecurity and data breach incidents.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact To offer you a better experience, this site uses cookies. Read more about cookies
+in our PrivacyStatement.
+
+RFOeRport Vulnerability 
+Individuals
+Privacy Statement
+
+ATebrmoustand Conditions
+Reach 
+
+�O2rg02a6nPiesrasotnioanl Dsata Protection Commission
+Last updated 04 Dec 2025
+
+Built with
+Individuals
+
+Powered by
+
+Media & Events
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

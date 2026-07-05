@@ -1,0 +1,103 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Commonwealth
+Capital Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Commonwealth Capital Pte Ltd
+Published on 02 Aug 2024
+
+Share:   
+
+Background
+Commonwealth Capital Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 4 January 2024 of a personal data breach involving the unauthorised exfiltration of personal data (the "Incident").
+Investigation revealed that a threat actor had gained unauthorised access to the Organisation's servers through Remote Desktop Protocol ("RDP") brute force of two local administrator accounts. The local administrator accounts were created by the Organisation to allow its vendor to assist in the migration of the Organisation's onpremise servers to cloud servers.
+A malicious actor exfiltrated the personal data of 2,951 individuals who were the Organisation's and its related companies' former and current employees, tenants and contractors. For 1,675 individuals, the personal data affected is limited to their name, NRIC/FIN /passport number, address, telephone number, email address, photo, and date of birth/age. For the remaining 1,276 individuals, the affected personal data included their salary and/or bank account details.
+Upon discovering the Incident, the Organisation took prompt remedial actions including engaging a vendor to investigate, implement containment and recovery measures, and improved its existing security measures.
+Voluntary Undertaking
+THoavoifnfegrcyoonusaidbeerettdertheexpceirrcieunmcset,atnhcisessitoef uthseesccaoseo,ktihese. CRoemadmmisosrioenabacocuetpctoeodkaies  vinolouunrtaPrryivuancydeSrttaatkeimngen(tth. e "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking FwOaRs executed on 17 April 2024.
+Individuals  
+As part of the Undertaking, the Organisation will be implementing the following:
+
+o(Aaub)toMguoetiansgurterasftfioc;detect and alert the Organisation on unusually large volume of
+
+d(Ober)gpAalonbyiamscaketiunoptnsss; olution for key data stores and servers that is safe from ransomware 
+
+(Inc)dNiveidtwuaolrsk segmentation and avoid using flat networks;
+
+
+
+(d) Allowing remote access to servers and domain controllers only from a specific
+
+nMeetdwiaor&k Esevegnmtsent for administrators and via secure jump hosts;
+
+
+
+(e) Restricting unnecessary lateral movement between servers and endpoints using
+
+protocols such as RDP, SMB, PowerShell remoting and SSH;
+
+(f) Upgrading Windows operating systems that have reached End-of-Life support from Microsoft;
+
+(g) Creating and using separate server administrator and desktop administrator accounts; and
+
+(h) Privileged account management to manage local administrator accounts.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+To offer you a better experience, this site uses cookies. Read more about cookies
+in our Privacy Statement.
+
+Report Vulnerability 
+FOR
+PInrivadcyivStiadtemueantls
+Terms and Conditions
+ARebaocuht 
+
+� 2026 Personal Data Protection Commission
+OLarsgt uapndiastaedti0o2nAsug 2024
+
+Built with
+
+Powered by
+
+Individuals
+
+M� 2e0d2ia6 G&oEvevrennmtsent of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

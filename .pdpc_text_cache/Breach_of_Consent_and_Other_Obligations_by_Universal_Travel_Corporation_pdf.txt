@@ -1,0 +1,148 @@
+DECISION OF THE PERSONAL DATA PROTECTION COMMISSION
+
+Case Number: DP-1508-A496
+
+UNIVERSAL TRAVEL CORPORATION PTE LTD (UEN. 197302113R)
+
+Decision Citation: [2016] SGPDPC 4
+
+... Respondent
+
+20 April 2016
+
+GROUNDS OF DECISION
+
+A. BACKGROUND
+1. The Personal Data Protection Commission ("Commission") received a complaint from a credible source concerning the alleged disclosure by the Respondent of personal data of 37 customers (the "passenger list") in early March 2015 to certain individual(s) who participated in the 12 Days Legend of the Balkans Tour from 17 February 2015 to 28 February 2015 ("Balkans Tour").
+2. In the premises, the Commission decided to carry out an investigation into the matter. The Commission's findings are set out below.
+B. MATERIAL FACTS AND DOCUMENTS
+3. Sometime in or around late February 2015, four of the customers of the Balkans Tour requested the Respondent to furnish formal documentation confirming the cancellation of their transit flight to Sofia on 18 February 2015 (TK1027/18FEB15 ISTANBUL-SOFIA) ("formal confirmation") to process their insurance claims.
+4. The Respondent therefore requested from Turkish Airline written confirmation of the flight cancellation and the affected passenger list.
+5. Sometime in early March 2015, the Respondent sent the formal confirmation together with the letter from Turkish Airline and the passenger list by email to four of the customers of the Balkans Tour. The passenger list that was sent contained the name, nationality, date of birth, passport number, passport expiry date and passenger name record (a record in the database of a computer reservation system (CRS) that contains the itinerary for a passenger, or a group of passengers travelling together) of all 37 of the passengers/customers that were on the Balkans Tour. The passengers' details were not masked or redacted when it was sent by the Respondent. It is not disputed that the passengers' details constituted personal data under the control of the Respondent at the material time.
+
+6. In the Respondent's response to the Commission during the investigation, the Respondent confirmed to the Commission that it did not obtain consent from the 37 passengers to disclose their personal data to other parties. It also mentioned that none of the passengers had authorised the release of their personal data to third parties. The Respondent confirmed to the Commission that it also did not have any personal data policy in place at the material time.
+C. COMMISSION FINDINGS AND BASIS FOR DETERMINATION
+7. The issues in this case to be determined are as follow:
+i. Has the Respondent complied with sections 131 and 202 of the Personal Data Protection Act 2012 ("PDPA") in disclosing the personal data to the customers of the Balkans Tour?
+ii. Was the disclosure of the personal data made in accordance with section 18 of the PDPA,3 ie for purposes that a reasonable person would consider appropriate in the circumstances?
+iii. Has the Respondent complied with section 12(a) of the PDPA4 in developing and implementing policies and practices necessary to meet its obligations under the PDPA?
+Contraventions by the Respondent under sections 13 and 20 of the PDPA
+8. The Commission notes that the Respondent intentionally sent the passenger list to the four individuals who had requested for confirmation of the flight cancellation.
+9. However, the Respondent had not sought for or obtained any of the 37 passengers' consent in disclosing their information contained in the passenger list to the other individual(s) who were requesting for the formal confirmation from the Respondent. In this regard, the Respondent did not have the requisite consent from the 37 passengers to disclose their personal data to other individual(s) under section 14 of the PDPA.
+10. In relation to whether the 37 passengers could be deemed to have consented to the disclosure of the personal data under section 15 of the PDPA, the Commission finds that no such deemed consent can be imputed on the facts. The Commission notes that when the 37 passengers voluntarily provided their personal data to the Respondent, the purposes for providing their personal data did not include the purpose of allowing another passenger(s) to process his/her insurance claim. This is fortified by the Respondent's confirmation that none of the passengers had agreed or authorised the release of their personal data to a third party. The Commission notes that each individual only required his or her flight details and confirmation of the flight delay in order to process his or her insurance claim.
+11. In its submissions to the Commission, the Respondent claimed that the exception provided for in paragraph 1(a) of the Fourth Schedule of the PDPA (the
+
+"exception") applied5 to the case and hence it was not required to seek the consent of the individuals concerned for the disclosure of the 37 passengers' personal data.
+
+12. Having considered the context and circumstances of the case, the Commission concludes that the aforesaid exception does not apply for the following reasons:
+
+i.
+
+"Interests of the individual" under Paragraph 1(a) of the Fourth Schedule
+
+should refer to the interests of the data subject. Disclosing the personal
+
+data of other passengers to a fellow passenger for the purpose of
+
+enabling that passenger to make a claim against his travel insurance
+
+policy for himself cannot be said to be in the interest of any one or all of
+
+the other passengers.
+
+ii.
+
+It does not appear obvious to the Commission that in order to make an
+
+insurance claim, details of all other affected passengers on the Balkans
+
+Tour had to be disclosed. For one, the Respondent could have provided
+
+the confirmation with only the details of the individual making the
+
+insurance claim. Alternatively, the other passengers' details could be
+
+removed or redacted in the list when it was forwarded to the recipients.
+
+There is no suggestion otherwise that these actions could not be carried
+
+out.
+
+iii.
+
+There is nothing to suggest that consent for disclosure could not be
+
+secured from the passengers in the list in a timely manner, or that there
+
+was urgency in the matter which warranted the consent from the other
+
+passengers to be dispensed with.
+
+13. In the circumstances, by disclosing the passenger list containing the personal data of the 37 passengers without obtaining their prior consent, the Respondent had contravened section 13 of the PDPA. Additionally, since the Respondent had also not informed of the purposes for which it was disclosing their personal data, it is also in breach of section 20 of the PDPA.
+
+Disclosure of personal data was not for purposes reasonable or appropriate in the circumstances or for purposes that the individual has been informed of under section 20
+
+14. In view that the disclosure of the entire passenger list goes beyond supporting an individual customer's insurance claim (as set out in paragraphs 12i and 12ii above), the disclosure could not be for purposes that a reasonable person would consider appropriate in the circumstances.
+15. In addition, since the Respondent had not been informed of the purposes for which it was disclosing the passengers' personal data, it was also not in compliance with section 20 of the PDPA.
+
+16. In this regard, the Respondent was also in breach of section 18 of the PDPA.
+
+Failure to develop and implement policies and practices necessary to meet obligations under the PDPA
+
+17. Given that the Respondent had not put in place data protection policies to ensure compliance with the PDPA at the material time when the data breach transpired, as confirmed by the Respondent in its response to the Commission's request for information and documents on 13 August 2015, the Respondent was in breach of section 12(a) of the PDPA.
+
+18. The Commission notes from the Respondent's response of 24 August 2015 that the Respondent is taking steps to set up guidelines with regard to the use and disclosure of customers' personal data to comply with section 12(a) of the PDPA.
+
+D. ENFORCEMENT ACTION TAKEN BY THE COMMISSION
+
+19. Given the Commission's findings that the Respondent is in breach of its obligations under sections 12(a), 13, 18 and 20 of the PDPA, the Commission is empowered under section 29 of the PDPA to give the Respondent such directions as it deems fit to ensure compliance with the PDPA. This may include directing the Respondent to pay a financial penalty of such amount not exceeding $1 million as the Commission thinks fit.
+
+20. In exercise of the power conferred upon the Commission pursuant to section 29 of the PDPA, the Commission directs the Respondent to take the following steps:
+
+i.
+
+To put in place within 3 months a data protection policy and internal
+
+guidelines to comply with the provisions of the PDPA and, in particular,
+
+to prevent future recurrences of the breaches that has occurred in this
+
+matter;
+
+ii.
+
+To inform within 2 weeks the individuals who received the passenger list
+
+not to disclose the list to other third parties;
+
+iii.
+
+For all employees of the Respondent handling personal data to attend a
+
+training course on the obligations under the PDPA and the organisation's
+
+data protection policies within 6 months from the date of this decision;
+
+and
+
+iv.
+
+To inform the Commission of the completion of each of the above within
+
+1 week.
+
+21. On a balance, the Commission has decided not to impose a financial penalty on the Respondent in view of the overall circumstances of the matter, namely:
+
+i. that the disclosures were made to a limited number of persons and to their personal email addresses;
+
+ii. that the personal data that was disclosed was in relation to limited individuals;
+
+iii. that the disclosures were not due to a systemic issue that could result in further disclosures to be made or further harm to be caused;
+
+iv. that the disclosures appear to be caused by the lack of awareness on the Respondent's employees' part of data protection obligations; and
+v. that the disclosures were bona fide mistakes made by the Respondent's employees who were seeking to assist the passengers with their insurance claims, and not one where there was a wilful disregard for the provisions in the PDPA.
+22. The Commission emphasises that it takes a very serious view of any instance of non-compliance with the PDPA, and it urges organisations to take the necessary action to ensure that they comply with their obligations under the PDPA. The Commission will not hesitate to take the appropriate enforcement action against the organisation(s) accordingly.
+YEONG ZEE KIN COMMISSION MEMBER PERSONAL DATA PROTECTION COMMISSION
+1 Section 13 of the PDPA prohibits an organisation from collecting, using or disclosing an individual's personal data unless the individual gives, or is deemed to have given, his consent for the collection, use or disclosure of his personal data. This provision is also to be read with Section 14, 15 and Section 20 of the PDPA. 2 Section 20 of the PDPA requires, amongst other things, that an organisation informs an individual of (a) the purposes for the collection, use or disclosure of personal data, on or before collecting the personal data; and (b) any other purpose of the use or disclosure of the personal data of which the individual has not been informed under paragraph (a) above before the use or disclosure of the personal data for that purpose. 3 Section 18 of the PDPA provides that an organisation may collect, use or disclose personal data about an individual only for purposes (a) that a reasonable person would consider appropriate in the circumstances; and (b) that the individual has been informed of under section 20, if applicable. 4 Section 12(a) of the PDPA provides that an organisation shall develop and implement policies and practices that are necessary for the organisation to meet the obligations of the organisation. 5 Paragraph 1(a) of the Fourth Schedule of the PDPA states that an organisation may disclose personal data about an individual without the consent of the individual if the disclosure is necessary for any purpose which is clearly in the interests of the individual and if consent for its disclosure cannot be obtained in a timely way.
+
+

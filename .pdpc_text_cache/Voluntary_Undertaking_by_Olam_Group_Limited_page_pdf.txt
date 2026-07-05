@@ -1,0 +1,116 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Olam
+Group
+
+Limited
+
+Voluntary Undertakings
+Voluntary Undertaking by Olam Group Limited
+
+Share:   
+
+Published on 05 Jun 2026
+
+Background
+Olam Group Limited (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 4 December 2024 of a ransomware incident involving its servers (the "Incident").
+The Organisation established that the threat actor ("TA") had successfully connected to the VPN located in one of its overseas entities using valid credentials from a user account. By leveraging the user account, the TA gained the privileges of user accounts which enabled lateral movement across the Organisation's network and data exfiltration from the Organisation's servers.
+The Incident affected 42,351 individuals (largely involving the Organisation's former, existing and potential employees) and the types of personal data affected varied by individuals, including a combination of names, addresses, personal email addresses, telephone numbers, dates of birth, photographs, national identification numbers, health information, financial information, life/health insurance information, demographic information, and professional and educational information.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including disabling the specific VPN service to which the initial access was traced to, resetting the passwords, blocking outbound and inbound internet access to servers by the TA, and implemented dark web monitoring. The Organisation also notified the relevant affected individuals. To offer you a better experience, this site uses cookies. Read more about cookies  TinhoeuInr cPirdiveanctyhSatdatleikmeleynotc. curred due to delay in the renewal process of the VPN license in one of many jurisdictions where the Organisation operates, which enabled
+
+the validation of domain membership. The Organisation also did not have proper FMOuRlti-factor Authentication ("MFA") processes as the second check of authentication
+Individuals had been configured but was not enforced due to the license expiry as noted. The
+Organisation also had weak password policies in place for the VPN account which made it vulnerable to brute force attacks. While the Organisation's password for the sApbeocuiftic user account at the time was not sufficiently robust, the Organisation had other protective measures in place which included conducting monthly vulnerability scans, regular patching, antivirus detection and response on servers and endpoints,
+aOnrgdabnrioswatsioinngs protection controls and host firewall protections on end-user systems.
+
+VInodilvuidnutaalsry Undertaking
+
+
+
+Having considered the circumstances of the case, the Commission accepted a
+
+cvMooelmudnipatlai&arnyEcuveennwdteistrhtatkhiengPe(trhsoen"aUlnDdaetrataPkriontgec")tiforonmActht e20O12rg(tahneis"aPtiDoPnAto").imThperove its 
+
+Undertaking was executed on 13 April 2026.
+
+As part of the Undertaking, in addition to the existing security measures, the Organisation has implemented and will implement the following including:
+
+(a) Renewing firewall licenses to maintain the functionality of firewall features and controls;
+
+(b) Implementing MFA for the relevant servers and accounts;
+
+(c) Increasing the minimum password length and complexity;
+
+(d) Reviewing security operations response time related to port scanning incidents;
+
+(e) Implementing network segmentation within the environment; and
+
+(f) Implementing proper encryption protocols within the Organisation to safeguard personal data.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations To offer you a better experience, this site uses cookies. Read more about cookies IinndoiuvirdPuraivlsacy Statement.
+
+Media & Events
+FOR
+CInondtaicvt iduals
+
+About  
+
+Organisations
+Report Vulnerability 
+
+PInridvaivciydSutaaltsement
+
+Terms and Conditions
+
+RMeeadchia
+
+&
+
+
+Events
+
+� 2026 Personal Data Protection Commission Last updated 05 Jun 2026
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

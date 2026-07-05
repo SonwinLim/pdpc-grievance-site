@@ -1,0 +1,112 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+Case No DP-1803-1781
+
+[2019] SGPDPC 19
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+
+And
+
+Xbot Pte. Ltd.
+
+... Organisation
+
+DECISION
+
+Xbot Pte. Ltd.
+[2019] SGPDPC 19
+Yeong Zee Kin, Deputy Commissioner -- Case No DP-1803-1781
+20 June 2019
+Introduction
+1. On 2 March 2018, the Personal Data Protection Commission (the "Commission") received a complaint that Xbot Pte. Ltd. (the "Organisation") had disclosed the personal data of property owners through the Strata.sg mobile application without their consent. The Commission commenced an investigation in order to determine whether the Organisation had failed to comply with its obligations under the Personal Data Protection Act 2012 (the "PDPA").
+Material Facts
+2. The Organisation developed and operated the Strata.sg mobile application (the "App") and an associated website, http://Strata.sg (the "Website"), which provided access to a database of residential property transactions (the "Database"). The Database included information on transactions involving both private residential properties ("Private Properties") and Housing Development Board ("HDB") properties ("HDB Properties"). This information was made available to users of the App and Website and included a partial address (block number, road and, for HDB Properties only, a storey range), area, type and price for the properties listed. In addition, the complete addresses of the Private Properties (including the specific unit number) was made available to premium subscribers of the App or Website who paid a fee for access to the information in the Database.
+3. The Organisation also collected personal data from users of the Website and users of the App in order to grant them access to the Database. The Organisation had a data protection policy for the Website (which it referred to as a "Privacy Policy") but that policy did not
+1
+
+Xbot Pte. Ltd.
+
+[2019] SGPDPC 19
+
+mention or cover the personal data collected from users of the App. The App did not include any separate data protection policy nor any link to the Organisation's data protection policy for the Website. In addition, the Organisation did not have any internal policies or procedures relating to its personal data practices. At the material time, the Organisation was run by a single individual who was also an employee of the Organisation. The Organisation had only one other employee.
+
+Findings and Basis for Determination
+
+(A) Does the information in the Database constitute personal data under the PDPA?
+
+4. Section 2(1) of the PDPA defines "personal data" as "data, whether true or not, about an individual who can be identified �
+(a) from that data; or (b) from that data and other information to which the organisation has or is likely to
+have access."
+
+5. The information in the Database would not, on its own, be personal data as none of those data could identify an individual (per limb (a) of the above definition). In particular, as there is no publicly available means of identifying the owners of the HDB Properties based on the information available in the Database, the information relating to HDB Properties would not constitute personal data under the PDPA.
+
+6. However, the complete addresses of the Private Properties in the Database could be used to trace the name of the owners of those properties through the Singapore Land Authority's Land Titles Register. The information in the Database could then be related to the identified or identifiable owners of the Private Properties and reveal the type and size of property they own and the price they paid for the property. In light of this, the information in the Database relating to Private Properties constitute personal data under the PDPA (per limb (b) of the above definition).
+
+2
+
+Xbot Pte. Ltd.
+
+[2019] SGPDPC 19
+
+(B) Is the Organisation permitted to collect, use and disclose the personal data in the Database?
+
+7. Section 13 of the PDPA prohibits organisations from collecting, using or disclosing personal data about an individual for a purpose unless:
+(a) the individual consents, or is deemed to have consented, under the PDPA to such collection, use or disclosure; or
+(b) collection, use or disclosure without the individual's consent is permitted or required under the PDPA or any other written law.
+
+8. In the course of the Commission's investigation, the Organisation admitted that it had not obtained the consent of the individuals concerned for the collection, use and disclosure of their personal data in the Database. Hence, the key issue is whether the Organisation is permitted to do so without the individuals' consent.
+
+9. Under section 17(1) of the PDPA, collection of personal data without consent is permitted in the circumstances listed in the Second Schedule to the PDPA. In particular, paragraph 1(c) of the Second Schedule permits the collection of personal data without consent if the personal data is publicly available. Section 2(1) of the PDPA defines the term "publicly available" (in relation to personal data) as "personal data that is generally available to the public ...". Use and disclosure of personal data which is publicly available is similarly permitted without consent under section 17(2) read with paragraph 1(c) of the Third Schedule and section 17(3) read with paragraph 1(d) of the Fourth Schedule respectively.
+
+10. In this case, the information in the Database had either been obtained by the Organisation from a source which was generally available to the public or had been derived by the Organisation from information which had obtained from such a source. In particular, the Organisation had obtained information from the Urban Redevelopment Authority's Real Estate Information System ("REALIS") portal and the HDB's Resale Flat Prices portal. The information in these portals are available to members of the public (in some cases, upon payment of a fee). In my view, such information is generally available to the public.
+
+3
+
+Xbot Pte. Ltd.
+
+[2019] SGPDPC 19
+
+11. In the circumstances, I find that the Organisation is permitted under the PDPA to collect, use and disclose the personal data in the Database without consent of the relevant individuals. The Organisation is therefore not in breach of section 13 of the PDPA.
+
+(C) Did the Organisation have in place the necessary data protection policies and practices under the PDPA?
+
+12. Section 12 of the PDPA requires organisations to: (a) develop and implement policies and practices that are necessary for the organisation to meet the obligations of the organisation under the PDPA; (b) develop a process to receive and respond to complaints that may arise with respect to the application of the PDPA; (c) communicate to its staff information about the organisation's policies and practices referred to in paragraph (a); and (d) made information available on request about -- (i) the policies and practices referred to in paragraph (a); and (ii) the complaint process referred to in paragraph (b).
+
+13. In this case, although the Website and the App collected the same personal data for the same purpose, the data protection policy published on the Website was expressly limited to personal data collected via the Website. This, in my view, is insufficient to meet the requirements of section 12 as users of the App would not have a clear indication of how their personal data would be handled by the Organisation. The Organisation should have ensured that its published data protection policy covered personal data regardless of whether it was collected via the Website or the App. This could have been done this with some simple amendments to the current data protection policy and, as a good practice, the App could have included a link to the policy published on the Website. Alternatively, the Organisation could include a separate data protection policy within the App.
+
+14. In addition to an organisation's published data protection policy, the "policies and practices" referred to in section 12 of the PDPA includes internal policies and processes that are necessary for the organisation to meet its obligations under the PDPA. While an organisation's published data protection policy is meant to inform individuals about how their
+4
+
+Xbot Pte. Ltd.
+
+[2019] SGPDPC 19
+
+personal data will be handled by the organisation, the internal policies and practices are meant for the organisation's employees. Section 12 also requires such policies and practices to be communicated to the organisation's staff. These requirements are intended to ensure that all employees of the organisation are aware of the specific practices they must adhere to when handing personal data including, for example, the notifications to be given to individuals when their personal data is collected, how access and correction requests should be handled, how personal data must be kept and secured and how personal data must be disposed of when no longer required by the Organisation. The specific internal policies and practices which may be required for a particular organisation would depend on various factors such as the following (among other factors):
+(a) the type(s) and amount of personal data collected by the organisation; (b) the organisation's processes for collecting the personal data; (c) the organisation's purposes for using or disclosing the personal data; and (d) the number and roles of employees who require access to personal data in the course
+of their employment.
+
+15. In the present case, the Organisation has one employee (in addition to the sole director). Nevertheless, it should have developed internal policies and practices, having in mind the considerations enumerated in the preceding paragraph, and communicated them to its employee so as to ensure that its employee adhered to the appropriate practices when handling personal data (and related matters) in the course of his or her employment. Although the Organisation is a small company, size of the organisation is but one determinant of the complexity of the internal policies and practices required. The types and amount of personal data that it possesses and controls is another relevant consideration. In this regard, the Organisation possess and controls a not insignificant amount of personal data which relate to property ownership (even if these are publicly available).
+
+16. In view of the above, I find the Organisation in breach of section 12 of the PDPA.
+
+5
+
+Xbot Pte. Ltd. Conclusion
+
+[2019] SGPDPC 19
+
+17. Having found the Organisation in breach of section 12 of the PDPA, I am empowered under section 29 of the PDPA to give to the Organisation such directions as I deem fit to ensure its compliance with the PDPA.
+
+18. Taking the totality of the circumstances into account, I have decided to issue a warning to the Organisation for its breach of section 12 of the PDPA without further directions or imposing a financial penalty. In particular, I noted that-
+
+a) the Organisation had ceased operations of both the App and the Website on 16 May 2018; and
+
+b) the Organisation has been cooperative throughout the investigations.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER
+FOR PERSONAL DATA PROTECTION
+
+6
+
+

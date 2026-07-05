@@ -1,0 +1,245 @@
+WRITTEN VOLUNTARY UNDERTAKING ("Undertaking") TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Personal Data Protection Commission or its delegates pursuant to section 48L(1) of the PDPA, by:
+Inmagine Lab Pte Ltd. UEN: 201532639M Registered Address: 11 Collyer Quay #17-00, The Arcade, Singapore 049317
+(hereinafter referred to as the "Organisation").
+By signing this Undertaking, the above-named Organisation acknowledges the matters stated herein and undertakes to the Commission in the terms set out herein.
+1. DEFINITIONS
+1.1 In this Undertaking:
+(a) "PDPA" means the Personal Data Protection Act 2012 (No. 26 of 2012); and
+(b) "Relevant Provisions" means the provisions in Parts III, IV, V, VI, VIA and IX, and section 48B(1) of the PDPA.
+2. ACKNOWLEDGEMENTS
+2.1 The Organisation hereby acknowledges the following matters:
+(a) The Commission has carried out investigations into certain acts and practices of the Organisation, and has reason to believe that the Organisation has not complied, is not complying, or is likely not to comply with one or more of the Relevant Provisions. The relevant facts and circumstances are summarised at Schedule A.
+(b) As a result of any non-compliance with the PDPA by an organisation, the Commission has a number of enforcement options under the PDPA, including the option to issue directions under sections 48I or 48J of the PDPA.
+(c) The Commission recognises that the Organisation has made efforts to address the concerns raised in this case and to improve its personal data protection practices. In addition, the Organisation was cooperative in the
+1
+
+course of the investigation and was responsive to requests for information. The Commission further recognises that the Organisation appears ready to implement or is in the midst of implementing the steps set out in Schedule B.
+(d) Having carefully considered all the relevant facts and circumstances, the Commission takes the view that this is an appropriate case in which an Undertaking may be accepted.
+2.2 The Organisation also acknowledges and agrees that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+3. UNDERTAKINGS
+3.1 The Organisation undertakes that it has taken, or will take all necessary steps, to carry out the actions or refrain from carrying out the actions referred to in Schedule B, and where applicable, in accordance with the stipulated timelines.
+4. COMMENCEMENT
+4.1 This Undertaking shall take effect upon the acceptance by the Commission of the Organisation's duly executed Undertaking.
+5. THE COMMISSION'S STATUTORY POWERS
+5.1 In order to provide the Organisation with an opportunity to complete all necessary steps to implement its undertakings set out in clause 3 above, the Commission will exercise its powers under section 50(3)(ca) of the PDPA to suspend the investigations referred to in clause 2 on the date the Undertaking takes effect as set out in clause 4.1.
+5.2 The Organisation acknowledges that the Commission will verify the Organisation's compliance with its undertakings set out in clause 3 above, and if necessary, will exercise its powers under the Ninth Schedule of the PDPA to do so.
+5.3 Clause 5.1 above shall be without prejudice to the Commission's statutory powers to conduct or resume, at any time, the investigations referred to in clause 2 above if it thinks fit, including but not limited to the situation where the
+2
+
+Organisation fails to comply with this Undertaking or part thereof in relation to any matter. 5.4 Nothing in this Undertaking, including the Commission's acceptance of the Undertaking, is intended to, or shall, fetter or constrain the Commission's rights and statutory powers (including but not limited to those under sections 48I, 48J, 48L(4) and 50 of the PDPA) in any manner. Neither shall be construed as creating any anticipation or expectation that the Commission will take or not take any particular course of action in the future (whether in the present case or in respect of any other case concerning a breach or suspected breach of the PDPA). The acceptance of this Undertaking is strictly confined to the particular facts of the present case, and is made on the basis of the representations and information provided by the Organisation. The acceptance of an Undertaking in this case shall not be construed as establishing any precedent.
+6. VARIATION 6.1 This Undertaking may be varied only with the express written agreement of the
+Commission. This document has been electronically signed. The Parties hereby affirm that the electronic signatures have been affixed with the due authorisation of each Party and that Parties intend for the electronic signatures to carry the same weight, effect and meaning as hand-signed wet-ink signatures.
+3
+
+SIGNED, for and on behalf of
+
+)
+
+Inmagine Lab Pte Ltd
+
+)
+
+By the following:
+
+)
+
+Name: ______________________________________ )
+
+Designation: _________________________________ )
+
+Date: _______________________________________ )
+
+ACCEPTED by
+
+)
+
+)
+
+Name: ______________________________________ )
+
+Designation: Deputy Commissioner
+
+Personal Data Protection
+
+)
+
+Date: _______________________________________ )
+
+4
+
+SCHEDULE A
+SUMMARY OF FACTS 1. On 13 November 2020 and 26 January 2021, PDPC received 2 data breach
+notifications from the Organisation regarding unauthorised access to 2 of its websites that took place on or about 22 March 2020 and 7 October 2020 respectively. The personal data from the websites had been exfiltrated and was offered for sale on Raidforums (the "Incident"). 2. The name, address, email address, phone number, user ID and hash of password, IP address of first and last login, GeoIP state and country of approximately 6,769,184 individuals was affected as a result of the Incident.
+5
+
+SCHEDULE B
+
+REMEDIATION PLAN
+
+No.
+
+Gaps Identified
+
+Remediation Plan
+
+Target Completion
+(Date)
+
+1. Inmagine Lab Pte. Ltd.
+
+ILPL will draft a Vulnerability
+
+5th January
+
+("ILPL") did not
+
+Assessment Policy and will abide by it.
+
+2022
+
+conduct any security review
+
+(Completed)
+
+or audit of the said
+
+The Vulnerability Assessment Policy will
+
+websites prior to the
+
+outline when and how ILPL's employees
+
+acquisition. Although the
+
+may conduct certain types of security
+
+same security and
+
+testing, including but not limited to
+
+developer teams remained vulnerability, penetration test, tests
+
+responsible for the
+
+involving data scraping tools as well as
+
+websites before and after audit prior to the acquisition/transfer of
+
+the acquisition, ILPL failed websites.
+
+to ascertain the websites'
+
+security prior to the
+
+acquisition.
+
+2. ILPL did not have any intrusion detection or prevention detection systems ("IDS/IPS") in place.
+
+ILPL will require log planning to implement any IDS system.
+ILPL will look into its current assets/system and identify locations to implement.
+
+June 2022 (On-going)
+
+3. The log retention policy of the previous owner of the websites, 123RF Limited, was that it only retained logs for a month or less. This was not advisable as these logs could have provided valuable leads in any data breach
+
+Also, ILPL will research on available IDS/IPS in order to implement and integrate IDS/IPS into the system through 4 stages:
+I. Planning; II. Research; III. Implementation; and IV. Testing and monitoring.
+ILPL will review its current logging locations and strategies as well as look into available logs. ILPL will try out logging solutions in order to pick the best fit that would fit the organization.
+
+June 2022 (On-going)
+
+6
+
+investigation. However, ILPL did not review the log retention policy of 123RF Limited.
+
+Upon research, ILPL will implement the selected logging solution and revise its log retention policy.
+
+4. Even though some of the ILPL will review and compile all current
+
+system OS had reached
+
+assets with outdated or end-of-life OS
+
+their end-of-life, ILPL had versions.
+
+failed to update the system
+
+OS to the latest versions
+
+Once all current assets with outdated or
+
+available.
+
+end-of-life OS versions are found, ILPL
+
+will identify the latest supported OS
+
+versions/software versions that should
+
+be updated to through 3 stages:
+
+I. Planning; II. Research; and III. Implementation and Testing.
+
+June 2022 (On-going)
+
+5. ILPL did not have a
+
+ILPL will draft a Vulnerability
+
+5th January
+
+security assessment policy Assessment Policy and Incident
+
+2022
+
+in place to define the
+
+Response Plan.
+
+(Completed)
+
+frequency and type of
+
+testing or scanning of the The Incident Response Plan will outline
+
+websites for vulnerabilities, the plan for responding to information
+
+threats or breaches. A
+
+security incidents containing the
+
+thoughtful review of the
+
+following information:
+
+threat environment, current
+
+I. Scope;
+
+and future risks, and the value of the targeted environment, would greatly reduce the risks of security breaches.
+
+II. Incident Response Methodology;
+III. Incident Response Phases; IV. Guidelines for the Incident
+Response Process; and V. Documentation, Tracking and
+Reporting.
+
+6. ILPL did not have in place a systematic asset management process where it maintains an inventory of its assets.
+
+ILPL will create an asset list that is confidential in nature to keep track of the inventory of its systems, and the asset list will be updated on a regular basis when there are new updates, as well as implementing a periodic review once every quarter to make sure that the asset list is always accurate and up to date.
+
+31st January 2022
+(Completed)
+
+7. ILPL should have adopted additional security measures, encrypting the database backup files, or whitelisting the IP addresses that have access to the database.
+
+ILPL will adopt additional security measures such as 2FA [redacted for confidentiality]. For its database, access is always restricted, and only certain IP addresses are granted access to the database. [redacted for confidentiality].
+
+31st January 2022
+(Completed)
+
+7
+
+8
+
+

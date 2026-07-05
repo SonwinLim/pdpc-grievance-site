@@ -1,0 +1,115 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Widex Singapore
+
+Pte Ltd
+
+Voluntary Undertakings
+Share:   
+Voluntary Undertaking by Widex Singapore Pte Ltd
+Published on 21 May 2025
+
+Background
+Widex Singapore Pte. Ltd. ('WSPL') (the "Organisation") notified the Personal Data Protection Commission (the 'Commission') on 15 July 2024 of a ransomware attack that affected their archived data stored on Active Hearing Pty Ltd's ('AHPL') server in Australia (the 'Incident'). WSPL and AHPL are sister companies under WS Audiology and AHPL operates WS Audiology's Australian retail arm and provides retail systems to other WS Audiology businesses, including WSPL.
+Investigations revealed that the threat actor ('TA') targeted AHPL's server in Australia ('Affected Server'). The Affected Server's infrastructure was wholly owned, controlled and managed by AHPL, with WSPL being only a client user who entered their customers' personal data directly into the Affected Server for business operations in accordance with the applicable internal Group policies. Accordingly, there was no transfer of personal data from Singapore to Australia. AHPL was also not a data intermediary of WSPL as AHPL did not access, edit and amend WSPL's personal data in the Affected Server.
+The TA exfiltrated personal data of 10,281 WSPL customers. The types of personal data affected included a combination of customer names, contact numbers, emails, addresses, dates of birth, health card numbers (which may include NRIC numbers), and brief notes on hearing loss conditions. The brief notes did not contain detailed medical assessments or diagnoses.
+UTopoofnfedriyscoouvaerbyeottfetrheexIpnecridieenncte, ,AtHhiPsLsittoeouksiems mcoeodkiiaetse. Rreemadedmiaolraecatiboonustincocloukdieinsg  cinonoutrroPllirnivgacinytSetranteetmacecnets. s to approved websites only, hardening the internet firewall,
+
+increasing security of all servers, implementing password resets with enhanced
+
+FcOoRmplexity requirements and Two-Factor authentication, resetting Wi-Fi access
+
+Individuals credentials, and reinforcing cybersecurity guidelines with its staff.
+
+
+
+Voluntary Undertaking
+
+About Having considered the circumstances of the case, the Commission accepted a
+
+voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+cOormgapnlisaantcioenwsith the Personal Data Protection Act 2012 (the "PDPA") even if the 
+Incident occurred entirely on AHPL's Affected Server in Australia. The Undertaking
+
+was executed on 22 April 2025.
+
+Individuals
+
+
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+(Ma)eTdrian&sfEevreanlltspersonal data currently stored on AHPL's systems back to its
+
+
+
+Singapore data centre.
+
+(b) Implement enhanced security measures including encryption and access controls at its Singapore data centre.
+
+(c) Conduct regular data retention reviews and secure deletion of data exceeding the prescribed retention period.
+
+(d) Perform annual security audits in accordance with ISO 27001 standards.
+
+(e) Train its employees on awareness on security in relation to personal data.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events CToonotfafecrtyou a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+
+FOR
+Individuals
+Report Vulnerability 
+APrbivoaucyt Statement
+Terms and Conditions
+Organisations
+Reach 
+
+I�n2d0i2v6idPeursaolnsal Data Protection Commission
+Last updated 21 May 2025
+
+Built with
+
+Powered by
+
+Media & Events
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

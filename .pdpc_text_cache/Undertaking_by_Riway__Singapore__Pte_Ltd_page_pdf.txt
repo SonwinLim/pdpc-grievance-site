@@ -1,0 +1,106 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Riway (Singapore)
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Riway (Singapore) Pte Ltd
+Published on 03 Sep 2025
+
+Share:   
+
+Background
+Riway (Singapore) Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 14 November 2024 of a personal data breach involving an unauthorised access to their database. The Threat Actor ("TA") compromised the Organisation's system through SQL injection via their membership portal (the "Incident").
+The Organisation established that inadequate system configuration, specifically the lack of adequate data validation and parameterised queries as security features, allowed the TA to bypass other implemented security measures, making the system vulnerable to SQL injections. The affected system, which uses a SQL-based database, had been in operation since 2008.
+The TA accessed the Organisation's database through SQL injections via the membership portal by manipulating the input parameters of a backend function. Through this method, the TA obtained access to the Organisation's administrator account. The membership portal did not have a direct function for bulk data export or download, even with administrator access. However, the TA could have extracted data through manual screenshots or automated page-by-page recording. The Incident affected 3,636 individuals, compromising the name, NRIC/ passport number, address, contact number, ID images and username/ member ID.
+Upon discovery of the Incident, the Organisation took prompt remedial actions iTnocoluffdeirnygo: u a better experience, this site uses cookies. Read more about cookies  in our Privacy Statement.
+
+(a) Identifying root causes and implementing mitigation measures to block FuOnRauthorised access and prevent further data exposure;
+Individuals  
+(b) Resetting all administrator passwords to deny access to all unauthorised users;
+
+s(Aceb)coIumurtimtyegdaipatse; ly patching the identified SQL injection vulnerability and other related
+
+(wOdri)tghCaionnnitsdhaueticoWtninesgbsAepcpulriictaytcioonnfFigiruerwaatilol;nantodenable the SQL injection protection rules 
+
+(Ine)dNivoidtiufyailnsg all affected individuals.
+
+
+
+Voluntary Undertaking
+
+HMaevdiniag&cEovnesnidtesred the circumstances of the case, the Commission accepted a 
+voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 6 August 2025.
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+(a) Upgrade all data encryption methods to industry-compliant standards, patch vulnerabilities and conduct regular system and patch updates;
+
+(b) Conduct regular cybersecurity training and prepare a comprehensive suite of cybersecurity training materials;
+
+(c) Implement a vendor risk assessment framework;
+
+(d) Conduct periodic internal and external security audits;
+
+(e) Implement additional protective measures including real-time monitoring, appropriate access privileges and access controls, cookie data validation, and deploy endpoint protection platforms.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue directions so as to ensure compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About To offer you a better experience, this site uses cookies. Read more about cookies iOnroguanr PisraitviaocnysStatement.
+
+Individuals
+FOR
+MIneddiaiv&iEdveuntas ls
+ACobnotuatct
+
+Organisations
+
+IRnedpiovritdVuualnlserability 
+Privacy Statement
+TMeermdisaa&ndECvoenndtsitions
+Reach 
+
+� 2026 Personal Data Protection Commission Last updated 04 Sep 2025
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

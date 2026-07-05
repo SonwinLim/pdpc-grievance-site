@@ -1,0 +1,112 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Lian Beng Group
+
+Pte Ltd and
+
+subsidiaries
+
+Voluntary Undertakings
+
+Voluntary Undertaking by Lian Beng Group Pte Ltd and subsidiaries
+Published on 26 Feb 2026
+
+Share:   
+
+Background
+On or about 26 December 2024, a personal data breach involving a ransomware attack by the RansomHub ransomware group impacted systems (the "Incident") belonging to Lian Beng Construction (1988) Pte Ltd, Deenn Engineering Pte Ltd, Lian Beng Engineering & Machinery Pte Ltd, United (CE) Pte. Ltd., LB Property Pte. Ltd.11 LB Property Pte. Ltd. has been struck off from ACRA since 5 December 2022. , Lian Beng Resources Pte. Ltd., L.S. Construction Pte Ltd, Millennium International Builders Pte. Ltd., Sinmix Pte. Ltd., Tradewin Engineering Pte. Ltd. and United Plus Steel Resources Private Limited (the "Organisations"). Subsequently on 27 December 2024, Lian Beng Construction (1988) Pte Ltd notified the Personal Data Protection Commission (the "Commission") on behalf of the Organisations of the Incident. The Organisations are subsidiaries of the Lian Beng Group Pte. Ltd.
+The Organisations established that the threat actor ("TA") had likely gained access to the Organisations' system through brute force attack. Owing to other system vulnerabilities, the TA then encrypted the Organisations' files containing the personal data of 5,001 individuals who were the Organisations' current (1,384 individuals) and former (3,617 individuals) employees.
+The types of personal data affected included names, bank account numbers, addresses, email addresses, contact numbers, NRIC/FIN/passport numbers, letters of Taoppooffienrtmyoeunat,beedtutecraetixopnecrieernticfiec,attheiss asinted udsaetsescooof kbiiertsh. R. ead more about cookies  in our Privacy Statement.
+
+Upon discovery of the Incident, the Organisations took prompt remedial actions FinOcRluding isolating the affected systems for a security scan, disabling Virtual Private
+Individuals Network ("VPN") access and resetting the passwords for domain and local  
+administrator accounts and firewall. The ransomware attack had likely occurred as the Organisation had inadequate security measures including no Multi-Factor Aubtohuetntication for remote VPN access, unpatched systems with vulnerabilities which had or were approaching end of life, prior to the Incident.
+
+VOroglaunnistaatiroynsUndertaking
+
+
+
+Having considered the circumstances of the case, the Commission accepted a
+vInodluivnidtauraylus ndertaking (the "Undertaking") from the Organisations to improve their
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+UMneddeiart&akEivnegnwtsas executed on 6 January 2026.
+
+
+
+As part of the Undertaking, the Organisations will be implementing the measures
+
+including:
+
+(a) Rebuilding of the entire system;
+
+(b) Enforcing multi-factor authentication for all critical systems, servers and VPN;
+
+(c) Carrying out Vulnerability Assessment and Penetration Testing and security audit for its systems regularly;
+
+(d) Applying for the IMDA Data Protection Trustmark;
+
+(e) Placing all internet facing services behind a Web Application Firewall.
+
+The Commission will verify the Organisations' compliance with the Undertaking. If the Organisations fail to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisations' compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events To offer you a better experience, this site uses cookies. Read more about cookies CinoonutarcPtrivacy Statement.
+
+
+FOR
+Individuals
+Report Vulnerability 
+APrbivoaucyt Statement
+Terms and Conditions
+Organisations
+Reach 
+
+I�n2d0i2v6idPeursaolnsal Data Protection Commission
+Last updated 25 Feb 2026
+
+Built with
+
+Powered by
+
+Media & Events
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

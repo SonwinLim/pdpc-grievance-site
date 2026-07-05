@@ -1,0 +1,112 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Japalang
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Japalang Pte Ltd
+Published on 02 Aug 2024
+
+Share:   
+
+Background
+On 7 August 2023, Japalang Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") of a ransomware attack on its servers, which led to the encryption of personal data of its staff and customers (the "Incident"). The Incident was first discovered on 2 August 2023 when employees found that some files were inaccessible.
+The Incident led to the potential unauthorised access and encryption of personal data of 70 customers and 30 employees. The types of personal data affected include name, address and contact number. For the affected employees, their NRIC number, passport number, date of birth and salary were affected as well.
+Investigations revealed that the Organisation failed to (i) implement adequate personal data protection measures and safeguards; (ii) put in place password and patch management policies; and (iii) appoint a Data Protection Officer.
+Remedial Actions
+After the Incident, the Organisation took the following remedial actions:
+(a) Reformatted all endpoint computers;
+(b) Engaged an IT firm to upgrade its Windows operating system and firewall; T(inco)ooImuffrepPrleryimovauecnaytbSeetdatttpeearmsesexwnpote.rrdiepnrcoet,etchtiisonsi;taenudses cookies. Read more about cookies 
+
+(d) Upgraded its VPN remote connection method to allow only computers with a
+
+dFOigRital certificate to connect remotely.
+Individuals
+Voluntary Undertaking
+
+
+
+HAbavoiuntg considered the circumstances of the case and the lack of knowledge by the Organisation in cybersecurity and data protection practices, the Commission accepted a voluntary undertaking (the "Undertaking"), which was executed on 11
+OMragrachni2sa0t2i4on, fsrom the Organisation to engage an external service provider to improve
+its cybersecurity set-up and its data protection practices and policies.
+
+IAnsdpivairdtuoaflsthe Undertaking, the external service provider will assist the Organisation
+to first complete an initial set-up within 2 months. The initial set-up will include the
+
+appointment and registration of a DPO with the Commission or the Accounting and
+
+CMoerdpioar&atEevReengtsulatory Authority ("ACRA"), establishing an asset inventory for
+
+
+
+personal/business data, an IT asset inventory for hardware and software, developing
+
+an incident response and data breach management plan and implementing the
+
+necessary cybersecurity measures to protect personal data. After the initial set-up,
+
+the external service provider will conduct two further reviews. The first review will be
+
+conducted 6 months after the initial set-up has been completed and the second
+
+review will be conducted one year after the first review. The reviews are to ensure,
+
+amongst others, that the latest software updates have been installed on the
+
+Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact To offer you a better experience, this site uses cookies. Read more about cookies
+in our PrivacyStatement.
+
+Report Vulnerability 
+FOR
+PInrivadcyivStiadtemueantls
+Terms and Conditions
+ARebaocuht 
+
+� 2026 Personal Data Protection Commission
+OLarsgt uapndiastaedti0o2nAsug 2024
+
+Built with
+
+Powered by
+
+Individuals
+
+M� 2e0d2ia6 G&oEvevrennmtsent of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

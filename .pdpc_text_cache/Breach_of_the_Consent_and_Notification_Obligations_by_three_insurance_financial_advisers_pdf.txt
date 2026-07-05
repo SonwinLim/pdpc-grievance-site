@@ -1,0 +1,51 @@
+PERSONAL DATA PROTECTION COMMISSION Case No. DP-2109-B8857
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+(1) Ngian Wen Hao Dennis (2) Chan Puay Hwa Melissa
+(3) Winarto (4) Aviva Financial Advisers Pte Ltd
+SUMMARY OF THE DECISION
+1. On 7 September 2021, the Personal Data Protection Commission (the "Commission") was notified of two incidents involving unauthorised disclosure and collection of personal data by three individuals.
+2. Ngian Wen Hao Dennis ("Dennis") was an Aviva Financial Advisers Pte Ltd ("AFA") representative between December 2017 and February 2019. In March 2019 and August 2020, Dennis approached two insurance financial advisers, Chua Puay Hwa Melissa ("Melissa") and Winarto, to offer them a list of client leads, stating that he was leaving the insurance industry and looking for a reliable agent 1
+
+to take over his clientele. Melissa and Winarto each said they paid $1,000 to Dennis for the list (the "Incidents").
+3. The list contained approximately 1,000 clients' names, mailing addresses, contact numbers and the names of organisations underwriting the hospitalisation plans bought by the clients ("Personal Data Sets").
+4. The PDPA defines "organisations" to include individuals. As held in Re Sharon Assya Qadriyah Tang1, individuals who collect, use or disclose personal data otherwise than in a personal or domestic capacity will be treated as organisations within the meaning of the Act, and are obliged to comply with the Data Protection Provisions. In this case, we are of the view that it is clear that Dennis, Melissa and Winarto can be regarded as an "organisation" as defined under the PDPA for a number of reasons. First, the trio had bought and sold the client leads for work and business purposes, with the aim of generating an income or profit, and cannot be said to have been acting in a personal or domestic capacity.
+5. Second, Dennis, Melissa and Winarto were not employees. In Re Ang Rui Song2, the Commission found that the respondent, a financial consultant with Prudential Assurance Company (Pte) Ltd, had been engaged on such terms that he was in effect an independent contractor rather than an employee of Prudential. The same applies to the trio. The Representative Agreement between AFA and Dennis
+1 [2018]SGPDPC 1. 2 [2017] SGPDPC 13.
+2
+
+expressly provides that "nothing in [the] Agreement shall constitute, or be construed, or deemed to constitute, any employment...between [Dennis] and [AFA]".
+Dennis 6. Having found that the PDPA applies, we now turn to consider the data protection
+obligations applicable to the different parties concerned. Dennis conceded that he approached Melissa and Winarto to transfer his list of client leads to them. Our investigations revealed that Dennis' claim that he had obtained the necessary consent and duly notified the clients on the list regarding the disclosure of their personal data to other insurance financial advisers could not be corroborated. None of the clients verified Dennis' claim that he had contacted them to seek their consent or notified them of the disclosure of their personal data to other insurance financial advisers. We are therefore of the view that Dennis has breached the Consent and Notification Obligation under the PDPA in that he did not obtain his clients' consent before disclosure of their personal data.
+Melissa and Winarto
+7. Both Melissa and Winarto admitted to the collection (purchase) of the client list from Dennis. They claimed to have relied on the verbal assurances provided by Dennis that he had informed the clients about the change in their insurance financial adviser. In Re Amicus Solutions Pte Ltd and Ivan Chua Lye Kiat [2019]
+3
+
+SGPDPC 33 (at [49]), we stated that a reasonable person should undertake proper due diligence, such as obtaining from the seller a sample of the written notifications and consent. In our view, Melissa and Winarto have failed to take reasonable steps to verify from Dennis that there had been proper notification to and consent obtained from the clients for the disclosure of their personal data. In collecting (i.e. buying) the client list, we find that Melissa and Winarto are in breach of the Notification and Consent Obligations under the PDPA.
+AFA
+8. The Commission found no evidence of breach of the PDPA by AFA in the Incidents. As stated in [5], Dennis was not an employee of AFA for whose acts AFA may be liable through section 53(1) of the PDPA. Dennis claimed that the Personal Data Sets were not retrieved from AFA's systems and that he had compiled the list on his own accord to keep track of his clientele during his time as an independent financial adviser with AFA. This was consistent with AFA's own investigations. Our investigations also revealed that AFA had reasonable policies and security measures in place for personal data protection. These included data leak prevention controls and monitoring of AFA corporate network to prevent representatives from exporting clients' data from its systems. Contractual terms were also in place to require representatives to comply with the PDPA. AFA issued a letter to Dennis, upon the termination of the relationship between them, referring to the need to return "all policies, rate books, receipts, manuals, literature, lists and personal information of Customers". 4
+
+The Commission's Decision
+9. The sale of personal data by organisations without obtaining the consent of the
+individuals involved is a serious breach of the PDPA. In Re Sharon Assya Qadriyah
+Tang at [30], we had stated as follows:
+There are strong policy reasons for taking a hard stance against the unauthorised sale of personal data. Amongst these policy reasons are the need to protect the interests of the individual and safeguard against any harm to the individual, such as identity theft or nuisance calls. Additionally, there is a need to prevent abuse by organisations in profiting from the sale of the individual's personal data at the individual's expense. It is indeed such cases of potential misuse or abuse by organisations of the individual's personal data which the PDPA seeks to safeguard against. In this regard, the Commissioner is prepared to take such stern action against organisations for the unauthorised sale of personal data.
+[Emphasis added.]
+10. To curb this form of abuse of personal data, the amount of profit made by the
+organisation from the sale may be factored in determining the financial penalty that
+the organisation may be required to pay. Indeed, had the sale taken place after the
+2020 amendments to the PDPA, this would have been a specific consideration
+under section 48J(6)(c): "whether the organisation or person (as the case may be), as a result of the noncompliance, gained any financial benefit".
+11. In determining the enforcement action in response to the breach by Dennis, the
+Commission took into account the cooperation extended to the investigation, and
+5
+
+the full refund made by Dennis of the proceeds he made from the sale. The Commission also considered that Dennis is in poor health, has been unemployed since 2018, has little savings in his bank account, and is dependent on his aged father for financial support. Having considered the state of Dennis' health and financial status, the Commission is of the view that a financial penalty would impose a crushing burden on him and his family, resulting in undue hardship. Accordingly, taking into account all relevant factors, the Commission has decided to administer a warning in respect of the breach by Dennis of the Consent and Notification Obligations. The Commission wishes to emphasize that this assessment that undue hardship may occur following the imposition of a financial penalty is not a finding that the Commission will make easily and will be reserved only for the most deserving and exceptional cases. Individuals who seek to misuse personal data for profit and are found to be in breach of the PDPA must expect to pay a heavy financial penalty.
+12. Turning to Melissa and Winarto, the Commission has decided to administer warnings to Melissa and Winarto in respect of their breaches of the Consent and Notification Obligations. In so deciding, the Commission considered that both of them did not sell the personal data for profit and had been cooperative throughout the investigations. More importantly, neither of them used the personal data they obtained without consent from the individuals involved.
+6
+
+The following provisions of the Personal Data Protection Act 2012 (pre-amendment in 2020) had been cited in the above summary: Consent and Notification Obligations (Section 13 read with 20 of the PDPA) Pursuant to section 13 of the PDPA, unless an exception to consent is applicable, organisations are generally required to obtain the consent of an individual before collecting, using and/or disclosing the individual's personal data ("Consent Obligation"). Consent must be obtained from the individual with reference to the intended purpose of the collection, use or disclosure of the personal data. The organisation's collection, use and disclosure of personal data are limited to the purposes for which notification has been made to the individuals concerned. In this regard, organisations have an obligation under section 20 of the PDPA to inform individuals of the purposes for which their personal data will be collected, used and/or disclosed, on or before collecting the personal data in order to obtain consent ("Notification Obligation").
+Protection Obligation (Section 24 of the PDPA) An organisation shall protect personal data in its possession or under its control by making reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks.
+7
+
+

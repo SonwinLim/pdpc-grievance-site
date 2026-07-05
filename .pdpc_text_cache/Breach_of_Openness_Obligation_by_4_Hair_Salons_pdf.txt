@@ -1,0 +1,184 @@
+PERSONAL DATA PROTECTION COMMISSION
+
+[2018] SGPDPC [2] Case No DP-1612-B0431
+
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+
+And
+
+1. Jiwon Hair Salon Pte. Ltd. 2. Next@Ion Pte. Ltd. 3. Next Hairdressing Pte. Ltd. 3. Initia Pte. Ltd.
+
+... Organisations
+
+DECISION
+
+Jiwon Hair Salon Pte. Ltd. & Ors.
+
+[2018] SGPDPC [2]
+
+Mr. Yeong Zee Kin, Deputy Commissioner -- Case No DP-1612-B0431
+
+23 January 2018
+
+Background
+
+1
+
+This case highlights that while the Personal Data Protection Act
+
+("PDPA") seeks to balance the protection of individuals' personal data with the
+
+need for organisations to use and share that personal data, compliance with the
+
+PDPA also serves to ensure that an organisation keeps data which is of
+
+significant commercial importance to it protected and out of the reach of its
+
+competitors.
+
+Material Facts
+
+2
+
+This case was triggered by, unusually, a complaint from one of the
+
+Organisations, Jiwon Hair Salon Pte Ltd ("Jiwon"). Jiwon alleged that a former
+
+employee ("Employee K") had misappropriated the names and contact
+
+numbers (collectively referred to as the "Personal Data") of its customers by
+
+surreptitiously accessing its customer management system ("CMS").
+
+3
+
+An investigation was conducted into Jiwon's complaint and into the
+
+following Organisations which Employee K had worked at after leaving Jiwon
+
+to determine if indeed Employee K was using the Personal Data from Jiwon's
+
+CMS:
+
+Jiwon Hair Salon Pte. Ltd. & Ors.
+
+[2018] SGPDPC 2
+
+S/N Organisation
+
+Start of employment
+
+End of employment
+
+1. Jiwon
+
+9 April 2014
+
+15 August 2016
+
+2 Next@Ion Pte Ltd
+
+10 August 2016 30 November 2016
+
+3. Next Hairdressing Pte 1 Dec 2016 Ltd
+
+16 Dec 2016
+
+4. Initia Pte Ltd
+
+13 Jan 2017
+
+-
+
+4
+
+In the meantime, Jiwon had instituted an action against Employee K in
+
+the State Courts arising out of the facts set out in the complaint and, according
+
+to Jiwon, an out-of-court settlement had been entered into. During the
+
+investigations, it became clear that none of the Organisations had any policies
+
+or practices in place for the protection of the personal data they collected. This
+
+Decision is solely concerned with the compliance of the Organisations'
+
+obligations under section 12(a) of the PDPA and the foregoing information on
+
+Jiwon's initial complaint serves merely as background information to give
+
+context.
+
+Findings and Basis for Determination
+
+Whether the Organisation had complied with its obligations under section 12 of the PDPA
+
+5
+
+Section 12(a) of the PDPA requires an organisation to develop and
+
+implement policies and practices that are necessary to meet its obligations under
+
+the PDPA (the "Openness Obligation").
+
+2
+
+Jiwon Hair Salon Pte. Ltd. & Ors.
+
+[2018] SGPDPC 2
+
+6
+
+During the investigations, it became apparent that the Organisations did
+
+not implement any data protection policies or practices. This was admitted to
+
+by the Organisations.
+
+7
+
+In the circumstances, I find that, by their own admission, each of the
+
+Organisations failed to meet its obligations under section 12(a) of the PDPA.
+
+8
+
+I would like to take this opportunity to repeat the exhortations made in
+
+Re: M Star Movers & Logistics Specialist Pte Ltd [2017] SGPDPC 15 ("M Star
+
+Movers") to organisations to put in place policies and practices to protect
+
+personal data.
+
+9
+
+The M Star Movers grounds of decision (at paragraphs 27 and 28)
+
+explains the need for organisations to put in place data protection policies and
+
+practices as follows:
+
+At the very basic level, an appropriate data protection policy should be drafted to ensure that it gives a clear understanding within the organisation of its obligations under the PDPA and sets general standards on the handling of personal data which staff are expected to adhere to. To meet these aims, the framers, in developing such policies, have to address their minds to the types of data the organisation handles which may constitute personal data; the manner in, and the purposes for, which it collects, uses and discloses personal data; the parties to, and the circumstances in, which it discloses personal data; and the data protection standards the organisation needs to adopt to meet its obligations under the PDPA. An overarching data protection policy will ensure a consistent minimum data protection standard across an organisation's business practices, procedures and activities (e.g. communications through social media).
+
+3
+
+Jiwon Hair Salon Pte. Ltd. & Ors.
+
+[2018] SGPDPC 2
+
+Directions
+10 Having found that the Organisations are in breach of section 12(a) of the PDPA, I am empowered under section 29 of the PDPA to give the Organisations such directions as I deem fit to ensure compliance with the PDPA.
+
+11 In assessing the breach and determining the directions to be imposed on the Organisations, I took into account that the personal data collected by the Organisations was limited to the names and contact numbers of its customers.
+
+12 I have decided to issue the following directions to each of the Organisations:
+(a) to put in place a data protection policy to comply with the provisions of the PDPA within 60 days from the date of this direction; and
+(b) to inform the office of the Commissioner of the completion of the above directions within 1 week of implementation.
+
+YEONG ZEE KIN DEPUTY COMMISSIONER
+
+4
+
+

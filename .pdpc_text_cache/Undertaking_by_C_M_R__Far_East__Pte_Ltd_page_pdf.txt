@@ -1,0 +1,91 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by C M R (Far East)
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by C M R (Far East) Pte Ltd
+Published on 23 May 2024
+
+Share:   
+
+Background
+The Personal Data Protection Commission (the "Commission") was notified by C M R (Far East) Pte Ltd (the "Organisation" or "CMR") on 28 June 2022 of a personal data breach involving the unauthorised access of personal data (the "Incident").
+While the exact cause of the breach could not be determined, the malicious actor encrypted the Organisation's files containing the personal data of 57 individuals who were the Organisation's current or ex-employees. The types of personal data affected included the name, address, email address, date of birth, NRIC/FIN number, contact number, salary and bank account details.
+Upon discovery of the Incident, CMR had taken prompt remedial actions including moving to a cloud-based system with secure back up.
+Voluntary Undertaking
+Having considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 12 December 2022.
+TAos opfafertroyfotuhae bUentdteerrteaxkpinergie, CnMceR, twhiisll sbiteeimuspelsecmoeonktieinsg. Rtehaedfomlloowreinagb:out cookies  in our Privacy Statement.
+
+(a) Engage a Data Protection consultant to assist in developing a comprehensive
+
+FwOrRitten data protection and IT policy;
+Individuals
+
+
+
+(b) Upgrade its IT system;
+
+A(cb) oCuatrry out Vulnerability Assessment and Penetration Testing (VAPT) on the
+
+upgraded IT system to identify and help address any potential cyber security
+
+vulnerabilities; and
+
+Organisations
+
+
+
+(d) Obtain the Data Protection Trustmark (DPTM) certification.
+
+TInhdeivCidoumamls ission will verify the Organisation's compliance with the Undertaking. If
+the Organisation fails to comply with any terms of the Undertaking, the Commission
+mMeadyiais&suEeveantds irection so as to ensure the Organisation's compliance with the
+Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+� 2026 Personal Data Protection Commission
+LTaostoufpfedartyedou23aMbaye2t0t2e4r experience, this site uses cookies. Read more about cookies BinuioltuwrithPrivacy StaPtoewmereednbty.
+
+FOR
+Individuals
+� 2026 Government of Singapore
+About Organisations Individuals Media & Events
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

@@ -1,0 +1,111 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+by
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Australian International
+
+School Pte
+
+Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by Australian International School Pte Ltd
+Published on 25 Sep 2024
+
+Share:   
+
+Background
+Australian International School Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 14 May 2024 of a personal data breach involving a former employee who had improperly accessed and retained documents containing personal data (the "Incident") despite leaving the Organisation's employment.
+Investigations revealed that the Organisation had inadvertently failed to properly terminate the former employee's user account to the Organisation's system after the last working day on 8 April 2024. The former employee was able to access and download documents containing the personal data from the Organisation's shared folders on 21 April 2024 and was found to have kept a copy of an Excel spreadsheet containing student information in his/her personal email account.
+The aforementioned documents contained a combination of personal data belonging to 6,222 of the Organisation's students. The types of personal data affected included the name, date of birth (for 4 students), NRIC/FIN/Birth Cert number (for 3 students), school grades, type of visa holders, passport country information, email address (for 3 individuals), and for 1 student, the immunisation record and psychological assessment. The names of 6,225 parents were also affected.
+TUopofnfedriyscoouvaerbyeottfetrhexIpnecridieenncte, ,ththeisOsrigteanuisseasticoonotkoieosk. pRreoamdpmt oreremaebdoiaultaccotoiokniess  incoludr iPnrgivoabcytaSintaintegmaesntat.tutory declaration from the former employee that he/she
+
+had deleted and not retained any of the documents. The Organisation also launched FaOnRew centralised reporting project dashboard in its school management system to
+Individuals reduce unnecessary data transfers or downloads. The Organisation also conducted a
+review of user accounts in its system to ensure access rights were appropriately segregated according to the relevant roles of its current employees. About
+Voluntary Undertaking
+
+HOargvainngiscaotinosnids ered the circumstances of the case, the Commission accepted a 
+
+voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+UInnddiveidrtuaaklisng was executed on 8 August 2024.
+
+
+
+As part of the Undertaking, the Organisation will:
+
+Media & Events
+
+
+
+(a) Verify and confirm that the Organisation's existing policy to enforce periodic
+
+change of passwords for all employees is functioning as intended;
+
+(b) Conduct training sessions with the relevant staff (e.g. IT and HR department) to go through and reinforce the Organisation's standard operating procedures for outgoing employees;
+
+(c) Issue an organisation wide announcement to all employees to remind them of the organisation's internal IT, data protection and confidentiality policies and the requirement for strict adherence to the same; and
+
+(d) Formulate and develop an internal step-by-step instruction sheet on the proper processes for updating and removing outgoing employee access to system.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals TMoeodfifaer&yEovueantbsetter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+Contact
+FOR
+Individuals 
+
+About
+Report Vulnerability 
+POrrivgaacny iSstaattieomnsent
+Terms and Conditions
+IRnedaicvhiduals
+
+M�La2se0td2u6ipadPae&tresEodnv2ae5lnSDetapsta20P2ro4tection Commission
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

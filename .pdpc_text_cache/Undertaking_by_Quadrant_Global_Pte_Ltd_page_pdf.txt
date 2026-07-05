@@ -1,0 +1,102 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Quadrant Global Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Quadrant Global Pte Ltd
+Published on 29 Nov 2024
+
+Share:   
+
+Background
+Quadrant Global Pte. Ltd. ("QGPL") notified the Personal Data Protection Commission (the "Commission") on 14 May 2024 of a personal data breach involving individuals using its Geolancer mobile application (the "Geolancers"). The personal data of the Geolancers had been exfiltrated by a threat actor and published for sale on the dark web. (the "Incident").
+Investigations revealed that that the threat actor ("TA") had likely exploited an out-ofdate Jenkins application vulnerable to CVE-2024-23897 ("Vulnerability") to access the internet facing Elastic Compute Cloud ("EC2") server. Subsequently, the TA obtained the Access Key ID of a privileged user, system_sa. With the Access Key, the TA managed to access an AWS S3 Bucket and exfiltrated a comma-separated values file containing the personal data of the Geolancers.
+The TA exfiltrated the personal data of approximately 75,087 individuals who are worldwide users of the Geolancer mobile application. The types of personal data affected included but not limited to the user ids, telephone numbers, email addresses, city locations and cryptocurrency addresses.
+Upon discovery of the Incident, QG PL took prompt remedial actions including engaging a forensic vendor to assist with determining the root cause of the Incident and notified the affected individuals. The impacted EC2 server was promptly isolated and secured by patching all known vToulonfeferarbyioliutieasbaentdtearlel AxpWeSrieAncccee,stshKisesyistewuesreesrocotaotkeide.s. Read more about cookies  in our Privacy Statement.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case, the Commission accepted a
+voluntary undertaking (the "Undertaking") from the Organisation to improve its
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The AUbnoduetrtaking was executed on 18 October 2024.
+
+OAsrgpaanrtisoaftitohnesUndertaking, QGPL will be implementing the following:
+
+
+
+(a) Undertaking a comprehensive review of its Vulnerability Management standard
+
+aInnddivaidssuoaclsiated remediation practices, to ensure that it adheres to defined prompt and effective remediation of any vulnerabilities in the future;
+
+SLAs
+
+for
+
+M(be) dImiap&leEmventsed Key Rotation Policy; and
+
+
+
+(c) Conducting a review exercise to ensure all the remedial measures were effective to deter similar incidents.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability 
+To offer you a better experience, this site uses cookies. Read more about cookies PinrivoaucryPSrtaivtaemcyeSntatement.
+
+Terms and Conditions
+FOR
+IRneadchividuals
+
+� 2026 Personal Data Protection Commission
+
+Last updated 29 Nov 2024
+
+ABubilot wuitth
+
+Powered by
+
+Organisations
+
+I�n2d0iv2i6dGuoavlesrnment of Singapore
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

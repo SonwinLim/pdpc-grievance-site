@@ -1,0 +1,105 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by McJim Marketing
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by McJim Marketing Pte Ltd
+Published on 04 Jul 2024
+
+Share:   
+
+Background
+On 26 May 2023, the Personal Data Protection Commission (the "Commission") received a data breach notification from McJim Marketing Pte. Ltd. (the "Organisation") regarding a ransomware attack on their network-attached storage device on or about 19 May 2023, causing 500GB of files to be encrypted and inaccessible (the "Incident"). Personal data of 100 individuals were likely affected by the Incident.
+Based on the connection logs of the affected network-attached storage ("NAS") of the Organisation, there were suspicious login attempts between 17 May 2023 and 19 May 2023 suggesting that a brute force attack had occurred. Investigation found that the threat actor likely gained initial entry to the NAS on 19 May 2023 prior to performing encryption of the Organisation's files.
+As a result of the Incident, the personal data of approximately 100 former and current employees and their next-of-kin, including their names, address, NRIC numbers, date of birth, phone numbers, passport numbers and financial information (including bank account numbers) were likely affected.
+The Organisation was found to be lacklustre in its cybersecurity and data protection practices, including using a default password for the affected NAS and for failing to carry out any periodic security reviews of its network and failing to appoint a Data Protection Officer. In addition, there was no proper documentation for personal data pTorootfefcetrioyonupaolbiceiettsear nedxpperroiecnedceu,rtehsisansidtepuassesswcoordokpieosli.cRieesa.d more about cookies  in our Privacy Statement.
+
+Remedial Actions
+FOR
+Individuals After the incident, the Organisation implemented the following:
+
+
+
+(a) Engaged a third-party IT vendor to install a new server and router with antivirus Asobfotwutare, firewall and auto-backup function;
+
+(b) Implemented a strong password with restricted access to the new server to
+
+sOerlgeacnteisdamtioannsagement staff; and
+
+
+
+(c) Reviewed company's policy to mandate that personal data information should
+
+nInodtivbiedustaolsred in a shared folder and should be kept by only the human resources team in a separate external storage device.
+
+
+
+VMoedluian&tEavreynUtsndertaking
+
+
+
+Having considered the circumstances of the case and the lack of knowledge by the Organisation in cybersecurity and data protection practices, the Commission accepted a voluntary undertaking (the "Undertaking"), which was executed on 3 November 2023, from the Organisation to engage an external service provider to improve its cybersecurity set-up and its data protection practices and policies.
+
+As part of the Undertaking, after the initial set-up, the external service provider will conduct two further reviews. The first review will be conducted 6 months after the initial set-up has been completed and the second review will be conducted one year after the first review. The reviews are to ensure, amongst others, that the latest software updates have been installed on the Organisation's devices and systems.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals MToeodfifaer&yEovueantbsetter experience, this site uses cookies. Read more about cookies in our Privacy Statement. Contact
+
+
+FOR
+Individuals
+Report Vulnerability 
+APrbivoaucyt Statement
+Terms and Conditions
+Organisations
+Reach 
+
+I�n2d0i2v6idPeursaolnsal Data Protection Commission
+Last updated 03 Jul 2024
+
+Built with
+
+Powered by
+
+Media & Events
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

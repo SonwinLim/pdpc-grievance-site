@@ -1,0 +1,133 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Algas
+Engineering
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Algas Engineering Pte Ltd
+
+Share:   
+
+Published on 07 May 2026
+
+Background
+Algas Engineering Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 15 April 2025 of a personal data breach involving its IT servers (the "Incident").
+The Organisation established that the threat actor ("TA") had likely executed the ransomware attack on a project manager's laptop, which was the only device encrypted during the Incident, during an upgrade of the Organisation's Operating System. Owing to several system inadequacies, the TA exfiltrated the Organisation's files containing the personal data of 500 individuals who were the Organisation's current (70 individuals) and former employees (430 individuals).
+The types of personal data affected included names, addresses, email addresses, telephone numbers, copies of national identification documents, passport numbers, photographs, dates of birth, bank account numbers and next-of-kin contact details.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including restricting access rights to project-related folders and enabling password protection where possible and optimising firewall configuration with intrusion prevention signatures. The Organisation also notified the affected individuals.
+The data breach had likely occurred as the Organisation had inadequate security measures prior to the Incident such as lack in proactive monitoring that resulted in dToeloafyfedr ydoeuteacbtieotnte, arcecxepsesrtieonucsee,rtheinsdspitoeinutssesancdooskhiaerse. dRefoalddemrsorweitahboouuttacdodoiktioens al pinaossuwr oPrrdivpacroytSetcattioemn aendt. inadequate training for employees on suspicious phishing emails. The Organisation's servers were also vulnerable during the Operating System
+
+upgrade that may have created a window of exposure. The Organisation had basic
+
+pFOroRtective measures in place including user access controls and password policies.
+
+Individuals
+
+
+
+Voluntary Undertaking
+
+HAbavoiuntg considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+UOnrgdaenrtisaaktiinognswas executed on 26 March 2026.
+
+
+
+As part of the Undertaking, the Organisation will implement the following including:
+
+Individuals a. Enhancing
+
+existing
+
+vendor
+
+contract
+
+to
+
+include
+
+proactive
+
+monitoring
+
+of
+
+servers
+
+and
+
+networks;
+
+Media & Events b. Upgrading antivirus used for endpoints with Endpoint Detection & Response
+
+
+
+capabilities and monitoring;
+
+c. Conducting quarterly vulnerability scans and applying patches timely; and
+
+d. Conducting phishing awareness training and circulating periodic reminders.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+RToepoofrfteVr uylonueraabbileittyter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+Privacy Statement
+
+Terms and Conditions
+FOR
+IRneadchividuals
+
+� 2026 Personal Data Protection Commission
+
+ALabstouuptdated 07 May 2026
+
+Built with
+
+Powered by
+
+Organisations
+
+I�n2d0iv2i6dGuoavlesrnment of Singapore Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

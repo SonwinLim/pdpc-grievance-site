@@ -1,0 +1,130 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by St Francis Methodist
+School
+
+(International)
+
+Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by St Francis Methodist School (International) Ltd
+Published on 26 Feb 2026
+
+Share:   
+
+Background
+St Francis Methodist School (International) Ltd (the "Organisation"), is an international school in Singapore. On 23 December 2024, the Organisation notified the Personal Data Protection Commission (the "Commission") of a personal data breach involving a ransomware attack that had impacted two of its servers (the "Incident").
+The Organisation established that the threat actor ("TA") had gained access to its system on 18 December 2024 through a Server Message Block brute force attack, successfully compromising the main network administrator account and another user account.
+The TA encrypted files on one of the Organisation's servers and deleted data belonging to its past job applicants only with no student data affected. The Incident affected approximately 761 job applicants' personal data including a combination of name, mobile number, email address, educational and work history, residential addresses, NRIC numbers (7 applicants), and bank account numbers (46 applicants). There was no evidence of data exfiltration.
+Remedial Actions
+UTopofnfedriyscoouvaerbyeottfetrhexIpnecridieenncte, ,ththeisOsrigteanuisseasticoonotkoieosk. pRreoamdpmt oreremaebdoiaultaccotoiokniess  incoludr iPnrgiviascoylaSttinatgeamffeenct.ed servers, disabling network sharing folders and
+
+decommissioning old servers with outdated Operating System and manually
+
+uFOpRdating the cybersecurity software for current servers.
+Individuals  
+The ransomware attack had likely occurred as the Organisation had inadequate
+
+security measures, including but not limited to the use of an End-of-Life Windows
+
+SAebrovuetr 2012 system without extended security updates, lack of multi-factor authentication for Active Directory accounts and the absence of account lockout
+
+policy after failed login attempts.
+
+Organisations
+
+
+
+Voluntary Undertaking
+
+HInadvivinidgucaolsnsidered the circumstances of the case, the Commission accepted a 
+
+voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012. The Undertaking was
+
+eMxeedciuate&dEovenn6tsJanuary 2026.
+
+
+
+As part of the Undertaking, the Organisation will be implementing the following including:
+
+(a) Deploying Windows Server 2025, with implementation of asset lifecycle monitoring to prevent future End-of-Life system vulnerabilities;
+
+(b) Implementing multi-factor authentication for Active Directory accounts;
+
+(c) Enhancing cybersecurity systems and network security features;
+
+(d) Enforcing strict password policies with account lockout mechanisms;
+
+(e) Backup system upgrade with enhanced encryption and security features;
+
+(f) Implementing comprehensive cybersecurity training programs;
+
+(g) Assessing suitability for Cyber Essentials and Data Protection Trustmark certifications;
+
+(h) Implementing data minimisation practices for HR data collection processes.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+TAoboouffter you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement. Organisations
+
+Individuals
+FOR
+MIneddiaiv&iEdveuntas ls
+ACobnotuatct
+Organisations 
+
+IRnedpiovritdVuualnlserability 
+Privacy Statement
+Media & Events
+Terms and Conditions
+Reach 
+
+� 2026 Personal Data Protection Commission Last updated 25 Feb 2026
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

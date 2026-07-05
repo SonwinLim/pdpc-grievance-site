@@ -1,0 +1,114 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Stepup
+(Sup) Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Stepup (Sup) Pte Ltd
+
+Share:   
+
+Published on 09 Apr 2026
+
+Background
+On 9 June 2025, Stepup (Sup) Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on a personal data breach after discovering that an unauthorised individual(s) had gained access to its database. Subsequently, personal data collected by the Organisation were exfiltrated and posted on the Organisation's community channel in Discord on 7 June 2025 (the "Incident").
+The personal data collected by the Organisation were stored in cloud databases hosted in Singapore and the Organisation established that it had not secured its database tables adequately. The Row Level Security for the database tables was not properly configured, which allowed anyone with a public key to have viewing permissions for all tables. Consequently, the personal data stored within were exfiltrated and posted by the unauthorised individual(s).
+The Incident affected the personal data of approximately 607 individuals including a combination of their names, email addresses and educational institutions.
+After the Incident, the Organisation removed the public key configuration and configured Row Level Security with appropriate roles and permissions to prevent further unauthorised access as required under section 24 of the Personal Data Protection Act 2012 (the "PDPA").
+ToheofOferrgyaonuisatbioenttdeirdenxpoet rhieanvecea, tdhaitsaspitreoutescetsiocnoookffiiecse. rRaenad dmidorneoatbdoeuvtecloopokaineds  imn opulermPreivnatcpyriSvtaactyempoelnicti.es as required to comply with sections 11 and 12 of the PDPA.
+
+The Organisation has since appointed a data protection officer and published this
+
+FinOfRormation and implemented the relevant privacy policies and processes.
+Individuals  
+The Organisation also collected, used and/or disclosed an individual's personal data
+
+without notifying the individuals of the purpose(s) for which it intends to collect, use,
+
+oArbdoiustclosure an individual's personal data on or before such collection, use or disclosure of the personal data. The Organisation has since implemented steps to
+
+ensure that consent is obtained from the individuals, with the appropriate
+
+nOorgtiafincaistaiotinongsiven on or before the consent is being obtained.
+
+
+
+Voluntary Undertaking
+
+Individuals
+
+
+
+Having considered the circumstances of the case, the Commission accepted a
+
+voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+cMoemdipali&anEcveenwtisth the PDPA. The Undertaking was executed on 18 February 2026. 
+
+As part of the Undertaking, the Organisation willl:
+
+(a) Refrain from collecting, using or disclosing personal data about individuals unless (i) the individuals have given their consent under the PDPA after having being duly notified of the purposes as required or are deemed to have given their consent, or (ii) the disclosure of personal data falls within the exceptions provided for under section 17 read with the First and Second Schedules of the PDPA; and
+
+(b) Take appropriate measures to ensure that the Organisation complies with its obligations under the PDPA for a period of not less than six months from the date of entering into this Undertaking.
+
+If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events To offer you a better experience, this site uses cookies. Read more about cookies CinoonutarcPtrivacy Statement.
+
+
+FOR
+Individuals
+Report Vulnerability 
+APrbivoaucyt Statement
+Terms and Conditions
+Organisations
+Reach 
+
+I�n2d0i2v6idPeursaolnsal Data Protection Commission
+Last updated 14 Apr 2026
+
+Built with
+
+Powered by
+
+Media & Events
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

@@ -1,0 +1,105 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Wizvision
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Wizvision Pte Ltd
+Published on 04 Jul 2024
+
+Share:   
+
+Background
+On 7 July 2023, Personal Data Protection Commission (the "Commission") received a data breach notification from Wizvision Pte Ltd (the "Organisation") of a ransomware attack by "Faust" on their servers that encrypted the data files and internal backup data on their file servers with a ".faust" extension and left behind a ransom note (the "Incident").
+As a result of the Incident, the personal data of 795 individuals including their names, phone numbers, addresses, email addresses, NRIC numbers, date of birth, financial information and employment history was affected.
+2.9GB of outbound traffic from the Organisation's network to Mega.nz was detected from firewall logs dated 20 June 2023. However, the source and content of the outbound traffic could not be determined due to the lack of available logs.
+Investigation revealed that the threat actor had either gained access through one of the 25 publicly accessible endpoints via brute force attack or exploiting a system vulnerability. The Organisation had poor security configurations for its VPN connections and the Organisation's use of the default port for its Fortinet SSL-VPN facilitated the threat actor's activities.
+Remedial Actions
+TUopofnfedriyscoouvaerbinegttethr exInpceirdieenncte, t,htheisOsrigteanuiseastioconoimkiems.eRdeiatdelmy tooroekabthoeuftocllooowkinegs  ainctoiounr sP:rivacy Statement.
+
+(a) Changed the default port for VPN and all active directory and admin credentials;
+FOR
+Individuals (b) Disabled VPN web mode access and the VPN option to allow client to connect
+automatically and keep connections alive;
+
+t(Achb)eoCeuontntdiruecnteedtwaofrukllwreitvhiepwroopfetrhneentewtowrokrskeagrrcehgitaetciotnuraenadnadcecneshsacnocnetdrothl; e design of
+
+c(Odor)ngRfaiegnpuislraaacttieioodnnshaacrcdowrdarinegfirteowbaelsl twpitrhaclatitceesst; patches and implemented strict
+
+
+
+a(Ines)dsIeimvtisdp; uleamlsented a centralized logging solution to preserve logs and monitor system
+
+d(Mfi)aeMgdriaaainm&taEtihvneaentdtdsaenscurpibdeastesydsitnevmens taonrdy
+
+of user accounts and data flows within the
+
+an updated network organisation;
+
+
+
+(g) Enabled 2FA for all firewall and VPN accounts, used whitelisting for source IP addresses instead of using "All" in firewall rules, engaged a security vendor to conduct independent security review; and
+
+(h) Encrypted all personal data that have been collected to enhance protection, upgraded to a more comprehensive and robust endpoint protection system and installed necessary management and network tools / software to automate monitoring and detection as much as possible.
+
+Voluntary Undertaking
+
+Having considered the circumstances of the case, including the remedial steps taken by the Organisation, the Commission accepted a voluntary undertaking on 24 November 2023 (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 ("PDPA").
+
+The Commission was satisfied with the Undertaking proposed by the Organisation and accepted the Undertaking having considered the number of affected individuals, the types of personal data involved and the impact of the Incident. Accepting the Undertaking was also consistent with the Commission's practice with respect to other personal data breaches similar to the one that affected the Organisation.
+
+The Organisation has since updated the Commission that it has fully implemented its remediation plan. The Commission has reviewed the matter and determined that the Organisation has complied with the terms of the Undertaking.
+
+Share:   
+PTinoeoorufsfreoPrnryiaovaulcDay abSettaattteePrmreoexnptete.rcietinocne, Cthoismsitme uissessiocnookies. Read more about cookies
+
+About
+FOR
+OInrgdaniivsaitdiounsals
+
+AInbdoivuitduals
+Media & Events Organisations Contact
+Individuals  
+
+Media & Events
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 03 Jul 2024
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

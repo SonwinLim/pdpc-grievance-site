@@ -1,0 +1,129 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Poh Heng
+Jewellery
+
+Pte Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Poh Heng Jewellery Pte Ltd
+
+Share:   
+
+Published on 27 Mar 2025
+
+Background
+On 29 March 2024, Poh Heng Jewellery (Private) Limited (the "Organisation") notified the Personal Data Protection Commission (the "Commission") of a personal data breach involving a cyber incident where a threat actor ("TA") had obtained the source code for its e-commerce website (the "Affected Website") through exploiting vulnerabilities (the "Incident").
+Investigations revealed that that the TA had likely probed the Affected Website requesting for "/git." web resources and found an exposed link to a configuration folder containing the website deployment file. This information allowed the TA to find the integrated GitHub repository of the Organisation's then-Website vendor, A&C Atelier Pte Ltd ("A&C") and obtain the Affected Website's source code. The source code contained hardcoded API keys and integration credentials which the TA had exploited to access a HubSpot Middleware application that was integrated to the Affected Website at the time. Subsequently, the TA downloaded the personal data of 81,465 customers.
+The types of personal data affected included the name, contact number, residential address, personal email address, date of birth, country of residence, membership ID number and transactional information of up to the last five purchase transactions.
+Facts of the Case
+TToheofsfeetruypouofathbeetAteffreecxtepderWienebcesi,ttehiins csliuteduedsetshceoaofkfeiecst.eRdeGaditHmuobrereapboosuittocryo,ouksieeds by Ain&oCutroPcroivnatcayinSttahteemsoeunrct.e code for developing the Affected Website, and the
+
+Hubspot Middleware application previously serviced by another vendor, Onyx Island FPOtRe Ltd ("Onyx"). The Hubspot Middleware application was set up by Onyx to transfer
+Individuals a customer's data from the Affected Website to the Hubspot CRM software-as-a-
+service ("SaaS") platform and also to delete the customer's data from the Affected Website after the transfer was complete. About A&C and Onyx were previously engaged by the Organisation for the following:
+
+(Oar)gAa&nCistaotipoenrsform website development, including setting up of an AWS server and
+integrating API requests that will send/receive customer data from the
+
+Organisation's inventory system. A&C was also involved in some processing of
+
+cInudsitvoidmuearlsdata on behalf of the Organisation on an ad hoc basis. For example, to 
+
+send out electronic Direct Mailers ("EDMs") to customers by accessing customer's
+
+contact details on the Hubspot CRM database.
+
+Media & Events
+
+
+
+(b) Onyx to set up the Hubspot CRM SaaS platform for the Organisation, including a
+
+one-time migration of the Organisation's existing customer database during the
+
+initial phases of configuring the Hubspot platform. Onyx subsequently only provided
+
+maintenance and management of the Hubspot platform.
+
+Between 10 to 19 July 2023, A&C had deployed the Affected Website in the Organisation's AWS server with a ".git" folder that contained information on the source code. At the time, the Affected Website was deployed using A&C's GitHub account for the WordPress e-commerce plugin ("WooCommerce") since the Organisation did not have a dedicated GitHub account. The Organisation's vulnerability scans had not detected the risk of the .git folder since deployment.
+
+While the root cause of the Incident can be attributed to the TA gaining unauthorised access to the ".git" folder on the Organisation's website and the fact that the API keys to WooCommerce and HubSpot had been hardcoded within the source code, the Commission found that there had been a failure by the Organisation to clearly stipulate the job scope and data protection obligations expected of the vendors it engaged. The Organisation also did not have a clear process for managing its vendors. The Organisation outlined the job scope in quotations and included some data protection clauses in Non-Disclosure Agreements ("NDA"). Our investigations revealed that there was poor documentation of the vendors' responsibilities as the Affected Website's deployment was managed mainly via emails.
+
+Remedial Actions
+
+Upon discovery of the Incident, the Organisation took prompt remedial actions including, but not limited to, removing the configuration folder from deployment on the staging and production web server, dismantling the Affected Website, resetting credentials for all platforms and critical web plugins, conducting a Vulnerability Assessment and rectifying identified vulnerabilities. The Organisation also revoked the access rights to its AWS console of the then-vendors.
+
+Voluntary Undertaking
+To offer you a better experience, this site uses cookies. Read more about cookies
+iTnhoeuCroPmrimvaicsysiSotnatceomnseidnet.red that while there may have been lapses in the way the Organisation managed its relationship with its vendors, the Organisation had an
+
+adequate level of preparedness in the existing security measures, relative to its needs FaOnRd the sensitivity of the personal data handled. At the time of the Incident, the
+Individuals Organisation had implemented access controls, that is, 2-Factor Authentication
+login, to its AWS console which hosted the Affected Website and the Hubspot Middleware application. It had also conducted vulnerability scanning, put in place sAebrovuert usage monitoring and an update process for critical plugins.
+The Commission determined that A&C and Onyx were not considered data iOnrtgearmniesadtiiaorniess ("DI") who processed personal data on behalf of the Organisation. The tasks required of A&C and Onyx which allowed them to have access to and process customer personal data had been incidental to their job scope as Website developer aInnddivSidaauSa/lCs RM vendor respectively. While migrating personal data and sending EDMs using personal data would constitute processing of personal data, these tasks hMaeddniao&t lEevdetnotsand were not related to the Incident. Having considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was executed on 2 January 2025. No further action will be taken for A&C and Onyx.
+As part of the Undertaking, the Organisation will be implementing the following:
+(a) Implement SOPs in relation to vendor risk assessments and onboarding.
+(b) Review contracts with existing vendors in respect of the responsibilities on handling and protecting personal data.
+(c) Develop a cybersecurity policy, incident response and crisis management policy.
+(d) Implement annual data protection training and cybersecurity training programme for employees.
+(e) Engage a Chief Information Security Office (CISO)-as-a-Service.
+(f) Obtain the Cyber Essentials Mark certification and the Cyber Trust Mark certification
+(g) Obtain the Data Protection Trust Mark.
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+Share:   
+To offer you a better experience, this site uses cookies. Read more about cookies
+PineorusroPnriavalcDy aSttaatePmroentet.ction Commission
+
+About
+FOR
+OInrgdaniivsaitdiounsals
+
+AInbdoivuitduals
+Media & Events Organisations Contact
+Individuals  
+
+Media & Events
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 24 Mar 2025
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

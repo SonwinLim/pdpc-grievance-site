@@ -1,0 +1,84 @@
+APPENDIX A
+LEGALLY BINDING UNDERTAKING TO THE PERSONAL DATA PROTECTION COMMISSION
+This Undertaking is given to the Personal Data Protection Commission by:
+NEC Asia Pacific Pte Ltd UEN: 197700754G Registered Address: 80 Bendemeer Road #05-01/02, Hyflux Innovation Centre Singapore 339949
+By signing this Undertaking, NEC Asia Pacific Pte Ltd acknowledges the matters stated herein and agrees to be bound by the terms of this Undertaking.
+1. DEFINITIONS
+1.1. In this Undertaking:
+(a) "Commission" means the Personal Data Protection Commission.
+(b) "Commission's Letter" means the letter dated 4 April 2018 from the Commission to NEC Asia Pacific Pte Ltd concerning its investigation under the PDPA, including the appendices thereto.
+(c) "Data Protection Provisions" means Parts III to VI of the PDPA.
+(d) "PDPA" means the Personal Data Protection Act 2012 (No. 26 of 2012).
+(e) "Time Frame" has the meaning given to it in paragraph 3.2.
+(f) "NEC" means NEC Asia Pacific Pte Ltd.
+2. ACKNOWLEDGEMENTS
+2.1. NEC hereby acknowledges the following matters:
+(a) The Commission has carried out an investigation into certain acts and practices of NEC, which allegedly infringe one or more provisions of the Data Protection Provisions.
+(b) The detailed facts and circumstances relating to the Commission's investigation, as well as the Commission's investigation findings and concerns arising therefrom, are set out in the Commission's Letter, a copy of which has been furnished to NEC.
+
+(c) NEC agrees that it has been given the opportunity to submit representations to the Commission in relation to the facts, allegations and the Commission's investigation findings, as well as the form of binding undertaking, as set out in the Commission's Letter.
+(d) The Commission's investigation findings suggest that NEC has not fully complied with its obligations under the PDPA.
+(e) As a result of the alleged non-compliance with the PDPA, the Commission has a number of enforcement options under the PDPA, including the option to give a direction under Section 29 of the PDPA.
+(f) The Deputy Commissioner recognises that the disclosure of data was limited to two authorised printing vendors who were bound by contract to keep such data confidential and were already familiar with the types of personal data contained within the attachment and there was no further disclosure beyond JK TruData. The Deputy Commissioner also recognises that the incident did not arise as a result of the lack of controls but that the controls were not sufficiently robust. In addition, NEC has made efforts to address the concerns raised in this case and to improve its personal data protection practices.
+(g) The Commission, having carefully considered all the relevant facts and circumstances, is of the view that this is an appropriate case in which to accept a binding undertaking.
+3. UNDERTAKINGS
+3.1. In consideration of the Commission not exercising its powers under Section 29 of the PDPA to give a direction in relation to the matters set out in the Commission's Letter, NEC hereby undertakes as follows.
+3.2. NEC undertakes to take all necessary steps to implement and give effect to the conditions set out below, within the time frame approved by the Commission under paragraph (d):
+(a) Engage an external consultant to review its confirmation process to prevent further recurrence of the issue. In particular, to consider automating the email sending process;
+(b) Enhance the PDPA training for its staff handling personal data;
+(c) Adequate safeguards are taken for transmission of personal data to third parties;
+(d) Provide to the Commission, within fourteen (14) days of the date of acceptance of this Undertaking, a proposed plan of implementation for fulfilling (a) to (c) above, for the Commission's approval. The proposed plan of implementation shall state specific measures that NEC has taken and/or proposes to take to fulfil (a) to (c) above, as well as the time frame within which NEC expects to complete each of the specific measures (to
+
+the extent that these measures have yet to be completed). The overall time frame within which NEC proposes to complete all of the specific measures (the "Time Frame") shall not exceed sixty (60) days beginning from the date of acceptance of this Undertaking. The proposed plan of implementation shall also explain how each of the specific measures proposed would address the concerns expressed in the Commission's Letter and achieve the objectives of (a) to (c) above. NEC shall make such amendments to the proposed plan of implementation as may be required by the Commission, in order to address any further concerns that the Commission may have. In deciding whether to approve the plan of implementation, the Commission will consider whether the specific measures would adequately address the concerns expressed in the Commission's Letter and achieve the objectives of (a) to (c) above; and
+(e) Provide a status report to the Commission within fourteen (14) days from the end of the Time Frame approved by the Commission under paragraph (d) confirming whether NEC has fulfilled each of the specific measures set out in the approved plan of implementation, and provide details as to when each of the specific measures was completed.
+4. COMMENCEMENT, TERM AND TERMINATION
+4.1. This Undertaking shall take effect upon the acceptance by the Commission of NEC's fully executed Undertaking.
+5. GOVERNING LAW
+5.1. This Undertaking shall be governed by Singapore law.
+6. VARIATION
+6.1. This Undertaking may be varied only with the express written agreement of the Commission.
+7. OTHER MATTERS
+7.1. NEC acknowledges that the Commission may publish and make publicly available this Undertaking, and without limitation to the foregoing, the Commission may issue public statements referring to this Undertaking and/or its contents in whole or in part.
+7.2. For the avoidance of doubt, nothing in this Undertaking shall constrain or fetter the Commission's rights in any manner, and the Commission shall be fully entitled to exercise all its statutory powers including, but not limited to, its powers under Section 29 and Section 50 of the PDPA to carry out enforcement action against NEC in respect of its findings herein, should there be a failure by NEC to comply with any term of this Undertaking or if the Commission has reasonable grounds for suspecting that any of the information provided by NEC in connection with the investigation in this case was incomplete, false or misleading in a material particular. Furthermore, nothing in this Undertaking
+
+shall fetter or constrain the Commission's rights in any manner, nor be construed as granting any expectation that the Commission will take or not take any particular course of action in the future, should NEC be suspected or found to have contravened its obligations under the PDPA after the signing and acceptance of this Undertaking.
+7.3. It is further acknowledged that the Commission's acceptance of this Undertaking is on a one-off and exceptional basis, and is strictly confined to the particular facts of the present case, on the basis of the representations and information provided by NEC. The Commission's acceptance of this Undertaking shall not be construed as establishing any precedent, shall not create any legitimate expectations on any parties (whether or not a party to this Undertaking), and shall not bind the Commission in respect of any other case involving a breach or suspected breach of the PDPA. All of the Commission's rights in the foregoing respects are expressly reserved.
+7.4. For the avoidance of doubt, acceptance of this Undertaking does not derogate from any rights and remedies available to any other person arising from conduct described in the Commission's Letter or this Undertaking.
+
+SIGNED By
+
+)
+
+Name: ______________________________ )
+
+Designation: _________________________ )
+
+for and on behalf of
+
+)
+
+NEC Asia Pacific Pte Ltd
+
+)
+
+Date: ______________________________ )
+
+ACCEPTED By
+
+)
+
+Name: ______________________________ )
+
+Designation: _________________________ )
+
+for and on behalf of
+
+)
+
+Personal Data Protection Commission
+
+)
+
+Date: _______________________________ )
+
+

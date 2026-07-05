@@ -1,0 +1,122 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+by Aerospec
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Supplies Pte Ltd &
+
+Jobsite.com
+
+Pte Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by Aerospec Supplies Pte Ltd & Jobsite.com Pte Ltd
+Published on 03 Sep 2025
+
+Share:   
+
+Background
+Aerospec Supplies Pte Ltd ("Aerospec"), a manpower supply company, and its wholly-owned subsidiary, Jobsite.com Pte Ltd ("Jobsite"), notified the Personal Data Protection Commission (the "Commission") on 7 February 2025 of a personal data breach involving a ransomware incident which was discovered on 6 February 2025, which resulted in the encryption and deletion of personal data from 2 servers (the "Incident"). Aerospec managed data protection matters for both Aerospec and Jobsite, and both companies shared the same physical server infrastructure.
+Aerospec established that the threat actor had likely gained access to the servers by exploiting vulnerabilities in the firmware of a firewall appliance which had not been patched for about 3 years, or via remote access software installed on servers.
+The threat actor exfiltrated and deleted the personal data of 3,885 individuals in Aerospec's possession, who were Aerospec's current employees, ex-employees, and candidates who had applied for a position. The types of personal data affected included the name, address, email address, contact number, NRIC / FIN number, passport number, employment history, date of birth, bank account information and salary information, client whom the employee was subcontracted to, and the date of joining and leaving service. The personal data of 200 individuals in Jobsite's possession, which was provided by 10 other companies which had engaged Jobsite tToo porfofecreysosuthaebinetdtievrideuxpalesr'iwenocrke,ptahsiss saiptepulicsaetsiocnooskwieass. sRimeaidlamrlyoerexfialtbroatuetdcoanokdies  in our Privacy Statement.
+
+deleted. The types of personal data affected included the name, passport details,
+
+FcOitRizenship, occupation, date of birth, salary, and education information.
+Individuals  
+Aerospec was relying on an outsourced service provider to provide IT support and
+
+keep the firewall appliance's firmware up to date. However, the service agreement
+
+fAabiloeudtto document this service scope. Aerospec failed to ensure that there was a meeting of minds as to the services that the service provider had agreed to
+
+undertake and to follow through to check that the outsourced provider was indeed
+
+dOerglivaenriisnagtiothnes services.
+
+
+
+Upon discovery of the Incident, Aerospec took prompt remedial actions including
+iIsnodlaivtiidnugatlshe affected servers and disabling VPN access to secure its IT network and
+systems.
+
+VMoedluian&tEavreynUtsndertakings
+
+
+
+Having considered the circumstances of the case, the Commission accepted voluntary undertakings (the "Undertakings") from Aerospec and Jobsite to improve their compliance with the Personal Data Protection Act 2012 (the "PDPA"). The Undertakings were executed on 22 July 2025.
+
+As part of the Undertakings, Aerospec and Jobsite will be implementing the following:
+
+(a) Implement cloud storage data tagging of personal data, integrated with a data loss prevention solution;
+
+(b) Conduct data protection audit of its cloud storage;
+
+(c) Establish vendor monitoring policies;
+
+(d) Establish firmware patching policies;
+
+(e) Implement segmented network environment;
+
+(f) Migrate to a new firewall solution;
+
+(g) Implement policy for regular reviews of firewall rules;
+
+(h) Obtain the Cyber Essentials Certification (for Aerospec only); and
+
+(i) Migrate from individual Microsoft 365 subscriptions to tenanted Microsoft 365 configuration (for Jobsite only).
+
+The Commission will verify Aerospec's and Jobsite's compliance with the Undertakings. If Aerospec and / or Jobsite fail to comply with any terms of the Undertakings, the Commission may issue directions so as to ensure compliance with the Undertakings.
+
+To offer you a better experience, this site uses cookies. Read more about cookies Sinhaoruer: Privacy Statement.
+
+FOR
+PInedrsoivniadl uDaatlasProtection Commission
+About About Organisations Organisations Individuals
+IMneddiviiad&uaElsvents
+MCoendtiaac&t Events
+
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 04 Sep 2025
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

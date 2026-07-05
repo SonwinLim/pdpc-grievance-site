@@ -1,0 +1,117 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by D'League
+Pte Ltd and
+
+subsidiaries
+
+Voluntary Undertakings
+
+Voluntary Undertaking by D'League Pte Ltd and subsidiaries
+Published on 05 Jun 2026
+
+Share:   
+
+Background
+D'League Pte. Ltd. (the "Organisation") notified the Personal Data Protection Commission (the "Commission") on 8 August 2025 of a personal data breach involving its systems (the "Incident").
+The Organisation established that on or about 15 July 2025, a threat actor ("TA") had accessed its systems and exfiltrated its data, before encrypting its systems. These systems contained personal data of the Organisation and its subsidiaries, namely Richard Mille Asia Pte. Ltd, Henry Jacques Asia Pte. Ltd, The Value of Time (Asia) Pte. Ltd, Surrender Pte. Ltd.1, Three Pleasures Pte. Ltd, Inca Holdings Pte. Ltd, Le Mondo Ryori Pte. Ltd and Shinsetsu Pte. Ltd (collectively, the "Subsidiaries").
+The Organisation determined that the TA had likely obtained access to its systems through credentials associated with a compromised, dormant Virtual Private Network ("VPN") account used by, or belonging to, a staff member or representative of the Organisation's external IT consultant.
+The Incident affected the personal data of 17,626 individuals, comprising employees, former employees, non-employees and customers of the Organisation and its Subsidiaries. The types of personal data affected included a combination of names, NRIC numbers, passport copies, nationalities, dates of birth, addresses, emails, cToonotfafecrt ynouumabbeerstt,egreenxdpeerrsi,etnracne,stahcitsiosnitehuisstoesryc, ofionkainecsi.aRleinafdormmoarteioanbo(inuct lcuodoinkiges  in our Privacy Statement.
+
+names, bank account numbers, and names of bank), employees' hospitalisation dFOoRcuments and medical certificates.
+Individuals  
+Upon discovery of the Incident, the Organisation took prompt remedial actions including removing all VPN user accounts, creating only essential VPN aAcbcoouutnts, enforcing multi-factor authentication ("MFA") for all VPN users and restricting VPN connections. The Organisation also notified the affected individuals.
+
+TOhrgeaInncisidateionnt shad likely occurred as the Organisation had inadequate security 
+measures prior to the Incident including not removing a dormant VPN account, the
+
+absence of MFA for VPN and privileged accounts, and insufficient endpoint
+
+pInrdoitveicdtuioanls.
+
+
+
+Voluntary Undertaking
+
+Media & Events
+
+
+
+Having considered the circumstances of the case, the Commission accepted a
+
+voluntary undertaking (the "Undertaking") from the Organisation and its
+
+Subsidiaries to improve their compliance with the Personal Data Protection Act 2012
+
+(the "PDPA"). The Undertaking was executed on 12 May 2026.
+
+As part of the Undertaking, the Organisation and its Subsidiaries will implement the following including:
+
+(a) Conducting regular reviews of VPN accounts and deactivating or removing dormant user accounts;
+
+(b) Enabling and enforcing MFA for all VPN users;
+
+(c) Implementing geofencing on the firewall to include only countries which the Organisation and its Subsidaries operate in;
+
+(d) Implementing and deploying managed detection and response;
+
+(e) Developing and implementing a cybersecurity incident response plan; and
+
+(f) Conducting a Vulnerability Assessment and Penetration Testing exercise, and email phishing simulation exercise for the Organisation, its Subsidiaries and all employees.
+
+The Commission will verify the Organisation's and its Subsidiaries' compliance with the Undertaking. If the Organisation and its Subsidiaries fail to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's and its Subsidiaries' compliance with the Undertaking.
+
+[1] Surrender Pte. Ltd. has been struck off from ACRA since 8 May 2023.
+
+STohaoreff:eryoua better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+FOR
+PInedrsoivniadl uDaatlasProtection Commission
+About About Organisations Organisations Individuals
+IMneddiviiad&uaElsvents
+MCoendtiaac&t Events
+
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 05 Jun 2026
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

@@ -1,0 +1,109 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by Ready Digital Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by Ready Digital Pte Ltd
+Published on 03 Jul 2025
+
+Share:   
+
+Background
+Ready Digital Pte. Ltd. ('RDPL') notified the Personal Data Protection Commission (the 'Commission') on 17 October 2024 of a cyberattack where personal data had been deleted from their backup database in the development server ("Affected Database") located on-premise (the "Incident").
+RDPL established that the threat actor ("TA") had exploited an open port on a development server intended for remote access. This port was misconfigured by PT Ekasa Teknologi Nusantata, RDPL's outsourced developer in Indonesia, which granted remote access permissions from any IP address. Although login credentials were in place for the development server, the TA was able to access the Affected Database directly via the open port as there were no login credentials in place for the Affected Database.
+The Incident affected 155 individuals' personal data, including:
+(a) 58 Customers (Seniors): Name, Last 4 characters of NRIC, Contact number, Address, Next-of-Kin ("NOK") Contact, Relationship with NOK;
+(b) 89 NOK and Known CareGivers: Name, Contact Number; and
+(c) 8 Current and Former Employees: Name, Contact Number.
+cTiUinsohopoalooanufntfgriendPirngirysgicovthoasueevcaerycvrbSoeyetmroatattfpceetrcrmhoeeemesxIsnpnisctece.rridediedesnenycnstet,te,RiatmDhlsiP,,sbcLsoloittnocedokuukinsciegmtsinemcxgoteemodrknaiiaealwtsle.aaRrcreeecmaesdscesadm,nciasolol,reaseicnnathgbioaotnnhuscetiinncogocpoludekndaietipnasobgrats, e
+
+security with additional access controls, and restoring the Affected Database from
+
+tFhOeR unaffected Production database.
+Individuals
+Voluntary Undertaking
+
+
+
+HAbavoiuntg considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from RDPL to improve its compliance
+
+with the Personal Data Protection Act 2012 (the "PDPA"). The Undertaking was
+
+eOxregcauntiesdatoionn2s1 May 2025.
+
+
+
+As part of the Undertaking, the Organisation will be implementing the following:
+
+Individuals (a) Implement comprehensive Vendor Management Policy.
+
+
+
+(Mbe) dPiraov&idEevesntatfsf with training on network security.
+
+
+
+(c) Update security policies with periodic reviews.
+
+(d) Obtain the Cyber Security Agency of Singapore's Cyber Essential Mark Certification by October 2025.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+RToepoofrfteVr uylonueraabbileittyter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+Privacy Statement
+
+Terms and Conditions
+FOR
+IRneadchividuals
+
+� 2026 Personal Data Protection Commission
+
+ALabstouuptdated 03 Jul 2025
+
+Built with
+
+Powered by
+
+Organisations
+
+I�n2d0iv2i6dGuoavlesrnment of Singapore Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

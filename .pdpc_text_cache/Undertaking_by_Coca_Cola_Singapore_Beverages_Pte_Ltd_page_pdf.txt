@@ -1,0 +1,115 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+by Coca-
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Cola Singapore
+
+Beverages
+
+Pte Ltd
+
+Voluntary Undertakings
+
+Voluntary Undertaking by CocaCola Singapore Beverages Pte Ltd
+Published on 02 Aug 2024
+
+Share:   
+
+Background
+On 13 October 2023, Personal Data Protection Commission (the "Commission") received a data breach notification from Coca-Cola Singapore Beverages Pte Ltd (the "Organisation") of a ransomware attack by the Lockbit 3.0 ransomware group that had encrypted their systems and deleted the data stored on its backup server (the "Incident").
+As a result of the Incident, the personal data of 5,937 individuals including their names, phone numbers, addresses, email addresses, bank account number and employee identification number was affected.
+The Organisation confirmed that 145.43GB of data on one of the servers had been exfiltrated and the server had contained personal data. Investigation revealed that the root cause of the Incident was an unauthorised single-factor authentication to the Organisation's Citrix environment. The Organisation had not implemented multifactor authentication ("MFA") for remote users.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including disabling the administrative and user accounts affected in the Incident, shutting down the Citrix environment, blocking all identified network-based indicators of compromise associated with the Incident and patching the Fortinet Tsofotwffeareyowuitah btheettelartexstpseericeunrcitey, pthaitscshietes.uses cookies. Read more about cookies  in our Privacy Statement.
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case, the Commission accepted a 
+voluntary undertaking (the Undertaking) from the Organisation to improve its compliance with the Personal Data Protection Act 2012 (the PDPA). The Undertaking wAbaosuetxecuted on 22 April 2024.
+
+As part of the Undertaking, Coca-Cola Singapore Beverages Pte Ltd will do the
+
+fOorllgoawniinsgat: ions
+
+
+
+(a) Implement a password reset and increase the password length and complexity
+
+fInordeivnidduaanlsd privileged users;
+
+
+
+(b) Reduce the footprint of external-facing systems by shutting down the Citrix
+
+eMnevdirioan&mEevnent;ts
+
+
+
+(c) Restrict access into company systems by non-company devices;
+
+(d) Implement enhanced endpoint protection and MFA for remote users;
+
+(e) Enhance monitoring of servers by the Security Operations Centre (SOC);
+
+(f) Improve asset management and mandate a review of backup and disaster recovery processes; and
+
+(g) Enhance off-boarding process and implement data minimisation for sensitive personal data.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction so as to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events To offer you a better experience, this site uses cookies. Read more about cookies CinoonutarcPtrivacy Statement.
+
+
+FOR
+Individuals
+Report Vulnerability 
+APrbivoaucyt Statement
+Terms and Conditions
+Organisations
+Reach 
+
+I�n2d0i2v6idPeursaolnsal Data Protection Commission
+Last updated 02 Aug 2024
+
+Built with
+
+Powered by
+
+Media & Events
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

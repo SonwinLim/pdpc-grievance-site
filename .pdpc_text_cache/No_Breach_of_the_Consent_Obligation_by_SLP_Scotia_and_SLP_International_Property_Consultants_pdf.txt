@@ -1,0 +1,27 @@
+PERSONAL DATA PROTECTION COMMISSION Case No. DP-2007-B6585, DP-2007-B6591, DP-2007-B6594, DP-2007-B6598
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+SLP Scotia Pte. Ltd. SLP International Property Consultants Pte. Ltd.
+SUMMARY OF THE DECISION
+1. Between 10 to 14 July 2020, the Personal Data Protection Commission (the "Commission") received four complaints against SLP International Property Consultants Pte Ltd ("SLPIPC") and its subsidiary SLP Scotia Pte Ltd ("SLPS") (collectively, the "Organisations"). The complainants were property agents registered through SLPS (the "Complainants").
+2. As a merger was due to take place between the Organisations, on 7 July 2020, SLPIPC initiated the registration of salespersons in SLPS as salespersons in SLPIPC with the Council of Estate Agencies ("CEA"). CEA thereafter emailed the Complainants asking them to either initiate a salesperson application to join SLPIPC or disregard the email if they were not interested in registering with SLPIPC (the "Incident").
+1
+
+3. The Complainants alleged that: a. they had not consented to be contacted for such purposes; and b. SLPS had improperly disclosed their personal data (including NRIC number, date of birth, and home address) to SLPIPC, and SLPIPC had in turn improperly disclosed the data to CEA.
+4. CEA is the entity which administers the registration of salespersons (such as the Complainants) under the Estate Agents Act 2010 ("EAA"). Pursuant to section 29(1) of the EAA, a person may not act as a salesperson for any estate agent unless he or she is registered; the said register is maintained by the CEA pursuant to section 36 of the EAA. Further, under section 40(1) of the EAA, a salesperson may not be registered to act as a salesperson for more than one estate agent at any one time.
+5. SLPIPC disclosed the personal data of the Complainants to CEA for the purposes of the change in registration from SLPS to SLPIPC. In doing so, SLPIPC was complying with its obligations under the EAA. The disclosure by SLPIPC to CEA was therefore not in breach of any of the provisions of the Personal Data Protection Act 2012 ("PDPA"), as under section 4(6) of the PDPA, obligations of a party under other written law take precedence over obligations under the PDPA.
+2
+
+6. The Commission's investigation focused on whether the Organisations had breached the Consent Obligation under section 13 of the PDPA in relation to: a. the disclosure of the Complainants' personal data by SLPS to SLPIPC; and b. the collection of the said data by SLPIPC from SLPS.
+7. Investigations revealed that the Complainants had each, individually and separately, signed an agreement with SLPS ("Associate's Agreement") in which they had provided their consent for disclosure of their personal data in specific circumstances. Notably: a. Clause 24 of the Associate's Agreement provided that the Complainants consented to SLPS collecting, using and/or disclosing their personal data for one or more of the "Company Purposes". b. "Company Purposes" as defined in the Associate's Agreement included disclosure of the Complainants' personal data to SLPS' related corporations, to facilitate and administer the real estate brokerage services to be provided by the Complainants under the Associate's Agreement. c. As SLPS was a subsidiary of SLPIPC, both Organisations were "related corporations" for the purposes of the Associate's Agreement.
+8. The disclosure and collection of the Complainants' personal data had been carried out because of an upcoming merger between the Organisations, for business reasons. With the move towards merger at the material time, the Complainants had
+3
+
+the option of providing their services under SLPIPC after the merger. This was found to fall under the ambit of "Company Purposes" pursuant to Clause 24 of the Associate's Agreement, because the merger would have affected the Complainants' ability to "facilitate and administer" their real estate brokerage services.
+9. Consequently, the disclosure of the Complainants' personal data by SLPS and the collection and disclosure of the same by SLPIPC as a related corporation was found to be consistent with the purposes for which the Complainants had provided consent in the Associate's Agreement.
+10. In light of the above, the Deputy Commissioner for Personal Data Protection finds that the Organisations did not breach the Consent Obligation under section 13 of the PDPA.
+The following is the provision of the Personal Data Protection Act 2012 cited in the above summary:
+Consent required 13. An organisation must not, on or after 2 July 2014, collect, use or disclose personal data about an individual unless -- (a) the individual gives, or is deemed to have given, his or her consent under this Act to the collection, use or disclosure, as the case may be; or (b) the collection, use or disclosure (as the case may be) without the individual's consent is required or authorised under this Act or any other written law.
+4
+
+

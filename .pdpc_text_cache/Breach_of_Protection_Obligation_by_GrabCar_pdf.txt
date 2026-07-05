@@ -1,0 +1,224 @@
+PERSONAL DATA PROTECTION COMMISSION
+[2019] SGPDPC 14
+Case Nos DP-1702-B0508/DP-1703-B0613
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012 And Grabcar Pte. Ltd. [UEN 201427085E] ... Organisation
+________________________________________________________
+DECISION
+________________________________________________________
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+Grabcar Pte. Ltd.
+[2019] SGPDPC 14 Yeong Zee Kin, Deputy Commissioner � Case Nos DP-1702-B0508/DP-1703B0613
+11 June 2019
+Introduction and facts of the cases
+1 This decision addresses, in the main, the obligations of an online ridesharing platform and drivers who use the platform to provide carpool rides to passengers. Grabcar Pte Ltd (the "Organisation") operates an online platform through the Grab mobile application (the "Grab App") which enables individuals to book taxis or private cars for transportation services. The Grab App also provides a carpooling option, referred to in the app as "GrabHitch". GrabHitch matches a passenger with a driver who is willing to give a lift to the passenger on the way to the driver's destination in return for a fee. The Organisation states on its website,1 "GrabHitch is a social carpooling platform powered by everyday, non-commercial drivers giving you a lift along the way to cover petrol costs."2
+2 This decision relates to separate complaints by two passengers (the "Complainants") who used GrabHitch to book carpool rides. The carpool rides were provided by two different drivers (the "Drivers") on separate occasions.
+1 www.grab.com/sg/hitch/ 2 The Organisation's website also states that GrabHitch is provided in compliance with the Road Traffic (Car Pools) (Exemption) Order 2015.
+2
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+Nevertheless, the two complaints are dealt with together in this decision as they both relate to similar issues, in particular, to the issue of disclosure of passengers' personal data without consent by GrabHitch drivers.
+3 The substance of each complaint was, in essence, that the Complainant's personal data had been disclosed without consent on social media by the Driver who gave a ride to the Complainant. The details of the complaints are summarised below:
+(a) The first complaint alleged that the Driver involved had posted various data relating to the first Complainant on a public Facebook Group named "GrabHitch Singapore Community" ("GHSC"). These data included screenshots of messages between the Driver and the Complainant which had been sent through the Grab App and a typewritten post by the Driver which set out details of a dispute between the Driver and the Complainant and which identified the Complainant by name. The dispute in this case related to whether the Complainant should contribute to the payment of ERP charges and investigations revealed the reason that the Driver had made the posting was to seek views from other carpool drivers on how best to handle disputes relating to ERP charges.
+(b) The second complaint alleged that the Driver involved had posted various data relating to the second Complainant on a closed Facebook Group named "Uber/Grab SG Partners" ("UGSGP"). These data included (i) screenshots of messages between the Driver and the Complainant which had been sent through the Grab App and which included the Complainant's mobile phone number; (ii) screenshots of
+3
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+the Grab App which showed the name of the Complainant and the Complainant's pick-up and destination points; (iii) a screenshot of the Complainant's Facebook Page which included her photograph, name and workplace; (iv) a typed out post by the Driver which detailed his dispute with the Complainant and disclosed the Complainant's pick-up and destination points; and (v) a partial screenshot of SMS messages sent between the Driver and the Complainant, which included the Complainant's mobile number. The Driver's post in this case was about his dispute with the second Complainant on the payment of GrabHitch charges. It appeared that the Complainant had insisted that she pay for the ride by card through the Grab App although the app indicated that the complainant was to pay for her ride in cash. Investigations revealed that the reason that the Driver had posted the above information was because the Organisation could not contact the Complainant to inform her of the situation and because the Driver was of the view that this was a case of non-payment.
+4 Investigations also revealed that similar postings had also been made by other drivers on GHSC. Generally, these postings disclosed information such as passengers' names, photographs, ride details and the details of disputes between the drivers and their passengers.
+5 The Organisation did not create or operate either the GHSC or UGSGP Facebook pages and investigations did not reveal any apparent link between the persons operating those pages and the Organisation.
+
+4
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+Issues arising
+6 Under section 13 of the Personal Data Protection Act 2012 (the "PDPA"), organisations are prohibited from collecting, using or disclosing personal data about an individual unless the individual's consent is obtained or collection, use or disclosure without consent is authorised or required under the PDPA or any other written law.
+7 In addition, under section 24 of the PDPA, organisations are required to protect personal data in their possession or under their control by making reasonable security arrangements to prevent unauthorised disclosure and various other listed risks.
+8 In the circumstances, two main issues arise:
+(a) whether the Drivers are "organisations" under the PDPA and if so, whether they had contravened section 13 of the PDPA in relation to the disclosure of the Complainants' personal data on the GHSC and UGSGP Facebook pages; and
+(b) Whether the Organisation had contravened section 24 of the PDPA with respect to the protection of the Complainants' personal data.
+First Issue - Are the Drivers "organisations" under the PDPA?
+GrabHitch drivers provide carpool rides in a personal capacity
+9 The PDPA applies to organisations as defined under the PDPA. It is
+5
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+clear from the definition of "organisation" in section 2 of the PDPA that an
+individual may be an "organisation" for the purposes of the PDPA. However,
+section 4(1) of the PDPA further provides that Parts III to VI of the PDPA
+(which includes section 13) do not impose any obligations on any individual
+acting in a personal or domestic capacity.
+10 GrabHitch drivers provide carpool rides on a non-commercial and non-
+profit basis in accordance with the Road Traffic (Car Pools) (Exemption) Order
+2015 and as such are not required to obtain a Private Hire Car Driver's
+Vocational Licence. In this regard, paragraph 3(1) of the said Order states that:
+"Subject to subparagraph (2), the provisions specified in the Schedule do not apply to a person who uses a private motor car for the carriage of a passenger for hire or reward in the case where --
+(a) the person does not solicit for the passenger on a road or at a parking place or a public stand;
+(b) the carriage of the passenger is incidental to the person's use of the private motor car;
+(c) the person informs the passenger, before the start of the carriage, of the person's destination;
+(d) the person agrees with the passenger, before the start of the carriage, on the date of, pickup and dropoff points of, and the payment (whether in cash or in kind) for, the carriage;
+(e) the amount or the value of any benefit in kind that the person collects from the passenger as payment does not exceed the cost and expenses incurred for the carriage of the passenger;
+(f) if there is more than one passenger, the aggregate of the amount or the value of any benefit in kind that the person collects from each of the passengers as payment does not exceed the cost and expenses incurred for the carriage of all the passengers; and
+(g) there is nothing in or on the private motor car displaying or referring to the fares for hiring the private motor car."
+6
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+11 Consistent with this, the Organisation has a Driver's Code of Conduct for GrabHitch Drivers (the "Code of Conduct") which sets out the terms on which a GrabHitch Driver may offer carpool rides. The Code of Conduct provides that:
+"Specific for carpooling, as mandated by the Law:
+i The motor vehicle used must be registered and insured in the name of the Driver and used by the Driver or any person by the Driver's authority expressly provided to the Company, the insurer of the vehicle and the relevant authorities
+ii The motor vehicle must not be used for the carriage of goods other than samples, any instructional purposes for reward, or the carriage of passengers for hire or reward purposes. These mean the Driver must:  Not solicit for passengers on a road or parking place or public stand  Ensure the carriage of the passenger is incidental to the Driver's use of his vehicle  Inform the passenger before the start of the carriage, of the Driver's destination  Agree with the passenger, before the start of the ride, on the date, pick-up and drop-off points, and the payment (whether in cash or in kind) for, the carriage  Ensure that the amount or the value of any benefit in kind that the Driver collects from the passenger as payment does not exceed the cost and expenses incurred for the carriage of the passenger  Ensure that if there is more than one passenger, the aggregate of the amount or the value of any benefit in kind that the person collects from each passenger as payment does not exceed the cost and expenses incurred for the carriage of all the passengers; and
+7
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+ Ensure that there is nothing in or on the motor vehicle that displays or refers to the fares for the hiring of the motor vehicle
+ Not exceed the local limit (if available) of car pool trips in each day on any motor vehicle"
+12 GrabHitch drivers agree to the Code of Conduct by virtue of their agreement with the Organisation as set out in the "Terms and Conditions for Singapore GrabHitch Drivers" (the "GrabHitch Terms"). In particular, in agreeing to the GrabHitch Terms, GrabHitch drivers agree that they "have read, understood, accepted and agreed with [the GrabHitch Terms], the conditions set out in the Driver's Registration Form and the Driver's Code of Conduct."
+13 In respect of the limit on carpooling trips that may be offered by a GrabHitch driver, the Organisation indicates the following in the "Frequently Asked Questions" section of its website ("FAQ"):
+"How many trips can I offer a day as a Hitch driver?
+Based on current carpooling regulations, non-commercial drivers can only complete 2 trips in a calendar day. While we appreciate your enthusiasm for carpooling, please note that 2 trips a day limit is set by LTA regardless of whichever platform you use.
+We hope that you won't put yourself and your riders at risk as your insurance may not cover if you do more than 2 trips a day in total, combined across all platforms.
+For drivers who are worried their insurance does not cover GrabHitch rides, remember we are the ONLY carpooling service who has purchased additional insurance for extra coverage provided no regulations are breached."
+8
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+14 Based on the foregoing, I find that GrabHitch drivers provide carpool rides in their personal capacity. This is especially so given that GrabHitch drivers:
+(a) are not allowed to solicit for passengers on the road, parking places or public stands;
+(b) are to ensure that their carrying of a passenger is merely incidental to their use of the vehicle;
+(c) can only collect payment for the trip on the basis of a recovery of costs and expenses for each trip; and
+(d) are only allowed to offer two carpool trips in each calendar day.
+15 In the circumstances, GrabHitch drivers who are providing carpool rides in accordance with the applicable terms and conditions (as detailed above) are not subject to the PDPA. Accordingly, the Drivers cannot be in breach of section 13 the PDPA. It goes without saying that had any of the Drivers exceeded the daily limit of two carpooling trips, they would not be considered to have provided the carpool rides in a personal capacity.
+Second Issue - Did the Organisation contravene section 24 of the PDPA?
+16 Although the Organisation itself had not disclosed the Complainant's personal data, the Organisation is also required to put in place reasonable security arrangements to protect the personal data of passengers using the Grab App. In this regard, personal data obtained through the Grab App would be in
+9
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+the possession or under the control of the Organisation. This includes personal data such as the name and mobile phone number of the Complainant and any other information which was associated with, and related to, the Complainant, such as the Complainant's pick-up point and destination. However, personal data from the second Complainant's Facebook page would not be regarded as being in the possession or under the control of the Organisation.
+17 In relation to the protection of passengers' personal data from unauthorised disclosure to third parties, the Organisation sets out the following in the Code of Conduct:
+"You are prohibited from posting passenger details in public forums including social media sites or sharing contact details. This is a violation of the Personal Data Protection Act."
+18 This is the sole measure which the Organisation had put in place to prevent unauthorised disclosure of passengers' personal data on public forum sites which GrabHitch drivers may use. Investigations revealed that the two Drivers in question were unaware of the restriction in the Code of Conduct against posting passenger details on social media sites.
+19 I find that merely including this restriction in the Code of Conduct is insufficient as a reasonable security arrangement to protect passengers' personal data. The Organisation makes its platform available to facilitate the hitching of rides or carpooling as part of its suite of commercial services. It has foreseen the risk that GrabHitch Drivers may post passenger details on social media sites as evidenced by its Code of Conduct. It could have done more to inform GrabHitch drivers of the range of acceptable and unacceptable conduct. However, apart from this entry in the Code of Conduct, there is nothing to indicate that this provision had been drawn to the attention of GrabHitch drivers
+10
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+or that they understood the importance of protecting passengers' personal data. Furthermore, as GrabHitch drivers are not subject to the PDPA, they may not be familiar with its provisions and the obligations imposed thereunder on organisations.
+20 As has been held in Re Habitat for Humanity Singapore Ltd [2018] SGPDPC 9 and Re National University of Singapore [2017] SGPDPC 5, reasonable security arrangements can include policies and practices as well as training. The Organisation ought to have put in place more detailed guidance for GrabHitch drivers to educate them about the need to handle the personal data of their riders, obtained through the Grab App, with care. As GrabHitch drivers are occasional drivers who may not be aware of the Organisation's obligations under the PDPA, the Organisation would have done well by introducing some form of online training for them. At the very least, the abovementioned restriction in the Code of Conduct could have been proactively highlighted to GrabHitch drivers. In its representations, the Organisation asserted that requiring it to train GrabHitch drivers would be onerous. This assertion was not substantiated and probably was premised on the assumption of a classroom style training. Training is a means of communication and instruction that may take various forms and is one of the security arrangements that may be implemented by the Organisation to meet its obligations under the PDPA. It is ultimately up to the Organisation to determine the appropriate security arrangements it ought to implement to comply with its PDPA obligations. In the circumstances, I have acceded to the Organisation's request to amend the initial Directions issued in the preliminary Grounds of Decision to remove the direction to train GrabHitch Drivers and instead leave it to the Organisation to ensure that it implements reasonable security arrangements to prevent the misuse and unauthorised disclosure of passengers' personal data.
+11
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+Representations made by the Organisation
+21 The Organisation has made representations dated 21 November 2018 in respect of the Commission's preliminary findings, asserting that they should not be found in breach of section 24 of the PDPA. Their central argument is that a GrabHitch driver does not drive in a "personal or domestic" capacity and should be considered an "organisation" that is required to comply with the PDPA in their own right. In support of this assertion the Organisation has highlighted the following factors:
+(a) By driving individuals who are not friends or family, the GrabHitch driver's activities move out of the private sphere and into the public. Accordingly, GrabHitch drivers are not driving in a "personal or domestic" capacity.
+(b) GrabHitch drivers "maintain independence" from the Organisation in deciding on the precise details involved in the provision of GrabHitch services (e.g. how often they drive, where to go, how much payment to collect). GrabHitch drivers therefore "determine the purposes and means of processing the personal data" of the passengers, which is a defining characteristic of an organisation.
+22 As a preliminary point, I would highlight that the Organisation's obligation to protect personal data under section 24 in its possession or control remains whether or not GrabHitch Drivers drive in a personal or domestic capacity or in a capacity as organisations as defined under the PDPA. As such, the position adopted by GrabHitch that GrabHitch drivers are required to comply with the PDPA in their own right, does not address the finding that the
+12
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+Organisation is in breach of its obligation to protect personal data under section 24 of the PDPA.
+23 It bears further repetition that in my view, the Organisation's measure of merely stating in its Driver's Code of Conduct that GrabHitch drivers are prohibited from posting passenger details as set out at [17] above is insufficient to fulfil the Organisation's section 24 obligations, whether or not GrabHitch drivers are to be treated as organisations in their own right.
+24 Turning to the specific positions taken by the Organisation as set out at [21] above, the first factor raised by the Organisation does not accord with the basic nature of the GrabHitch service, which is fundamentally a carpooling activity facilitated by the Grab App. Carpooling is a ride-sharing practice that private drivers engage in on a purely voluntary basis, and is best characterised as a social activity aimed at defraying the costs involved in owning and maintaining a private car and reducing road congestion. Human life is filled with interactions with people who are not friends or family, and it does not follow that the mere fact of interaction with strangers should elevate an act (in this case, carpooling) from the private to the public sphere.
+25 In fact, the Organisation, in the FAQ material published on its own website3, seems to recognise that GrabHitch drivers are engaged in an activity that is fundamentally private in nature:
+
+3 Quoted portions retrieved from https://www.grab.com/sg/hitch/, accessed 10 December 2018.
+13
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+"Why should I sign up with GrabHitch? What's in it for me?
+As a Hitch Driver, you get to benefit in 3 big ways: Cover your petrol costs, make new friends and contribute to a car-lite Singapore! All these at your convenience!
+How is being a GrabHitch driver different from being a GrabCar driver? They're not the same at all! GrabCar drivers are commercial, professional drivers who have to register a business, purchase commercial insurance, convert their car to a commercial vehicle at the LTA and then sign up in person at the Grab office. Since Hitch Drivers are everyday, non-commercial private car owners who are not driving as a profession, the sign up process is way easier. No need for commercial vehicle conversion nor insurance, simply launch the Grab app, take a couple of photos and submit them for verification. And you're done!
+Am I still considered a Hitch Driver if I don't drive regularly? Of course you are! As a social initiative, we wouldn't want to stress you out by imposing any penalty for irregularity. So please go ahead and enjoy driving GrabHitch at your convenience!
+Why can't I get a GrabHitch driver as easily as GrabCar or GrabTaxi? GrabHitch is meant as an advance booking service as we are powered by non-commercial, everyday drivers who give Hitch Riders a lift at their convenience. Hence, there may not always be any available Hitch Drivers who are heading the same way as you do at your specified time. To secure a higher chance of being matched, book as early as you could, even up to 7 days in advance!
+What else should I take note of as a Hitch Rider? 1. We are all about social carpooling and social carpooling is
+14
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+about being SOCIAL. Take the front seat and make new friends! Learn how to Hitch the right way here. 2. Your Hitch Driver is not a commercial driver like our GrabCar partners so they appreciate if you could treat them the same way you would treat a friend giving you a (discounted) lift to your destination! 3. Book in advance to maximise the chances of you getting a match! We can't emphasise this enough but really, it helps to be a little kiasu. Book the night before for a morning commute or 2 hours ahead of your evening ride home."
+[Emphasis added.]
+26 As repeatedly stressed in the Organisation's materials quoted above, as compared to professional GrabCar drivers, the GrabHitch service is one that is non-commercial, only provided at the drivers' own convenience, and primarily motivated by a desire to be social and to reduce the need for car usage. For all intents and purposes, a GrabHitch driver is no different from a driver offering a lift to a roadside hitchhiker out of goodwill. It is thus apparent from the published material that a GrabHitch driver engages in the activity in a purely personal capacity. It is also apparent, their present representations regarding this matter notwithstanding, that the Organisation recognises this. In fact, the private and casual nature of being a GrabHitch driver appears to be a main selling point for the Organisation.
+27 In their representations, the Organisation also seeks to assert that whether LTA regulates GrabHitch drivers or not should be irrelevant to the determination of whether or not the drivers should be considered an organisation. The Organisation states that doing so will mean that only regulated or licensed individuals will be considered organisations. I think that this argument takes the logic too far. There is no intention to link the ambit of
+15
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+organisations under the PDPA to regulated activities. The interpretation that I have adopted is consistent with the scheme that exempts carpooling activities from the requirement of vocational licensing established under the Road Traffic (Car Pools) (Exemption) Order 2015 (the "Exemption Order"). This is also consistent with how the Organisation has pitched GrabHitch through its FAQs and Code of Conduct for GrabHitch Drivers as discussed in [11], [13] and [25] above.
+28 It is not because of a supposed lack of regulation that the GrabHitch drivers are not considered organisations. Instead, it is precisely due to the personal and domestic nature of the activity they are engaging in that they are not subject to the same regulations as a commercial private hire car driver. If anything, the exemption of carpooling from the requirements of vocational licensing reflect the inherently private nature of carpooling (and by extension, the GrabHitch service). This is certainly reflected in the Exemption Order, which only applies to "private motor cars". In addition, under section 3(1)(b) of the Exemption Order "the carriage of the passenger is incidental to the person's use of the private motor car [emphasis added]" � unlike a taxi or private hire driver, the raison d'etre of the GrabHitch driver is not the provision of transport; in other words, a GrabHitch driver is driving in a purely private capacity and the ferrying of a passenger in the context of a GrabHitch service is incidental to this private capacity.
+29 The second factor raised by the Organisation relates to the "independence" of the GrabHitch drivers from the Organisation. The Organisation asserts that because a GrabHitch driver is able to decide when to provide GrabHitch rides, where to go, how payment is made and how much payment to collect, the Organisation has little control over the purposes and
+16
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+manner in which a GrabHitch Driver processes personal data. Following from the above, the Organisation asserts that pursuant to the EU General Data Protection Regulation, the drivers are "data controllers" who are able to "determine the purposes and means of the processing of personal data".
+30 The Organisation appears to have mistakenly equated the GrabHitch driver's choice over whether to carpool with the control of purposes for, or the manner in, which personal data is collected, used or disclosed. In this regard, I note that the Grab App will automatically transmit the personal data (such as name and mobile number) of the GrabHitch passenger to the GrabHitch Driver. This is how the Organisation programmed the Grab App to work � the GrabHitch drivers have no input into this collection and use of the personal data. In fact, it is the Organisation that discloses the passengers' personal data to the GrabHitch Drivers in the Organisation's chosen manner and for the purposes the Organisation deems acceptable.
+31 In the circumstances, the Organisation is in control of the personal data that it collects, uses and discloses when passengers wish to use the Organisation's GrabHitch service. The "independence" of the GrabHitch driver as asserted by the Organisation is not the sole determinant as to whether he is an "organisation" under the PDPA. As I have concluded that the GrabHitch driver is not an "organisation" under the PDPA, it is unnecessary to delve into issues around joint controllership which may arise in respect of drivers for other services that the Organisation provides on its platform.
+32 One final point bears highlighting. The activities of the GrabHitch driver are only made possible because of the Grab App. In providing the platform for private individuals (both drivers and passengers) to engage in the
+17
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+sharing economy, the Organisation bears responsibility for the personal data that it collects from passengers and uses to provide its services, and discloses to GrabHitch drivers.
+33 In the circumstances, and after considering the representations made by the Organisation, I find that the Organisation is in breach of section 24 of the PDPA.
+Directions to the Organisation
+34 Having found the Organisation to be in breach of section 24 of the PDPA, I am empowered under section 29 of the PDPA to give the Organisation such directions as I deem fit to ensure its compliance with the PDPA.
+35 Taking into consideration the relevant facts in this matter, I hereby direct the Organisation to:
+(a) review and amend the Organisation's policies and practices to provide detailed guidance for GrabHitch drivers on the handling of the personal data of their riders and to communicate to GrabHitch drivers all relevant policies and practices (including the amended policies and practices) within 120 days of this decision to protect the personal data in the possession or control of the Organisation from unauthorised disclosure by GrabHitch drivers;
+(b) implement any other reasonable security arrangements as necessary to comply with section 24 of the PDPA; and
+18
+
+Grabcar Pte. Ltd.
+
+[2019] SGPDPC 14
+
+(c) to inform the Commission within seven days of the compliance with the above directions.
+36 Given that only two individuals were directly affected by the unauthorised disclosure of personal data and in consideration of the type of personal data disclosed, I find that a financial penalty is not warranted in this matter.
+YEONG ZEE KIN DEPUTY COMMISSIONER PERSONAL DATA PROTECTION
+
+19
+
+

@@ -1,0 +1,66 @@
+DECISION OF THE PERSONAL DATA PROTECTION COMMISSION
+Case Number: DP-1411-A247
+CHUA YONG BOON JUSTIN [NRIC NO. REDACTED]
+... Respondent
+Decision Citation: [2016] SGPDPC 13
+GROUNDS OF DECISION
+12 August 2016
+A. INTRODUCTION
+1. On 15 November 2014, the Personal Data Protection Commission (the "Commission") received an email from [Redacted] (Replaced with Mr K) (the "Complainant") regarding the unauthorised disclosure of personal data of his wife and himself by the property agent of his landlord following a dispute between the Complainant, the Complainant's wife, and another tenant, [Redacted] (Replaced with Ms C). The Commission proceeded to investigate into the alleged breach of the Personal Data Protection Act 2012 ("PDPA"). Its findings into the matter are set out below.
+B. MATERIAL FACTS AND DOCUMENTS
+2. The Complainant, his wife, and Ms C are tenants of a landed property. For the purposes of entering into the tenancy with the landlord, the Complainant and his wife had previously provided their names and NRIC numbers (amongst other personal data) to the registered salesperson1 (commonly known as a "property agent") of the landlord, Mr Chua Yong Boon Justin (the "Respondent"). The Respondent was registered as a salesperson with Global Property Strategic Alliance Pte Ltd ("GPS"). The Respondent's engagement as a salesperson with GPS was governed by a "Salesperson Agreement" dated 31 October 2011.
+3. In or around November 2014, a dispute arose between Ms C and the Complainant and his wife over the usage of common space within the rented premises, and an argument had apparently ensued between the parties. The Respondent was not present during the argument. However, Ms C had informed him of the argument, and also requested the Respondent to provide her with the
+
+1 Under the Estate Agents Act (Cap. 95A) ("EAA")
+
+Page 1 of 5
+
+names and NRIC numbers of the Complainant and his wife so as to hold the Complainant "responsible" in the event that the Complainant had publicised the photos that were apparently taken in the course of the argument. The Respondent took this to mean that Ms C was prepared to lodge a police report over the matter.
+4. The Respondent proceeded to provide Ms C with their full names and NRIC numbers.
+5. According to the Complainant, the information was used to send an email to his employer casting allegations against him. There was, however, no proof or evidence of the email that was sent or the impact that the email had on his employment.
+6. In response to the Commission's queries on this matter, the Respondent referred to Sections 2 and 4(1) of the PDPA, and took the view that he was acting in a "personal or domestic capacity" in the matter, since his actions were unrelated to real estate matters. He also took the view that his "intervention" in the matter was justified in the circumstances.
+C. COMMISSION FINDINGS AND BASIS FOR DETERMINATION
+7. The main issues that have arisen in this case are as follow:
+(a) Was the Respondent acting in a personal or domestic capacity under Section 2 of the PDPA?
+(b) Did the Respondent comply with his obligations under the PDPA in respect of the disclosure that was made by obtaining consent from the Complainant and his wife for the disclosure?
+(c) If not, are any of the exceptions to the PDPA applicable in respect of the disclosure made by the Respondent?
+Issue (a): Was the Respondent acting in a personal or domestic capacity under Section 2 of the PDPA?
+8. Section 4(1)(a) of the PDPA carves out an exception in the PDPA for Parts III to VI of the PDPA (i.e. an exception to the consent obligation or the notification obligation or the purpose limitation obligation). Section 4(1)(a) provides that Parts III to VI of the PDPA shall not impose any obligation on an individual acting in a personal or domestic capacity. The word "domestic" is defined in the PDPA to mean "related to home or family".
+9. As mentioned above, the Respondent claimed that he was acting in a personal or domestic capacity when he disclosed the personal data of the Complainant and his wife. If that were the case, he would not need to comply with the relevant
+Page 2 of 5
+
+provisions of the PDPA (especially the consent and notification provisions2) in making the disclosure. It follows that he would not be liable under the PDPA for any omission to carry out any steps or take any action as provided for under Parts III to VI of the PDPA, including, obtaining consent from the individual for the disclosure. However, the Commission is of the position that the Respondent cannot rely on Section 4(1)(a) of the PDPA in this case.
+10. In considering the capacity of the Respondent when he disclosed the personal data of the Complainant and his wife, it would be relevant to look at the nature of the relationship between the Respondent, GPS and the landlord, and the context in which the Respondent had dealt with the personal data in question.
+11. Under the Salesperson Agreement, it was expressly provided that the Respondent was not a "servant, agent or employee" of GPS. As stated by GPS to the Commission, the Respondent was the one who "represented" the landlord in this case in respect of the transaction for the tenancy. In the Commission's view, the Respondent was carrying out his real estate agency work as a business of his own. Therefore, in dealing with the personal data that the Respondent had collected in the course of his real estate agency work, the Respondent was an "organisation" under the PDPA, separate from the company which had engaged him (ie GPS).
+12. Since the personal data of the Complainant and his wife were collected by the Respondent in the course of his real estate agency work, it was for the Respondent's "business"3 purposes, and not for his personal or domestic purposes. The Respondent therefore was obliged to comply with the provisions in the PDPA in respect of such personal data that was collected in the course of his work.
+13. Accordingly, even if the Respondent had intended to act in a personal or domestic capacity in relation to the dispute that took place between Ms C and the Complainant and his wife, he remains obliged to comply with his obligations under the PDPA. The Respondent cannot take personal data that he had been provided with in his commercial capacity as a registered salesperson and disclose it in a personal or domestic capacity. In other words, the Respondent was not permitted to disclose the personal data as and when he chooses for the reason that he was doing it for "personal or domestic purposes". He was, and remains, obliged to keep that personal data protected pursuant to the provisions of the PDPA.
+
+2 Under Sections 13, 14, 15 and 20 of the PDPA 3 As defined in the PDPA
+
+Page 3 of 5
+
+Issues (b) and (c): Has the Respondent complied with the consent obligation under the PDPA or does the disclosure fall under any exceptions under the PDPA?
+14. Given, as explained above, that the PDPA continues to apply to the personal data of the Complainant and his wife which was collected by the Respondent, the Respondent is obliged to obtain their consent in order to disclose the personal data to a third party, under Section 13 of the PDPA, unless an exception applies under the PDPA.
+15. Section 13 of the PDPA provides that an organisation shall not, on or after the appointed day, collect, use or disclose personal data about an individual unless (a) the individual gives, or is deemed to have given, his consent under the PDPA to the collection, use or disclosure, as the case may be; or (b) the collection, use or disclosure, as the case may be, without the consent of the individual is required or authorised under the PDPA or any other written law. Relatedly, Section 14 provides that an individual has not given consent under the PDPA for the collection, use or disclosure of personal data about the individual by an organisation for a purpose unless (a) the individual has been provided with the information required under Section 20 of the PDPA; and (b) the individual provided his consent for that purpose in accordance with the PDPA.
+16. Based on the facts of this case, the Commission notes that the Respondent had not obtained the consent of the Complainant and his wife for the disclosure of their personal data to Ms C. Accordingly, the Respondent is in breach of Section 13 of the PDPA.
+17. Additionally, in the Commission's assessment, none of the exceptions under the PDPA would apply to allow the Respondent to disclose the personal data of the Complainant and his wife without consent.
+D. ACTIONS TAKEN BY THE COMMISSION
+18. Given the Commission's findings that the Respondent is in breach of its obligations under Section 13 of the PDPA, the Commission is empowered under Section 29 of the PDPA to give the Respondent such directions as it deems fit to ensure compliance with the PDPA. This may include directing the Respondent to pay a financial penalty of such amount not exceeding $1 million as the Commission thinks fit.
+19. In this case, the Commission has considered the following pertinent factors:
+(a) Registered salespersons (as defined under the EAA) are likely to collect, receive, or obtain a considerable amount of personal data of various individuals (including the personal data of the landlord and the tenants) in the course of their work. It is imperative that these salespersons ensure that the personal data in their possession or control are sufficiently protected, and that they keenly observe the provisions under the PDPA in dealing with the personal data;
+Page 4 of 5
+
+(b) In this case, the personal data of two persons were disclosed to a third party without consent or authority; and
+(c) It would appear, in this case, that just by the Respondent hearing Ms C's version of events and the accusations made against the Complainant and his wife, the Respondent had, without proper consideration for the personal data which the Respondent was obliged to protect, released the personal data to Ms C without consent. Given the circumstances in which the personal data was disclosed, the Respondent must have known or would have been aware that there would be repercussions that follow from the disclosure, and that the Complainant and his wife would be affected from the disclosure, now that they can be specifically identified from the information provided. However, the Respondent still proceeded to disclose the personal data of the Complainant and his wife without obtaining consent.
+20. Given the considerations set out above, the Commission has decided to impose a financial penalty against the Respondent.
+21. On the quantum of the financial penalty, the Commission notes that the Respondent was carrying on his trade independently and, based on what was found above, had failed to fulfil his responsibility of ensuring compliance of the PDPA. However, the Commission also considered that the amount should be set at the lower end of the spectrum given that:
+(a) The disclosure had been made to a single individual and it appears to be done on a one-off instance; and
+(b) There was no proof of the impact on the Complainant's employment or the risk of damage or loss in relation to the personal data that was disclosed.
+22. In view of the above, a financial penalty of $500 is imposed on the Respondent.
+23. The Commission emphasises that it takes a very serious view of any instance of non-compliance with the PDPA, and it urges organisations to take the necessary action to ensure that they comply with their obligations under the PDPA. The Commission will not hesitate to take the appropriate enforcement action against the organisation(s) accordingly.
+
+LEONG KENG THAI CHAIRMAN PERSONAL DATA PROTECTION COMMISSION
+
+Page 5 of 5
+
+

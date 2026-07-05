@@ -1,0 +1,16 @@
+PERSONAL DATA PROTECTION COMMISSION Case No. DP-2002- B5875
+In the matter of an investigation under section 50(1) of the Personal Data Protection Act 2012
+And
+Security Masters Pte Ltd
+SUMMARY OF THE DECISION
+1. On 17 February 2020, Security Masters Pte Ltd (the "Organisation") notified the Personal Data Protection Commission (the "Commission") that a security employee had used the mobile phone numbers of eight building visitors to contact them to request their return of visitor passes and send them Chinese New Year greetings.
+2. Investigation found that the Organisation did not put in place any standard operating procedure or guidelines for the retrieval and use of visitors' personal data prior to the incident. This gap in security arrangements allowed the incident to occur.
+3. The Deputy Commissioner for Personal Data Protection therefore found that the Organisation did not adopt reasonable steps to protect personal data in its possession or under its control against risk of unauthorised access. The Organisation was in breach of the Protection Obligation under section 24 of the Personal Data Protection Act 2012.
+4. Following the incident, the Organisation restricted access to personal data to senior personnel and required all security personnel to sign an undertaking not to contact visitors
+
+in their personal capacity. However, structured training is needed to help its security personnel understand the importance of protecting the personal data they handled daily in their duties, such as National Registration Identification Card numbers, photographs and closed-circuit television footage.
+5. On the above consideration, the Deputy Commissioner for Personal Data Protection hereby directs the Organisation to:
+a) Within 60 days from the date of the direction, revise its training curriculum to ensure that its security personnel understand i. the rationale for personal data protection; ii. the importance of consent and authorisation in the handling of personal data; and iii. the circumstances in which it would be appropriate to use and disclose personal data on social media platforms for work-related purposes; and
+b) Inform the Commission within 1 week of implementation of the above.
+
+

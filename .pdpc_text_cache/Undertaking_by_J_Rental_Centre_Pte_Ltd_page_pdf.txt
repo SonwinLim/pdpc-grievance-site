@@ -1,0 +1,109 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by J Rental Centre Pte
+
+Ltd
+
+Voluntary Undertakings
+Voluntary Undertaking by J Rental Centre Pte Ltd
+Published on 23 May 2024
+
+Share:   
+
+Background
+On 12 September 2022, the complainant informed the Personal Data Protection Commission (the "Commission") that he was able to view the identification documents of other individuals by sequentially changing the numerical digits of a link from J Rental Centre Pte. Ltd's (the "Organisation") website.
+Investigations revealed that the Organisation had engaged an overseas vendor to design its website and the website was launched sometime in 2018 to 2019. Although the Organisation envisaged that the website would store and process personal data, the Organisation admitted that it did not conduct any security testing on the website prior to its launch.
+Accordingly, the personal data (NRICs, student identification cards and bills) of approximately 300 individuals was at risk of unauthorised access and disclosure.
+The Commission found the Organisation lacklustre in its cybersecurity and data protection practices, as the Organisation should have but failed to test its website for security vulnerabilities prior to its launch or at regular intervals thereafter.
+Remedial Actions
+ATiunonftoaoeuufrfrtethPhroreyiroviisanueccadyidbSaeectnactttte,eestrmsheoeexrnpOdte.rirgsicealnnocsiseua,rtteiho. ins stoitoekupserosmcopotkrieesm. Reedaiadl macotiroenabtoouptrecvoeonktiefus rther
+
+Voluntary Undertaking
+FOR
+Individuals Having considered the circumstances of the case and the lack of knowledge bythe
+Organisation in cybersecurity and data protection practices, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to eAnbgoaugt e an external service provider to improve its cybersecurity set-up and its data protection practices and policies on 9 November 2022.
+
+AOsrgpaanritsaotfiothnes Undertaking, after the initial set-up, the external service provider will
+
+conduct two further reviews. The first review will be conducted 6 months after the
+
+iInnidtiiavildsueat-lus p has been after the first review.
+
+completed and the The reviews are to
+
+second review will ensure, amongst
+
+boethceorns,dtuhcattedthoenelayteeastr
+
+software updates have been installed on the Organisation's devices and systems.
+
+Media & Events
+
+
+
+The Commission will verify the Organisation's compliance with the Undertaking. If
+
+the Organisation fails to comply with any terms of the Undertaking, the Commission
+
+may issue a direction so as to ensure the Organisation's compliance with the
+
+Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+Report Vulnerability  Privacy Statement
+To offer you a better experience, this site uses cookies. Read more about cookies TineromusraPnrdivCaocnydSittioantesment.
+
+Reach 
+
+FOR
+Individuals � 2026 Personal Data Protection Commission
+Last updated 23 May 2024
+
+Built with
+
+Powered by
+
+About
+
+Organisations
+� 2026 Government of Singapore
+Individuals
+
+Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

@@ -1,0 +1,123 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Undertaking
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+by The KB Group
+
+Entities
+
+Voluntary Undertakings
+Voluntary Undertaking by The KB Group Entities
+Published on 25 Sep 2024
+
+Share:   
+
+Background
+Koh Brothers Building & Civil Engineering Contractor (Pte.) Ltd., KBD Holland Pte. Ltd., Koh Brothers Development Pte Ltd., G & W Precast Pte Ltd., G & W Ready-Mix Pte Ltd., Advance Geotechnic and Machinery Pte. Ltd. and G & W Industries Pte Ltd collectively referred to as the "the KB Group Entities" (the "Organisations") first notified the Personal Data Protection Commission (the "Commission") on 11 December 2023 that its servers had been encrypted with ransomware, with indications that its data had been published on the dark web (the "Incident"). A ransom note from the Lorenz ransomware group was found.
+Investigations revealed that the threat actor ("TA") had likely gained access to the Organisations' system through the exploitation of the vulnerability in the Mitel IP telephony server sited in the Organisations' office. A third party vendor (the "Vendor") had been engaged by the Organisations to provide and manage the MiVoice Connect systems. The Organisations asserted that under their contract with the Vendor, the Vendor was responsible for patching the vulnerabilities that led to the Incident. However, the Organisations had failed to clearly provide in their contract with the Vendor their expectations that the Vendor would be responsible for patching the vulnerabilities.
+The TA deleted and encrypted the Organisations' files containing the personal data of 11,718 individuals who were mainly the Organisations' current and ex-employees. rnTTineohuloeimoguftifboyrepenPrre,ry,irsovaaaoudccfedayp,rmebeSsretassato,rttieeentamrmalelpesxdtnlpaoatetty.uareiseea,nfpifdceaeecsn,tsettphidfoiiscrintasciitntileoufonduresnmdeusamtthcioobeonenk,ra,dieNmasRt.eeRI,Coee/fmaFbdINairmiltnhaou,drbmedarabnebeskors,a,ugccteocconnoudtoanekcrtit,es 
+
+information, employment information and salary information. A total of 5,748 iFnOdRividuals' personal data was confirmed to be exfiltrated on the dark web.
+Individuals  
+Upon discovery of the Incident, the Organisations took prompt remedial actions including changing the administrative passwords, disconnecting the affected Asybsoteumt s from the network, created new domain administrative accounts and changed the credentials to the network firewalls.
+
+VOroglaunnistaatiroynsUndertaking
+
+
+
+Having considered the circumstances of the case, the Commission accepted a
+
+vInodluivnidtauraylus ndertaking (the "Undertaking") from the Organisations to improve its 
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+Undertaking was executed on 29 August 2024.
+
+Media & Events
+
+
+
+As part of the Undertaking, the Organisations will be implementing the following:
+
+(a) Disconnect all servers and conduct full security scans;
+
+(b) Enforce domain user password change of all employees;
+
+(c) Patch and rebuild the affected server;
+
+(d) Rebuild certain servers and all end-user work stations from scratch;
+
+(e) Conduct compromise assessment on all backup infrastructure used;
+
+(f) Deploy endpoint detection response solution to prevent further exploitation;
+
+(g) Deploy security solutions and multi-layered security measures;
+
+(h) Engage third part managed cybersecurity service provider to provide Security Incident and Event Management and Security Operations Centre services;
+
+(i) Implementing out-of-band patching for critical vulnerabilities;
+
+(j) Deploy out-of-band patching for critical vulnerabilities;
+
+(k) Implement and enforce multi-factor authentication ("MFA") and user access controls from a centralised location by synchronising or replacing existing identity management with an improved identity management system;
+
+(l) Implementing MFA for access to firewall admin console and performing hardening the device configuration for access to firewall admin console;
+
+(m) Apply role-based access restrictions following the principle of least privilege;
+
+(n) Review existing contract with the Vendor to stipulate clear responsibilities for patching; and
+
+(o) Conduct regular PDPA training sessions for employees. TToheofCfeormymouisasiboenttweirllevxepreifryiethneceO, trhgiasnsiistaetuiosness' ccooomkpielisa. nRceeadwmithotrheeabUonudtecrotaokkiniegs. If tinheouOrrPgarinvaiscaytiSotnastefamiletnotc. omply with any terms of the Undertaking, the Commission
+
+may issue a direction so as to ensure the Organisations' compliance with the UFOnRdertaking.
+Individuals
+SAhbaoreu:t   
+Organisations
+Personal Data Protection Commission
+Individuals About OMregdainai&saEtivoennsts
+Individuals
+Media & Events
+Contact
+
+
+Report Vulnerability  Privacy Statement Terms and Conditions Reach 
+
+� 2026 Personal Data Protection Commission Last updated 25 Sep 2024
+
+Built with
+
+Powered by
+
+� 2026 Government of Singapore
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+

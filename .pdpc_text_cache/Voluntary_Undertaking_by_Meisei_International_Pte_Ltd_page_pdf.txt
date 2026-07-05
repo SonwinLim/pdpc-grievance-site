@@ -1,0 +1,128 @@
+A Singapore Government Agency Website How to identify
+
+
+
+Be aware of scammers impersonating as PDPC officers and report any suspicious activities to the
+
+
+
+Police. Do not reveal personal information to unknown parties. You may call PDPC (6377 3131) to verify
+
+the identity of the alleged PDPC officer. For scam-related advice, visit www.scamshield.gov.sg.
+
+Voluntary
+
+
+
+/
+
+Organisations
+
+/
+
+Regulations & Decisions
+
+
+
+/
+
+Enforcement Decisions
+
+/
+
+Undertaking by Meisei
+International
+
+Pte Ltd
+
+Voluntary Undertakings
+Share:   
+Voluntary Undertaking by Meisei International Pte Ltd
+
+Published on 07 May 2026
+
+Background
+On 8 September 2025, Meisei International Private Limited (the "Organisation") notified the Personal Data Protection Commission (the "Commission") of a personal data breach involving a ransomware incident which affected multiple systems including its legacy Human Resource Management System (HRMS) server (the "Incident").
+The Organisation established that the threat actor ("TA") likely gained initial access to its network using credentials from a compromised Virtual Private Network (VPN) account. Exploiting other system vulnerabilities, the TA encrypted the Organisation's files on its HRMS server containing the personal data of 1,278 individuals who were the Organisation's current (207 individuals) and former employees (1,071 individuals).
+The types of personal data affected included a combination of names, copies of identification documents, dates of birth, marital status, mobile numbers, telephone numbers, email addresses, residential addresses, employment records and financial information comprising bank account numbers and salary records.
+Upon discovery of the Incident, the Organisation took prompt remedial actions including isolating, reformatting and disconnecting the legacy HRMS server, and strengthening endpoint protection and monitoring across active servers and workstations. The Organisation also notified the affected individuals.
+ToheofIfnecridyoeuntahbaedttleikreelyxpoecrciuenrrceed, tahsisthseiteOurgsaens icsoaotikoinesh. aRdeaindamdeoqreuaatbeosuetccuoriotykies  mineoausruPrerisvapcryioSrttaotethmeeIntc.ident including a weak password policy, absence of network segmentation which allowed the TA to move laterally across the Organisation's
+
+system, absence of security measures for the decommissioned legacy server and no
+
+FimORplementation of multi-factor authentication ("MFA") for VPN accounts.
+
+Individuals
+
+
+
+Voluntary Undertaking
+
+AHbavoiuntg considered the circumstances of the case, the Commission accepted a voluntary undertaking (the "Undertaking") from the Organisation to improve its
+
+compliance with the Personal Data Protection Act 2012 (the "PDPA"). The
+
+UOnrgdaenrtisaaktiinognswas executed on 30 March 2026.
+
+
+
+As part of the Undertaking, the Organisation will implement the following including:
+
+Individuals a. Enforcing
+
+MFA
+
+for
+
+all
+
+privileged
+
+accounts
+
+and
+
+implementing
+
+password
+
+complexity
+
+in accordance with guidelines from the Cyber Security Agency of Singapore;
+
+Media & Events b. Hardening network security to assess and harden security posture of network;
+
+
+
+c. Conducting periodic vulnerability scans and annual penetration testing; and
+
+d. Conducting mandatory PDPA and Cybersecurity awareness training for all employees, with annual refreshers.
+
+The Commission will verify the Organisation's compliance with the Undertaking. If the Organisation fails to comply with any terms of the Undertaking, the Commission may issue a direction to ensure the Organisation's compliance with the Undertaking.
+
+Share:   
+Personal Data Protection Commission
+About Organisations Individuals Media & Events Contact
+
+RToepoofrfteVr uylonueraabbileittyter experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+Privacy Statement
+
+Terms and Conditions
+FOR
+IRneadchividuals
+
+� 2026 Personal Data Protection Commission
+
+ALabstouuptdated 07 May 2026
+
+Built with
+
+Powered by
+
+Organisations
+
+I�n2d0iv2i6dGuoavlesrnment of Singapore Media & Events
+
+To offer you a better experience, this site uses cookies. Read more about cookies in our Privacy Statement.
+
+
