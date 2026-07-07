@@ -401,12 +401,6 @@ def main():
     for rel, (title, quotes) in cards.items():
         save_card(rel, title, [{"kind": "quote", "text": q} for q in quotes], subtitle="Recreated excerpt card", footer="Recreated from source correspondence or compiled record")
 
-    save_simple_generated("generated/scene02_hospital_memory_gap.png", "Memory Gap", "Prompt: hospital bed, 05:06, quiet memory loss, no detailed face.", "hospital")
-    save_simple_generated("generated/scene02_cairnhill_cctv_corridor.png", "Cairnhill Road CCTV Corridor", "Prompt: pre-dawn road flanked by condominiums, CCTV cameras, motorcycle helmet.", "road")
-    save_simple_generated("generated/scene03_management_office_refusal.png", "Management Office Refusal", "Prompt: figure at tall management counter, no company name, no DPO, no escalation.", "office")
-    save_simple_generated("generated/scene06_evidence_to_clarity_test.png", "Evidence Turned Into Clarity Test", "Prompt: handphone video fed into institutional machine labelled clarity test.", "machine")
-    save_simple_generated("generated/scene13_citizen_evidence_wall.png", "Citizen Facing The Public Record", "Prompt: small figure before a wall of statute pages, decisions, and website screenshots.", "wall")
-
     missing = find_missing_visual_assets(VISUAL_SCHEDULE)
     if missing:
         raise SystemExit("Missing scheduled assets:\n" + "\n".join(missing))
