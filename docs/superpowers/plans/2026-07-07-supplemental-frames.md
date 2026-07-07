@@ -340,6 +340,12 @@ In `main()`, after the Task 3 calls, add:
         ROOT / "PDPC Complain/Follow Up/3) PDPC claim own guideline wrong and loophole in PDPA.png",
         "Email from Boon Pin Goh (PDPC), reply to feedback (2025), paras 12-13")
     render_email_quote(
+        "source/scene08_pdpc_reasonableness.png", "PDPC's Later Reasonableness Reasoning", EMAIL_EXPORTS,
+        quote="An Organisation is not expected to undertake a full investigation to identify parties in a CCTV footage, only a reasonable one, based on information it possesses or controls.",
+        verify_phrase="applying the standard of reasonableness",
+        citation="Email from Boon Pin Goh (PDPC), reply to feedback, 2025",
+        sender_must_contain="pdpc.gov.sg")
+    render_email_quote(
         "source/scene09_imda_iau_finding.png", "IAU Finding", EMAIL_EXPORTS,
         quote="the PDPC and its officers did not commit any wrongful practices.",
         verify_phrase="did not commit any wrongful practices",
@@ -385,9 +391,12 @@ g.image_frame("source/scene04_pdpc_s22a_admission.png", "PDPC Admits The s.22A P
     g.ROOT / "PDPC Complain/Follow Up/3) PDPC claim own guideline wrong and loophole in PDPA.png",
     "Email from Boon Pin Goh (PDPC), reply to feedback (2025), paras 12-13")
 print("OK: s22a admission image frame rendered")
+print(g.render_email_quote("source/scene08_pdpc_reasonableness.png", "PDPC's Later Reasonableness Reasoning", g.EMAIL_EXPORTS,
+    "An Organisation is not expected to undertake a full investigation to identify parties in a CCTV footage, only a reasonable one, based on information it possesses or controls.",
+    "applying the standard of reasonableness", "Email from Boon Pin Goh (PDPC), reply to feedback, 2025", "pdpc.gov.sg"))
 PY
 ```
-Expected: six printed export filenames (verbatim frames), then `OK: s22a admission image frame rendered`, no `SystemExit`.
+Expected: seven printed export filenames (verbatim frames) plus `OK: s22a admission image frame rendered`, no `SystemExit`.
 
 If a call raises "no export … from sender": the displayed `quote` or `verify_phrase` differs from the email wording, or the sender domain is wrong. Recovery: `grep -rl "<verify_phrase>" "C:/Users/limzi/Documents/AntiGravity/PDPC Emails/output"`, open the matching file, copy the exact sentence into `quote` and the real `### From:` domain into `sender_must_contain`, then re-run. Do NOT relax the guard to match a file authored by `limzirui@gmail.com`.
 
@@ -396,7 +405,7 @@ If a call raises "no export … from sender": the displayed `quote` or `verify_p
 - [ ] **Step 5: Commit**
 
 ```bash
-git add scripts/generate_supplemental_frames.py "Screenshots Video/source/scene03_suites_dpo_reply.png" "Screenshots Video/source/scene05_pdpc_not_channel.png" "Screenshots Video/source/scene08_pdpc_publication_delay.png" "Screenshots Video/source/scene08_pdpc_guidelines_prevail.png" "Screenshots Video/source/scene04_pdpc_s22a_admission.png" "Screenshots Video/source/scene09_imda_iau_finding.png" "Screenshots Video/source/scene09_imda_protocols.png"
+git add scripts/generate_supplemental_frames.py "Screenshots Video/source/scene03_suites_dpo_reply.png" "Screenshots Video/source/scene05_pdpc_not_channel.png" "Screenshots Video/source/scene08_pdpc_publication_delay.png" "Screenshots Video/source/scene08_pdpc_guidelines_prevail.png" "Screenshots Video/source/scene08_pdpc_reasonableness.png" "Screenshots Video/source/scene04_pdpc_s22a_admission.png" "Screenshots Video/source/scene09_imda_iau_finding.png" "Screenshots Video/source/scene09_imda_protocols.png"
 git commit -m "frames: add verbatim official-reply frames (DPO, PDPC channel/guideline/publication, s.22A admission, IMDA IAU x2) with sender guard"
 ```
 
@@ -517,6 +526,7 @@ Replace the Scene 6 block's tail so it reads:
 
 In the Scene 8 block:
 - Insert after the `at 0.21` entry: `{"scene": 8, "frame": "source/scene08_pdpa_s4_2_4_3.png", "at": 0.28},`
+- Replace `recreated/scene08_question_reasonableness.png` (`at 0.365`) with `source/scene08_pdpc_reasonableness.png` (verbatim s.11 "reasonableness" gloss — the retrofitted reasoning).
 - Replace `recreated/scene08_repeated_one_line_response.png` (`at 0.45`) with `source/scene08_pdpc_guidelines_prevail.png` (the recovered verbatim para-12 reply).
 - Replace `recreated/scene08_publication_delay.png` (`at 0.62`) with `source/scene08_pdpc_publication_delay.png`.
 
