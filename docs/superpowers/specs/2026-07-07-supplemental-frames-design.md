@@ -32,7 +32,8 @@ B-roll / cutaway frames placed *within* existing scenes.
    `render_pdf_source()` / `image_frame()` / `save_card()` styling in
    `scripts/generate_supplemental_frames.py`: white/navy title bar, red rule, highlighted
    clause, footer caption, subtitle-safe bottom band.
-4. **Targeted density.** Roughly 1–2 inserts per long scene. ~16 new frames total.
+4. **Targeted density.** Roughly 1–2 inserts per long scene. ~19 new frames total (4 statute,
+   4 verbatim reply, 3 guideline, 2 Street View location, 5 Gemini, plus the TST photo copy).
 
 ## Frame inventory
 
@@ -78,14 +79,34 @@ Gmail screenshot for maximum authenticity; the verbatim-render is the immediate 
 
 ### Tier C — Guideline screenshots (NEW)
 
-| Output file (`source/`) | Passage | Source PDF | Scene · beat |
+| Output file (`source/`) | Passage | Source | Scene · beat |
 |---|---|---|---|
 | `scene03_mcst_guideline_police.png` | MCSTs "may not limit the provision of access… only to law enforcement…" | `Advisory Guidelines for Management Corporations 17 May 2022.pdf` | Scene 3, paired with DPO refusal |
 | `scene06_key_concepts_identifiability.png` | "The term 'personal data' is not intended to be narrowly construed… from which an individual can be identified, regardless of whether such data is true or accurate, or whether the data exists in electronic or other form." | `Advisory Guidelines on Key Concepts in the PDPA 17 May 2022.pdf` | Scene 6, "Identifiability. Not clarity." |
+| `scene06_masking_still_identifiable.png` | Selected Topics para 4.58–4.59: masking "may be a less fool proof method as it is possible for pixelated or blurred images of individuals to still be identifiable," with the Solid / Blur / Pixelated examples. | `pdpa-masking-42.png` (repo root; page 42 of Selected Topics Guidelines) via `image_frame()` | Scene 6, direct refutation of the clarity test. This is the "money shot" already used in the site's `#why` section. |
 
 Already generated (kept): "no minimum resolution" and "still frames or actual footage"
 paras from the Selected Topics guidelines (`scene06_no_minimum_resolution.png`,
 `scene06_still_frames_actual_footage.png`).
+
+Note: the repo root also holds duplicate `pdpc-masking-42.png` and `pdpc-masking-p41-41.png`
+(flagged as stray in CLAUDE.md). Use `pdpa-masking-42.png`; do not add the duplicates.
+
+### Tier C2 — Scene 2 CCTV-location Street View frames (NEW)
+
+Contemporaneous Google Street View captures proving the cameras physically covered the road
+and the accident location. Rendered via `image_frame()` in the `source/` slide style, footer
+"Contemporaneous CCTV-location evidence (Google Street View)".
+
+| Output file (`source/`) | Source (repo root) | Scene · beat |
+|---|---|---|
+| `scene02_tst_streetview_cameras.png` | `TST CCTV GoogleMap.png` | Scene 2, "both had CCTV cameras pointing at the street" |
+| `scene02_tst_accident_location.png` | `TST CCTV 2  GoogleMap accident location.png` | Scene 2, on the accident-location / camera-coverage beat |
+| `scene02_suites_cctv_location.png` | already in `source/` (kept) | Scene 2 / 3, Suites camera coverage |
+
+These pair with the existing `scene02_tst_cctv_location.png` photo (the one being copied into
+main frames). Together they give Scene 2 three real location receipts behind the hand-drawn
+hero, showing the cameras existed and faced the road.
 
 ### Tier D — Gemini illustrative frames (prompts only)
 
