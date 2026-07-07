@@ -1,4 +1,5 @@
 from pathlib import Path
+import re
 import shutil
 import textwrap
 
@@ -200,6 +201,51 @@ def copy_existing(path, src):
     shutil.copy2(src, out)
 
 
+EMAIL_EXPORTS = Path(r"C:/Users/limzi/Documents/AntiGravity/PDPC Emails/output")
+
+
+def _norm(text):
+    text = text.replace("’", "'").replace("‘", "'")
+    text = text.replace("“", '"').replace("”", '"')
+    return re.sub(r"\s+", " ", text).strip().lower()
+
+
+def render_email_quote(path, title, output_dir, quote, verify_phrase, citation, sender_must_contain):
+    """Render a verbatim official-reply quote card.
+
+    Scans output_dir/*.md for a thread that (a) contains verify_phrase and
+    (b) has a `### From:` line whose address contains sender_must_contain,
+    guaranteeing the quote comes from an official reply rather than the
+    Complainant quoting it back. Fails loud if no such file is found or the
+    full quote is not present verbatim.
+    """
+    needle = _norm(verify_phrase)
+    quote_norm = _norm(quote)
+    match_file = None
+    for md in sorted(Path(output_dir).glob("*.md"), reverse=True):
+        text = md.read_text(encoding="utf-8", errors="ignore")
+        norm = _norm(text)
+        if needle not in norm:
+            continue
+        from_lines = re.findall(r"^###\s+From:.*$", text, re.M)
+        if any(sender_must_contain.lower() in fl.lower() for fl in from_lines):
+            if quote_norm not in norm:
+                raise SystemExit(
+                    f"[render_email_quote] {path}: verify_phrase matched in {md.name} "
+                    f"but full quote not present verbatim"
+                )
+            match_file = md
+            break
+    if match_file is None:
+        raise SystemExit(
+            f"[render_email_quote] {path}: no export in {output_dir} contains "
+            f"{verify_phrase!r} from sender {sender_must_contain!r}"
+        )
+    save_card(path, title, [{"kind": "quote", "text": quote}],
+              subtitle="Verbatim official reply", footer=citation)
+    return match_file.name
+
+
 def main():
     ensure_dirs()
 
@@ -258,6 +304,53 @@ def main():
     image_frame("source/scene02_tst_accident_location.png", "Camera Coverage Of The Accident Location",
                 SITE_ROOT / "TST CCTV 2  GoogleMap accident location.png",
                 "Contemporaneous CCTV-location evidence (Google Street View)")
+
+    render_email_quote(
+        "source/scene03_suites_dpo_reply.png", "The DPO's Written Refusal", EMAIL_EXPORTS,
+        quote="Only by police direct/order the MCST to disclose the footage that MCST is obliged to do so.",
+        verify_phrase="police direct",
+        citation="Email, Property Facility Services (MCST 3615 managing agent), 21 May 2024",
+        sender_must_contain="pfspl.com.sg")
+    render_email_quote(
+        "source/scene05_pdpc_not_channel.png", "PDPC's Channel Reasoning", EMAIL_EXPORTS,
+        quote="An access request made under section 21 of the Personal Data Protection Act 2012 (\"PDPA\") is not the appropriate channel.",
+        verify_phrase="not the appropriate channel",
+        citation="Email from PDPC, 2024",
+        sender_must_contain="pdpc.gov.sg")
+    render_email_quote(
+        "source/scene08_pdpc_publication_delay.png", "Publication Delay", EMAIL_EXPORTS,
+        quote="We are unable to commit to a fixed date at this point.",
+        verify_phrase="unable to commit to a fixed date",
+        citation="Email from PDPC, 23 June 2025",
+        sender_must_contain="pdpc.gov.sg")
+    render_email_quote(
+        "source/scene08_pdpc_guidelines_prevail.png", "PDPC's Guideline-Conflict Reply", EMAIL_EXPORTS,
+        quote="the guidelines do not constitute legal advice, and do not modify or supplement the PDPA, which shall prevail over the guidelines in the event of any inconsistency.",
+        verify_phrase="shall prevail over the guidelines in the event of any inconsistency",
+        citation="Email from Boon Pin Goh (PDPC), reply to feedback, 2025",
+        sender_must_contain="pdpc.gov.sg")
+    image_frame(
+        "source/scene04_pdpc_s22a_admission.png", "PDPC Admits The s.22A Preservation Gap",
+        ROOT / "PDPC Complain/Follow Up/3) PDPC claim own guideline wrong and loophole in PDPA.png",
+        "Email from Boon Pin Goh (PDPC), reply to feedback (2025), paras 12-13")
+    render_email_quote(
+        "source/scene08_pdpc_reasonableness.png", "PDPC's Later Reasonableness Reasoning", EMAIL_EXPORTS,
+        quote="An Organisation is not expected to undertake a full investigation to identify parties in a CCTV footage, only a reasonable one, based on information it possesses or controls.",
+        verify_phrase="applying the standard of reasonableness",
+        citation="Email from Boon Pin Goh (PDPC), reply to feedback, 2025",
+        sender_must_contain="pdpc.gov.sg")
+    render_email_quote(
+        "source/scene09_imda_iau_finding.png", "IAU Finding", EMAIL_EXPORTS,
+        quote="the PDPC and its officers did not commit any wrongful practices.",
+        verify_phrase="did not commit any wrongful practices",
+        citation="Email from Wan Ling Yeong, IMDA Internal Audit Unit, 20 August 2025",
+        sender_must_contain="imda.gov.sg")
+    render_email_quote(
+        "source/scene09_imda_protocols.png", "IAU: Acted In Accordance With Protocols", EMAIL_EXPORTS,
+        quote="PDPC acted in accordance with its protocols in its engagements with you on the matter.",
+        verify_phrase="acted in accordance with its protocols",
+        citation="Email from Wan Ling Yeong, IMDA Internal Audit Unit, 20 August 2025",
+        sender_must_contain="imda.gov.sg")
 
     save_card("source/scene10_pdpc_register.png", "PDPC Enforcement Register", [{"text": "Published enforcement decisions were manually enumerated after the obligation-type filter disappeared from the public page."}], footer="Source: PDPC public register and site enforcement-index.html")
     save_card("source/scene12_site_story.png", "pdpaaccessrights.sg: Story Section", [{"text": "The site explains the case in five acts before sending readers into the detailed evidence."}], footer="Live site section: #story")
