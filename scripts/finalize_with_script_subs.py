@@ -504,7 +504,7 @@ def main():
     # ---- Final mux --------------------------------------------------------
     force_style = (
         "FontName=Arial,"
-        "FontSize=22,"
+        "FontSize=18,"
         "PrimaryColour=&H00FFFFFF&,"
         "OutlineColour=&H00000000&,"
         "BorderStyle=1,"

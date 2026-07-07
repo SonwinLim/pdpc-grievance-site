@@ -169,7 +169,7 @@ def render_pdf_source(path, title, pdf_path, search_terms, footer):
     canvas = Image.new("RGB", (W, H), PAPER)
     draw = ImageDraw.Draw(canvas)
     title_bar(draw, title, f"Source page {page_index + 1}: {Path(pdf_path).name}")
-    page_img.thumbnail((W - 180, H - 230), Image.Resampling.LANCZOS)
+    page_img.thumbnail((int((W-180)*0.8), int((H-230)*0.8)), Image.Resampling.LANCZOS)
     x = (W - page_img.width) // 2
     y = 150
     canvas.paste(page_img, (x, y))
@@ -186,7 +186,7 @@ def image_frame(path, title, src, footer):
     canvas = Image.new("RGB", (W, H), PAPER)
     draw = ImageDraw.Draw(canvas)
     title_bar(draw, title, Path(src).name)
-    img = ImageOps.contain(img, (W - 180, H - 230), Image.Resampling.LANCZOS)
+    img = ImageOps.contain(img, (int((W-180)*0.8), int((H-230)*0.8)), Image.Resampling.LANCZOS)
     canvas.paste(img, ((W - img.width) // 2, 150))
     draw.rectangle([0, H - 72, W, H], fill="#ffffff")
     draw.text((70, H - 48), footer, fill=MUTED, font=F_SMALL)
@@ -265,7 +265,9 @@ def main():
     render_pdf_source("source/scene04_cctv_captured_not_downloaded.png", "CCTV Captured The Accident", mcst4599, ["did capture the CCTV Footage", "unable to download"], "PDPC Decision MCST 4599")
     render_pdf_source("source/scene04_17_day_overwrite.png", "The 17-Day Overwrite Window", mcst4599, ["only retained footage for 17 days", "overwritten on 30 April 2024"], "PDPC Decision MCST 4599")
     render_pdf_source("source/scene04_s22a_no_finding.png", "s.22A No-Finding Reasoning", mcst4599, ["no longer existed on the date", "does not make this finding"], "PDPC Decision MCST 4599")
-    render_pdf_source("source/scene05_pdpc_complaint_form.png", "PDPC Complaint Filed", ROOT / "Emails with TST/PDPC - Data Protection Complaint Form.pdf", ["complaint", "CCTV"], "Official PDPC complaint form")
+    image_frame("source/scene05_pdpc_complaint_form.png", "PDPC Complaint Filed",
+                ROOT / "PDPC Complain/Follow Up/1) No Data No Breach of S21.png",
+                "PDPC reply regarding the complaint")
     render_pdf_source("source/scene06_mcst3615_silhouette.png", "MCST 3615: Silhouette Reasoning", mcst3615, ["silhouette", "facial features", "license plate"], "PDPC Summary MCST 3615")
     render_pdf_source("source/scene06_pdpa_personal_data_definition.png", "PDPA Personal Data Definition", pdpa, ["from that data and other information", "is likely to have access"], "PDPA 2012, s.2(1)")
     render_pdf_source("source/scene06_no_minimum_resolution.png", "No Minimum Resolution Requirement", selected, ["The PDPA does not prescribe any minimum resolution"], "Selected Topics Guidelines, para 4.57")
