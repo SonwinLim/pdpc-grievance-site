@@ -71,27 +71,36 @@ def title_bar(draw, title, subtitle=None, dark=False):
 
 
 def save_card(path, title, blocks, subtitle=None, footer=None, dark=False):
+    MAX_Y = H - 140  # subtitle-safe zone
     img = Image.new("RGB", (W, H), NAVY if dark else PAPER)
     draw = ImageDraw.Draw(img)
     title_bar(draw, title, subtitle, dark=dark)
     y = 170
     for block in blocks:
+        if y >= MAX_Y:
+            break
         kind = block.get("kind", "body")
         text = block["text"]
         if kind == "quote":
-            draw.rounded_rectangle([95, y, W - 95, y + 170], radius=16, fill="#ffffff", outline="#d1d5db", width=2)
-            draw.rectangle([95, y, 108, y + 170], fill=RED)
+            qh = min(170, MAX_Y - y - 20)
+            if qh < 60:
+                break
+            draw.rounded_rectangle([95, y, W - 95, y + qh], radius=16, fill="#ffffff", outline="#d1d5db", width=2)
+            draw.rectangle([95, y, 108, y + qh], fill=RED)
             draw_wrapped(draw, (135, y + 34), text, 66, body_font=F_BODY_BOLD)
-            y += 205
+            y += qh + 20
         elif kind == "label":
+            if y + 60 > MAX_Y:
+                break
             draw.text((100, y), text, fill=RED, font=F_BODY_BOLD)
             y += 60
         else:
             y = draw_wrapped(draw, (100, y), text, 76, fill="#ffffff" if dark else INK, body_font=F_BODY)
             y += 36
     if footer:
-        draw.rectangle([0, H - 80, W, H], fill="#ffffff" if not dark else "#0b1220")
-        draw.text((70, H - 52), footer, fill=MUTED if not dark else "#cbd5e1", font=F_SMALL)
+        fy = max(y + 10, H - 80)
+        draw.rectangle([0, fy, W, H], fill="#ffffff" if not dark else "#0b1220")
+        draw.text((70, fy + 28), footer, fill=MUTED if not dark else "#cbd5e1", font=F_SMALL)
     out = FRAMES_DIR / path
     out.parent.mkdir(parents=True, exist_ok=True)
     img.save(out, quality=95)
@@ -169,9 +178,10 @@ def render_pdf_source(path, title, pdf_path, search_terms, footer):
     canvas = Image.new("RGB", (W, H), PAPER)
     draw = ImageDraw.Draw(canvas)
     title_bar(draw, title, f"Source page {page_index + 1}: {Path(pdf_path).name}")
-    page_img.thumbnail((int((W-180)*0.8), int((H-230)*0.8)), Image.Resampling.LANCZOS)
+    SUBTITLE_ZONE = 130
+    page_img.thumbnail((int((W-180)*0.65), int((H-230)*0.65 - SUBTITLE_ZONE)), Image.Resampling.LANCZOS)
     x = (W - page_img.width) // 2
-    y = 150
+    y = 120
     canvas.paste(page_img, (x, y))
     draw.rectangle([0, H - 72, W, H], fill="#ffffff")
     draw.text((70, H - 48), footer, fill=MUTED, font=F_SMALL)
@@ -186,8 +196,9 @@ def image_frame(path, title, src, footer):
     canvas = Image.new("RGB", (W, H), PAPER)
     draw = ImageDraw.Draw(canvas)
     title_bar(draw, title, Path(src).name)
-    img = ImageOps.contain(img, (int((W-180)*0.8), int((H-230)*0.8)), Image.Resampling.LANCZOS)
-    canvas.paste(img, ((W - img.width) // 2, 150))
+    SUBTITLE_ZONE = 130
+    img = ImageOps.contain(img, (int((W-180)*0.65), int((H-230)*0.65 - SUBTITLE_ZONE)), Image.Resampling.LANCZOS)
+    canvas.paste(img, ((W - img.width) // 2, 120))
     draw.rectangle([0, H - 72, W, H], fill="#ffffff")
     draw.text((70, H - 48), footer, fill=MUTED, font=F_SMALL)
     out = FRAMES_DIR / path

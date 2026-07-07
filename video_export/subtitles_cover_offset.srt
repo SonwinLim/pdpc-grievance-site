@@ -1,0 +1,1843 @@
+1
+00:00:05,000 --> 00:00:05,040
+In September 2025,
+
+2
+00:00:07,060 --> 00:00:11,809
+Mr Zhulkarnain Abdul Rahim asked the minister responsible for the PDPA a
+
+3
+00:00:12,359 --> 00:00:13,089
+simple question. When
+
+4
+00:00:14,349 --> 00:00:18,689
+someone requests their own CCTV footage under the Personal Data Protection
+
+5
+00:00:18,689 --> 00:00:19,089
+Act, must the
+
+6
+00:00:20,109 --> 00:00:23,969
+organisation preserve that footage while the request is being processed?
+
+7
+00:00:25,079 --> 00:00:27,750
+Minister Josephine Teo’s answer was clear. Yes.
+
+8
+00:00:29,719 --> 00:00:34,600
+Organisations must have appropriate measures to preserve the requested data.
+
+9
+00:00:34,600 --> 00:00:34,620
+There are
+
+10
+00:00:36,239 --> 00:00:40,960
+criminal penalties for intentional destruction to avoid an access request.
+
+11
+00:00:40,960 --> 00:00:40,979
+That was
+
+12
+00:00:42,310 --> 00:00:43,069
+said in Parliament on the 22nd of
+
+13
+00:00:45,109 --> 00:00:45,529
+September 2025. But by then, my
+
+14
+00:00:49,119 --> 00:00:50,789
+footage had already been deleted. This is what
+
+15
+00:00:52,280 --> 00:00:54,009
+happened when I made my request. 13th of April 2024.
+
+16
+00:00:54,009 --> 00:00:54,089
+5:06 in the morning. I was
+
+17
+00:00:55,659 --> 00:00:56,539
+riding my motorcycle on Cairnhill
+
+18
+00:00:57,700 --> 00:00:57,999
+Road when a
+
+19
+00:00:58,979 --> 00:01:00,309
+taxi cut into my lane. The taxi
+
+20
+00:01:01,810 --> 00:01:03,500
+driver gave the 1st account. He
+
+21
+00:01:04,390 --> 00:01:04,699
+said I had skidded on my own. I had no
+
+22
+00:01:06,930 --> 00:01:08,199
+memory to contradict him. The
+
+23
+00:01:09,799 --> 00:01:11,109
+diagnosis came later: a
+
+24
+00:01:12,340 --> 00:01:13,280
+subarachnoid haemorrhage. Bleeding
+
+25
+00:01:15,060 --> 00:01:15,770
+around the brain. I had no
+
+26
+00:01:17,209 --> 00:01:18,370
+memory of what happened to me. Not the
+
+27
+00:01:19,769 --> 00:01:20,190
+impact. Not the
+
+28
+00:01:21,069 --> 00:01:21,440
+minutes before.
+
+29
+00:01:22,250 --> 00:01:22,580
+Nothing. What I did
+
+30
+00:01:24,260 --> 00:01:24,440
+know was this:
+
+31
+00:01:25,599 --> 00:01:26,600
+2 condominiums flanked the
+
+32
+00:01:27,480 --> 00:01:28,940
+road where the accident happened. Both had
+
+33
+00:01:30,500 --> 00:01:32,690
+CCTV cameras pointing at the street. When
+
+34
+00:01:33,799 --> 00:01:35,390
+security guards checked the footage, they
+
+35
+00:01:36,340 --> 00:01:39,100
+identified it within minutes. They described to me what had
+
+36
+00:01:40,120 --> 00:01:40,450
+happened. I was then
+
+37
+00:01:42,180 --> 00:01:44,470
+asked to make a formal request to management. So I did,
+
+38
+00:01:47,400 --> 00:01:49,700
+starting with The Scotts Tower, because that was the more
+
+39
+00:01:50,700 --> 00:01:52,010
+direct front view of the accident. The
+
+40
+00:01:53,310 --> 00:01:55,350
+taxi cutting into my lane was on video. It existed. It was findable. That
+
+41
+00:01:59,260 --> 00:01:59,690
+footage was the only
+
+42
+00:02:00,599 --> 00:02:02,650
+record of an event I have no memory of. I needed it for
+
+43
+00:02:04,799 --> 00:02:05,359
+2 reasons.
+
+44
+00:02:06,340 --> 00:02:08,440
+1: to understand what happened to me, and to
+
+45
+00:02:10,240 --> 00:02:10,590
+prove I did not skid on my own.
+
+46
+00:02:12,639 --> 00:02:15,949
+2: to support an insurance claim against the driver. Both
+
+47
+00:02:17,120 --> 00:02:17,849
+seemed straightforward. Both were not.
+
+48
+00:02:20,789 --> 00:02:24,269
+4 days after the accident, I walked into the management office of The
+
+49
+00:02:24,269 --> 00:02:25,259
+Scotts Tower. I
+
+50
+00:02:26,210 --> 00:02:29,620
+explained what happened. I asked for the CCTV footage of the road. They
+
+51
+00:02:30,789 --> 00:02:32,229
+said no. Privacy reasons. I
+
+52
+00:02:33,699 --> 00:02:35,689
+asked who the data protection officer was. They wouldn’t
+
+53
+00:02:37,000 --> 00:02:37,199
+tell me. I
+
+54
+00:02:38,199 --> 00:02:40,099
+asked what company managed the building. They wouldn’t tell me that
+
+55
+00:02:41,620 --> 00:02:44,339
+either. I asked who I could escalate to. No
+
+56
+00:02:45,280 --> 00:02:45,649
+answer. I
+
+57
+00:02:46,900 --> 00:02:50,419
+left the building with no company name, no DPO contact, and no
+
+58
+00:02:51,280 --> 00:02:52,069
+escalation path. I had to
+
+59
+00:02:53,240 --> 00:02:55,149
+identify the managing agent myself. I had to
+
+60
+00:02:56,460 --> 00:02:57,259
+track down the DPO myself. The other
+
+61
+00:02:59,169 --> 00:02:59,939
+condominium, Suites@Cairnhill,
+
+62
+00:03:02,009 --> 00:03:02,759
+began differently. Staff there had
+
+63
+00:03:04,409 --> 00:03:07,179
+allowed me to take a short recording of the CCTV screen. Not through the
+
+64
+00:03:08,590 --> 00:03:09,609
+PDPA process. Just a
+
+65
+00:03:10,590 --> 00:03:13,439
+brief recording, because they could see why I needed to understand what
+
+66
+00:03:13,439 --> 00:03:14,429
+had happened. After PDPC
+
+67
+00:03:16,469 --> 00:03:19,539
+ignored my request for the more direct front footage from The Scotts Tower,
+
+68
+00:03:19,539 --> 00:03:19,549
+I
+
+69
+00:03:20,939 --> 00:03:21,909
+later tried the other angle. I
+
+70
+00:03:23,469 --> 00:03:24,499
+made a formal request to Suites@Cairnhill for
+
+71
+00:03:27,599 --> 00:03:28,349
+fuller footage. I did not
+
+72
+00:03:30,300 --> 00:03:31,799
+say who had helped me earlier. I was
+
+73
+00:03:32,639 --> 00:03:33,889
+trying to protect the staff. The
+
+74
+00:03:35,169 --> 00:03:38,059
+managing agent’s DPO then refused in writing. On the 21st of May
+
+75
+00:03:38,059 --> 00:03:38,089
+2024, he
+
+76
+00:03:42,229 --> 00:03:42,449
+wrote: “Only by
+
+77
+00:04:00,830 --> 00:04:01,279
+police direct or order the MCST to disclose the footage that MCST is obliged
+
+78
+00:04:01,279 --> 00:04:01,369
+to do so.” That is not what PDPC’s own
+
+79
+00:04:03,150 --> 00:04:03,649
+guidelines say. The guidelines for management corporations say access may
+
+80
+00:04:03,649 --> 00:04:03,749
+not be limited only to enforcement agencies, such as the police. I wrote
+
+81
+00:04:02,009 --> 00:04:03,629
+back, citing those guidelines. The DPO’s reply: “It
+
+82
+00:04:06,030 --> 00:04:09,289
+seems to me you are having difficulty understanding our position.” And he
+
+83
+00:04:10,840 --> 00:04:12,149
+refused to communicate with me further.
+
+84
+00:04:13,870 --> 00:04:19,120
+Neither condominium cited a single ground from the law. The PDPA lists the
+
+85
+00:04:19,120 --> 00:04:22,279
+only legal reasons a request can be refused —
+
+86
+00:04:24,430 --> 00:04:24,749
+section 21, subsection 3, and the 5th
+
+87
+00:04:26,209 --> 00:04:28,879
+Schedule. Privacy as a blanket reason is not on that
+
+88
+00:04:30,000 --> 00:04:30,230
+list. Police-only
+
+89
+00:04:31,399 --> 00:04:31,959
+access is not on that list. And
+
+90
+00:04:33,959 --> 00:04:35,829
+later, the short recording from Suites@Cairnhill, the
+
+91
+00:04:37,819 --> 00:04:39,879
+1 I had taken only because staff helped me, was
+
+92
+00:04:41,060 --> 00:04:41,369
+used by PDPC to
+
+93
+00:04:42,899 --> 00:04:45,079
+say the footage was not personal data.
+
+94
+00:04:46,129 --> 00:04:49,019
+While I was trying to find out who managed the building, the
+
+95
+00:04:49,990 --> 00:04:50,659
+clock was running. At
+
+96
+00:04:51,470 --> 00:04:51,829
+1st, I was
+
+97
+00:04:52,649 --> 00:04:55,019
+told the footage was kept for many months. That was my
+
+98
+00:04:56,129 --> 00:04:56,609
+understanding. So when
+
+99
+00:04:57,769 --> 00:04:58,920
+Knight Frank later said no
+
+100
+00:04:59,730 --> 00:05:01,930
+footage had been captured, I became alarmed.
+
+101
+00:05:02,800 --> 00:05:04,379
+Because I knew that was not true.
+
+102
+00:05:05,259 --> 00:05:08,019
+Security guards had already identified the footage. They had
+
+103
+00:05:08,819 --> 00:05:09,619
+described what happened. That was when I
+
+104
+00:05:11,509 --> 00:05:15,099
+began to suspect the problem was not that the footage did not exist. The
+
+105
+00:05:13,129 --> 00:05:13,430
+problem was that
+
+106
+00:05:16,709 --> 00:05:19,899
+access could be denied until the footage disappeared. A
+
+107
+00:05:21,430 --> 00:05:24,589
+new management team later claimed the retention cycle was 20 to 30
+
+108
+00:05:25,930 --> 00:05:26,339
+days. PDPC
+
+109
+00:05:27,779 --> 00:05:28,789
+eventually said 17 days, and
+
+110
+00:05:30,240 --> 00:05:32,419
+accepted that figure without verifying it. 17 days. That was the
+
+111
+00:05:35,470 --> 00:05:35,829
+window. And that
+
+112
+00:05:44,189 --> 00:05:44,419
+date mattered. PDPC later
+
+113
+00:05:45,829 --> 00:05:46,009
+treated Knight Frank’s request to the MCST as the access-request date. Then
+
+114
+00:05:44,399 --> 00:05:44,409
+it
+
+115
+00:05:45,829 --> 00:05:47,579
+treated the auto-deletion as happening before the MCST’s
+
+116
+00:05:48,970 --> 00:05:49,579
+formal refusal. Under that
+
+117
+00:05:51,629 --> 00:05:52,930
+logic, section 22 A
+
+118
+00:05:53,750 --> 00:05:54,899
+became useless. The
+
+119
+00:05:56,009 --> 00:05:57,049
+footage could disappear during the
+
+120
+00:05:57,850 --> 00:06:01,430
+live access process, and deletion was still not treated as a breach. I was
+
+121
+00:06:00,189 --> 00:06:00,410
+still
+
+122
+00:06:02,629 --> 00:06:04,689
+trying to find out the company name on day 4. So I did what the
+
+123
+00:06:06,329 --> 00:06:06,859
+law says to do. I
+
+124
+00:06:08,009 --> 00:06:11,439
+filed a formal complaint with the Personal Data Protection Commission. For
+
+125
+00:06:11,439 --> 00:06:11,459
+The Scotts
+
+126
+00:06:12,730 --> 00:06:15,609
+Tower, I explained the verbal refusal on April 17th, my
+
+127
+00:06:16,990 --> 00:06:17,579
+written follow-up on April 20-5th, the
+
+128
+00:06:20,310 --> 00:06:22,969
+missing company name, the missing DPO contact, and the
+
+129
+00:06:23,949 --> 00:06:26,759
+claim that no footage had been captured. At that point, I did not
+
+130
+00:06:27,589 --> 00:06:27,769
+know PDPC would
+
+131
+00:06:28,949 --> 00:06:32,289
+later say the footage had already been overwritten on April thirtieth. What
+
+132
+00:06:32,289 --> 00:06:32,309
+I did
+
+133
+00:06:34,089 --> 00:06:34,219
+know was this: the
+
+134
+00:06:35,310 --> 00:06:39,790
+footage had been identified. Knight Frank’s “no footage” claim was false.
+
+135
+00:06:39,790 --> 00:06:39,819
+And I was
+
+136
+00:06:41,009 --> 00:06:42,469
+worried that The Scotts Tower MCST or
+
+137
+00:06:43,689 --> 00:06:47,180
+Knight Frank could deny access by letting the video disappear. I
+
+138
+00:06:48,050 --> 00:06:48,259
+told PDPC that. PDPC did not
+
+139
+00:06:51,319 --> 00:06:55,279
+preserve or verify the more direct front footage. Instead, I was
+
+140
+00:06:56,160 --> 00:06:57,149
+told to go to the police. Only after that did I
+
+141
+00:06:59,120 --> 00:06:59,429
+try the other angle from Suites@Cairnhill. When its
+
+142
+00:07:02,579 --> 00:07:03,849
+managing agent refused on the “police-only”
+
+143
+00:07:05,259 --> 00:07:07,169
+ground, I filed that complaint with PDPC as
+
+144
+00:07:08,100 --> 00:07:08,359
+well. And then.
+
+145
+00:07:09,879 --> 00:07:10,469
+Nothing meaningful. No
+
+146
+00:07:11,610 --> 00:07:12,620
+preservation action. No
+
+147
+00:07:13,670 --> 00:07:14,250
+verification. Instead, PDPC
+
+148
+00:07:16,370 --> 00:07:20,000
+came up with reasons on behalf of the condominiums, without checking the
+
+149
+00:07:20,189 --> 00:07:24,279
+core facts. And none of those reasons addressed what the condominiums had
+
+150
+00:07:24,569 --> 00:07:25,149
+actually said. The Scotts
+
+151
+00:07:25,970 --> 00:07:27,189
+Tower had said privacy, then no
+
+152
+00:07:28,250 --> 00:07:28,569
+footage. Suites@Cairnhill had said police-only
+
+153
+00:07:32,139 --> 00:07:32,589
+access. Months
+
+154
+00:07:33,600 --> 00:07:35,229
+passed. Eventually, there was a
+
+155
+00:07:36,199 --> 00:07:36,669
+response, but not the
+
+156
+00:07:37,579 --> 00:07:38,849
+1 the law seemed to promise. My
+
+157
+00:07:39,699 --> 00:07:42,349
+Member of Parliament intervened. Twice. PDPC did not
+
+158
+00:07:44,300 --> 00:07:44,589
+move. I appealed. PDPC did not
+
+159
+00:07:47,240 --> 00:07:48,099
+change its position. Not on
+
+160
+00:07:49,120 --> 00:07:49,549
+privacy. Not on “police-only.” Not on
+
+161
+00:07:52,300 --> 00:07:52,699
+deletion. After I
+
+162
+00:07:54,199 --> 00:07:55,979
+proved the data had been deleted, and the police
+
+163
+00:07:57,399 --> 00:07:57,909
+confirmed they had no
+
+164
+00:07:58,839 --> 00:07:59,759
+video either, PDPC’s only
+
+165
+00:08:02,240 --> 00:08:02,769
+deflection had run out. They had no other
+
+166
+00:08:04,500 --> 00:08:05,579
+reasons to reject me. What they did
+
+167
+00:08:07,160 --> 00:08:09,550
+instead was open some kind of investigation into
+
+168
+00:08:10,819 --> 00:08:12,149
+TST’s data deletion. I do not
+
+169
+00:08:13,240 --> 00:08:15,319
+know which obligation it was opened under. I do not know what they
+
+170
+00:08:17,120 --> 00:08:17,349
+looked at. I just know it was not the
+
+171
+00:08:19,220 --> 00:08:20,179
+right I had asked about. That is the
+
+172
+00:08:21,439 --> 00:08:21,730
+pattern. The right to
+
+173
+00:08:23,060 --> 00:08:26,110
+retrieve my own data was treated as not worth investigating. The
+
+174
+00:08:27,100 --> 00:08:27,509
+deletion of that same data, after it was
+
+175
+00:08:29,480 --> 00:08:31,699
+gone, was treated as worth investigating.
+
+176
+00:08:32,670 --> 00:08:33,159
+Eventually, PDPC
+
+177
+00:08:34,329 --> 00:08:36,649
+issued its findings. 2 cases. 2
+
+178
+00:08:37,750 --> 00:08:38,559
+sets of reasoning. For Suites@Cairnhill, they
+
+179
+00:08:40,980 --> 00:08:44,419
+said the CCTV footage did not contain “personal data.” Here is how they
+
+180
+00:08:45,659 --> 00:08:46,610
+made that determination. They
+
+181
+00:08:47,740 --> 00:08:52,019
+relied on my own evidence — a short handphone recording of the CCTV screen,
+
+182
+00:08:52,259 --> 00:08:55,539
+taken at the management office, after staff had helped me view what their
+
+183
+00:08:55,980 --> 00:08:56,809
+camera captured. That
+
+184
+00:08:57,779 --> 00:08:59,779
+recording existed because staff helped me. I did not disclose that
+
+185
+00:09:01,840 --> 00:09:05,620
+earlier help when I later made the formal request, because I did not want
+
+186
+00:09:05,620 --> 00:09:06,830
+to get the staff into trouble. But
+
+187
+00:09:08,330 --> 00:09:08,759
+later, PDPC
+
+188
+00:09:09,929 --> 00:09:11,329
+used the recording against me. PDPC
+
+189
+00:09:13,080 --> 00:09:14,110
+said the rider was only a
+
+190
+00:09:14,980 --> 00:09:15,230
+silhouette. No
+
+191
+00:09:16,220 --> 00:09:16,889
+facial features. No
+
+192
+00:09:17,720 --> 00:09:21,599
+motorcycle licence plate. Therefore, not personal data. But that is not
+
+193
+00:09:21,599 --> 00:09:21,619
+what the
+
+194
+00:09:23,500 --> 00:09:23,789
+statute says. The PDPA does not
+
+195
+00:09:26,240 --> 00:09:29,110
+say a face or licence plate must be visible. It
+
+196
+00:09:30,659 --> 00:09:31,860
+defines personal data as data about an
+
+197
+00:09:33,340 --> 00:09:33,789
+individual who can be
+
+198
+00:09:35,139 --> 00:09:35,600
+identified from that data or from that data and other
+
+199
+00:09:38,220 --> 00:09:38,799
+information. And there was other information. The
+
+200
+00:09:41,870 --> 00:09:44,559
+guards had identified the footage within minutes. The
+
+201
+00:09:45,789 --> 00:09:48,719
+request gave the date, time, place, and who I was. The
+
+202
+00:09:50,919 --> 00:09:54,600
+whole reason I was asking was because that camera captured my accident.
+
+203
+00:09:55,440 --> 00:09:57,049
+Identifiability. Not clarity. This is the
+
+204
+00:09:58,600 --> 00:09:59,330
+moment to understand. PDPC
+
+205
+00:10:00,639 --> 00:10:02,909
+took my own evidence. Used it against me. And the
+
+206
+00:10:04,019 --> 00:10:05,600
+test they applied — the clarity test — does not
+
+207
+00:10:06,940 --> 00:10:07,799
+exist in the legislation. It was
+
+208
+00:10:08,899 --> 00:10:09,399
+invented. By the
+
+209
+00:10:10,399 --> 00:10:12,149
+regulator. To dismiss my case. In
+
+210
+00:10:13,440 --> 00:10:13,829
+football, there is a
+
+211
+00:10:14,679 --> 00:10:17,079
+famous goal scored by Diego Maradona — his
+
+212
+00:10:18,340 --> 00:10:21,079
+hand made contact with the ball. The referee missed it. The
+
+213
+00:10:22,059 --> 00:10:25,909
+goal stood. Afterwards, Maradona called it “the hand of God.” PDPC’s
+
+214
+00:10:27,970 --> 00:10:28,979
+clarity test is the regulatory equivalent. They scored a goal with
+
+215
+00:10:33,210 --> 00:10:34,620
+something never in the rules. The
+
+216
+00:10:35,529 --> 00:10:37,240
+legal test was identifiability. They
+
+217
+00:10:38,289 --> 00:10:39,850
+replaced it with visual clarity. Then they
+
+218
+00:10:41,490 --> 00:10:42,939
+declared victory. And moved on.
+
+219
+00:10:44,110 --> 00:10:44,669
+Let me show you what PDPC did,
+
+220
+00:10:45,789 --> 00:10:46,159
+side by side.
+
+221
+00:10:46,970 --> 00:10:47,879
+1st condominium — Suites@Cairnhill. The
+
+222
+00:10:50,509 --> 00:10:52,210
+DPO said: “Only by police direct/order the
+
+223
+00:10:53,529 --> 00:10:55,299
+MCST to disclose the footage.” PDPC
+
+224
+00:10:56,730 --> 00:10:57,000
+said: “The footage
+
+225
+00:10:58,230 --> 00:11:02,069
+contains no personal data.” The condominium never said that. PDPC
+
+226
+00:11:03,639 --> 00:11:04,879
+invented that reason for them.
+
+227
+00:11:06,000 --> 00:11:07,809
+2nd condominium — The Scotts Tower. I
+
+228
+00:11:08,919 --> 00:11:10,429
+made a verbal request on April 17th. I was
+
+229
+00:11:11,899 --> 00:11:16,929
+refused on privacy grounds, and given no DPO contact, no company name, no
+
+230
+00:11:17,440 --> 00:11:18,269
+escalation path. On
+
+231
+00:11:19,120 --> 00:11:19,379
+April 20-5th, I
+
+232
+00:11:20,779 --> 00:11:21,990
+followed up in writing. When
+
+233
+00:11:23,019 --> 00:11:23,429
+challenged, they
+
+234
+00:11:24,259 --> 00:11:25,250
+later claimed no footage existed. That was
+
+235
+00:11:26,600 --> 00:11:26,929
+false — PDPC’s own
+
+236
+00:11:28,899 --> 00:11:31,909
+decision says the footage existed until April thirtieth. But PDPC’s
+
+237
+00:11:34,679 --> 00:11:35,919
+preservation analysis did not
+
+238
+00:11:36,759 --> 00:11:39,139
+give legal weight to either of those earlier events. Not the
+
+239
+00:11:40,629 --> 00:11:43,110
+April 17th verbal refusal by the managing agent. Not my April 20-5th
+
+240
+00:11:41,000 --> 00:11:41,019
+written access
+
+241
+00:11:45,840 --> 00:11:50,759
+request. Instead, the timeline shifted to what happened inside the condominium:
+
+242
+00:11:50,759 --> 00:11:50,769
+the
+
+243
+00:11:51,759 --> 00:11:54,819
+managing agent asked the MCST on April 20-9th. The
+
+244
+00:11:56,019 --> 00:11:57,230
+footage was overwritten on April thirtieth. The
+
+245
+00:11:59,159 --> 00:12:00,419
+formal refusal came on May 2nd. That is the
+
+246
+00:12:02,549 --> 00:12:04,460
+twist. My request disappears. The
+
+247
+00:12:05,570 --> 00:12:07,230
+managing agent’s earlier refusal disappears. The
+
+248
+00:12:09,009 --> 00:12:09,340
+false “no
+
+249
+00:12:13,210 --> 00:12:14,149
+footage” statement disappears. The warning that the footage might be deleted
+
+250
+00:12:10,669 --> 00:12:11,580
+disappears. And
+
+251
+00:12:16,490 --> 00:12:21,649
+s.22A becomes useless, because deletion before the formal refusal
+
+252
+00:12:21,649 --> 00:12:23,429
+becomes no breach. In both
+
+253
+00:12:25,039 --> 00:12:25,569
+cases, PDPC
+
+254
+00:12:26,419 --> 00:12:27,990
+substituted its own reasoning for what the
+
+255
+00:12:28,879 --> 00:12:30,139
+condominiums actually said. And in
+
+256
+00:12:31,220 --> 00:12:34,970
+neither case did they test the actual stated grounds against the law. Section
+
+257
+00:12:34,970 --> 00:12:35,789
+21, subsection 3, together with the 5th Schedule — these are
+
+258
+00:12:35,789 --> 00:12:35,809
+the only
+
+259
+00:12:37,360 --> 00:12:37,870
+provisions that authorise an organisation to
+
+260
+00:12:40,259 --> 00:12:41,179
+lawfully refuse an access
+
+261
+00:12:42,039 --> 00:12:44,509
+request. “Privacy” is not listed. “Police-only” is not listed. PDPC
+
+262
+00:12:48,019 --> 00:12:49,049
+never even checked. I
+
+263
+00:12:50,059 --> 00:12:50,259
+wrote to PDPC with 9
+
+264
+00:12:51,379 --> 00:12:55,029
+questions. Specific, legal questions across 6 sections of the PDPA. Which
+
+265
+00:12:55,029 --> 00:12:55,059
+section authorises the
+
+266
+00:12:59,379 --> 00:13:04,320
+clarity test? Why were the condominiums’ actual reasons never tested against
+
+267
+00:13:04,320 --> 00:13:08,750
+the 5th Schedule? Why did the April 17th verbal refusal not matter?
+
+268
+00:13:09,720 --> 00:13:13,649
+Why did my April 20-5th written request not trigger preservation before
+
+269
+00:13:13,649 --> 00:13:18,689
+the footage disappeared? Why did “many months,” what security told me,
+
+270
+00:13:18,899 --> 00:13:22,470
+become 17 days? Why was a request handled by the
+
+271
+00:13:23,539 --> 00:13:26,019
+managing agent treated as legally different from the
+
+272
+00:13:26,879 --> 00:13:28,849
+MCST’s own responsibility, when section 4, subsection 2 removes most
+
+273
+00:13:32,580 --> 00:13:34,740
+direct obligations from a data intermediary, and section 4, subsection
+
+274
+00:13:34,740 --> 00:13:34,779
+3 puts the same obligation
+
+275
+00:13:39,059 --> 00:13:39,439
+back on the organisation as if it
+
+276
+00:13:41,320 --> 00:13:44,919
+processed the data itself? Those questions were never
+
+277
+00:13:54,070 --> 00:13:54,549
+answered. There was a repeated line: “The Guidelines are not determinative.
+
+278
+00:13:54,549 --> 00:13:55,029
+The PDPA takes precedence.” But that does not answer the question. It does
+
+279
+00:13:55,029 --> 00:13:55,039
+not
+
+280
+00:13:56,409 --> 00:13:56,759
+say which guideline. It does not say which section of the
+
+281
+00:13:57,610 --> 00:13:58,259
+PDPA. It does not say what the
+
+282
+00:14:00,169 --> 00:14:00,500
+conflict is. And when
+
+283
+00:14:02,049 --> 00:14:06,710
+PDPC did try to answer a limited point, like the definition of personal
+
+284
+00:14:06,710 --> 00:14:07,059
+data, they did not
+
+285
+00:14:08,110 --> 00:14:09,779
+explain the original reasoning. They
+
+286
+00:14:10,710 --> 00:14:11,809
+introduced a new idea:
+
+287
+00:14:12,690 --> 00:14:13,309
+reasonableness. As if
+
+288
+00:14:15,460 --> 00:14:17,879
+identifiability depends on whether it is reasonable to identify me from
+
+289
+00:14:13,329 --> 00:14:13,339
+the
+
+290
+00:14:23,639 --> 00:14:24,679
+footage. But the security guards had already found the footage within minutes.
+
+291
+00:14:24,679 --> 00:14:24,689
+They
+
+292
+00:14:25,639 --> 00:14:28,569
+knew the date. They knew the time. They knew the location. They knew who
+
+293
+00:14:26,909 --> 00:14:26,919
+was
+
+294
+00:14:29,779 --> 00:14:30,259
+asking. That is the real-world
+
+295
+00:14:31,779 --> 00:14:33,899
+identifiability that PDPC ignored. The
+
+296
+00:14:35,620 --> 00:14:38,009
+written findings were eventually released. When I posted
+
+297
+00:14:39,039 --> 00:14:43,960
+questions on the reasoning, PDPC did not answer on the merits. Months later,
+
+298
+00:14:43,960 --> 00:14:47,879
+more reasonings appeared, including a “reasonableness” gloss on
+
+299
+00:14:48,720 --> 00:14:51,940
+identifiability, without explaining the original gap.
+
+300
+00:15:01,769 --> 00:15:03,039
+PDPC also declined to
+
+301
+00:15:05,850 --> 00:15:06,469
+publish the report online promptly. That only happened after I escalated.
+
+302
+00:15:06,469 --> 00:15:06,529
+On June 20-3rd, 2025, PDPC wrote: “Decisions and undertakings
+
+303
+00:15:05,169 --> 00:15:06,399
+are generally published on the microsite
+
+304
+00:15:07,309 --> 00:15:11,409
+within the year. We are unable to commit to a fixed date at this point.”
+
+305
+00:15:11,409 --> 00:15:11,429
+So the
+
+306
+00:15:12,570 --> 00:15:13,819
+public could not see the reasoning. My
+
+307
+00:15:14,789 --> 00:15:18,690
+questions were not answered on the merits. The findings were not promptly
+
+308
+00:15:18,690 --> 00:15:19,600
+on the public record. And
+
+309
+00:15:20,649 --> 00:15:22,590
+PDPC treated the matter as closed. But the
+
+310
+00:15:23,629 --> 00:15:24,659
+TST investigation had
+
+311
+00:15:25,710 --> 00:15:27,759
+already proven that the data had been deleted. That was no
+
+312
+00:15:29,159 --> 00:15:30,519
+longer in dispute. Even so, the
+
+313
+00:15:31,460 --> 00:15:35,059
+officer handling my case continued with flawed reasonings for my Suites
+
+314
+00:15:35,059 --> 00:15:35,819
+complaint, closing it on the
+
+315
+00:15:36,940 --> 00:15:38,850
+basis that it was similar to TST. That could not
+
+316
+00:15:40,120 --> 00:15:40,480
+stand. TST was
+
+317
+00:15:41,799 --> 00:15:45,549
+wrong. Saying Suites was similar to a wrong decision was not a reason at
+
+318
+00:15:45,549 --> 00:15:45,569
+all. I
+
+319
+00:15:46,840 --> 00:15:47,100
+asked for the decision to be
+
+320
+00:15:47,960 --> 00:15:48,519
+reopened. What I
+
+321
+00:15:49,360 --> 00:15:53,679
+got in return was rude and unbecoming behavior expected of a civil servant.
+
+322
+00:15:53,679 --> 00:15:53,709
+I did not
+
+323
+00:15:54,919 --> 00:15:56,090
+want to complain about PDPC. I
+
+324
+00:15:57,100 --> 00:15:58,870
+went there because I needed my footage. In
+
+325
+00:15:59,820 --> 00:16:00,240
+September 2024, I
+
+326
+00:16:01,679 --> 00:16:02,769
+escalated to IMDA. I
+
+327
+00:16:03,700 --> 00:16:04,960
+emailed Mr Lew Chuen Hong,
+
+328
+00:16:05,820 --> 00:16:07,250
+IMDA’s Chief Executive. I
+
+329
+00:16:08,100 --> 00:16:09,970
+copied the PDPC Commissioner. And
+
+330
+00:16:10,879 --> 00:16:13,789
+because I did not know which department would handle my feedback, I
+
+331
+00:16:14,659 --> 00:16:18,759
+sent the email to 3 IMDA branches at the same time. The complaint ran
+
+332
+00:16:18,759 --> 00:16:19,909
+for 11 months. I
+
+333
+00:16:20,720 --> 00:16:21,730
+sent 12 emails. The
+
+334
+00:16:22,620 --> 00:16:22,909
+last was on the 14th of
+
+335
+00:16:24,059 --> 00:16:24,519
+August 2025. During the
+
+336
+00:16:25,769 --> 00:16:30,379
+IMDA investigation, my complaint was leaked back to the PDPC officers under
+
+337
+00:16:30,850 --> 00:16:31,279
+review. On the 20th of August 2025,
+
+338
+00:16:34,320 --> 00:16:38,269
+Ms Yeong Wan Ling, IMDA’s Head of Internal Audit, wrote to me. Her
+
+339
+00:16:39,179 --> 00:16:39,440
+finding:
+
+340
+00:16:40,250 --> 00:16:44,399
+PDPC and its officers “did not commit any wrongful practices.” She
+
+341
+00:16:45,289 --> 00:16:46,919
+endorsed PDPC’s reasoning. She
+
+342
+00:16:47,809 --> 00:16:52,100
+said PDPC had directed me to inform the police — to avoid interfering with
+
+343
+00:16:50,490 --> 00:16:50,789
+police
+
+344
+00:16:52,809 --> 00:16:53,459
+investigations. That was her
+
+345
+00:16:54,669 --> 00:16:56,399
+stated rationale for why nothing was wrong. That rationale does not
+
+346
+00:16:58,409 --> 00:16:59,449
+exist in the PDPA. The only
+
+347
+00:17:00,509 --> 00:17:02,850
+grounds for refusing access are section 21, subsection 3, and
+
+348
+00:17:02,850 --> 00:17:02,870
+the 5th
+
+349
+00:17:06,070 --> 00:17:06,420
+Schedule. “Active
+
+350
+00:17:07,639 --> 00:17:08,759
+police investigation” is not listed. It was an
+
+351
+00:17:11,000 --> 00:17:12,710
+excuse. IMDA endorsed it. IMDA also
+
+352
+00:17:14,470 --> 00:17:19,269
+said PDPC had “acted in accordance with its protocols.” And it identified
+
+353
+00:17:19,269 --> 00:17:21,789
+“certain areas of improvement” — without naming them. The
+
+354
+00:17:23,009 --> 00:17:26,750
+findings were “final and conclusive.” The investigation was closed. By this
+
+355
+00:17:28,019 --> 00:17:32,200
+point, I stopped asking whether my case was handled wrongly. I started asking
+
+356
+00:17:32,200 --> 00:17:32,910
+a different question. How
+
+357
+00:17:33,720 --> 00:17:36,609
+many cases like mine has PDPC ever found a breach on? PDPC’s
+
+358
+00:17:38,019 --> 00:17:41,789
+website used to let you filter enforcement decisions by obligation type.
+
+359
+00:17:41,789 --> 00:17:41,809
+At some
+
+360
+00:17:43,319 --> 00:17:45,180
+point, that filter disappeared. So I
+
+361
+00:17:46,599 --> 00:17:49,799
+went through the entire register myself. Every decision. Every
+
+362
+00:17:50,920 --> 00:17:51,379
+finding. 384
+
+363
+00:17:53,299 --> 00:17:55,609
+cases, compiled as of June 2026. The Access Obligation — section
+
+364
+00:17:55,609 --> 00:17:55,739
+21 of the PDPA, the right of a citizen to access their own
+
+365
+00:18:04,710 --> 00:18:07,970
+personal data — has produced 0 breach findings. 0.
+
+366
+00:18:09,220 --> 00:18:10,500
+Across 384
+
+367
+00:18:11,740 --> 00:18:14,190
+published enforcement actions. Not 1. The
+
+368
+00:18:15,160 --> 00:18:19,579
+dominant pattern of PDPC enforcement is data protection and consent — organisations
+
+369
+00:18:21,140 --> 00:18:21,859
+mishandling data they
+
+370
+00:18:22,720 --> 00:18:25,299
+hold. The right of a citizen to retrieve their own data from an organisation?
+
+371
+00:18:22,529 --> 00:18:22,559
+That is the
+
+372
+00:18:27,960 --> 00:18:30,700
+least enforced provision in the entire register. Across those 3 hundred
+
+373
+00:18:30,700 --> 00:18:30,720
+and eighty-4
+
+374
+00:18:33,039 --> 00:18:33,430
+cases, only
+
+375
+00:18:34,440 --> 00:18:37,720
+2 involve a complainant demanding access to their own CCTV data and being
+
+376
+00:18:38,440 --> 00:18:40,019
+refused. Both are mine. Both from the same
+
+377
+00:18:41,140 --> 00:18:41,619
+accident on Cairnhill
+
+378
+00:18:42,420 --> 00:18:47,460
+Road. Both dismissed without a finding that the Access Obligation was breached.
+
+379
+00:18:47,460 --> 00:18:47,470
+The
+
+380
+00:18:48,339 --> 00:18:49,200
+clarity test explains this. If face or licence
+
+381
+00:18:52,019 --> 00:18:56,259
+plate must be visible for CCTV footage to qualify as personal data — and
+
+382
+00:18:56,259 --> 00:18:56,269
+that
+
+383
+00:18:57,140 --> 00:18:58,149
+standard exists nowhere in the statute — then
+
+384
+00:18:59,420 --> 00:18:59,710
+any organisation can deny an access
+
+385
+00:19:01,240 --> 00:19:04,220
+request by asserting the footage is too unclear. And the Complainant has
+
+386
+00:19:04,220 --> 00:19:04,230
+no
+
+387
+00:19:05,960 --> 00:19:07,659
+tools to challenge that assertion. After the 1986
+
+388
+00:19:09,339 --> 00:19:09,809
+World Cup quarter-final,
+
+389
+00:19:11,059 --> 00:19:13,009
+Maradona was asked about his goal. He
+
+390
+00:19:13,940 --> 00:19:14,240
+said: “It was a little
+
+391
+00:19:15,380 --> 00:19:16,269
+bit the hand of God, and a little bit the
+
+392
+00:19:17,839 --> 00:19:18,670
+head of Maradona.” Not
+
+393
+00:19:19,779 --> 00:19:20,019
+quite admitting. Not quite
+
+394
+00:19:21,359 --> 00:19:23,740
+denying. PDPC’s 1-line reply — “The
+
+395
+00:19:24,660 --> 00:19:25,049
+Guidelines are not determinative; the PDPA takes precedence” — to 9 legal
+
+396
+00:19:38,460 --> 00:19:38,879
+questions about the merits. Same energy. They cannot say what really happened.
+
+397
+00:19:35,559 --> 00:19:35,579
+So they
+
+398
+00:19:36,720 --> 00:19:40,339
+give the same non-answer to each question, and declare the file closed.
+
+399
+00:19:40,339 --> 00:19:40,389
+Here is what I have
+
+400
+00:19:42,230 --> 00:19:47,160
+learned, going through every document, every decision, every response. Ordinary
+
+401
+00:19:47,160 --> 00:19:50,220
+regulatory failure is uneven. Mistakes in different
+
+402
+00:20:11,099 --> 00:20:11,649
+directions. Inconsistent outcomes. Different responses to different challenges.
+
+403
+00:20:11,649 --> 00:20:12,740
+What is documented here — across 2 PDPC cases, an
+
+404
+00:20:14,839 --> 00:20:16,190
+IMDA review,
+
+405
+00:20:19,640 --> 00:20:21,139
+9 legal questions, 384 enforcement actions
+
+406
+00:20:21,139 --> 00:20:21,269
+— is not uneven. Every decision. At every level. In the same direction.
+
+407
+00:20:21,269 --> 00:20:21,369
+PDPC invented reasoning for the condominiums. IMDA stamped “no wrongful
+
+408
+00:20:21,369 --> 00:20:21,900
+practices” without opening the envelope. 9 legal questions got 1 line.
+
+409
+00:20:21,900 --> 00:20:24,079
+0 breach findings across 384
+
+410
+00:20:25,019 --> 00:20:25,329
+cases. This is the
+
+411
+00:20:26,400 --> 00:20:27,259
+shape of a policy. Not necessarily an explicit
+
+412
+00:20:29,059 --> 00:20:31,169
+1. Nobody needs to have written it down. Here is the
+
+413
+00:20:32,500 --> 00:20:36,089
+principle that distinguishes enforcement discretion from what happened here.
+
+414
+00:20:36,089 --> 00:20:36,099
+Any
+
+415
+00:20:45,579 --> 00:20:45,890
+body can
+
+416
+00:20:47,539 --> 00:20:48,190
+decide to actively enforce something, or not, according to the circumstances
+
+417
+00:20:41,640 --> 00:20:42,389
+of the day. That is a
+
+418
+00:20:43,299 --> 00:20:43,789
+regulator’s discretion. What no
+
+419
+00:20:45,579 --> 00:20:45,910
+body can do is
+
+420
+00:20:47,140 --> 00:20:51,609
+actively decide to deny the rights of a citizen or resident, and
+
+421
+00:20:52,519 --> 00:20:55,250
+reinterpret the law to protect the perpetrators of that denial. That is
+
+422
+00:20:55,250 --> 00:20:55,259
+what
+
+423
+00:20:56,920 --> 00:20:57,259
+happened here. An
+
+424
+00:20:58,559 --> 00:20:59,889
+active decision to deny — and an active decision to
+
+425
+00:21:01,759 --> 00:21:03,250
+invent grounds to justify the denial. The
+
+426
+00:21:04,700 --> 00:21:06,480
+clarity test is the legal mechanism. The 0-breach
+
+427
+00:21:07,759 --> 00:21:08,670
+history is the outcome. The
+
+428
+00:21:09,500 --> 00:21:13,240
+non-engagement is what follows when a regulator cannot defend its position
+
+429
+00:21:13,240 --> 00:21:13,970
+on the merits. I built a
+
+430
+00:21:15,059 --> 00:21:15,269
+site. pdpaaccessrights.sg.
+
+431
+00:21:17,980 --> 00:21:19,259
+Every document is there. Both PDPC
+
+432
+00:21:21,160 --> 00:21:21,559
+decisions — the
+
+433
+00:21:22,380 --> 00:21:24,210
+1 that found “no personal data” using my own handphone
+
+434
+00:21:25,019 --> 00:21:27,019
+video, and the 1 that reframed a deleted-footage
+
+435
+00:21:27,940 --> 00:21:29,400
+case as an accountability breach. The
+
+436
+00:21:31,000 --> 00:21:32,190
+parliamentary answer from Minister Teo
+
+437
+00:21:33,119 --> 00:21:37,339
+promising preservation and penalties — next to what happened in my case.
+
+438
+00:21:37,339 --> 00:21:39,119
+The 9 legal questions and the same 1-line reply. The
+
+439
+00:21:40,460 --> 00:21:42,029
+enforcement register analysis — 384
+
+440
+00:21:43,440 --> 00:21:46,890
+cases, 0 access obligation breach findings. The
+
+441
+00:21:47,799 --> 00:21:49,170
+timeline. The contradictions. The
+
+442
+00:21:50,140 --> 00:21:54,660
+documented failures. Everything on that site comes from a PDPC decision,
+
+443
+00:21:54,660 --> 00:21:54,670
+the
+
+444
+00:21:55,779 --> 00:21:56,339
+PDPA statute, a
+
+445
+00:21:57,839 --> 00:21:58,940
+parliamentary record, or correspondence in my
+
+446
+00:22:00,880 --> 00:22:01,279
+possession. Nothing is
+
+447
+00:22:02,779 --> 00:22:06,519
+asserted that is not sourced. Every claim has a footnote. Every source is
+
+448
+00:22:08,579 --> 00:22:08,990
+primary. The
+
+449
+00:22:10,019 --> 00:22:10,480
+evidence is public. You can
+
+450
+00:22:12,359 --> 00:22:13,019
+check it yourself. I am not a
+
+451
+00:22:14,799 --> 00:22:15,119
+lawyer. I am not an
+
+452
+00:22:16,700 --> 00:22:17,009
+MP. I am a
+
+453
+00:22:18,259 --> 00:22:21,970
+citizen who asked for footage of an accident that erased his memory, and
+
+454
+00:22:22,720 --> 00:22:25,930
+found that the right the law promised me did not exist in practice. The
+
+455
+00:22:26,819 --> 00:22:31,000
+Access Obligation has produced 0 breach findings across over a decade
+
+456
+00:22:31,000 --> 00:22:32,250
+of PDPC enforcement. 0. Across 384
+
+457
+00:22:35,420 --> 00:22:36,180
+published cases. If a
+
+458
+00:22:37,059 --> 00:22:39,920
+statutory right has never been enforced — not once — is it being enforced
+
+459
+00:22:39,059 --> 00:22:39,139
+at all? And if not — by what
+
+460
+00:22:43,900 --> 00:22:44,529
+mechanism, and by whom, is it being rendered unenforceable? All the evidence
+
+461
+00:22:44,529 --> 00:22:44,589
+is at pdpaaccessrights.sg. Check it yourself.
