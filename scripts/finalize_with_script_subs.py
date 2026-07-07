@@ -410,6 +410,10 @@ def main():
             "Missing scheduled visual assets:\n" + "\n".join(f"  - {m}" for m in missing)
         )
 
+    # ---- Clean old clips BEFORE generating any new ones --------------------
+    for old in BUILD_DIR.glob("scene_*.mp4"):
+        old.unlink()
+
     # ---- Cover page (pre-roll, silent) ----------------------------------
     COVER_DURATION = 5.0
     cover_clip = None
@@ -455,8 +459,6 @@ def main():
     # ---- Generate per-visual video clips (scene durations preserved) -------
     visual_segments = build_visual_segments(timeline, VISUAL_SCHEDULE)
     print(f"\n[CLIPS] generating {len(visual_segments)} visual clips at 1920x1080 30fps...")
-    for old in BUILD_DIR.glob("scene_*.mp4"):
-        old.unlink()
     clip_paths = []
     if cover_clip is not None and cover_clip.exists():
         clip_paths.append(cover_clip)
