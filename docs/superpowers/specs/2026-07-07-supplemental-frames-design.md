@@ -138,13 +138,15 @@ bottom 12% kept clear for subtitles.
    > information". The machine bears no maker's mark, suggesting it was invented. No human
    > faces, no police. 16:9. Keep bottom 12% clear for subtitles.
 
-4. **Scene 11 — Every arrow, same direction** (`generated/scene11_same_direction.png`)
-   > Clean systemic editorial vector, flat, black/white/grey with Singapore statutory red
-   > (#C41230). A field of many small directional arrows all pointing the same way (left to
-   > right), with one bold red sweeping arrow arcing over them. Small labels along the bottom:
-   > "MCST refusals", "PDPC invented reasoning", "IMDA no wrongful practices", "384 cases, zero
-   > breaches". The argument: not scattered/uneven (ordinary error) but uniform/one-directional
-   > (pattern). No human figures. 16:9. Keep bottom 12% clear for subtitles.
+4. **Scene 11 — The citizen holding the pattern** (`generated/scene11_citizen_pattern.png`)
+   > Hand-drawn ink-wash illustration, muted palette, single Singapore statutory red (#C41230)
+   > accent. A lone figure seen from behind (no face), small in the frame, quietly holding up a
+   > single long paper strip. On the strip, four stamped panels read left to right: "MCST
+   > refusals", "PDPC invented reasoning", "IMDA no wrongful practices", "384 cases, zero
+   > breaches". A thin red line runs through all four, connecting them in one unbroken direction.
+   > Mood: sober realization that every step points the same way. No police, no courtroom, no
+   > faces. 16:9. Keep bottom 12% clear for subtitles. (Reframed to complement the Scene 11
+   > conclusion-diagram hero rather than duplicate it.)
 
 5. **Scene 13 — Citizen before the evidence wall** (`generated/scene13_evidence_wall.png`)
    > Hand-drawn ink-wash illustration, muted palette. A single figure seen from behind (no
@@ -161,19 +163,77 @@ Copy `Screenshots Video/source/scene02_tst_cctv_location.png` into the main
 copied"). The Suites location already sits in `source/`; both stay available as Scene 2 / 3
 inserts.
 
+## VISUAL_SCHEDULE integration (required)
+
+A frame appears in the video only if it is listed in `VISUAL_SCHEDULE` in
+`scripts/video_visuals.py` (a list of `{"scene", "frame", "at"}` where `at` is the fractional
+position within the scene, 0.0–1.0). Heroes are already scheduled as timed inserts
+(e.g. `{"scene": 2, "frame": "Scene 2.png", "at": 0.40}`) and stay untouched. Every new frame
+in this spec needs a schedule entry. `generate_supplemental_frames.py` ends with
+`find_missing_visual_assets(VISUAL_SCHEDULE)`, which raises if a scheduled frame was not
+generated, so schedule and generator must stay in sync.
+
+### Gemini filename remaps (repoint existing entries)
+
+The Gemini frames the user generated use new names; repoint the existing schedule entries and
+drop the now-unused crude `save_simple_generated()` calls for the three replaced placeholders.
+
+| Scene · at | Old ref → new ref |
+|---|---|
+| 2 · 0.00 | `generated/scene02_hospital_memory_gap.png` → `generated/scene02_memory_gap.png` |
+| 3 · 0.26 | `generated/scene03_management_office_refusal.png` → `generated/scene03_office_refusal.png` |
+| 6 · 0.15 | `generated/scene06_evidence_to_clarity_test.png` → `generated/scene06_clarity_machine.png` |
+
+### New schedule entries
+
+Positions chosen to sit at the matching narration beat without crowding existing frames.
+Where marked "replace", the new real-source frame supersedes a paraphrased `recreated/` card at
+that slot; where marked "insert", it is added and later frames keep their positions.
+
+| Scene | New frame | `at` | Action |
+|---|---|---|---|
+| 2 | `source/scene02_tst_streetview_cameras.png` | 0.20 | replace crude `generated/scene02_cairnhill_cctv_corridor.png` (drop that placeholder) |
+| 2 | `source/scene02_tst_accident_location.png` | 0.70 | insert (shift photo `scene02_tst_cctv_location.png` to 0.58) |
+| 3 | `source/scene03_suites_dpo_reply.png` | 0.40 | replace `recreated/scene03_suites_police_only.png` |
+| 3 | `source/scene03_mcst_guideline_police.png` | 0.78 | insert |
+| 3 | `source/scene03_tst_refusal_written.png` | 0.07 | insert — **optional, only if TST refusal source file confirmed**; else keep `recreated/scene03_tst_refusal.png` |
+| 4 | `source/scene04_pdpa_s22a.png` | 0.90 | insert (after `scene04_s22a_no_finding.png` at 0.78) |
+| 6 | `source/scene06_masking_still_identifiable.png` | 0.72 | insert |
+| 6 | `source/scene06_key_concepts_identifiability.png` | 0.90 | replace `recreated/scene06_identifiability_not_clarity.png` |
+| 8 | `source/scene08_pdpa_s4_2_4_3.png` | 0.28 | insert (MA-vs-MCST beat, between 0.21 and 0.365) |
+| 8 | `source/scene08_pdpc_one_line_response.png` | 0.45 | replace `recreated/scene08_repeated_one_line_response.png` |
+| 8 | `source/scene08_pdpc_publication_delay.png` | 0.62 | replace `recreated/scene08_publication_delay.png` |
+| 9 | `source/scene09_letter_to_imda_ceo.png` | 0.00 | replace `recreated/scene09_imda_escalation.png` |
+| 9 | `source/scene09_imda_iau_finding.png` | 0.60 | replace `recreated/scene09_no_wrongful_practices.png` |
+| 10 | `source/scene10_pdpa_s24_protection.png` | 0.80 | insert (after `scene10_protection_204_crop.png` at 0.73) |
+| 10 | `source/scene10_pdpa_s25_retention.png` | 0.86 | insert (shift `scene10_two_cctv_cases.png` to 0.93) |
+| 11 | `generated/scene11_citizen_pattern.png` | 0.20 | insert |
+| 13 | `generated/scene13_evidence_wall.png` | TBD-during-impl | insert (verify Scene 13 neighbours; place before the closing text-card hero) |
+
+Scene 6 note: this brings Scene 6 to eight frames across 60s. Acceptable for readable document
+highlights, but if the last cluster (0.64 → 0.72 → 0.80 → 0.90) feels rushed on review, widen
+by dropping `scene06_still_frames_actual_footage.png` (0.64), which overlaps the masking point.
+
 ## Execution split
 
 **I execute on plan approval:**
 - Copy the TST CCTV location photo into main frames.
-- Add the Tier A statute calls, Tier B verbatim-reply calls, and Tier C guideline calls to
-  `scripts/generate_supplemental_frames.py`, then run the generator.
+- Add the Tier A statute calls, Tier B verbatim-reply calls, Tier C guideline calls, and Tier
+  C2 Street View `image_frame()` calls to `scripts/generate_supplemental_frames.py`; remove the
+  three superseded `save_simple_generated()` placeholder calls.
 - Extract the verbatim official-reply text (grep the named exports; pin exact sentences +
   citations) and wire it into the Tier B frames.
+- Edit `VISUAL_SCHEDULE` in `scripts/video_visuals.py`: apply the three Gemini filename remaps,
+  add the new schedule entries at the `at` positions above, and reflow shifted neighbours.
+- Run the generator (must pass `find_missing_visual_assets`) and confirm no scheduled frame is
+  missing.
 
-**User executes:**
-- Generate the 5 Tier D frames in Gemini from the prompts above; drop into
-  `Screenshots Video/generated/`.
+**User executes (already done for Gemini):**
+- The 5 Tier D Gemini frames are already generated and in `Screenshots Video/generated/`
+  (`scene02_memory_gap.png`, `scene03_office_refusal.png`, `scene06_clarity_machine.png`,
+  `scene11_citizen_pattern.png`, `scene13_evidence_wall.png`).
 - Optionally swap any Tier B verbatim-render for a real Gmail screenshot.
+- Re-run `assemble_video.py` to render the updated timeline (or confirm you want me to run it).
 
 ## Open items / caveats
 
