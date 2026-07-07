@@ -330,6 +330,16 @@ In `main()`, after the Task 3 calls, add:
         citation="Email from PDPC, 23 June 2025",
         sender_must_contain="pdpc.gov.sg")
     render_email_quote(
+        "source/scene08_pdpc_guidelines_prevail.png", "PDPC's Guideline-Conflict Reply", EMAIL_EXPORTS,
+        quote="the guidelines do not constitute legal advice, and do not modify or supplement the PDPA, which shall prevail over the guidelines in the event of any inconsistency.",
+        verify_phrase="shall prevail over the guidelines in the event of any inconsistency",
+        citation="Email from Boon Pin Goh (PDPC), reply to feedback, 2025",
+        sender_must_contain="pdpc.gov.sg")
+    image_frame(
+        "source/scene04_pdpc_s22a_admission.png", "PDPC Admits The s.22A Preservation Gap",
+        ROOT / "PDPC Complain/Follow Up/3) PDPC claim own guideline wrong and loophole in PDPA.png",
+        "Email from Boon Pin Goh (PDPC), reply to feedback (2025), paras 12-13")
+    render_email_quote(
         "source/scene09_imda_iau_finding.png", "IAU Finding", EMAIL_EXPORTS,
         quote="the PDPC and its officers did not commit any wrongful practices.",
         verify_phrase="did not commit any wrongful practices",
@@ -368,9 +378,16 @@ print(g.render_email_quote("source/scene09_imda_iau_finding.png", "IAU Finding",
 print(g.render_email_quote("source/scene09_imda_protocols.png", "IAU: Acted In Accordance With Protocols", g.EMAIL_EXPORTS,
     "PDPC acted in accordance with its protocols in its engagements with you on the matter.",
     "acted in accordance with its protocols", "Email from Wan Ling Yeong, IMDA Internal Audit Unit, 20 August 2025", "imda.gov.sg"))
+print(g.render_email_quote("source/scene08_pdpc_guidelines_prevail.png", "PDPC's Guideline-Conflict Reply", g.EMAIL_EXPORTS,
+    "the guidelines do not constitute legal advice, and do not modify or supplement the PDPA, which shall prevail over the guidelines in the event of any inconsistency.",
+    "shall prevail over the guidelines in the event of any inconsistency", "Email from Boon Pin Goh (PDPC), reply to feedback, 2025", "pdpc.gov.sg"))
+g.image_frame("source/scene04_pdpc_s22a_admission.png", "PDPC Admits The s.22A Preservation Gap",
+    g.ROOT / "PDPC Complain/Follow Up/3) PDPC claim own guideline wrong and loophole in PDPA.png",
+    "Email from Boon Pin Goh (PDPC), reply to feedback (2025), paras 12-13")
+print("OK: s22a admission image frame rendered")
 PY
 ```
-Expected: five printed export filenames (one per frame), no `SystemExit`.
+Expected: six printed export filenames (verbatim frames), then `OK: s22a admission image frame rendered`, no `SystemExit`.
 
 If a call raises "no export … from sender": the displayed `quote` or `verify_phrase` differs from the email wording, or the sender domain is wrong. Recovery: `grep -rl "<verify_phrase>" "C:/Users/limzi/Documents/AntiGravity/PDPC Emails/output"`, open the matching file, copy the exact sentence into `quote` and the real `### From:` domain into `sender_must_contain`, then re-run. Do NOT relax the guard to match a file authored by `limzirui@gmail.com`.
 
@@ -379,8 +396,8 @@ If a call raises "no export … from sender": the displayed `quote` or `verify_p
 - [ ] **Step 5: Commit**
 
 ```bash
-git add scripts/generate_supplemental_frames.py "Screenshots Video/source/scene03_suites_dpo_reply.png" "Screenshots Video/source/scene05_pdpc_not_channel.png" "Screenshots Video/source/scene08_pdpc_publication_delay.png" "Screenshots Video/source/scene09_imda_iau_finding.png" "Screenshots Video/source/scene09_imda_protocols.png"
-git commit -m "frames: add verbatim official-reply frames (DPO, PDPC channel, publication delay, IMDA IAU x2) with sender guard"
+git add scripts/generate_supplemental_frames.py "Screenshots Video/source/scene03_suites_dpo_reply.png" "Screenshots Video/source/scene05_pdpc_not_channel.png" "Screenshots Video/source/scene08_pdpc_publication_delay.png" "Screenshots Video/source/scene08_pdpc_guidelines_prevail.png" "Screenshots Video/source/scene04_pdpc_s22a_admission.png" "Screenshots Video/source/scene09_imda_iau_finding.png" "Screenshots Video/source/scene09_imda_protocols.png"
+git commit -m "frames: add verbatim official-reply frames (DPO, PDPC channel/guideline/publication, s.22A admission, IMDA IAU x2) with sender guard"
 ```
 
 ---
@@ -469,11 +486,16 @@ Replace the Scene 3 block with:
     {"scene": 3, "frame": "source/scene03_pdpa_s21_fifth_schedule.png", "at": 0.90},
 ```
 
-- [ ] **Step 4: Add s.22A to Scene 4**
+- [ ] **Step 4: Add s.22A statute + PDPC admission to Scene 4**
 
-After the Scene 4 `scene04_s22a_no_finding.png` entry (`at 0.78`), add:
+Replace the Scene 4 block so it reads (adds the statute frame and the PDPC s.22A-gap admission as a one-two at the "s.22A became useless" beat; `scene04_s22a_no_finding.png` moves 0.78 → 0.68):
 ```python
-    {"scene": 4, "frame": "source/scene04_pdpa_s22a.png", "at": 0.90},
+    {"scene": 4, "frame": "source/scene04_cctv_captured_not_downloaded.png", "at": 0.00},
+    {"scene": 4, "frame": "Scene 4.png", "at": 0.25},
+    {"scene": 4, "frame": "source/scene04_17_day_overwrite.png", "at": 0.50},
+    {"scene": 4, "frame": "source/scene04_s22a_no_finding.png", "at": 0.68},
+    {"scene": 4, "frame": "source/scene04_pdpa_s22a.png", "at": 0.80},
+    {"scene": 4, "frame": "source/scene04_pdpc_s22a_admission.png", "at": 0.92},
 ```
 
 - [ ] **Step 5: Update Scene 6 (masking insert, Key Concepts replace)**
@@ -495,9 +517,7 @@ Replace the Scene 6 block's tail so it reads:
 
 In the Scene 8 block:
 - Insert after the `at 0.21` entry: `{"scene": 8, "frame": "source/scene08_pdpa_s4_2_4_3.png", "at": 0.28},`
-- Replace `recreated/scene08_repeated_one_line_response.png` (`at 0.45`) with `source/scene08_pdpc_one_line_response.png`.
-
-  Note: `scene08_pdpc_one_line_response.png` is NOT produced by this plan (no verbatim source pinned for the one-line reply). Keep the existing `recreated/scene08_repeated_one_line_response.png` at 0.45 unchanged. Only apply the publication-delay replacement below.
+- Replace `recreated/scene08_repeated_one_line_response.png` (`at 0.45`) with `source/scene08_pdpc_guidelines_prevail.png` (the recovered verbatim para-12 reply).
 - Replace `recreated/scene08_publication_delay.png` (`at 0.62`) with `source/scene08_pdpc_publication_delay.png`.
 
 - [ ] **Step 7: Update Scene 9 (IAU finding + protocols replacements)**
@@ -632,7 +652,8 @@ Note: MP4s are large. If the repo should not carry binaries, skip the commit and
 ## Self-Review Notes
 
 - **Spec coverage:** Tier A (Task 2), Tier B verbatim replies (Task 4), Tier C guideline + masking (Task 3), Tier C2 Street View (Task 3), Gemini remaps + Scene 11/13 (Tasks 5–6), TST photo copy (Task 1), VISUAL_SCHEDULE integration (Task 6). Covered.
-- **Deviation from spec (intentional, source-discipline):** `scene09_letter_to_imda_ceo` dropped (Complainant's own letter) and **replaced** by verbatim `source/scene09_imda_protocols.png` from the official IAU email. `scene08_pdpc_one_line_response` dropped — the "Guidelines are not determinative; the PDPA takes precedence" line was **confirmed absent** from the email exports (grep for "not determinative"/"takes precedence" returned nothing), so it cannot be sourced verbatim; Scene 8 keeps its recreated one-line card and gains only the s.4 statute frame + verbatim publication-delay frame.
+- **Deviation from spec (intentional, source-discipline):** `scene09_letter_to_imda_ceo` dropped (Complainant's own letter) and **replaced** by verbatim `source/scene09_imda_protocols.png` from the official IAU email.
+- **Correction to an earlier finding:** the Scene 8 one-line reply IS sourceable. The script paraphrases it as "Guidelines are not determinative; the PDPA takes precedence," but PDPC's actual words (from Boon Pin Goh, `pdpc.gov.sg`) are "the guidelines do not constitute legal advice, and do not modify or supplement the PDPA, which shall prevail over the guidelines in the event of any inconsistency." Rendered verbatim as `source/scene08_pdpc_guidelines_prevail.png` (Scene 8 · 0.45). The same email's next paragraph is PDPC's written **admission of the s.22A preservation gap** ("s 22A of the PDPA as worded does not require Organisations to preserve personal data … we are aware and presently reviewing this issue, which we will raise to the Ministry"), added as `source/scene04_pdpc_s22a_admission.png` (Scene 4 · 0.92) from the real screenshot `PDPC Complain/Follow Up/3) PDPC claim own guideline wrong and loophole in PDPA.png` (Failure #3 primary source).
 - **New requirement — dual outputs (Task 7):** burned (`PDPC_grievance_video.mp4`) and non-burned (`PDPC_grievance_video_nosubs.mp4`) plus `subtitles.srt` sidecar, produced through the `/script-to-video` Path E finalize workflow. The frame changes flow automatically because `finalize_with_script_subs.py` reads `VISUAL_SCHEDULE`.
 - **Type consistency:** `render_email_quote(path, title, output_dir, quote, verify_phrase, citation, sender_must_contain)` signature is identical in the helper definition (Task 4 Step 1) and all call sites (Task 4 Step 2). `render_pdf_source(path, title, pdf_path, search_terms, footer)` and `image_frame(path, title, src, footer)` unchanged from the existing module.
 - **Fail-loud:** statute frames raise on unmatched terms (Task 2); verbatim frames raise unless the quote is present verbatim from an official sender domain (Task 4).
