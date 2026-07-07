@@ -206,6 +206,7 @@ def main():
     pdpa = ROOT / "PDPA ACT and Advisory/Personal Data Protection Act 2012.pdf"
     selected = ROOT / "PDPA ACT and Advisory/Advisory Guidelines on the PDPA for Selected Topics 17 May 2022.pdf"
     mcst_guideline = ROOT / "PDPA ACT and Advisory/Advisory Guidelines for Management Corporations 17 May 2022.pdf"
+    key_concepts = ROOT / "PDPA ACT and Advisory/Advisory Guidelines on Key Concepts in the PDPA 17 May 2022.pdf"
     mcst4599 = ROOT / "PDPC Rulings/Decision MCST 4599 DP-2405-C2318.pdf"
     mcst3615 = ROOT / "PDPC Rulings/Summary of Commission's Findings - MCST 3615 DP-2405-C2445.pdf"
 
@@ -241,6 +242,22 @@ def main():
                       "PDPA 2012, s.25")
     copy_existing("source/scene10_access_zero_crop.png", SITE_ROOT / "BreachBreakdown.jpg")
     copy_existing("source/scene10_protection_204_crop.png", SITE_ROOT / "BreachBreakdown.jpg")
+
+    render_pdf_source("source/scene03_mcst_guideline_police.png", "Access Is Not Police-Only", mcst_guideline,
+                      ["may not limit the provision of access", "law enforcement"],
+                      "Advisory Guidelines for Management Corporations")
+    render_pdf_source("source/scene06_key_concepts_identifiability.png", "Personal Data, Not Narrowly Construed", key_concepts,
+                      ["not intended to be narrowly construed", "from which an individual can be identified"],
+                      "Advisory Guidelines on Key Concepts in the PDPA")
+    image_frame("source/scene06_masking_still_identifiable.png", "Masking Can Still Be Identifiable",
+                SITE_ROOT / "pdpa-masking-42.png",
+                "Selected Topics Guidelines, para 4.58–4.59 (page 42)")
+    image_frame("source/scene02_tst_streetview_cameras.png", "The Scotts Tower CCTV, Facing The Road",
+                SITE_ROOT / "TST CCTV GoogleMap.png",
+                "Contemporaneous CCTV-location evidence (Google Street View)")
+    image_frame("source/scene02_tst_accident_location.png", "Camera Coverage Of The Accident Location",
+                SITE_ROOT / "TST CCTV 2  GoogleMap accident location.png",
+                "Contemporaneous CCTV-location evidence (Google Street View)")
 
     save_card("source/scene10_pdpc_register.png", "PDPC Enforcement Register", [{"text": "Published enforcement decisions were manually enumerated after the obligation-type filter disappeared from the public page."}], footer="Source: PDPC public register and site enforcement-index.html")
     save_card("source/scene12_site_story.png", "pdpaaccessrights.sg: Story Section", [{"text": "The site explains the case in five acts before sending readers into the detailed evidence."}], footer="Live site section: #story")
