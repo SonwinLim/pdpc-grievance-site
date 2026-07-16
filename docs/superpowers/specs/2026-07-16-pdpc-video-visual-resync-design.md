@@ -37,7 +37,7 @@ The goal is not to reduce the number of frames. The goal is to make each visual 
 
 ## Root cause of the current synchronisation problem
 
-`scripts/video_visuals.py` places frames at normalised percentages within each scene, for example `at: 0.35`. The narration is timed by 319 real subtitle cues in `frame_mapping_actual.xlsx`. A percentage-based transition can therefore land during the wrong sentence even when the frame order is broadly correct.
+`scripts/video_visuals.py` places frames at normalised percentages within each scene, for example `at: 0.35`. The narration is timed by 318 real subtitle cues in `frame_mapping_actual.xlsx`. A percentage-based transition can therefore land during the wrong sentence even when the frame order is broadly correct.
 
 The audit found concrete mismatches:
 
@@ -50,7 +50,7 @@ The audit found concrete mismatches:
 
 ## Timing architecture
 
-`video_export/frame_mapping_actual.xlsx` becomes the visual timing source of truth. Each of its 319 cue rows has an exact start time, end time, scene number, narration text, and assigned frame.
+`video_export/frame_mapping_actual.xlsx` becomes the visual timing source of truth. Each of its 318 cue rows has an exact start time, end time, scene number, narration text, and assigned frame.
 
 A frame assignment applies from the first cue on which it appears until the next cue assigned a different frame. The compiler collapses consecutive cues using the same frame into one explicit visual segment.
 
@@ -199,7 +199,7 @@ The full generation batch begins only after both proof frames are reviewed and a
 
 ## Compilation and assembly flow
 
-1. Audit all 319 workbook cues and assign review statuses.
+1. Audit all 318 workbook cues and assign review statuses.
 2. Add proposed assets and generation prompts to the workbook.
 3. Generate and review the two proof frames.
 4. Generate only approved missing documentary frames.
@@ -235,7 +235,7 @@ The review report must state:
 
 ## Acceptance criteria
 
-- Every one of the 319 narration cues resolves to a visual.
+- Every one of the 318 narration cues resolves to a visual.
 - Every visual transition occurs on an exact narration cue start.
 - All 13 scenes have been reviewed.
 - Primary-source visuals appear on the claims they support.
