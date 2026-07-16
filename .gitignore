@@ -12,6 +12,7 @@ dist/
 
 # Brainstorm companion artifacts
 .superpowers/
+.worktrees/
 
 # Tool-generated local artifacts
 .playwright-mcp/
