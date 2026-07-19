@@ -198,6 +198,18 @@ section[id] { scroll-margin-top: calc(var(--nav-h) + var(--sp-4)); }
 .hook__diagram-img { display: block; width: 100%; height: auto; border-radius: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); }
 @media (max-width: 600px) { .hook__statement { font-size: var(--fs-xl); max-width: none; } .hook__diagram { max-width: none; } }
 
+.hook__video-block { margin: var(--sp-4) auto var(--sp-5); max-width: 88rem; }
+.hook__video-lead { font-size: var(--fs-md); max-width: var(--measure); margin: 0 0 var(--sp-3); }
+.hook__video-row { display: grid; gap: var(--sp-3); }
+.hook__chapters-title { font-weight: 600; margin: 0 0 0.5rem; }
+.hook__chapters ol { list-style: none; margin: 0; padding: 0; }
+.hook__chapters li + li { margin-top: 0.4rem; }
+.hook__chapter-time { font-variant-numeric: tabular-nums; color: var(--accent); margin-right: 0.5em; }
+@media (min-width: 820px) {
+  .hook__video-row { grid-template-columns: 62fr 38fr; align-items: start; }
+  .hook__chapters { max-height: 30rem; overflow-y: auto; padding-right: var(--sp-2); }
+}
+
 /* === CTA cards === */
 .cta-grid { margin-top: var(--sp-6); }
 .cta-card {
