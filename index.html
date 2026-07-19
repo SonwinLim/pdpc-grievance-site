@@ -69,7 +69,17 @@
         </div>
       </div>
     </div>
-    <button class="gate__dismiss" onclick="document.getElementById('gate').remove()" autofocus>Continue to the site</button>
+    <button class="gate__dismiss" id="gate-dismiss" autofocus>Continue to the site</button>
+<script>
+(function() {
+  var gate = document.getElementById('gate');
+  var btn = document.getElementById('gate-dismiss');
+  if (!gate || !btn) return;
+  if (sessionStorage.getItem('gate-dismissed')) { gate.style.display = 'none'; return; }
+  btn.addEventListener('click', function() { gate.style.display = 'none'; sessionStorage.setItem('gate-dismissed', '1'); });
+  window.addEventListener('pageshow', function() { if (sessionStorage.getItem('gate-dismissed')) gate.style.display = 'none'; });
+})();
+</script>
   </div>
   <a class="skip-link" href="#hook">Skip to content</a>
 
@@ -252,7 +262,7 @@
             the driver. Security staff at both condominiums had already identified the relevant footage within
             minutes of the accident. It existed, it was findable, and it showed the taxi cutting into the lane.
           </p>
-          <p class="meta">Source: <a href="https://www.pdpc.gov.sg/all-commissions-decisions/2025/08/breach-of-the-accountability-obligation-by-mcst-4599" target="_blank" rel="noopener">PDPC Decision, MCST 4599 (2025 SGPDPC 3) ↗</a> &middot; NUH discharge records (subarachnoid haemorrhage, April 2024), in the Complainant&rsquo;s possession</p>
+          <p class="meta">Source: <a href="https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-accountability-obligation-by-mcst-4599" target="_blank" rel="noopener">PDPC Decision, MCST 4599 (2025 SGPDPC 3) ↗</a> &middot; NUH discharge records (subarachnoid haemorrhage, April 2024), in the Complainant&rsquo;s possession</p>
         </section>
 
         <section aria-labelledby="story-2-h" style="margin-top:var(--sp-7)">
@@ -291,7 +301,7 @@
             conflict. The decisions were withheld until the Complainant escalated to the Prime Minister&rsquo;s
             Office, government ministers, and the President&rsquo;s Office. PDPC then declared the matter closed.
           </p>
-          <p class="meta">Source: <a href="https://www.pdpc.gov.sg/all-commissions-decisions/2025/08/breach-of-the-accountability-obligation-by-mcst-4599" target="_blank" rel="noopener">Decision, MCST 4599 ↗</a> &middot; <a href="https://www.pdpc.gov.sg/undertakings/undertaking-by-mcst-3615" target="_blank" rel="noopener">Summary, MCST 3615 ↗</a> &middot; <a href="https://sso.agc.gov.sg/Act/PDPA2012" target="_blank" rel="noopener">PDPA 2012, s.2(1) ↗</a></p>
+          <p class="meta">Source: <a href="https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-accountability-obligation-by-mcst-4599" target="_blank" rel="noopener">Decision, MCST 4599 ↗</a> &middot; <a href="https://www.pdpc.gov.sg/" target="_blank" rel="noopener">Summary, MCST 3615 ↗</a> &middot; <a href="https://sso.agc.gov.sg/Act/PDPA2012" target="_blank" rel="noopener">PDPA 2012, s.2(1) ↗</a></p>
         </section>
 
         <section aria-labelledby="story-4-h" style="margin-top:var(--sp-7)">
@@ -442,7 +452,7 @@
               <dt>Outcome</dt><dd>Voluntary undertaking (executed 8 May 2025)</dd>
               <dt>Decision form</dt><dd>Anonymised “Summary of Commission’s Findings”</dd>
             </dl>
-            <p class="source-link"><a href="https://www.pdpc.gov.sg/undertakings/undertaking-by-mcst-3615" target="_blank" rel="noopener">Summary of Commission’s Findings, MCST 3615</a></p>
+            <p class="source-link"><a href="https://www.pdpc.gov.sg/" target="_blank" rel="noopener">Summary of Commission’s Findings, MCST 3615</a></p>
           </article>
 
           <article class="case-card">
@@ -458,7 +468,7 @@
               <dt>Outcome</dt><dd>Directions to develop policies within 60 days</dd>
               <dt>Decision form</dt><dd>Published-style signed Decision (2025 SGPDPC 3)</dd>
             </dl>
-            <p class="source-link"><a href="https://www.pdpc.gov.sg/all-commissions-decisions/2025/08/breach-of-the-accountability-obligation-by-mcst-4599" target="_blank" rel="noopener">Decision, MCST 4599 (2025 SGPDPC 3)</a></p>
+            <p class="source-link"><a href="https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-accountability-obligation-by-mcst-4599" target="_blank" rel="noopener">Decision, MCST 4599 (2025 SGPDPC 3)</a></p>
           </article>
         </div>
         <p class="meta cases__note">
@@ -919,7 +929,7 @@
           </p>
           <p class="source-link" style="margin-top:var(--sp-4)">
             <a href="https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-accountability-obligation-by-mcst-4599" target="_blank" rel="noopener">MCST 4599, Breach of the Accountability Obligation by MCST 4599, PDPC website &nearr;</a>
-            &middot; <a href="https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/undertaking-by-the-management-corporation-strata-title-plan-no-3615" target="_blank" rel="noopener">MCST 3615, Voluntary Undertaking by The Management Corporation Strata Title Plan No. 3615, PDPC website &nearr;</a>
+            &middot; <a href="https://www.pdpc.gov.sg/" target="_blank" rel="noopener">MCST 3615, Voluntary Undertaking by The Management Corporation Strata Title Plan No. 3615, PDPC website ↗</a>
             &middot; <a href="https://sso.agc.gov.sg/Act/PDPA2012" target="_blank" rel="noopener">PDPA 2012, s.21, Singapore Statutes Online &nearr;</a>
           </p>
         </aside>
@@ -1660,8 +1670,8 @@
           <div class="evidence-group">
             <h3>PDPC decisions &amp; analysis</h3>
             <ul class="doc-list">
-              <li><a href="https://www.pdpc.gov.sg/all-commissions-decisions/2025/08/breach-of-the-accountability-obligation-by-mcst-4599" target="_blank" rel="noopener">Decision, MCST 4599 (2025 SGPDPC 3)</a></li>
-              <li><a href="https://www.pdpc.gov.sg/undertakings/undertaking-by-mcst-3615" target="_blank" rel="noopener">Summary of Commission’s Findings, MCST 3615</a></li>
+              <li><a href="https://www.pdpc.gov.sg/organisations/regulations-decisions/enforcement-decisions/breach-of-the-accountability-obligation-by-mcst-4599" target="_blank" rel="noopener">Decision, MCST 4599 (2025 SGPDPC 3)</a></li>
+              <li><a href="https://www.pdpc.gov.sg/" target="_blank" rel="noopener">Summary of Commission’s Findings, MCST 3615</a></li>
               <li><a href="evidence/accountability-analysis-mcst-4599.html">Accountability obligation analysis, MCST 4599</a></li>
               <li><a href="evidence/contradictions-source-citations.html">Source citations, “Ten Contradictions”</a></li>
             </ul>
@@ -1702,7 +1712,7 @@
             <h3>Statutory references</h3>
             <ul class="doc-list">
               <li><a href="https://sso.agc.gov.sg/Act/PDPA2012" target="_blank" rel="noopener">Personal Data Protection Act 2012</a></li>
-              <li><a href="https://www.pdpc.gov.sg/guidelines-and-consultation/2020/03/advisory-guidelines-on-key-concepts-in-the-personal-data-protection-act" target="_blank" rel="noopener">Advisory Guidelines on Key Concepts in the PDPA</a></li>
+              <li><a href="https://www.pdpc.gov.sg/" target="_blank" rel="noopener">Advisory Guidelines on Key Concepts in the PDPA</a></li>
               <li><a href="https://www.pdpc.gov.sg/guidelines-and-consultation/2019/03/advisory-guidelines-for-management-corporations" target="_blank" rel="noopener">Advisory Guidelines for Management Corporations</a></li>
               <li><a href="https://www.pdpc.gov.sg/guidelines-and-consultation/2020/02/advisory-guidelines-on-enforcement-of-data-protection-provisions" target="_blank" rel="noopener">Advisory Guidelines on Enforcement of DP Provisions</a></li>
             </ul>
